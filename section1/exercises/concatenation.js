@@ -6,7 +6,7 @@ One example is already completed. Your task is to complete
 any remaining prompt.
 
 When navigated to the root of this project directory, you should be able to run this
-file from your terminal with the command `node section1/exercises/dataTypes.js`
+file from your terminal with the command `node section1/exercises/concatenation.js`
 */
 
 // EXAMPLE: Write code that combines the variables below into another string:
