@@ -316,14 +316,14 @@ Interpolation requires slightly different syntax to inject values into a string.
 1. Use the backtick (same key as the `~`, or the key to the left of the `1` key on a mac) to wrap your entire string
 2. Any values that you want to add in, use the following syntax - `${variable_name}` to properly wrap these values
 
-Take a look at these two sentences, one using concatenatoion, the other using interpolation.
+Take a look at these two sentences, one using concatenation, the other using interpolation.
 
 ```JavaScript
 var quantity = 12;
 var snacks = " doughnuts";
 
 //this uses concatenation
-var snackCountConcat = "I have " + quantity + snacks + "!";
+var snackCountConcat = "I have " + quantity + " " + snacks + "!";
 
 console.log(snackCountConcat);
 // this will log the string "I have 12 doughnuts!"
