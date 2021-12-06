@@ -225,7 +225,7 @@ _These are all examples of statements that evaulate to a `Boolean` data type in 
 //=> true, because 2 and 2 are the exact same
 
 9 > 12
-//=> true, because 9 is less than 12
+//=> false, because 9 is less than 12
 ```
 
 Read more about compairson operators [here](https://javascript.info/comparison)!
