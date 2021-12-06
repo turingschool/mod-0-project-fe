@@ -41,7 +41,7 @@ Here's what we ask you do:
 
 ## Part A Super Learner Habits
 
-Read [this article](https://pubs.ppai.org/pc-today/six-habits-of-super-learners/) about the habits of Super Learners. Reflect on this - what do you already do? Does this make you want to do anything new or different as you beginthis learning journey? Jot down your notes now, and we will ask you to share some reflections with your small group at the end of this section.
+Read [this article](https://pubs.ppai.org/pc-today/six-habits-of-super-learners/) about the habits of Super Learners. Reflect on this - what do you already do? Does this make you want to do anything new or different as you begin this learning journey? Jot down your notes now, and we will ask you to share some reflections with your small group at the end of this section.
 
 ## Part B Terminal
 
@@ -110,7 +110,7 @@ Note that in the command provided above, the dashes preceding the directory name
 
 👩‍💻 Use `rm` and `rm -rf` to delete each of the files and directories you created in the `Making Things` section above.
 
-Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibrary`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future.
+Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibraryProject`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future.
 
 ## Part C JavaScript Foundations
 
