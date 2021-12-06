@@ -34,7 +34,7 @@ console.log('Welcome to Turing!');
 // EXAMPLE: log the result of the sum of 2 and 2 to the console:
 console.log(2 + 2);
 
-// EXAMPLE: log the result of 7 subtracted from 83 console:
+// EXAMPLE: log the result of 7 subtracted from 83 to the console:
 console.log(83 - 7);
 
 // YOU DO: log the result of 6 multiplied by 53 to the console:
