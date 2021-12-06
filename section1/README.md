@@ -213,9 +213,9 @@ The last String in the previous example is interpreted as a String even though i
 
 The **Boolean** data types evaluates to one of two values: `true` or `false`. This data type can seem a little abstract, but Booleans are very helpful in helping us determine which script should run.
 
-There are many cases in whie we want to ask a program a question, such as "Does the username and password typed in match what we have in the database?". This is a yes/no question. We will ask the program the question in a way that it will respond with `true` or `false`. Here are a couple of examples:
+There are many cases in while we want to ask a program a question, such as "Does the username and password typed in match what we have in the database?". This is a yes/no question. We will ask the program the question in a way that it will respond with `true` or `false`. Here are a couple of examples:
 
-_These are all examples of statements that evaulate to a `Boolean` data type in JavaScript:_
+_These are all examples of statements that evaluate to a `Boolean` data type in JavaScript:_
 
 ```javascript
 3 === 6
@@ -228,7 +228,7 @@ _These are all examples of statements that evaulate to a `Boolean` data type in 
 //=> false, because 9 is less than 12
 ```
 
-Read more about compairson operators [here](https://javascript.info/comparison)!
+Read more about comparison operators [here](https://javascript.info/comparison)!
 
 > 👩‍💻 PAUSE here, and complete the exercises in `dataTypes.js`
 
