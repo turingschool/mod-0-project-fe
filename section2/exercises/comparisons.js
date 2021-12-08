@@ -76,7 +76,7 @@ console.log(4 < 9);
 //YOU DO: Explain.
 
 var books = 3;
-console.logs(4 < books);
+console.log(4 < books);
 // YOU DO: Explain.
 
 var friends = 6;
