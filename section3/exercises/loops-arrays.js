@@ -47,4 +47,3 @@ var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"
 // Remember, stuck for 15-20 minutes? Reach out to your pre-work group on Slack.
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
-
