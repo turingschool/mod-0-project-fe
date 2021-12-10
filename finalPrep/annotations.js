@@ -1,42 +1,42 @@
 // Add your annotations, line by line, to the code below using code comments.
-// Use the double // to create a new comment
+// To ensure that the code does what you think it does, run it in the Dev Tools!
 
-//Build a Bear
-function buildABear(name, age, fur, clothes, specialPower) {
-  var greeting = `Hey partner! My name is ${name} - will you be my friend?!`;
-  var demographics = [name, age];
-  var powerSaying = "Did you know that I can " + specialPower + " ?";
-  var builtBear = {
-    basicInfo: demographics,
-    clothes: clothes,
-    exterior: fur,
-    cost: 49.99,
-    sayings: [greeting, powerSaying, "Goodnight my friend!"],
-    isCuddly: true,
-  };
+var username = "@letacodes";
+var tweet = "This is rad!";
+var timeStamp = "10:46pm";
+var numberOfFollowers = 891;
 
-  return builtBear
+var output = `At ${timeStamp}, ${username} tweeted: "${tweet}"`;
+var followerCheck = `User ${username} has ${numberOfFollowers} followers.`;
+console.log(output);
+console.log(followerCheck);
+
+username = "@ameseee";
+numberOfFollowers = 672;
+
+var followerCheck = `User ${username} has ${numberOfFollowers} followers.`;
+console.log(followerCheck);
+
+// -------------------------------
+
+var specialNum = 20;
+// Explain what would happen if specialNum is assigned to 12, 45, and 98
+
+if (specialNum % 15 === 0) {
+  console.log("fizzbuzz");
+} else if (specialNum % 5 === 0) {
+  console.log("fizz");
+} else if (specialNum % 3 === 0) {
+  console.log("buzz");
+} else {
+  console.log(specialNum);
 }
 
-buildABear('Fluffy', 4, 'brown', ['pants', 'jorts', 'tanktop'], 'give you nightmares');
-buildABear('Sleepy', 2, 'purple', ['pajamas', 'sleeping cap'], 'sleeping in');
+// -------------------------------
 
+var classSizes = [34, 29, 27, 45];
+var classNames = ["Mod 1", "Mod 2", "Mod 3", "Combined Mod 4"];
 
-
-//FizzBuzz
-function fizzBuzz(num1, num2, range) {
-  for (var i = 0; i <= range; i++) {
-    if (i % num1 === 0 && i % num2 === 0) {
-      console.log('fizzbuzz');
-    } else if (i % num1 === 0) {
-      console.log('fizz');
-    } else if (i % num2 === 0) {
-      console.log('buzz');
-    } else {
-      console.log(i);
-    }
-  }
+for (var i = 0; i < classSizes.length; i++) {
+  console.log(`There are currently ${classSizes[i]} students in the ${classNames[i]} class!`)
 }
-
-fizzBuzz(3, 5, 100);
-fizzbuzz(5, 8, 400);
