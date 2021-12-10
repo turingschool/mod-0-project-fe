@@ -1,6 +1,8 @@
 ## Section 2 Reflection
 
-1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
+1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
+
+1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 
 1. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 

@@ -1,8 +1,6 @@
 ## Section 3 Reflection
 
-1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-
-1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read throught technical documentation, and use your resources more. How did that feel?
 
 1. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 

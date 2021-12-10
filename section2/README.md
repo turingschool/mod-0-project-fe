@@ -1,9 +1,9 @@
-# Section 2 - Asking Questions
+# Section 2 - GROWTH MINDSET, Conditionals and Functions
 
 Section 2 is estimated to take a total of 6-8 hours to complete. Similar to Section 1, this section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
+- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
 - [Part B: Conditionals](#Part-B-Conditionals)
 
 ## Vocabulary
