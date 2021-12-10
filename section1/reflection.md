@@ -1,6 +1,6 @@
 ## Section 1 Reflection
 
-1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
+1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
