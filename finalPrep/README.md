@@ -76,7 +76,7 @@ When you have completed *ALL* the activities described above, follow the steps b
 
 ## Next Steps
 
-As you rwap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this pre-work. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
+As you wrap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this pre-work. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
 
 What is your plan and how are you going to hold yourself to it? Specifically...
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)

@@ -14,7 +14,6 @@ console.log(followerCheck);
 username = "@ameseee";
 numberOfFollowers = 672;
 
-var followerCheck = `User ${username} has ${numberOfFollowers} followers.`;
 console.log(followerCheck);
 
 // -------------------------------
