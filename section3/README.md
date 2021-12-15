@@ -1,6 +1,6 @@
 # Section 3 - HOW TO SPEND YOUR TIME, Arrays and Loops
 
-Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the previous sections, this section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩🏻‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the previous sections, this section of the project involves reading (both from this document as well as the 📒John Duckett book), 👩🏻‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 Since Arrays are a bigger topic, it is the main focus of this section. Some review work from the first two sections has been woven in so you get opportunities to continue seeing and applying those concepts, as well.
 
@@ -33,12 +33,12 @@ One challenge developers face, moreso when they are starting out, is estimating 
 
 One challenge learners in a new environment/content area face is feeling like they know nothing, and until they know everything, they feel like they are failing.
 
-So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the pre-work has gone so far.
+So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the project has gone so far.
 - Have the time estimates matched up with your experience?
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
 
-You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of pre-work, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
+You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of the project, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
 
 ## Part B Arrays
 

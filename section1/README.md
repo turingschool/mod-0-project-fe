@@ -1,6 +1,6 @@
 # Section 1: ASKING QUESTIONS, Terminal and JavaScript Foundations
 
-Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Asking Questions](#Part-A-Asking-Questions)
@@ -12,12 +12,12 @@ Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the 
 
 If you've talked to any alum or near-alum of Turing, one thing they likely shared is "Turing teaches you how to learn". For creators of tech, the learning never ends. Not after graduating a program, not after 20 years of experience. We will provide more support as you are starting out, then release some of that support so you are equipped to learn on your own once you graduate. While we provide more support at the beginning, we also intentionally support you in building skills and habits that will help you do that successfully.
 
-One of those pieces is in how developers approach vocabulary. Knowing technical vocabulary will allow you to get more out of reading documentation and tutorials, and will allow you to communicate well with teams and ask good questions when you need help. Each section of your pre-work (and each lesson once you start Mod 1) will start with a vocabulary section. We don't always give you the definitions - this is intentional. You will create your own definition after having several opportunities to read definitions and see examples.
+One of those pieces is in how developers approach vocabulary. Knowing technical vocabulary will allow you to get more out of reading documentation and tutorials, and will allow you to communicate well with teams and ask good questions when you need help. Each section of your project (and each lesson once you start Mod 1) will start with a vocabulary section. We don't always give you the definitions - this is intentional. You will create your own definition after having several opportunities to read definitions and see examples.
 
 Here's what we ask you do:
 - Find a special spot in your notebook for vocabulary and JavaScript reserved keywords. Mark it with a post-it or bookmark, so it's easy to find and come back to
-- When you start a new section of pre-work, write down each term. Leave plenty of space for (future) notes
-- As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your pre-work small group or cohort, and collaborate!
+- When you start a new section of the project, write down each term. Leave plenty of space for (future) notes
+- As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your Mod 0 cohort and collaborate!
 
 ### Vocabulary Terms
 
@@ -42,7 +42,7 @@ Here's what we ask you do:
 
 ## Part A Asking Questions
 
-If you've made it into Section 2 of the pre-work, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
+If you've made it into Section 2 of the project, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
 
 Read the three blog posts that follow:
 * [It's okay to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)

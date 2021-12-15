@@ -4,7 +4,7 @@ This repository will guide you through the Mod 0 Project for the Front End progr
 
 Each section has a folder containing a `README.md` file with instructions and deliverables for the section, exercises, and reflections. You must complete all the exercises and reflections.
 
-## Pre-work Index
+## Project Index
 
 * [Section 1 - ASKING QUESTIONS, Terminal and JavaScript Foundations](section1)
 * [Section 2 - GROWTH MINDSET, Conditionals and Functions](section2)
@@ -13,13 +13,13 @@ Each section has a folder containing a `README.md` file with instructions and de
 
 ## Materials
 
-📒The only material, outside of your computer and an internet connection that you need to complete your pre-work is the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book by John Duckett. You can [download it for free here](https://www.pdfdrive.com/javascript-and-jquery-interactive-front-end-web-development-e184606066.html) or [purchase a hard copy here](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_2?ie=UTF8&qid=1541193719&sr=8-2&keywords=duckett) (or elsewhere).
+📒The only material, outside of your computer and an internet connection that you need to complete your project is the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book by John Duckett. You can [download it for free here](https://www.pdfdrive.com/javascript-and-jquery-interactive-front-end-web-development-e184606066.html) or [purchase a hard copy here](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_2?ie=UTF8&qid=1541193719&sr=8-2&keywords=duckett) (or elsewhere).
 
 >Please be aware, when page numbers for this book are referenced, it is the page number in the printed book. They don't quite match up with the ways the pages in the PDF are numbered, so make sure to reference the printed page number in the bottom corner of a page in the book.
 
 ## What to Expect
 
-Through completing this pre-work, you can expect to get practice re-inforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
+Through completing this project, you can expect to get practice re-inforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
 
 We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
 
@@ -29,13 +29,13 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 **Process over Product.** When asking for help, do your best to seek understanding rather than `the answer` or `the solution`. Even if your helper gets you a solution that works, make sure to spend time on *why* it works, rather than just accepting the solution and moving on.
 
-**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this pre-work, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
+**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this project, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
 
 **Details matter.** Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented helps cut down on buggy code and difficult to use systems. It can also help you notice differences in your code, enabling you to identify typos and mistakes more quickly.
 
 ## Terminal
 
-We will be referencing many terminal commands throughout the pre-work. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
+We will be referencing many terminal commands throughout the project. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
 
 ### Forking the Mod 0 Project Repository
 

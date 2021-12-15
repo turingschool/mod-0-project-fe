@@ -88,7 +88,7 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 
 
 //-------------------
-// Part 4: Don't let yourself forget everything from Section 2 of Pre-work
+// Part 4: Don't let yourself forget everything from Section 2 of the project
 //-------------------
 
 /*

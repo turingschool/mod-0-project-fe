@@ -1,6 +1,6 @@
 # Section 2 - GROWTH MINDSET, Conditionals and Functions
 
-Section 2 is estimated to take a total of 6-8 hours to complete. Similar to Section 1, this section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 2 is estimated to take a total of 6-8 hours to complete. Similar to Section 1, this section of the project involves reading (both from this document as well as the 📒John Duckett book), 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Growth Mindset](#Part-A-Growth-Mindset)
@@ -57,7 +57,7 @@ The conditional operators we touched on earlier are critical in the set up of if
 * `<` (less than)
 * `<=` (less than or equal to)
 
-Some data types also have functions which return a `true` or `false`, so they’re used in conditional statements. We will touch on those later in the pre-work and when you get into Mod 1.
+Some data types also have functions which return a `true` or `false`, so they’re used in conditional statements. We will touch on those later in the project and when you get into Mod 1.
 
 - Read more about [comparison operators here](https://javascript.info/comparison)
 - Read about [logical operators here](https://mariusschulz.com/blog/the-and-and-or-operators-in-javascript). You really just need to read the top first paragraph and code snippet in this post. You'll go deeper in Mods 1-2.
