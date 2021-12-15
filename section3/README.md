@@ -1,11 +1,11 @@
-# Section 3 - GROWTH MINDSET, Arrays and Loops
+# Section 3 - HOW TO SPEND YOUR TIME, Arrays and Loops
 
 Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the previous sections, this section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩🏻‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 Since Arrays are a bigger topic, it is the main focus of this section. Some review work from the first two sections has been woven in so you get opportunities to continue seeing and applying those concepts, as well.
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
+- [Part A: How to Spend Your Time](#Part-A-How-to-Spend-Your-Time)
 - [Part B: Arrays](#Part-B-Arrays)
 - [Part C: Loops](#Part-C-Loops)
 
@@ -27,16 +27,18 @@ Since Arrays are a bigger topic, it is the main focus of this section. Some revi
 
 Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. If you are having trouble with this, see the `section1` README.
 
-## Part A Growth Mindset
+## Part A How You Spend Your Time
 
-Read/watch one or both of the following:
-- This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
-- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front-End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
+One challenge developers face, moreso when they are starting out, is estimating how long something will take. Sometimes we don't account for merge conflicts, bugs, annoying Slack messages, and all the other things that interrupt our workflow or slow us down.
 
-Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
-- What are two points from the article or video that either resonated with you, or were brand new to you?
-- In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-- What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+One challenge learners in a new environment/content area face is feeling like they know nothing, and until they know everything, they feel like they are failing.
+
+So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the pre-work has gone so far.
+- Have the time estimates matched up with your experience?
+- When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+- How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+
+You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of pre-work, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
 
 ## Part B Arrays
 
@@ -88,15 +90,14 @@ When you are finished with all of the `section3` activities, use the Git workflo
 
 ## Push to GitHub
 
-You've save your work to Git on your local machine, but it is not yet accessible through your remote Github repository. Push your code to your remote repository. If you don't remember the command, look back at the directions in Sections 1 or 2.
+You've save your work to Git on your local machine, but it is not yet accessible through your remote GitHub repository. Push your code to your remote repository. If you don't remember the command, look back at the directions in Sections 1 or 2.
 
 Visit your GitHub repository to verify the work you did for this section was pushed successfully!
-
 
 ## Index Links
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Section 3 Focus TBD](#Part-A-Section-3-Focus)
+- [Part A: How to Spend Your Time](#Part-A-How-to-Spend-Your-Time)
 - [Part B: Arrays](#Part-B-Arrays)
 - [Part C: Loops](#Part-C-Loops)
 

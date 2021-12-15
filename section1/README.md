@@ -1,9 +1,9 @@
-# Section 1: Super Learners
+# Section 1: ASKING QUESTIONS, Terminal and JavaScript Foundations
 
 Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
+- [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
 - [Deliverables](#Deliverables)
@@ -24,6 +24,7 @@ Here's what we ask you do:
 - command
 - directory
 - code comments
+- primitive data types
 - String
 - Number
 - Boolean
@@ -39,9 +40,20 @@ Here's what we ask you do:
 - `true`
 - `false`
 
-## Part A Super Learner Habits
+## Part A Asking Questions
 
-Read [this article](https://pubs.ppai.org/pc-today/six-habits-of-super-learners/) about the habits of Super Learners. Reflect on this - what do you already do? Does this make you want to do anything new or different as you begin this learning journey? Jot down your notes now, and we will ask you to share some reflections with your small group at the end of this section.
+If you've made it into Section 2 of the pre-work, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
+
+Read the three blog posts that follow:
+* [It's okay to ask questions](https://dev.to/mporam/its-okay-to-ask-questions-43hf)
+* [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
+* [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
+
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+
+It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
+
+Now that you understand the importance of asking questions, read the [Turing guide on asking questions](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to ensure that you know the best way to ask the questions you may have!
 
 ## Part B Terminal
 
@@ -118,9 +130,9 @@ In this section, you will begin to learn the basics of JavaScript. You will work
 
 At the end of the section, you will use several Git commands to save your work to your local Git repository. Then you will push your updates to your remote GitHub repository. For now, we are building muscle memory with git commands and getting used to seeing what output they produce. We will dive deeper into the inner workings of Git later. For now, all you need to do is follow along and know that we are using Git to save our work, and GitHub to put it on the internet.
 
-### Open your local copy of frontend-mod-1-prework in Atom
+### Open your local copy of this repo in Atom
 
-Using your terminal, open the local copy of this repository. To do this, enter these commands into your terminal (this may vary slightly depending on the names of your directories):
+Using your terminal, open the local copy of this repository. To do this, enter these commands into your terminal (this may vary depending on the names of your directories):
 
 ```
 cd ~
@@ -129,7 +141,7 @@ cd turing
 ls
 cd 0module
 ls
-cd frontend-mod-1-prework
+cd <name-of-this-repo>
 ls
 cd section1
 ls
@@ -156,7 +168,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ```JavaScript
 // Anything after the // is ignored by the JavaScript interpreter.
-/* This is another fancy way to write a code comment */
+/* This is another way to write a code comment */
 
 console.log("I could have code like this."); // and the comment after is ignored
 
@@ -169,7 +181,7 @@ console.log("This will run.");
 
 ### Data Types
 
-JavaScript distinguishes between different kinds of data that programmers may need to use. We'll talk about three of the primitive, or most fundamental, data types in this section: Numbers, Strings, and Booleans.
+JavaScript distinguishes between different kinds of data that programmers may need to use. We'll talk about three of the **primitive**, or most fundamental, data types in this section: Numbers, Strings, and Booleans.
 
 #### Number
 
@@ -244,7 +256,7 @@ A variable declaration is made up of three parts: the variable keyword, the vari
 var age = 8;
 ```
 
-In the line above: `var` is the variable keyword, `age` is the variable name, and the number `8` is the value. A single equals sign (`=`) is the assignment operator. It assigns, or stores, the value to the variable name.
+In the line above: `var` is the variable keyword, `age` is the variable name, and the number `8` is the value. A single equals sign (`=`) is the **assignment operator**. It assigns, or stores, the value to the variable name.
 
 In JavaScript, there are certain words that are used for very specific tasks. The variable keyword `var` is one of those words -- it lets the JavaScript interpreter know that a variable is being created. _A note about variable keywords: As you learn more about JavaScript and as you read through documentation, you'll see the keywords `let` and `const` used to declare variables. The rules around how to use `let` and `const` are more nuanced, so for now, we'll stick with `var`._
 
@@ -272,19 +284,18 @@ kids = 3;  // change variable `kids`
 
 It is important to note that JavaScript has a particular set of conventions on what makes a valid variable name.
 
-* Names must begin with a letter, dollar sign, or an underscore
-* They cannot begin with a number
+* Names must begin with a letter, dollar sign, or an underscore. They _cannot_ begin with a number
 * Names can contain any of the above characters plus a number, but you cannot use a dash (`-`) or a period (`.`) within the name
 * You cannot use keywords or reserved words (such as `var` or `for`)
 * All variables are case sensitive
 * Use names that describe the kind of information you plan to assign the variable
-* If your variable is made up of more than one word, then use [camelCase](https://en.wikipedia.org/wiki/Camel_case) for every word AFTER the first word, which should be lower case i.e., `thisIsMyVariableName`
+* If your variable is made up of more than one word, then use [camelCase](https://en.wikipedia.org/wiki/Camel_case) i.e., `thisIsMyVariableName`
 
 > 👩‍💻 PAUSE here, and complete the exercises in `variables.js`
 
 ### Concatenation
 
-"Concatenate" is a programming term that means "join together". We join together strings in JavaScript using the plus (`+`) operator, the same one we would use to add numbers together, but in this context it does something different. Let's take a look, using a variable.
+"Concatenate" is a programming term that means "join together". We join together strings in JavaScript using the plus (`+`) operator, the same one we would use to add numbers together, but in this context it does something different. An example follows:
 
 ```JavaScript
 var name = "Sam";
@@ -293,8 +304,7 @@ console.log("Hello, my name is " + name);
 // this will log the string "Hello, my name is Sam"
 ```
 
-In the example above, we joined together a string and a variable with a value of a string assigned to it in order to create a complete sentence. What do you think will happen if we join different data types? Let's try it with a number and a string.
-
+In the example above, we joined together a string and a variable with a value of a string assigned to it in order to create a complete sentence. We can also concatenate using variable that store Numbers, as modeled in the following example.
 
 ```JavaScript
 var quantity = 12;
@@ -310,10 +320,11 @@ Let's take a look at why that resulted in a string. We have a variable called `s
 > 👩‍💻 PAUSE here, and complete the exercises in `concatenation.js`
 
 ### Interpolation
-In addition to concatenation, you may also have seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together. 
+
+In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together. 
 
 Interpolation requires slightly different syntax to inject values into a string. Follow the below formula to utilize interpolation:
-1. Use the backtick (same key as the `~`, or the key to the left of the `1` key on a mac) to wrap your entire string
+1. Use the backtick (same key as the `~`, or the key to the left of the `1` key on a Mac keyboard) to wrap your entire string
 2. Any values that you want to add in, use the following syntax - `${variable_name}` to properly wrap these values
 
 Take a look at these two sentences, one using concatenation, the other using interpolation.
@@ -336,7 +347,6 @@ console.log(snackCountInterpolate);
 ```
 
 > 👩‍💻 PAUSE here, and complete the exercises in `interpolation.js`
-
 
 ## Exercises
 
@@ -432,7 +442,7 @@ You should now be able to log in to GitHub, navigate to your remote prework repo
 ## Index Links
 
 - [Vocabulary](#Vocabulary)
-- [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
+- [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
 - [Deliverables](#Deliverables)
