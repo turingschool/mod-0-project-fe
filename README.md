@@ -1,6 +1,6 @@
 # Mod 0 Project Guide - Front End
 
-This repository will guide you through the Mod 0 Project for the Front End program at Turing. **Read this page thoroughly** to find the instructions for getting your computer setup and getting started.
+This repository will guide you through the Mod 0 Project for the Front End program at Turing. **Read this page thoroughly** to understand the purpose and find the instructions for getting your project setup on your computer.
 
 Each section has a folder containing a `README.md` file with instructions and deliverables for the section, exercises, and reflections. You must complete all the exercises and reflections.
 
@@ -19,7 +19,7 @@ Each section has a folder containing a `README.md` file with instructions and de
 
 ## What to Expect
 
-Through completing this project, you can expect to get practice reinforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
+Through completing this project, you can expect to get practice reinforcing what you've learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
 
 We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
 
