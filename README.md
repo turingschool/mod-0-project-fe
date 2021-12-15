@@ -33,74 +33,19 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 **Details matter.** Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented helps cut down on buggy code and difficult to use systems. It can also help you notice differences in your code, enabling you to identify typos and mistakes more quickly.
 
-## Environment
-
-### Install Node.js and NPM using homebrew
-
-Before we're able to write JavaScript that can be run from the command line (you'll be doing this in Mod 1), we need to install `Node.js` and `NPM` and it'll be expected that you've run through these instructions.
-
-These setup instructions assume that you have completed the setup for Mod 0, like installing Atom, xcode-select, Homebrew, git, and Chrome. If you haven't done that yet, please see [the mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions).
-
-### Install Node.js:
-
-JavaScript was originally intended to be run in the browser (i.e., Chrome). But over time there were a lot of good reasons to allow it to be run server side. Node.js is a framework that allows us to to do just that.
-
-Additionally, there's some very useful "packages" we use while writing code and we cannot install without first installing `node`.
-
-#### Installation
-
-Open a terminal with Spotlight search (`Command + Space`) and enter these commands:
-
-```
-$ brew update
-```
-Wait a few moments for `brew` to check its current version and make sure it is ready to be used.
-
-```
-$ brew install node
-```
-Wait again, as brew installs node.
-
-
-Now enter:
-
-```
-$ node -v
-```
-
-This shows us what version of Node.js we are running. You should see _something_ like:
-
-```
-v12.8.0
-```
-
-That same install also installed `npm` for us which will allow us to download useful packages down the line.
-
-Now enter:
-
-```
-$ npm -v
-```
-
-This shows us what version of NPM we are running. You should see something like:
-
-```
-6.10.3
-```
-
 ## Terminal
 
-We will be referencing many terminal commands throughout the pre-work. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `part1` directory.
+We will be referencing many terminal commands throughout the pre-work. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
 
-### Forking the Module 1 Pre-work Repository
+### Forking the Mod 0 Project Repository
 
 Next, we are going to *fork this repository that you're reading right now*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
 
-In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `frontend-mod-1-prework` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
+In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-fe` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
 
 ####  1. Make sure you are logged in to GitHub (if you are not logged in, log in and come back to this page)
 
-####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/frontend-mod-1-prework).
+####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/mod-0-project-fe).
 
 ####  3. Click on `Fork` in the upper right corner of the screen and select your account as the destination
 
@@ -116,7 +61,7 @@ Now that you have forked this repository, the next thing to do is *clone your fo
 
 Cloning is when you copy a remote GitHub repository to your local computer.
 
-#### 1. In YOUR `frontend-mod-1-prework` repository that your just forked, click on `Clone or Download`
+#### 1. In YOUR `mod-0-project-fe` repository that your just forked, click on `Clone or Download`
 
 ![clone your copy](/images/fe_step3.png)
 
@@ -136,22 +81,23 @@ $ cd turing
 $ mkdir 0module
 $ cd 0module
 $ git clone <ctrl-v to paste ssh link here >
-Cloning into 'frontend-mod-1-prework'...
+Cloning into 'mod-0-project-fe'...
 remote: Enumerating objects: 678, done.
 remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
 Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
 Resolving deltas: 100% (332/332), done.
 
-$ cd frontend-mod-1-prework
+$ cd mod-0-project-fe
 $ git status .
 // If everything worked correctly, you should see:
 On branch main
 nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "prework repository" or "frontend prework", and they all refer to your forked copy of this `frontend-mod-1-prework` repository.
+From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "project repository" or "Mod 0 project", and they all refer to your forked copy of this `mod-0-project-fe` repository.
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
+
 Do **NOT** work directly in the Github interface or use the `Edit` button to work directly from the Github version of your prework repository! 
 
 Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to Github. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
@@ -161,5 +107,3 @@ Instead, add your work in your text editor (Atom) on your local machine (laptop)
 Each sections `README` will walk you through the steps you need to take to save your work.
 
 To start, in your terminal, `cd` into the `section1` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
-
-----------------------------------
