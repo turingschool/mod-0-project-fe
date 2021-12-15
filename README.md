@@ -19,7 +19,7 @@ Each section has a folder containing a `README.md` file with instructions and de
 
 ## What to Expect
 
-Through completing this project, you can expect to get practice re-inforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
+Through completing this project, you can expect to get practice reinforcing what you learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
 
 We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
 
@@ -29,7 +29,7 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 **Process over Product.** When asking for help, do your best to seek understanding rather than `the answer` or `the solution`. Even if your helper gets you a solution that works, make sure to spend time on *why* it works, rather than just accepting the solution and moving on.
 
-**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this project, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts, manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
+**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this project, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts; manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
 
 **Details matter.** Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented helps cut down on buggy code and difficult to use systems. It can also help you notice differences in your code, enabling you to identify typos and mistakes more quickly.
 
@@ -37,11 +37,13 @@ We will remind you of the best practices that follow from time-to-time, but to g
 
 We will be referencing many terminal commands throughout the project. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
 
-### Forking the Mod 0 Project Repository
+## Project Setup
 
-Next, we are going to *fork this repository that you're reading right now*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
+To set this project up, you are going to *fork this repository that you're reading right now*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
 
 In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-fe` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
+
+>Note that the screenshots for the directions that follow are for a different repository and may have a slightly different GitHub interface and it changes frequently. Be flexible, and use this as a guide.
 
 ####  1. Make sure you are logged in to GitHub (if you are not logged in, log in and come back to this page)
 
@@ -55,7 +57,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 
 ![confirm fork](/images/fe_step2.png)
 
-## Clone down this new repository
+### Clone down your forked repository
 
 Now that you have forked this repository, the next thing to do is *clone your forked repository*.
 
@@ -98,9 +100,9 @@ From here on out, all the work you do will be in your copy of this repository. O
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
 
-Do **NOT** work directly in the Github interface or use the `Edit` button to work directly from the Github version of your prework repository! 
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your prework repository! 
 
-Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to Github. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
+Instead, add your work in your text editor (Atom) on your local machine (laptop) - your project involves using Git to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 **and** we give explicit instructions on how to do this in each section of the project!
 
 ## Get Started
 
