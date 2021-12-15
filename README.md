@@ -1,6 +1,6 @@
-# Front-End Mod 1 Pre-work Guide
+# Mod 0 Project Guide - Front End
 
-This repository will guide you through the Mod 1 Pre-work for the Front-End program at Turing. **Read this page thoroughly** to find the instructions for getting your computer setup and getting started.
+This repository will guide you through the Mod 0 Project for the Front End program at Turing. **Read this page thoroughly** to find the instructions for getting your computer setup and getting started.
 
 Each section has a folder containing a `README.md` file with instructions and deliverables for the section, exercises, and reflections. You must complete all the exercises and reflections.
 

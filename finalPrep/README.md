@@ -1,10 +1,10 @@
-# Mod 1 Final Prep
+# Final Prep
 
-Congrats on making it to the Mod 0 Final Prep! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work!
+Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
 ### Final Technical Prep
 
-Complete the [Annotation Challenge](./annotations.js) to review all concepts you've covered in the Mod 1 Pre-work! Take this as an oppotunity to demonstrate that you know all your technical vocabulary - explain each line of code as if you were teaching a beginner.
+Complete the [Annotation Challenge](./annotations.js) to review all concepts you've covered in the Mod 0 Project! Take this as an oppotunity to demonstrate that you know all your technical vocabulary - explain each line of code as if you were teaching a beginner.
 
 ### Refactor Previous Work
 
@@ -24,7 +24,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 ### Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front-End curriculum site](https://frontend.turing.edu/))
+- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
 - [ ] Study/Project work time (usually about 25 hours/week outside of class time)
 - [ ] Personal, Health + Wellness
 
@@ -52,9 +52,9 @@ As part of Turing's project-based learning approach, you will often be working i
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
   - [ ] Add a link to your gist here: 
 
-## All Done? How to Submit your Mod 1 Prework
+## Mod 0 Project Submission
 
-When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework.
+When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework. _Note that the images may not match the exact names of repos and directories you have._
 
 1. Go to *your* prework repository on GitHub
 1. Click on `New Pull Request` per the image below:
