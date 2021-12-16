@@ -2,10 +2,6 @@
 
 Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
-### Final Technical Prep
-
-Complete the [Annotation Challenge](./annotations.js) to review all concepts you've covered in the Mod 0 Project! Take this as an oppotunity to demonstrate that you know all your technical vocabulary - explain each line of code as if you were teaching a beginner.
-
 ### Refactor Previous Work
 
 You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy. 
@@ -20,6 +16,12 @@ Take your time as you go back and refactor your exercises from each section. We'
 - [ ] I have refactored my `section1` exercises to the best of my ability
 - [ ] I have refactored my `section2` exercises to the best of my ability
 - [ ] I have refactored my `section3` exercises to the best of my ability
+
+### Gearing Up for Gear Ups
+
+Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
+- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+- [ ] Add a link for your gist here: 
 
 ### Time Management Prep
 
