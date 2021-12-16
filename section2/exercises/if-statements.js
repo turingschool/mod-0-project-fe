@@ -19,15 +19,15 @@ var weather = 'snowy';
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
 
-if (weather == 'sunny') {
+if (weather === 'sunny') {
   console.log('sunscreen');
-} else if (weather == 'rainy') {
+} else if (weather === 'rainy') {
   console.log('umbrella');
-} else if (weather == 'snowy') {
+} else if (weather === 'snowy') {
   console.log('coat');
-} else if (weather == 'icy') {
+} else if (weather === 'icy') {
   console.log('yak traks');
-} else{
+} else {
   console.log('good to go!');
 }
 
@@ -89,7 +89,7 @@ var hasSauce = true;
 
 
 /*
-For the last two exercises, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator. 
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
