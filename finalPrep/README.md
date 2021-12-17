@@ -74,8 +74,6 @@ When you have completed *ALL* the activities described above, follow the steps b
 
 ![create new pr](/images/fe_s3.png)
 
-5. Please complete the form to submit your prework available [here](https://forms.gle/wxoVuhHKjrRyvGW2A). Be sure to include links for your Gear Up pre-work gist and your Mod 0 Project GitHub repository. The link to your Mod 0 Project GitHub repository will be in the format https://github.com/YOUR_GITHUB_USERNAME/repo-name. (using _your_ own GitHub username)
-
 ## Next Steps
 
 As you wrap up Mod 0, this is an important time to take care of life things such as doctor appointments, dog park trips, quality time with friends and family, etc. It is also important that you maintain the knowledge and skills you acquired during Mod 0 and this project. You can absolutely do both, but to do so successfully, **you need a plan**. We recommend spending, on average, 1-2 hours a day coding (totally 20-40 hours of time).
