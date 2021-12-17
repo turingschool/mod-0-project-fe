@@ -1,6 +1,6 @@
 ## Section 3 Reflection
 
-1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read throught technical documentation, and use your resources more. How did that feel?
+1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read through technical documentation, and use your resources more. How did that feel?
 
 1. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 
