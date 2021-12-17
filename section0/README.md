@@ -15,15 +15,15 @@ The assignments below will give you an understanding of what type of work and su
 
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
-- Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
+- **Networking:** Using outreach and networking strategies to make connections in the software industry to support a student’s job search
 - Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
-- Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
+- **Materials:** A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
 Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
-- Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
+- **Negotiations:** Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
 
 You can find all information on the curriculum and job search support [on the Career Development site](https://careerdev.turing.edu/).
 
-### Part A Action Items:
+### Action Items:
 
 1. [Bookmark the Career Development site](https://careerdev.turing.edu/). You will also be able to find this site again from both the [Back End Curriculum site](https://backend.turing.edu/) and the [Front End Curriculum site](https://frontend.turing.edu/). Spend a few minutes browsing around the site and make note of:
 - The Career Dev Team mission statement and Team members on the homepage – familiarize yourself with who your coach will be at different points in the program!
@@ -40,7 +40,7 @@ You can find all information on the curriculum and job search support [on the Ca
 
 [One tool we’ll be using for your professional development at Turing is the Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing.
 
-### Part B Action Items:
+### Action Items:
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
 - First section: Choose adjectives to answer how you currently are
