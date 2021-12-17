@@ -109,4 +109,4 @@ Instead, add your work in your text editor (Atom) on your local machine (laptop)
 
 Each sections `README` will walk you through the steps you need to take to save your work.
 
-To start, in your terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
