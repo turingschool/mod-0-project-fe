@@ -63,7 +63,7 @@ You already have had some exposure to the terminal in [Mod 0, Session 2: Termina
 
 ### Explore and Practice
 
-Visit the [Turing Terminal](https://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
+Visit the [Turing Terminal](http://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
 
 👩‍💻 Complete all three Challenges.
 
