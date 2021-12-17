@@ -50,7 +50,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 
 ####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/mod-0-project-fe).
 
-####  3. Click on `Fork` in the upper right corner of the screen and select your account as the destination
+####  3. Click on `Fork` in the upper right corner of the screen
 
 ![click fork button](/images/fe_step1.png)
 
@@ -64,7 +64,7 @@ Now that you have forked this repository, the next thing to do is *clone your fo
 
 Cloning is when you copy a remote GitHub repository to your local computer.
 
-#### 1. In YOUR `mod-0-project-fe` repository that your just forked, click on `Clone or Download`
+#### 1. In YOUR project repository that you just forked, click on `Clone or Download`
 
 ![clone your copy](/images/fe_step3.png)
 
@@ -109,4 +109,4 @@ Instead, add your work in your text editor (Atom) on your local machine (laptop)
 
 Each sections `README` will walk you through the steps you need to take to save your work.
 
-To start, in your terminal, `cd` into the `section1` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+To start, in your terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
