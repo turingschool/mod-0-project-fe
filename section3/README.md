@@ -23,9 +23,9 @@ Since Arrays are a bigger topic, it is the main focus of this section. Some revi
 
 - `for`
 
-## Open your local copy of frontend-mod-1-prework
+## Open your local Project
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. If you are having trouble with this, see the `section1` README.
+Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` README.
 
 ## Part A How You Spend Your Time
 
@@ -101,4 +101,4 @@ Visit your GitHub repository to verify the work you did for this section was pus
 - [Part B: Arrays](#Part-B-Arrays)
 - [Part C: Loops](#Part-C-Loops)
 
-🚀 [Go to Section 4](../section4)
+🚀 [Go to Final Prep](../finalPrep)
