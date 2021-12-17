@@ -6,7 +6,6 @@ Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the 
 - [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
-- [Deliverables](#Deliverables)
 
 ## Vocabulary
 
@@ -445,6 +444,5 @@ You should now be able to log in to GitHub, navigate to your remote prework repo
 - [Part A: Asking Questions](#Part-A-Asking-Questions)
 - [Part B: Terminal](#Part-B-Terminal)
 - [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
-- [Deliverables](#Deliverables)
 
 🚀 [Go to Section 2](../section2)
