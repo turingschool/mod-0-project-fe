@@ -69,7 +69,7 @@ When you have completed *ALL* the activities described above, follow the steps b
 ![click new pr](/images/fe_s2.png)
 
 <br>
-3. Click on `Create New Pull Request` (circled in the image above).
+3. Click on `Create New Pull Request` (circled in the previous image).
 4. Enter `YOUR NAME` as the title of the pull request, and click `Create pull request` as shown below:
 
 ![create new pr](/images/fe_s3.png)
