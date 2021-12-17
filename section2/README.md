@@ -26,7 +26,7 @@ This section will introduce a number of new terms, that may feel a bit more comp
 
 ## Get Set Up
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. If you are having trouble with this, see the `section1` instructions.
+Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
 
 ## Part A Growth Mindset
 
@@ -149,10 +149,9 @@ You've save your work to git on your local machine, but it is not yet accessible
 git push origin main
 ```
 
-You should now be able to log in to GitHub, navigate to your remote prework repository and see all the work you did in this section!
+You should now be able to log in to GitHub, navigate to your remote project repository and see all the work you did in this section!
 
 ## Vocabulary From Book
-
 The readings in the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book use JavaScript in a way that is likely unfamiliar to you. The book uses specific JavaScript properties and functions to interact with HTML elements on a webpage, like changing or adding text on a webpage. Initially, we will be using JavaScript without HTML. That's why you haven't seen these techniques before! We will address these techniques thoroughly during Mod 1, however, here are some quick definitions to help you become familiar with them.
 
 * `document.getElementById()`: a method used to retrieve an element from a web page. Here is the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
