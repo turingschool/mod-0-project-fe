@@ -26,15 +26,15 @@ You can find all information on the curriculum and job search support [on the Ca
 ### Action Items:
 
 1. [Bookmark the Career Development site](https://careerdev.turing.edu/). You will also be able to find this site again from both the [Back End Curriculum site](https://backend.turing.edu/) and the [Front End Curriculum site](https://frontend.turing.edu/). Spend a few minutes browsing around the site and make note of:
-- The Career Dev Team mission statement and Team members on the homepage – familiarize yourself with who your coach will be at different points in the program!
-- [The Module 1 section](https://careerdev.turing.edu/module_one/index), which includes lessons, activities, and information on your learning goals for Mod 1
-- [The Resources section](https://careerdev.turing.edu/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
-- [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
-- [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
+  - The Career Dev Team mission statement and Team members on the homepage – familiarize yourself with who your coach will be at different points in the program!
+  - [The Module 1 section](https://careerdev.turing.edu/module_one/index), which includes lessons, activities, and information on your learning goals for Mod 1
+  - [The Resources section](https://careerdev.turing.edu/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
+  - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
+  - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
-- What are your questions or concerns about these expectations?
+  - How do you feel about the expectations of the professional development curriculum? 
+  - What are you excited about when it comes to professional development? 
+  - What are your questions or concerns about these expectations?
 
 ## Part B Pairin Survey
 
@@ -43,8 +43,8 @@ You can find all information on the curriculum and job search support [on the Ca
 ### Action Items:
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
-- First section: Choose adjectives to answer how you currently are
-- Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes.
+  - First section: Choose adjectives to answer how you currently are
+  - Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes.
 2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your survey submission.
 
 _Optional: To build an understanding of your Pairin results, here are additional resources:_
