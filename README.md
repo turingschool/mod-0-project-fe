@@ -1,4 +1,4 @@
-# Mod 0 Project Guide - Front End
+# Mod 0 Project - Front End
 
 This repository will guide you through the Mod 0 Project for the Front End program at Turing. **Read this page thoroughly** to understand the purpose and find the instructions for getting your project setup on your computer.
 
