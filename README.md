@@ -20,90 +20,142 @@ Each section has a folder containing a `README.md` file with instructions and de
 
 ## What to Expect
 
-Through completing this project, you can expect to get practice reinforcing what you've learned/are learning in Mod 0, learn more technical content, and deeply reflect on your mindsets and habits and start thinking about which of those mindsets and habits will help you learn to code, and which of those you may need to change.
-
-We will remind you of the best practices that follow from time-to-time, but to ground yourself in the work ahead, read them carefully.
+By completing this project, you will reinforce what you learn in Mod 0, deepen your technical understanding, and reflect on your mindsets and habits. You will also be challenged to consider which of your habits will help you become a software developer and which may hinder your progress.
 
 ## Best Practices: Learning to Write Code
 
-**If you are stuck for longer than 30 minutes, know that it is always ok to ask for help!** The process of becoming a software developer is difficult, and learning to code is hard. At some point, everyone struggles. Struggle is a normal, healthy part of the learning process - don't give up if you hit a hard spot. If you consistently practice every day and don't take shortcuts, you will be on the path to learning how to code. When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimial way to ask for help when you get stuck!
+To ground yourself in the work ahead, read these best practices carefully.
 
-**Process over Product.** When asking for help, do your best to seek understanding rather than `the answer` or `the solution`. Even if your helper gets you a solution that works, make sure to spend time on *why* it works, rather than just accepting the solution and moving on.
+### Recognize Unproductive Struggle
 
-**Type every line of code.** One of the best things you can do to set yourself for success is to make sure you type out all the code examples you see in the readings and exercises in this project, *do not* copy and paste. The more hands-on-keyboard practice you can give yourself, the better. Copying and pasting won't help you solidify these concepts; manually typing all the code in will. This also applies to auto complete features in popular text editors. They are helpful, no doubt, but doing things the hard way at the beginning is a great way to hone your workflow later on.
+**If you are stuck for longer than 30 minutes, ask for help!** At some point, everyone struggles. Struggle is a normal, healthy part of the learning process—don't give up if you hit a hard spot.
 
-**Details matter.** Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented helps cut down on buggy code and difficult to use systems. It can also help you notice differences in your code, enabling you to identify typos and mistakes more quickly.
+When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimal way to ask for help when you get stuck.
+
+### Process Over Product
+
+When asking for help, seek understanding rather than just `the answer` or `the solution`. Even if your helper gets you a solution that works, your learning opportunity is to ask, "*why*?"
+
+### Type Every Line of Code
+
+Copying and pasting won't help you solidify these concepts, manually typing all the code examples in the exercises will. *Do not* copy and paste unless instructed. The more hands-on-keyboard practice you can give yourself, the better.
+
+### Details Matter
+
+Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented catches bugs _before they become bugs_.
 
 ## Terminal
 
-We will be referencing many terminal commands throughout the project. It is recommended that you practice using terminal commands before getting started. See the `terminal.md` lesson located in the `section1` directory.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/turingschool/mod-0-project-fe/tree/main/section1#Part-B-Terminal) located in the `section1` directory. Then, continue to Project Setup.
 
 ## Project Setup
 
-To set this project up, you are going to *fork this repository that you're reading right now*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
+To set this project up, you are going to *fork this repository*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
 
-In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-fe` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork the repository, follow these steps:
+### Fork This Repository
+
+In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-fe` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork this repository, follow these steps:
 
 >Note that the screenshots for the directions that follow are for a different repository and may have a slightly different GitHub interface and it changes frequently. Be flexible, and use this as a guide.
 
-####  1. Make sure you are logged in to GitHub (if you are not logged in, log in and come back to this page)
-
-####  2. Scroll to the top of [*this* page that you're reading right now](https://github.com/turingschool/mod-0-project-fe).
-
-####  3. Click on `Fork` in the upper right corner of the screen
-
+1. Make sure you are logged in to GitHub (if you are not logged in, first, log in. Then, come back to this page)
+2. Scroll to the top of [*this* page that you're reading right now](#top).
+3. Click on `Fork` in the upper right corner of the screen
 ![click fork button](/images/fe_step1.png)
-
-####  4. On the new page, confirm that it says it's the "forked" copy of this repository, with mentions of your username in the URL and repository name.
-
+1. On the new page, confirm you're now on _your fork_, with your username included in the URL and repository name.
 ![confirm fork](/images/fe_step2.png)
 
-### Clone down your forked repository
+### Clone _Your_ Forked Repository
 
-Now that you have forked this repository, the next thing to do is *clone your forked repository*.
+Now that you have your own forked repository—which is _your_ Mod 0 Project—the next thing to do is *clone the repository* to your computer.
 
-Cloning is when you copy a remote GitHub repository to your local computer.
+Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer. 
 
-#### 1. In YOUR project repository that you just forked, click on `Clone or Download`
-
+1. In YOUR project repository that you just forked, click on `Clone or Download`
 ![clone your copy](/images/fe_step3.png)
+1. If `Clone with HTTPS` is selected, click on `Use SSH`
+1. Click on the copy icon to copy the SSH link to your clipboard
+1. Open the Terminal (`command + space` and begin typing Terminal) and follow these steps:
 
-#### 2. If you see `Clone with HTTPS` click on `Use SSH`
-
-#### 3. Click on the copy icon to copy the SSH link to your clipboard.
-
-#### 4. Use your terminal to copy down this repository
-
-1. Open your terminal
+Change into your Home directory:
 
 ```
-$ cd .
-// This is a shortcut for `cd ~`, which is "change into the home directory"
+$ cd ~
+```
+
+Make a new directory where you'll organize your Turing work:
+
+```
 $ mkdir turing
+```
+
+Change directories to that new directory:
+
+```
 $ cd turing
+```
+
+Make a new directory for your Mod 0 work, then `cd` into it:
+
+```
 $ mkdir 0module
 $ cd 0module
-$ git clone <ctrl-v to paste ssh link here >
+```
+
+Clone the Git repository into your current working directory:
+
+```
+$ git clone $(pbpaste)
+```
+
+> Don't worry about `$(pbpaste)` in that last step. It's a Terminal command that pastes the GitHub SSH link you copied to your clipboard earlier (the same thing `command + v` does)!
+
+You should see output like this:
+
+```
 Cloning into 'mod-0-project-fe'...
 remote: Enumerating objects: 678, done.
 remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
 Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
 Resolving deltas: 100% (332/332), done.
-
-$ cd mod-0-project-fe
-$ git status .
-// If everything worked correctly, you should see:
-On branch main
-nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "project repository" or "Mod 0 project", and they all refer to your forked copy of this `mod-0-project-fe` repository.
+A new directory was created by Git with all the files from the remote repository on GitHub! Let's `cd` into your local project repository:
 
-### IMPORTANT NOTE - PLEASE READ CAREFULLY
+```
+$ cd mod-0-project-fe
+```
 
-Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your prework repository! 
+Next, run this command to double check what remote repository your local repository was cloned from:
 
-Instead, add your work in your text editor (Atom) on your local machine (laptop) - your project involves using Git to track changes and push your work up to GitHub. We will cover how to do this in Mod 0 **and** we give explicit instructions on how to do this in each section of the project!
+```
+$ git remote -v
+```
+
+If you followed these instructions correctly, you should see:
+
+```
+origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-fe.git (fetch)
+origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-fe.git (push)
+```
+
+If you instead see references to `git@github.com:turingschool/...`, you missed an important step and need to start over.
+
+> Do you see an error that's not documented in this section? Something is likely wrong with your computer setup. This is a opportunity to seek help in your Mod 0 Slack channel.
+
+## Important Note: Please Read Carefully
+
+From here on out, all Mod 0 Project work will be completed on your computer using Atom. You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
+
+The project involves using Git to "commit" your work and "push" your changes from your local clone to your remote repository (your fork) on GitHub. We also give explicit instructions on how to do this during each section of the project.
+
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository.
+
+### Also Important
+
+Does the Git and GitHub process we just completed feel like a lot? Don't stress, because it is. Throughout Mod 0, you will get plenty of practice with Git and GitHub—which are different but related tools.
+
+The expectation by the end of Mod 0 is that you are _familiar_ with why and how we use these tools in software development.
 
 ## Get Started
 
