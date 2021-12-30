@@ -161,4 +161,8 @@ The expectation by the end of Mod 0 is that you are _familiar_ with why and how 
 
 Each sections `README` will walk you through the steps you need to take to save your work.
 
-To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+To start, in the Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+
+***
+
+🚀 [Go to Section 0](../section0)
