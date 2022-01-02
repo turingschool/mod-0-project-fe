@@ -2,13 +2,18 @@
 
 Section 2 is estimated to take a total of 6-8 hours to complete. Similar to Section 1, this section of the project involves reading (both from this document as well as the 📒John Duckett book), 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
-- [Part B: Conditionals](#Part-B-Conditionals)
+- [Vocabulary](#vocabulary)
+- [Get Set Up](#get-set-up)
+- [Part A: Growth Mindset](#part-a-growth-mindset)
+- [Part B: Conditionals](#part-b-conditionals)
+- [Reflections](#reflections)
+- [Commit Your Work in Git](#commit-your-work-in-git)
+- [Push to GitHub](#push-to-github)
+- [Vocabulary From Book](#vocabulary-from-book)
 
 ## Vocabulary
 
-This section will introduce a number of new terms, that may feel a bit more complex. Write these terms and reserved keywords in that special spot in your notebook now. Work to hold yourself acocuntable to updating definitions _as you work through this section_.
+This section will introduce a number of new terms, that may feel a bit more complex. Write these terms and reserved keywords in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
 
 ### Vocabulary Terms
 
@@ -26,20 +31,22 @@ This section will introduce a number of new terms, that may feel a bit more comp
 
 ## Get Set Up
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
+Using the Terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
 
-## Part A Growth Mindset
+## Part A: Growth Mindset
 
 Read/watch one or both of the following:
+
 - This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
 - This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
+
 - What are two points from the article or video that either resonated with you, or were brand new to you?
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
 
-## Part B Conditionals
+## Part B: Conditionals
 
 One of the most important concepts in programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria.  We can accomplish this with if statements, which you will learn about in this section.
 
@@ -50,6 +57,7 @@ When you are all done with the lessons, exercises, and reflection for this secti
 When you learned about Booleans in Section 1, you briefly read about and practiced using some comparison operators.
 
 The conditional operators we touched on earlier are critical in the set up of if statements. Conditional statements (conditions) evaluate to `true` or `false`. The most common operators used for conditions are comparison operators:
+
 * `===` (strictly equal)
 * `!==` (not equal)
 * `>` (greater than)
@@ -120,30 +128,25 @@ The **number one mistake** people encounter when writing conditional statements 
 
 > 👨🏽 ‍💻PAUSE here, and complete the exercises in `decision-making.js` and `if-statements.js`
 
-## Exercises
-
-At this point, you should have worked through all files in the `exercises` directory. Confirm that you have before moving on.
-
-## Vocabulary
-
-Look back at that special spot in your notebook for vocabulary. Hopefully you updated it with definitions, diagrams, and code samples as you went through this section. If not, do so now. This will be part of this sections deliverables.
-
 ## Reflections
 
 📝 Answer the prompts in the `reflection.md` file in the `section2` directory. If you need a reminder on how to format your markdown, [this is the Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
 
-## Save your work in Git
+## Commit Your Work in Git
 
-When you are finished with all of the `section2` activities, use your terminal to run the following commands in order to save your work to your local Git repository.
+When you are finished with all of the `section2` activities, use the Terminal to run the following commands in order to save your work to your local Git repository.
 
-1. `$ git add section2/exercises`
-2. `$ git add section2/reflection.md`
-3. `$ git status` - you should see only green filenames - if you see any that are red, continue to `git add` those files until `git status` shows all green files.
-4. `$ git commit -m "Add Section 2 work"`
+1. `git add section2/exercises`
+2. `git add section2/reflection.md`
+3. `git status` - you should see only green filenames - if you see any that are red, continue to `git add` those files until `git status` shows all green files.
+4. `git commit -m "Add Section 2 work"`
 
 ## Push to GitHub
 
-You've save your work to git on your local machine, but it is not yet accessible through your remote GitHub repository. Updating our remote GitHub repository with our local changes is called **pushing**. Push your code with the following command:
+You've saved your work to Git on your local machine, but your repository on GitHub doesn't reflect it yet. You update the remote GitHub repository with your new local commits when you `push` your changes.
+
+Run:
+
 
 ```
 git push origin main
@@ -159,10 +162,6 @@ The readings in the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development`
 * `el.innerHTML()`: a method used to change the text of an element *(defined as the variable el)* from a web page. Here is the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 * `el.textContent()`: a method used to change the text of an element *(defined as the variable el)* from a web page. Here is the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
 
-## Index Links
-
-- [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
-- [Part B: Conditionals](#Part-B-Conditionals)
+***
 
 🚀 [Go to Section 3](../section3)

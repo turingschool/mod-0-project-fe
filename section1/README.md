@@ -2,10 +2,14 @@
 
 Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of the project involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
-- [Part B: Terminal](#Part-B-Terminal)
-- [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
+- [Vocabulary](#vocabulary)
+- [Part A: Asking Questions](#part-a-asking-questions)
+- [Part B: Terminal](#part-b-terminal)
+- [Part C: JavaScript Foundations](#part-c-javascript-foundations)
+- [Exercises](#exercises)
+- [Vocabulary](#vocabulary-1)
+- [Reflections](#reflections)
+- [Commit Your Work in Git](#commit-your-work-in-git)
 
 ## Vocabulary
 
@@ -39,7 +43,7 @@ Here's what we ask you do:
 - `true`
 - `false`
 
-## Part A Asking Questions
+## Part A: Asking Questions
 
 If you've made it into Section 2 of the project, we hope that you've heard us say loud and clear, that asking questions is a good and important thing to do! That doesn't mean it's easy, though. Some of us have educational experiences that tell us otherwise, some of us have had bad experiences when being vulnerable and asking questions, and sometimes it's just hard to determine which words to use to formulate the question itself!
 
@@ -54,7 +58,7 @@ It's going to take some time to find that balance between googling and pushing y
 
 Now that you understand the importance of asking questions, read the [Turing guide on asking questions](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to ensure that you know the best way to ask the questions you may have!
 
-## Part B Terminal
+## Part B: Terminal
 
 You will likely spend the majority of your time in Module 1 in either the Terminal or your text editor (Atom). When you're new to programming, the terminal can seem like a scary place, but it has some advantages over other means of interacting with your computer. Perhaps the greatest advantage is that it allows programmers to build tools that they can share with each other without going through the process of creating a graphical user interface. This makes it easy to share code quickly so that it can be used in multiple projects.
 
@@ -115,7 +119,17 @@ Note that in the command provided above, the dashes preceding the directory name
 
 * `rm`: This will remove a file from your system. Be careful with this! The terminal assumes you're a little more of an expert than the system does. This doesn't move the file to the Trash, it removes it completely from your system. It's a little like moving the file to the trash and then deleting it immediately.
 
-* `rm -rf`: Adding the `-r` and `-f` flags to the `rm` command will allow you to delete directories even if they have other files and/or directories inside of them. For more information on each of these flags enter `man rm` into your terminal. It will print out the manual for this command.
+* `rm -rf`: Passing the `-r` and `-f` options together to the `rm` command will allow you to delete directories even if they have other files and/or directories inside of them.
+
+* For more information on each of these options run `man rm` in the Terminal. A manual page for the `rm` command will open.
+
+* When viewing a `man` page, the Terminal is "taken over" by an interactive file-reading program called `less`.
+  * While looking at the `man rm` page, read about the `-f` option (use the arrow keys to scroll if needed).
+  * Next, scroll down and read this entry about `-R` (which, you'll learn, is the same as `-r`!)
+
+* To exit the `less` program, hit the `q` key. This will take you back to the Terminal prompt.
+
+* `man` pages can be super technical reading. You won't understand every detail of these pages and that's ok. It's still great practice!
 
 #### Terminal Practice
 
@@ -123,7 +137,7 @@ Note that in the command provided above, the dashes preceding the directory name
 
 Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibraryProject`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future.
 
-## Part C JavaScript Foundations
+## Part C: JavaScript Foundations
 
 In this section, you will begin to learn the basics of JavaScript. You will work through several exercises which will help you get comfortable running files and seeing output. You will learn about ways to represent data in JavaScript as Strings, Numbers, and Booleans, as well as begin to explore how to capture and work with that data.
 
@@ -131,7 +145,7 @@ At the end of the section, you will use several Git commands to save your work t
 
 ### Open your local copy of this repo in Atom
 
-Using your terminal, open the local copy of this repository. To do this, enter these commands into your terminal (this may vary depending on the names of your directories):
+Using the Terminal, open the local copy of this repository. To do this, enter these commands into the Terminal (this may vary depending on the names of your directories):
 
 ```
 cd ~
@@ -323,7 +337,7 @@ Let's take a look at why that resulted in a string. We have a variable called `s
 In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together. 
 
 Interpolation requires slightly different syntax to inject values into a string. Follow the below formula to utilize interpolation:
-1. Use the backtick (same key as the `~`, or the key to the left of the `1` key on a Mac keyboard) to wrap your entire string
+1. Use the back-tick (same key as the `~`, or the key to the left of the `1` key on a Mac keyboard) to wrap your entire string
 2. Any values that you want to add in, use the following syntax - `${variable_name}` to properly wrap these values
 
 Take a look at these two sentences, one using concatenation, the other using interpolation.
@@ -355,16 +369,16 @@ At this point, you should have worked through all three files in the `exercises`
 
 Look back at that special spot in your notebook for vocabulary. Have you updated with with definitions, diagrams, and code samples? If not, do so now!
 
-## Relections
+## Reflections
 
 📝 Answer the prompts in the `reflection.md` file in the `section1` directory. The `.md` file extension for this file refers to markdown formatting. Markdown is a markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic Markdown formatting.
 
-## Save your work in Git
+## Commit Your Work in Git
 
 When you are finished with all of the `section1` exercises and reflections, follow these steps in order to save your work to your local git repository.
 
-1. Make sure you are in your `section1` directory. When you run `ls` in your terminal, you should see the `exercises` directory listed, as well as `README.md`, `reflection.md`, etc.
-2. In your terminal, run `git status`. You should see output like this:
+1. Make sure you are in your `section1` directory. When you run `ls` in the Terminal, you should see the `exercises` directory listed, as well as `README.md`, `reflection.md`, etc.
+2. In the Terminal, run `git status`. You should see output like this:
 
 ```
 On branch main
@@ -374,6 +388,7 @@ Changes not staged for commit:
 
 	modified:   exercises/concatenation.js
 	modified:   exercises/dataTypes.js
+	modified:   exercises/interpolation.js
 	modified:   exercises/variables.js
 	modified:   reflection.md
 
@@ -404,7 +419,7 @@ Under "Changes to be committed", It now lists "reflection.md". This means that g
 
 5. Run `git add exercises`.
 6. Run `git status`. You should now see all those exercises files listed under "Changes to be committed". We just used `git add <directory name>` to add all the files located in a directory.
-7. Run `git status`. You should now see all your files listed under "Changes to be committed". If there are any files listed under "Untracked files" or "Changes not staged for commit", add them using "git add <file name>".
+7. Run `git status`. You should now see all your files listed under "Changes to be committed". If there are any files listed under "Untracked files" or "Changes not staged for commit", add them using `git add filename_here`
 8. Run `git commit -m "Add Section 1"`.
 9. Run `git status`. You should see this output:
 
@@ -413,11 +428,13 @@ On branch main
 nothing to commit, working tree clean
 ```
 
-Congratulations! You just saved your work to Git! If `git status` is showing any files, add them with `git add <file name>` and commit them with `git commit -m "Add Section 1"`.
+Congratulations! You just saved your work to Git!
 
 ### Push to GitHub
 
-You've saved your work to Git on your local machine, but it is not yet accessible through your remote GitHub repository. Updating our remote GitHub repository with our local changes is called pushing. Push your code with the following command:
+You've saved your work to Git on your local machine, but your repository on GitHub doesn't reflect it yet. You update the remote GitHub repository with your new local commits when you `push` your changes.
+
+Run:
 
 ```
 git push origin main
@@ -432,17 +449,12 @@ Compressing objects: 100% (8/8), done.
 Writing objects: 100% (9/9), 1.03 KiB | 1.03 MiB/s, done.
 Total 9 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 1 local object.
-To github.com:your-username/frontend_mod_1_prework.git
+To github.com:your-username/mod-0-project-fe.git
    e8ebd7a..32c0ed3  main -> maij
 ```
 
-You should now be able to log in to GitHub, navigate to your remote prework repository and see all the work you did in this section!
+You should now be able to log in to GitHub, navigate to your remote project repository and see all the work you did in this section!
 
-## Index Links
-
-- [Vocabulary](#Vocabulary)
-- [Part A: Asking Questions](#Part-A-Asking-Questions)
-- [Part B: Terminal](#Part-B-Terminal)
-- [Part C: JavaScript Foundations](#Part-C-JavaScript-Foundations)
+***
 
 🚀 [Go to Section 2](../section2)
