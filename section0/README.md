@@ -60,7 +60,7 @@ As you begin this new chapter of your career, the Career Development team is her
 
 ### Networking
 
-The first step for networking in your new career as a software developer is to assess the network you currently have. Please complete this activity and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
+The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
 - As you start at Turing, what are your biggest questions or concerns about networking?
