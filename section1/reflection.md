@@ -6,9 +6,9 @@
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
-   The first data type is a `string` which are letters, characters, or numbers wrapped within quotes.
-   The second data type is a `number` which are all numbers including decimals and negative numbers. Larger numbers will not have decimals.
-   The third data type is called a `boolean` which are where values are either true or false.  
+   - The first data type is a `string` which are letters, characters, or numbers wrapped within quotes.
+   - The second data type is a `number` which are all numbers including decimals and negative numbers. Larger numbers will not have decimals.
+   - The third data type is called a `boolean` which are where values are either true or false.  
 
 3. How would you log the string `"Hello World!"` to the console?
 
