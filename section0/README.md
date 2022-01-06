@@ -32,9 +32,14 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+I feel like the expectations are clear and supportive.
+
+- What are you excited about when it comes to professional development?
+What I am most excited about when it comes to career development is to really learn more about myself and where I need improvement. It'll be good to meet with someone semi-regularly to keep me on track and help me work towards acquiring a career I can be proud of.
+
 - What are your questions or concerns about these expectations?
+I am a little nervous about the networking portion, sometimes networking feels forced or inauthentic, so I hope there are some strategies I can use that will make it feel more natural.
 
 ## Part B: Pairin Survey
 
@@ -58,42 +63,60 @@ _Optional: To build an understanding of your Pairin results, here are additional
 
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the Career Development Mod 0 Project Submission Survey (see [submission directions](#deliverables)). Each competency section should take about 10-15 minutes to complete.
 
-### Networking
+### Networking (https://careerdev.turing.edu/module-1-prework/networking_prework_activity)
 
 The first step for networking in your new career as a software developer is to assess the network you currently have. Please complete this activity and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+2
 - As you start at Turing, what are your biggest questions or concerns about networking?
+I feel like my network is too small, so I hope I can find more folx to be in my network.
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+I am currently a non-traditional CS student at CU Boulder, but I am putting that on hold to try out Turing. I already have a degree in Philosophy with a minor in Mathematics, unfortunately a Philosophy isn't something you can do as a career. I currently have one of the best, but most under-payed jobs in the world. I work as a Library Programming Associate for the Cultural Inclusivity Department at the Denver Public Library. I spend my days helping immigrant, refugee, and asylee communities get access to legal help, English learning resources, citizenship exam test prep, and more. Like I mentioned, the job is wonderful but doesn't pay well. I beleive the pivot to software engineering will allow me to use technology to help these communities, while helping me sustain myself.
+
 - What are your goals for this career?
+I originally wanted to get into tech because I was fascinated by the semi-underdeveloped field of the Philosophy of Technology. I had dreams of exploring the relationship of technology and people - specifically looking at the pre-existing assumptions we make when developing 'ethical' technologies. Anyway, this dream has come and gone. I am now interested in using this career pivot as an opportunity to get myself and family out of being financially insecure, but I also want to do something creative, fun, and challenging. If I can eventually use my skills to help others, I will.
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+My biggest insecurity is my age. I am 31 and it seems like a lot of folx in this industry are a lot younger. All things equal (which is rarely the case), why wouldn't someone hire a younger person?
 
 ### Materials
 
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
 - Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
+I don't have a LinkedIn profile
+
 - Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
+Yes, I have an up-to-date resume. My university provided me with some resume help, but before that I was horrible at writing them. Still, I think I'll need help writing a resume for tech related jobs.
+
 - Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters’ effectiveness previously? What questions or concerns do you have about writing cover letters?
+Yes, I have written many cover letters in the past. I don't ever feel confident about my writing! That said, my cover letters have helped me get my previous jobs. Still, I would like help curating it for tech related work.
 
 ### Job Search Strategies
 
 Please prepare responses to these questions to submit in the survey:
 
 - Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn’t effective for you?
+I have done it all. I've attended job fairs, used websites like Indeed, gone in person to places, and did virtual meet and greets. The most successful approaches were job fairs because it's easier to leave a good impression.
+
 - When you think about job searching for a software developer position, what are your biggest questions or concerns?
+I've heard many stories of people having to put in 200+ resumes before they were able to get an interview. I am concerned that I can't be as selective as I want to be about which companies I want to work for. I hope I don't have to settle for just any company because they're willing to hire me. Also, I am concerned about performing coding interviews. I get very nervous when I am under pressure and rarely perform well.
 
 ### Negotiations
 
 Please prepare responses to these questions to submit in the survey:
 
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
+I have never negotiated my salary because I never felt that I deserved to get paid well. That said, I am working on my perception of my self worth and genuinely believe that I am a hard worker and deserve to get paid more than I have in the past. Also, I am funny as heck - that's worth a lot right?
+
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
+How do I show my worth if I haven't worked in software before? Will my portfolio be enough for me to land something in the 70-80k range?
 
 ## Deliverables
 
