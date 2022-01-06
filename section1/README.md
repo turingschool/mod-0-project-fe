@@ -52,7 +52,7 @@ Read the three blog posts that follow:
 * [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
 * [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
 
-Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth?
 
 It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
 
@@ -110,7 +110,26 @@ Your first command should be:
 ```bash
 mkdir secretLibraryProject
 ```
-
+Solution:
+```
+383  mkdir secretLibraryProject
+385  ls
+388  cd secretLibraryProject
+389  ls
+390  touch README.md
+391  touch package.json
+392  mkdir lib
+393  mkdir test
+394  ls
+395  cd lib
+396  touch secretLibrary.js secretbook.js secretLibrarian.js patron.js librarySystem.js
+397  ls
+398  cd ..
+399  ls
+400  cd test
+401  touch secretLibrary.js secretBook.js secretLibrarian.js patron.js librarySystem.js
+402  ls
+```
 Note that in the command provided above, the dashes preceding the directory name were not used in the actual directory name. The dashes are just used as a diagram aide, and is a common pattern you will see in other documentation.
 
 ### Deleting Things
@@ -134,6 +153,38 @@ Note that in the command provided above, the dashes preceding the directory name
 #### Terminal Practice
 
 👩‍💻 Use `rm` and `rm -rf` to delete each of the files and directories you created in the `Making Things` section above.
+
+```
+409  rm secretLibrary.js patron.js
+410  ls
+411  rm librarySystem.js
+412  rm secretLibrarian.js
+413  rm secretBook.js
+414  ls
+415  cd ..
+416  ls
+417  rm -rf test
+418  ls
+419  cd lib
+420  ls
+421  rm librarySystem.js
+422  rm patron.js
+423  rm secretbook.js
+424  ls
+425  rm secretLibrarian.js
+426  rm secretLibrary.js
+427  ls
+428  cd ..
+429  rm -rf lib
+430  ls
+431  rm package.json
+432  rm README.md
+433  ls
+434  cd ..
+438  rm -rf secretLibraryProject
+439  ls
+
+```
 
 Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibraryProject`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future.
 
@@ -334,7 +385,7 @@ Let's take a look at why that resulted in a string. We have a variable called `s
 
 ### Interpolation
 
-In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together. 
+In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together.
 
 Interpolation requires slightly different syntax to inject values into a string. Follow the below formula to utilize interpolation:
 1. Use the back-tick (same key as the `~`, or the key to the left of the `1` key on a Mac keyboard) to wrap your entire string
