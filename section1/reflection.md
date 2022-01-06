@@ -6,13 +6,13 @@ I feel pretty good moving forward. I am still a little shy but I will try my bes
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
-###The first data type is a `string` which are letters, characters, or numbers wrapped within quotes.
-###The second data type is a `number` which are all numbers including decimals and negative numbers. Larger numbers will not have decimals.
-###The third data type is called a `boolean` which are where values are either true or false.  
+   The first data type is a `string` which are letters, characters, or numbers wrapped within quotes.
+   The second data type is a `number` which are all numbers including decimals and negative numbers. Larger numbers will not have decimals.
+   The third data type is called a `boolean` which are where values are either true or false.  
 
 3. How would you log the string `"Hello World!"` to the console?
 
-###First, I would assign the `Hello World` to the variable name `hi`. It would look like this: var hi = "Hello World ";. I would then use a concatenate to join `!` with the string. The console log should look like this: console.log(hi + "!");
+   First, I would assign the `Hello World` to the variable name `hi`. It would look like this: var hi = "Hello World ";. I would then use a concatenate to join `!` with the string. The console log should look like this: console.log(hi + "!");
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
