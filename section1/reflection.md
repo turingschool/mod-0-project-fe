@@ -31,4 +31,4 @@ When you want to see whats in your variable/box you just print it to the console
 ..* Whatsapp, when it says "You have 8 unread messages". It is finding the number of unread messages and then concatenating it into a phrase that i can read.
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
-..* What are the rules surrounding semicolons at the end of a line??? ;; I'll do some googling on my own, but I need to get better about adding it to everyline.
+..* What are the rules surrounding semicolons at the end of a line??? ;; I'll do some googling on my own, but I need to get better about adding it to everyline. 
