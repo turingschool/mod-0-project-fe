@@ -6,13 +6,13 @@ Spend some time changing the variables and running the file to see how the story
 */
 
 var doorChoice = 1;
-var bearClothing = "";
-var bearChoice = 1;
+var bearClothing = "socks";
+var bearChoice = 2;
 
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
 if (doorChoice === 1) {
-  bearClothing = "hat";
+  bearClothing = "pants";
 } else {
   bearClothing = "scarf";
 }
@@ -38,16 +38,25 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+      If condition 1 is true, than the bear's clothing will be pants. If condition 1 is false, then the bear's clothing is a scarf.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+      The variable bearClothing has a new assigned value if the first statement executes.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+      The bearClothing value would be 'scarf'.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+      Line 27 to line 35 is using else...if statements to check conditions. If the first condition is true where the bearChoice is strictly equal to one, the first code block is executed.
+      If condition 1 is false but condition 2 is true, then the second code block is executed. If condition 1 and 2 are false but condition 3 where the bearChoice is strictly equal to 3 is true, then the third code block is executed.
+      If none of the conditions above are true, then the last code block will be executed.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+    The final outcome would be that `You run as fast as you can into the next room. It's full of snakes!`
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+    The final outcome would be that 'You tell the bear the pants is too small and it starts to cry!'
 
 7. What is your favorite ending?
+    My favorite ending is that I stay with the bear and I become it's best friend. I would then be able to ride it anywhere I want.
 */
