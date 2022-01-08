@@ -9,6 +9,8 @@ When navigated to the root of this project directory, you should be able to run 
 file from your terminal with the command `node section1/exercises/dataTypes.js`
 */
 
+// this was fun
+
 
 //-------------------
 //STRINGS

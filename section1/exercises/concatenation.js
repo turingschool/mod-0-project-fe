@@ -22,15 +22,17 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
+// Your answer and explanation here:
 
+/*the values of both creatures and numberOfCreatures will be logged, results will look like "My zoo has 7 unicorns!"
+essentially javascript is helping us convert the code into a string through the result of type coercion*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-
+console.log("The " + speedy + " jumped over " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -39,17 +41,20 @@ var slowPoke = "lazy brown dog";
 
 slowPoke = "tortoise";
 speedy = "hare";
-
+console.log("In a predictable result, " + "the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-
+  var firstName = "Neil";
+  var workOut = "does a lot of crossfit";
+  var lackS = "sleep";
+console.log("In order to maintain physical fitness, " + firstName + workOut + " but doesn't get much " + lackS);
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
