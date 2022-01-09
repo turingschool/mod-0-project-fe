@@ -33,7 +33,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The" + speedy " jumped over the" + slowPoke);
+console.log("The" + " " speedy " jumped over the" + slowPoke);
 
 
 // YOU DO:
