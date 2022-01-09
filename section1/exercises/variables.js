@@ -57,6 +57,8 @@ numberOfPets = "11" // change variable `numberOfPets`
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 var totalSnacks = " There are" + healthySnacks + junkFoodSnacks "snacks";
+console.log(healthySnacks);
+console.log(junkFoodSnacks);
 console.log(totalSnacks);
 
 //-------------------
