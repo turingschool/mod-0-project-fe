@@ -48,9 +48,9 @@ console.log(numberOfPets);
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-firstName = "Ron" //change variable `firstName`
-isHungry = "Ron" // change variable `isHungry`
-numberOfPets = "11" // change variable `numberOfPets`
+firstName = "Ron"; //change variable `firstName`
+isHungry = "Ron"; // change variable `isHungry`
+numberOfPets = 11; // change variable `numberOfPets`
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
