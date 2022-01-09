@@ -37,7 +37,7 @@ for (var i = 0; i < 3; i++) {
  // 10 times.
 
 for (var i = 0; i < 10; i++){
-  console.log("She sells seashells down by the seashore")
+  console.log("She sells seashells down by the seashore");
 }
 
 
