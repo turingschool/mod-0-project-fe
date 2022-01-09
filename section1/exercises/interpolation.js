@@ -31,7 +31,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log(`The ${speedy} jumped over the ${slowPoke}`)
+console.log(`The ${speedy} jumped over the ${slowPoke}`);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,17 +40,17 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`)
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log(`In a predicatble result, the ${slowPoke} beat the ${speedy}!`)
+console.log(`In a predicatble result, the ${slowPoke} beat the ${speedy}!`);
 
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
-var firstName = "Jimmy"
-var task = "digging"
-var emotion = "loves"
-console.log(`${firstName} ${emotion} ${task} up worms!`)
+var firstName = "Jimmy";
+var task = "digging";
+var emotion = "loves";
+console.log(`${firstName} ${emotion} ${task} up worms!`);
 
 //-------------------
 // FINAL CHECK

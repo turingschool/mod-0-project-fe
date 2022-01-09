@@ -30,40 +30,40 @@ console.log(warning);
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
-var firstName = "Johnny"
-var isHungry = true
-var numberOfPets = 4
-console.log(firstName)
-console.log(isHungry)
-console.log(numberOfPets)
+var firstName = "Johnny";
+var isHungry = true;
+var numberOfPets = 4;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  //firstName is easy i just chose a common first named
-  // isHungry sounds like a question so i answered true
-  // numberOfPets is asking for a specific number so i gave it a value of 4
+  //firstName is easy I just chose a common first name, Johnny (string)
+  // isHungry sounds like a question so I answered true (BOOLEAN)
+  // numberOfPets is asking for a specific number so I gave it a value of 4 (number)
 
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "david"
-var isHungry = false
-var numberOfPets = 24
+var firstName = "david";
+var isHungry = false;
+var numberOfPets = 24;
 
-console.log(firstName)
-console.log(isHungry)
-console.log(numberOfPets)
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
-var totalSnacks = 6+8
-console.log(totalSnacks)
+var totalSnacks = 6+8;
+console.log(totalSnacks);
 
 //-------------------
 // FINAL CHECK
