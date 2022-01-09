@@ -51,6 +51,9 @@ console.log(numberOfPets);
 firstName = "Ron"; //change variable `firstName`
 isHungry = "Ron"; // change variable `isHungry`
 numberOfPets = 11; // change variable `numberOfPets`
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
