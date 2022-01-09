@@ -44,7 +44,7 @@ console.log(6 * 53);
 console.log(20 / 4);
 
 // YOU DO: log the result of the modulo of 10 into 54:
-console.log(54 / 10);
+console.log(54 % 10);
 
 
 //-------------------
