@@ -10,23 +10,23 @@
 
    The data types include: string, number, and boolean.
 
-   string- is letters or characters wrapped in quotes
-   number- handles numbers
-   boolean- evaluates to one of two values (true or false) similar to a yes or no
+   * string- is letters or characters wrapped in quotes
+   * number- handles numbers
+   * boolean- evaluates to one of two values (true or false) similar to a yes or no
 
 
 3. How would you log the string `"Hello World!"` to the console?
 
-  ```Javascript
-  console.log("Hello World!");
-  ```
+   ```Javascript
+   console.log("Hello World!");
+   ```
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
    To create comments in a JavaScript file you can do 2 things
 
-   single line would be: `// text`
-   multi line would be: `/* text */`
+   * single line would be: `// text`
+   * multi line would be: `/* text */`
 
    A code comment allows you to make notes or comments directly to the code without effecting the execution of the code itself. This can be used for yourself or you can use it to communicate to team members.
 
@@ -40,10 +40,10 @@
 
    If we look at a site like Amazon they use variables like userName, quantity, productType, primeMember, etc..
 
-   userName would be a String.
-   quantity would be a Number.
-   productType would be a String.
-   primeMember would be a Boolean.
+   * userName would be a String
+   * quantity would be a Number
+   * productType would be a String
+   * primeMember would be a Boolean
 
 7. In your own words, explain what concatenation is.
 
