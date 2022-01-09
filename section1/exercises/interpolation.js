@@ -51,8 +51,8 @@ console.log(`In a predicatable resulte, the ${slowPoke} beat the ${speedy}!`);
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 var city = "Chicago";
-var location "Lake";
-var numberOfTimes 2
+var location = "Lake";
+var numberOfTimes = 2
 
 console.log(`Here in ${city} we take our dog to the ${location} at least ${numberOfTimes} a week.`)
 
