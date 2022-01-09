@@ -115,6 +115,7 @@ if ((cupsOfFlour <= 1) && (hasSauce == false)) {
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
+
 Yes! I used a logical operator! That makes me feel good that I came up with an "Ideal Solution" :)
 
 */

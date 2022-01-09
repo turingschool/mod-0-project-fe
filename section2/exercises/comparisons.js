@@ -77,25 +77,29 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-// the console log is going to evaluate the result of the comparison: is 4 less than 9? The result should come up true because 4 is less than 9
+// the console log is going to evaluate the result of the comparison: is 4 less than 9?
+// The result should come up true because 4 is less than 9
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-//the console log is going to evaluate the result of the comparison: is books greater than 4? The result should come up false because 4 is not less than 3
+//the console log is going to evaluate the result of the comparison: is books greater than 4?
+// The result should come up false because 4 is not less than 3
 
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// the console log is going to evaluate the result of the comparison: is friends greater than siblings? The result should come up true because 6 is greater than 2
+// the console log is going to evaluate the result of the comparison: is friends greater than siblings?
+// The result should come up true because 6 is greater than 2
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// the console log is going to evaluate the result of the comparison: is attendees not equal to meals? The result should come up true because 8 is not equal to 9
+// the console log is going to evaluate the result of the comparison: is attendees not equal to meals?
+// The result should come up true because 8 is not equal to 9
 
 //-------------------
 // PART 3: Logical Operators
