@@ -54,7 +54,7 @@ var videoGame = "Fallout New Vegas";
 var numberOfTimes = 7
 var gameConsole = "PS3"
 
-console.log("I love " + videoGame + "!" + "I beat it " + numberOfTimes + " on " + gameConsole)
+console.log("I love " + videoGame + "!" + "I beat it " + numberOfTimes + " times on " + gameConsole)
 
 //-------------------
 // FINAL CHECK
