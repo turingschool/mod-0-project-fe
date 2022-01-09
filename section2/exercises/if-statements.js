@@ -31,10 +31,10 @@ if (weather === 'sunny') {
   console.log('good to go!');
 }
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
@@ -42,8 +42,27 @@ Log to the console the appropriate age range
 */
 
 var dogAge = 3;
-// Write your conditional here
+// testing other ages:
+// var dogAge = 200;
+// var dogAge = 1;
+// var dogAge = 10;
 
+// Write your conditional here
+// is the dog a puppy?
+if(dogAge <= 2)
+{
+  console.log("The dog is a puppy.");
+}
+// is the dog elderly?
+else if(dogAge >= 10)
+{
+  console.log("The dog is elderly.");
+}
+// is the dog an adult?
+else
+{
+  console.log("The dog is an adult.")
+}
 
 /*
 YOU DO:
@@ -63,10 +82,18 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 */
 
 var numQuarters = 0;
+// Other test cases:
+// var numQuarters = 1;
+// var numQuarters = 2;
+// var numQuarters = 3;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
+if(numQuarters >= 2)
+{
+  console.log("I have enough money for a gumball");
+} else {
+  console.log("I don't have enough money for a gumball");
+}
 
 
 /*
@@ -85,12 +112,27 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 var cupsOfFlour = 1;
 var hasSauce = true;
 
-// Write your conditional here
+// Other test cases:
+// var hasSauce = false;
+// var cupsOfFlour = 2;
+// var cupsOfFlour = -2;
+// var cupsOfFlour = 99;
 
+// Write your conditional here
+if((cupsOfFlour >= 2) && (hasSauce === true))
+{
+  console.log("I can make a pizza");
+}
+else {
+  console.log("I cannot make a pizza");
+}
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
-
 */
+
+// A logical operator connects two or more boolean statements
+// JavaScript primarily uses the || (OR) and && (AND) logical operators.
+// The && logical operator was used in the last example to check if we had enough flour AND if we had sauce
