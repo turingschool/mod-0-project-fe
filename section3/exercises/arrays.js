@@ -114,13 +114,13 @@ var chargerType = "car";
 
 // Write your conditional here
 
-if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {
-  console.log("Call Ubber");
-} else if (percentBatteryLeft < 15 || hasCharger === false) {
-  console.log("Cannot Call Ubber");
+if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {   // Condition to let the user know if calling Uber is possible
+  console.log("Call Ubber");    // If conditions above are true, code executes to notify user that calling Uber is possible
+} else if (percentBatteryLeft < 15 || hasCharger === false) {     // Conditions to let the user know if calling Uber is not possible
+  console.log("Cannot Call Ubber"); // If conditions above are false, code executes to notify user that calling uber is not possible
 }
 
- 
+
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,
 // what the line of code below, does.
