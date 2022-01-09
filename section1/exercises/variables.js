@@ -23,33 +23,52 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
-
+var goHome = 'Harry Potter must not return to Hogwarts!';
+console.log(goHome);
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = 'Joshua';
+var isHungry = 'I will be hungry pretty soon here';
+var numberOfPets = 1;
+
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
+// I noticed what each variable was named, then matched up the appropriate data types with the name of the variable. I thought about using "1" for the value stored within numberOfPets but a string is different from a number and from my understanding that isn't right..
+// At first I was confused on the difference between "" and ''. After a google search they are essentially the same but people are preaching consistency of your style so that is good to keep in mind.
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
+var firstName = 'Josh';
+var isHungry = 'Still not hungry but will eat';
+var numberOfPets = '2';
 
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+var allSnacks = healthySnacks + junkFoodSnacks;
+console.log(allSnacks);
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
+
+// All of the outputs turned out to be correct, at first I didn't understand why it was not reassigning the varialbe but I took a few steps away and got a set of eyes from my lady for her to tell me that I missed adding the second set of console.log().... lesson learned on attention to detail.
