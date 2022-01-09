@@ -33,7 +33,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log(`The ${speedy} jumped over the ${slowPoke}`)
+console.log(`The ${speedy} jumped over the ${slowPoke}`);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -42,6 +42,8 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`)
 
 slowPoke = "tortoise";
 speedy = "hare";
+
+console.log(`In a predicatable resulte, the ${slowPoke} beat the ${speedy}!`)
 
 
 // YOU DO:
