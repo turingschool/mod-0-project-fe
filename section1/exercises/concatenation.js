@@ -44,6 +44,8 @@ console.log("The " + speedy + " jumped over the " + slowPoke)
 slowPoke = "tortoise";
 speedy = "hare";
 
+console.log("In a predicatable result, the " + slowPoke + " beat the " + speedy + "!")
+
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
