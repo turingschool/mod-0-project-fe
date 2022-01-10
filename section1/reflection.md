@@ -26,19 +26,19 @@ When you want to see whats in your variable/box you just print it to the console
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
-  - Logging into my bank online, a variable of username and password would hold strings of text.
-  - When I transfer money it would hold a variable of numbers.
-  - When there are bank popups for a credit card I click no and that is maybe a boolean for false.
+   - Logging into my bank online, a variable of username and password would hold strings of text.
+   - When I transfer money it would hold a variable of numbers.
+   - When there are bank popups for a credit card I click no and that is maybe a boolean for false.
 
 7. In your own words, explain what concatenation is.
 
-  - Concatenation is like placing objects in a perfectly straight line. You start with things all over the place and concatenation puts them together in a nice neat line.
+   - Concatenation is like placing objects in a perfectly straight line. You start with things all over the place and concatenation puts them together in a nice neat line.
 
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
-  - Whatsapp, when it says "You have 8 unread messages". It is finding the number of unread messages and then concatenating it into a phrase that i can read.
+   - Whatsapp, when it says "You have 8 unread messages". It is finding the number of unread messages and then concatenating it into a phrase that i can read.
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-  - What are the rules surrounding semicolons at the end of a line??? ;; I'll do some googling on my own, but I need to get better about adding it to everyline.
+   - What are the rules surrounding semicolons at the end of a line??? ;; I'll do some googling on my own, but I need to get better about adding it to everyline.
