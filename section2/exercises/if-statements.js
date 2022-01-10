@@ -20,15 +20,15 @@ Make sure to run the file with node in your command line.
   // commented in/out and run the program in node several times to observe the output.
 
 if (weather === 'sunny') {
-  console.log('sunscreen');
+    console.log('sunscreen');
 } else if (weather === 'rainy') {
-  console.log('umbrella');
+    console.log('umbrella');
 } else if (weather === 'snowy') {
-  console.log('coat');
+    console.log('coat');
 } else if (weather === 'icy') {
-  console.log('yak traks');
+    console.log('yak traks');
 } else {
-  console.log('good to go!');
+    console.log('good to go!');
 }
 
 /*
@@ -43,12 +43,12 @@ Log to the console the appropriate age range
 
 var dogAge = 3;
 // Write your conditional here
-if (dogAge <=2 ){
-  console.log("Puppy");
+if (dogAge <= 2 ){
+    console.log("Puppy");
 } else if (dogAge > 2 && dogAge < 10) {
-  console.log("Adult");
+    console.log("Adult");
 } else {
-  console.log("Elderly");
+    console.log("Elderly");
 }
 
 /*
@@ -72,9 +72,9 @@ var numQuarters = 0;
 
 // Write your conditional here
 if (numQuarters >= 2){
-  console.log("I have enough money for a gumball");
+    console.log("I have enough money for a gumball");
 } else {
-  console.log("I don't have enough money for a gumball");
+    console.log("I don't have enough money for a gumball");
 }
 
 
@@ -98,9 +98,9 @@ var hasSauce = true;
 
 // Write your conditional here
 if (cupsOfFlour >= 2 && hasSauce){
-  console.log("I can make pizza");
+    console.log("I can make pizza");
 } else {
-  console.log("I cannot make pizza");
+    console.log("I cannot make pizza");
 }
 
 /*

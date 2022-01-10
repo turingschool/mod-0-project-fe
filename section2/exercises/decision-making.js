@@ -12,9 +12,9 @@ var bearChoice = 2;
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
 if (doorChoice === 1) {
-  bearClothing = "hat";
+    bearClothing = "hat";
 } else {
-  bearClothing = "scarf";
+    bearClothing = "scarf";
 }
 
 console.log("You see a bear putting on a " + bearClothing);
@@ -25,19 +25,20 @@ console.log("2. Point it out to the bear?");
 console.log("3. Make a dash for the next room?");
 
 if (bearChoice === 1) {
-  console.log("You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!");
+    console.log("You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!");
 } else if (bearChoice === 2) {
-  console.log("You tell the bear the " + bearClothing + " is too small and it starts to cry!");
+    console.log("You tell the bear the " + bearClothing + " is too small and it starts to cry!");
 } else if (bearChoice === 3) {
-  console.log("You run as fast as you can into the next room. It's full of snakes!");
+    console.log("You run as fast as you can into the next room. It's full of snakes!");
 } else {
-  console.log("You stay with the bear and become it's best friend!");
+    console.log("You stay with the bear and become it's best friend!");
 }
 
 /*
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+
 It's an If statement that is evaluating the variable doorChoice. If the variable is explicltly equal to 1
 then the variable bearClothing is reassigned to "hat". if that exact coniditon is not me then bearClothing
 is reassigned to "scarf".
@@ -46,19 +47,24 @@ is reassigned to "scarf".
 bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+
 "scarf" because the If statement is only explicitly looking for doorChoice to be equal to 1.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+
 The if and else if statements run through the 3 listed cases, but then finally have an else case to
 catch any other values of bearChoice that fall outside of 1,2,3. The output if bearChoice is not 1,2, or 3 is
 "You stay with the bear and become it's best friend!"
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+
 "You run as fast as yu can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+
 "You tell the bear the hat is too small and it starts to cry!"
 
 7. What is your favorite ending?
+
 Naturally I want to become best friends with the bear and go raid bee hives together for honey.
 */
