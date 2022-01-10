@@ -24,7 +24,7 @@ console.log('Welcome to Turing!');
 console.log('99 bottles of pop on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log('I live my life a quarter line of code at time.')
+console.log('I live my life a quarter line of code at time.');
 
 
 //-------------------
@@ -44,7 +44,7 @@ console.log(6 * 53);
 console.log(20 / 4);
 
 // YOU DO: log the result of the modulo of 10 into 54:
-console.log
+console.log( 54 % 10);
 
 
 //-------------------

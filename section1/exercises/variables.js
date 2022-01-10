@@ -44,8 +44,8 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  console.log("I wanted to use a string to represent the text letters that are in my name");
-console.log("I wanted to use a boolean to represent the true or false value of if I was hungry")
+console.log("I wanted to use a string to represent the text letters that are in my name");
+console.log("I wanted to use a boolean to represent the true or false value of if I was hungry");
 console.log("I wanted to use a number to represeent the quantity of pets I have");
 
 
@@ -64,7 +64,7 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-console.log(healthySnacks + junkFoodSnacks)
+console.log(healthySnacks + junkFoodSnacks);
 
 //-------------------
 // FINAL CHECK

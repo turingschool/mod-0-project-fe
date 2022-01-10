@@ -19,13 +19,13 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 console.log("My zoo has 7 unicorns!");
-console.log("In the console.log this concatenates 3 strings and two variables. one variable is a number and one variable is a string.")
-console.log("It's important to rememeber that spaces have to be included")
+console.log("In the console.log this concatenates 3 strings and two variables. one variable is a number and one variable is a string.");
+console.log("It's important to rememeber that spaces have to be included");
 
 // YOU DO:
 // Write code that combines the variables below into a string that
