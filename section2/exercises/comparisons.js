@@ -8,7 +8,7 @@ any remaining prompt.
 Make sure to run the file with node in your command line. Look back
 at the directions from Section 1 if you need a refresher on how to do that.
 */
-
+// Use to run in terminal: 'node section2/exercises/comparisons.js'
 //-------------------
 // PART 1: Comparing variables
 //-------------------
@@ -20,13 +20,16 @@ var numberDogs = 0;
 
 // EXAMPLE: log the result of the comparison: is numberTeachers greater than numberStudents?
 console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
+
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -36,6 +39,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -49,18 +53,23 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
+console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21);
 
 
 //-------------------
@@ -74,21 +83,24 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 console.log(4 < 9);
 //YOU DO: Explain.
+// This line of code is asking if 4 less than 9, which is true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+// This line of code is asking if 4 is less than the variable `books`, which currently equals 3. This is false.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+// This line of code is asking if the variable `friends` is greater than the variable `siblings`. This is true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// This line of code is asking if the variable `attendees` is strictly not equal to the variable `meals`. This is true.
 
 //-------------------
 // PART 3: Logical Operators
@@ -110,22 +122,27 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age)
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+/* ANSWER: My final line of code evaluated to 1. I believe this is because the variable `age`
+ is a number equal to 1 and not a boolean. Thus it cannot be resolved to a true or false statement.
+ Further code would be required to set up a condition that would read something like: If variable age is less than 2 then variable
+ isThisAPuppy will equal true.
+*/
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect?
+// as you would expect? Answer: I did! everything worked as expected. 
