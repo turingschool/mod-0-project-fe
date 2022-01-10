@@ -52,7 +52,7 @@ Read the three blog posts that follow:
 * [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
 * [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
 
-Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth?
 
 It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
 
@@ -334,7 +334,7 @@ Let's take a look at why that resulted in a string. We have a variable called `s
 
 ### Interpolation
 
-In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together. 
+In addition to concatenation, you may have also seen interpolation used to inject values into strings! One benefit of interpolation is that it can be easier to read in longer strings and don't require concatenating separate strings together.
 
 Interpolation requires slightly different syntax to inject values into a string. Follow the below formula to utilize interpolation:
 1. Use the back-tick (same key as the `~`, or the key to the left of the `1` key on a Mac keyboard) to wrap your entire string
