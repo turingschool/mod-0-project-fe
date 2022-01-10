@@ -28,14 +28,14 @@ console.log("The second example logs the value of i which represents");
  console.log("the current value of the loop we are on. In this example i starts at zero and goes to 2 for a total of three loops before terminating");
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-for ( var i =0; i < 7; i++) {
-  console.log(2+2);
+for ( var i = 0; i < 7; i++) {
+  console.log(2 + 2);
 }
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
- for ( var i = 0; i <10; i++){
-   console.log("She sells seashells down by the seashore")
+ for ( var i = 0; i < 10; i++){
+   console.log("She sells seashells down by the seashore");
  }
 
 
@@ -45,11 +45,11 @@ for ( var i =0; i < 7; i++) {
 
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
-for (var i = 0; i<3; i++){
-  console.log("This is loop number:", i +1);
+for (var i = 0; i < 3; i++){
+  console.log("This is loop number:", i + 1);
 }
 // YOU DO: Using a for loop, how could you get an output that looks like this:
-for (var i = 10; i >0; i--){
+for (var i = 10; i > 0; i--){
   console.log(i);
 }
 // 10

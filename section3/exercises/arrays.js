@@ -35,7 +35,7 @@ animals[3] = "Tiger";
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 animals[2] = "Elephant";
-console.log(animals[2]);
+  console.log(animals[2]);
 
 //-------------------
 // PART 2: Foods: Array Methods
@@ -56,13 +56,13 @@ console.log(foods);
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
 foods.pop();
-console.log(foods);
+  console.log(foods);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
 foods.push("burger", "fries", "shake");
-console.log(foods);
+  console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
 foods.shift();
 
