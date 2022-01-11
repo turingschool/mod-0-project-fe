@@ -43,6 +43,10 @@ Read/watch one or both of the following:
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+  - One point that resonated with me is "Challenge Seeking". The line that I related to the most was "Without a challenge, there is not work to be done". I feel like in my current career that I will be leaving soon, I have not had a challenge in years. It has become stagent and it becomes harder and harder each day to continue to work. A challenge keeps things fresh and exciting. If there is not anything new to learn, see, or explore it takes the joy out of the work and the reward.
+  - The other part that resonated with me is also from the article. It stated to push beyond your level of understanding little by little. I find this extremely important for me to make this statement part of me. I often try to take on too large of task/learning to much at once and find myself struggling and losing hope. I have already started to do this during the sessions so far as well as when I work on the homework and the project here. If I come across something that feels like it is extra and may not directly pretain to completing the task at hand or if it is additional information ontop of the root information during class I do not fret over it and instead focus on the primary material. At this time the "little by little" is just the core information needed to pass Mod0.
+
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
 
