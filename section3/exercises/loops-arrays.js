@@ -61,7 +61,7 @@ var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 
 // for loop over ages
-for ( ar i = 0; i < ages.length; i++){
+for ( var i = 0; i < ages.length; i++){
   if( ages[i] < 18){ //if age < 18
       console.log(`Age ${ages[i]}, Oh no you can't quite vote yet.`); // log can't vote
   } else { //else statement as a catch all if age verification fails
