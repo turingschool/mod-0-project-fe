@@ -39,12 +39,12 @@ console.log(83 - 7);
 
 // YOU DO: log the result of 6 multiplied by 53 to the console:
 
-console.log(6 * 53);
+console.log(6 * 53)
 // YOU DO: log the result of 20 divided by 4 to console:
 
-console.log(20 / 4);
+console.log(20 / 4)
 // YOU DO: log the result of the modulo of 10 into 54:
-console.log(10 % 54);
+console.log(10 % 54)
 
 
 //-------------------
@@ -58,11 +58,11 @@ console.log(1 === 2);
 console.log(7 > 2);
 
 // YOU DO: log to the console the result of "hello" is equal to "Hello":
-console.log("hello" === "Hello");
+console.log("hello" === "Hello")
 // YOU DO: log to the console the result of 3 is not equal to 4:
-console.log(3 != 4);
+console.log(3 != 4)
 // YOU DO: log to the console the result of 4 is less than or equal to 5:
-console.log(4 <= 5);
+console.log(4 <= 5)
 
 
 //-------------------
