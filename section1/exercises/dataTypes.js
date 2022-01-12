@@ -49,7 +49,6 @@ console.log(10 % 54)
 
 //-------------------
 // BOOLEANS
-//-------------------
 
 // EXAMPLE: log to the console the result of 1 is equal to 2:
 console.log(1 === 2);
