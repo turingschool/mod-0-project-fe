@@ -43,8 +43,17 @@ Read/watch one or both of the following:
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+  - One point that resonated with me is "Challenge Seeking". The line that I related to the most was "Without a challenge, there is not work to be done". I feel like in my current career that I will be leaving soon, I have not had a challenge in years. It has become stagent and it becomes harder and harder each day to continue to work. A challenge keeps things fresh and exciting. If there is not anything new to learn, see, or explore it takes the joy out of the work and the reward.
+  - The other part that resonated with me is also from the article. It stated to push beyond your level of understanding little by little. I find this extremely important for me to make this statement part of me. I often try to take on too large of task/learning to much at once and find myself struggling and losing hope. I have already started to do this during the sessions so far as well as when I work on the homework and the project here. If I come across something that feels like it is extra and may not directly pretain to completing the task at hand or if it is additional information ontop of the root information during class I do not fret over it and instead focus on the primary material. At this time the "little by little" is just the core information needed to pass Mod0.
+
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+  - Currently I find myself demonstrating Groth Mindset with the example I provided above. I am learning little by little and taking each challenge as it comes in bit size digestable pieces.
+  - Way I do not practice Growth Mindset is practing. I have had trouble to get myself to practice in my life. I have already seen the need during this program and recongize that each of our assignments so far has lots of repeat steps to have us do things over and over again. It is working because I have picked up on many of the lessons and can come back the next day without having to look up how to complete a task I learned how to do the previous day.
+  - Time management I think will be another area I will work on and hone thoughout the program. This pairs with pratice. Practice takes time, so does the program, my dog, hobbies, family. Everything takes time and when its not scheduled things get missed and left unattended. Setting time and utilizing a calendar even for just this week of class has shown the power of time management.
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+  - For the past three years I have worked at painting miniatures for different table top games. I did not know where to start at first and it inhibited me for many years. At first it was difficult and took alot of time to paint them even to get them to a basic standard. I now have been commissioned to paint for people, have one a painting contest, and can paint faster than anyone else in my gaming group. I learned this from youtube, from talking to other experienced painters in the community, and most of all putting in pratice, trying new techniques and pushing myself to learn more and more each time I picked up the paint brush. After typing this out I can really see how the Growth Mindset applies.
 
 ## Part B: Conditionals
 
