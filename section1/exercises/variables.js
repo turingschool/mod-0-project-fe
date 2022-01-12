@@ -32,14 +32,14 @@ console.log(warning);
 // log all three variables to the console.
 var firstName = "Nicholas";
 var isHungry = "Hungry";
-var numberOfPets = "One";
+var numberOfPets = 1;
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+  // I decided to use strings for `firsName` and `isHungry` since they are words but used number for `numberOfPets` since the answer is a number.
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
@@ -48,6 +48,10 @@ console.log(numberOfPets);
 var firstName = "Nick";
 var isHungry = "Chicken";
 var numberOfPets = "None";
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
+
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
@@ -60,3 +64,4 @@ console.log(junkFoodSnacks);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+    // Yes!
