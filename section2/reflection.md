@@ -1,15 +1,25 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
+  * One point that resonated with me is "Challenge Seeking". The line that I related to the most was "Without a challenge, there is not work to be done". I feel like in my current career that I will be leaving soon, I have not had a challenge in years. It has become stagnant and it becomes harder and harder each day to continue to work. A challenge keeps things fresh and exciting. If there is not anything new to learn, see, or explore it takes the joy out of the work and the reward.
+  * The other part that resonated with me is also from the article. It stated to push beyond your level of understanding little by little. I find this extremely important for me to make this statement part of me. I often try to take on too large of task/learning to much at once and find myself struggling and losing hope. I have already started to do this during the sessions so far as well as when I work on the homework and the project here. If I come across something that feels like it is extra and may not directly pertain to completing the task at hand or if it is additional information on top of the root information during class I do not fret over it and instead focus on the primary material. At this time the "little by little" is just the core information needed to pass Mod0.
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-
+  * Currently I find myself demonstrating Growth Mindset with the example I provided above. I am learning little by little and taking each challenge as it comes in bit size digestible pieces.
+  * Ways I do not practice Growth Mindset is practicing. I have had trouble to get myself to practice in my life. I have already seen the need during this program and recognize that each of our assignments so far has lots of repeat steps to have us do things over and over again. It is working because I have picked up on many of the lessons and can come back the next day without having to look up how to complete a task I learned how to do the previous day.
+  * Time management I think will be another area I will work on and hone though out the program. This pairs with practice. Practice takes time, so does the program, my dog, hobbies, family. Everything takes time and when its not scheduled things get missed and left unattended. Setting time and utilizing a calendar even for just this week of class has shown the power of time management.
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
+  * I did not notice that the directions were left out. After last lesson and having spend a good amount of time becoming comfortable with completing similar tasks I did not have to think much about how am I going to run this. I think part of this comes from the mistakes I made on the last part of the project. I thought I had to push and commit each change I made before I ran node. This led to me having many repetitions of each of those commands.
+  * If I do have to say one thing about the experience is that it felt like more of a challenge, having to recall the information from memory. I find to this to be a helpful thing during this exercise. It challenged me to make sure I was able to recall the information and if not find where the information is located.
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
-
+   * A conditional statement allow the program to run different blocks of code depending on defined boolean variables being true or false.
+   * What does the question mean "daily life conditional"? Work starts at 9, I need 30 minutes to get ready. If I wake up with less than 30 minutes until 9 I will be late. Thats a "conditional" outside of programing if that is what is being asked.
+   * On Youtube if you have an account you will have a "Liked" video section that saves all your liked videos to that area. A code maybe able to determine if a video is liked by user than moved to like folder. If video is not liked by user video is not added to folder.
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
+  * You can use AND and OR operators. AND is && OR is ||. If the logical operators are used you can have them check multiple variables, This AND that have to be true or this OR that has to be true. The program will only return true when using && if both of the operants are true, while || only returns false when both of its operants are false.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
-
+  * Would making a flow chart be a tool you can use? Looking over the data yourself you maybe able to determine if the conditions are met. You can use the console within chrome to test the code using Javascript.
 7. What questions do you still have about `if` statements and/or functions?
+  * After reviewing the assigned book and class material I am wondering what tools are available to check the code before running it. Is there data that a `if` statement can not check?
