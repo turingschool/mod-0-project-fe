@@ -24,24 +24,40 @@ for (var i = 0; i < 3; i++) {
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
+// 0
+// 1
+// 2
+// are logged for this example because i is initialized to 0 and we keep
+// iterating until we leave the loop, which happens when the condition i < 3 is not method
+// therefore the loop can only iterate 3 times, but starting at 0, which produces the output 0, 1, 2.
 
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
+for(var i = 0; i < 7; i++)
+{
+  console.log(`2 + 2 = ${2 + 2}`);
+}
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
+ for(var i = 0; i < 10; i++)
+ {
+   console.log("She sells seashells by the seashore");
+ }
 
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
-// YOU DO: Write code below that logs to the console a String of "This is loop number: " 
+// YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
+for(var i = 0; i < 10; i++)
+{
+  console.log(`This is loop number: ${i+1}`);
+}
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
-
 // 10
 // 9
 // 8
@@ -53,6 +69,11 @@ for (var i = 0; i < 3; i++) {
 // 2
 // 1
 
-// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend 
+// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
 // progress, that means it's time to reach out to your Mod 0 group on Slack!
+
+for(var i = 10; i > 0; i--)
+{
+  console.log(i);
+}

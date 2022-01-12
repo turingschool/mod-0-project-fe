@@ -40,8 +40,17 @@ One challenge learners in a new environment/content area face is feeling like th
 So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the project has gone so far.
 
 - Have the time estimates matched up with your experience?
+
+So far, I think the time estimates have been generous - but the extra time has helped me spend more time reflecting and researching what I am learning.
+
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+
+I usually write down what I need to get done in the day and reference that, but I think it would be more helpful to write down what I want to accomplish in each pomo session. I haven't really set time estimations for each goal, since I am not sure how much I'll need to spend on certain things unless the assignment tells me. Maybe with more familiarity, i'll be able to set my own time limits.
+
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+
+I've always been a huge fan of the Pomodoro technique of 25 on and 5 off - so two sessions per hour for about 4 hours. So far it's been working well, the issue is when I get distracted or forget to set my timer. At that point I lose count of how many study sessions i've had in a day.
+
 
 You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of the project, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/).
 
