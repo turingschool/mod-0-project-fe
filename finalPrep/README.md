@@ -50,7 +50,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 
 - `Add Week 3 Screenshot Here` <img width="1098" alt="Screen Shot 2022-01-10 at 2 54 05 PM" src="https://user-images.githubusercontent.com/96446170/148838195-650fd54e-51b7-4842-a4d5-e4f807708c69.png">
 
-
+`Calendar Note` In the description section for the HW & Practice, I have specifics on what I plan to work on during that time. 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
