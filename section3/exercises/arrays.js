@@ -109,23 +109,23 @@ if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 14;
-var hasCharger = false;
-var chargerType = "phone";
+var percentBatteryLeft = 100;
+var hasCharger = true;
+var chargerType = "car";
 
-// Conditional statement 'If' will run the log command if the variables value meets the conditional operators evaluation.
+// Conditional statement 'If' runs the log command when variables value meets the conditional operators evaluation
 if (percentBatteryLeft >= 15) {
   console.log("Congrats! You can call an Uber!");
-// Second command will execute if conditional operators in the second brackets evaluate to true.
+// Second command executes if conditional operators in the second brackets evaluate to true
 } else if (percentBatteryLeft <= 14, hasCharger === true && chargerType === "car") {
   console.log("Luckily, You can call an Uber!");
-//Third command will execute if the first two conditions are not met and the statements in third bracket are met.
+//Third command executes if the first two conditions are not met and the statements in third bracket are true
 } else if (percentBatteryLeft <= 14, hasCharger === false && chargerType === "car") {
   console.log("I'm sorry, You cannot call an Uber.");
-//Otherwise, if none of the previous conditions are met, the last statement will execute.
+//Otherwise, if none of the previous conditions are met, the last statement will execute
 } else if (percentBatteryLeft <= 14, hasCharger === true && chargerType !== "car") {
   console.log("I'm sorry, You cannot call an Uber.");
-//This statement will run if none of the variables meet any of the operators evaluations. 
+//This statement runs if none of the variables meet any of the operators evaluations
 } else if (percentBatteryLeft <= 14, hasCharger === false && chargerType !== "car") {
   console.log("I'm sorry, good luck finding a ride.");
 }
