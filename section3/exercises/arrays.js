@@ -130,20 +130,13 @@ var chargerType = "car";
 
 // Write your conditional here
 // First check if battery life is sufficient, if so - then run the code inside the braces
-if(percentBatteryLeft >= 15)
-{
+if (percentBatteryLeft >= 15){
   // Log a message to console
   console.log("You can call an Uber!");
-}
-// Now check if user has a charger and that they have a "car" charger type, if so - then run the code inside the braces
-else if (hasCharger && chargerType === "car")
-{
+} else if (hasCharger && chargerType === "car") { // Now check if user has a charger and that they have a "car" charger type, if so - then run the code inside the braces
   // Log a message to the console
   console.log("You can call an Uber, but you'll need to charge it in the car.");
-}
-// If neither of the above conditons are met, then the user can't call an Uber, so run the code inside the braces
-else
-{
+} else { // If neither of the above conditons are met, then the user can't call an Uber, so run the code inside the braces
   // Log a message to the console
   console.log("Sorry bud, looks like you'll be walking home...")
 }

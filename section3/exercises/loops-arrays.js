@@ -18,8 +18,7 @@ for (var i = 0; i < animals.length; i++) {
 
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
-for (var i = 0; i < animals.length; i++)
-{
+for (var i = 0; i < animals.length; i++) {
   console.log(`The ${animals[i]} is awesome!`);
 }
 
@@ -28,8 +27,7 @@ for (var i = 0; i < animals.length; i++)
 // <food> to shopping list" for each food item.
 var foods = ["Apples", "Oranges", "Green onions", "Almonds", "Cookies"];
 
-for (var i = 0; i < foods.length; i++)
-{
+for (var i = 0; i < foods.length; i++) {
   console.log(`Add ${foods[i]} to shopping list`);
 }
 
@@ -37,8 +35,7 @@ for (var i = 0; i < foods.length; i++)
 // of each of the number. (Ex: 4 doubled is 8.)
 var randomNums = [8, 19, 2, 0, 88, 666];
 
-for (var i = 0; i < randomNums.length; i++)
-{
+for (var i = 0; i < randomNums.length; i++) {
   console.log(`${randomNums[i]} * 2 = ${randomNums[i] * 2}`);
 }
 
@@ -46,8 +43,7 @@ for (var i = 0; i < randomNums.length; i++)
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
 // each name except the first two.
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
-for (var i = 2; i <= randomNums.length; i++)
-{
+for (var i = 2; i <= randomNums.length; i++) {
   console.log(`Happy Birthday ${names[i]}`);
 }
 
@@ -70,8 +66,7 @@ for (var i = 0; i < ages.length; i++) {
   // Check if age is 18+
   if (ages[i] >= 18) {
     console.log("Make sure you go out and vote!")
-  }
-  else {
+  } else {
     console.log("Oh no, you can't vote quite yet.")
   }
 }
