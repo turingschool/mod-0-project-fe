@@ -114,9 +114,9 @@ var chargerType = "car";
 
 // Write your conditional here
 
-if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {   // Conditions to let the user know if calling Uber is possible
+if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {   // Conditions declared to let users know if they can call
   console.log("Call Ubber");    // If conditions above are true, code executes to notify user that calling Uber is possible
-} else if (percentBatteryLeft < 15 || hasCharger === false) {     // Conditions to let the user know if calling Uber is not possible
+} else if (percentBatteryLeft < 15 || hasCharger === false) {     // Conditions declared to let the user know if calling Uber is not possible
   console.log("Cannot Call Ubber"); // If conditions above are false, code executes to notify user that calling uber is not possible
 }
 

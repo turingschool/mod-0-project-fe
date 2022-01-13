@@ -79,27 +79,33 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//   The line of code is comparing whether 4 is less than 9. It will evaluate to be true.
+    // The line of code is comparing whether the number 4 is less than the number 9.
+    // It will evaluate to be true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-//    The variable books has a value of 3. The line of code is comparing whether the value of the books is greater than 4.
-//    It will evaluate to be false since 3 is less than 4.
+    // The variable books is declared and assigned a value of 3.
+    // The line of code is comparing whether the value of books is greater than the number 4.
+    // It will evaluate to be false since 3 is less than 4.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-//    The variable 'friends' has a value of 6 and the variable 'siblings' has a value of 2. The line of code is comparing
-//    whether the value of friends is greater than the value of siblings. It will evaluate to be true since 6 is greater than two.
+    // The variable friends is declared and assigned a value of 6.
+    // The variable siblings is declared and assigned a value of 2.
+    // The line of code is comparing whether the value of friends is greater than the value of siblings.
+    // It will evaluate to be true since the value of friends which is 6 is greater than value of siblings which is 2.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-//   The variable 'attendees' has a value of 9 and the variable 'meat' has a value of 8. The line of code is comparing that the
-//   value of attendees does not equal the value of meals. It will evaluate to be true since 9 is not equal to 8.
+    // The variable attendees is declared and assigned a value of 9.
+    // The variable meals is declared and assigned a value of 8.
+    // The line of code is comparing that the value of attendees does not equal the value of meals.
+    // It will evaluate to be true since the value of attendees which is 9 is not equal to the value of meals which is 8.
 
 //-------------------
 // PART 3: Logical Operators
@@ -122,21 +128,25 @@ var age = 1;
 // YOU DO:
 // Determine if the dog loves to play and loves treats
 console.log(lovesToPlay && lovesTreats);
+// true
 
 // Determine if the dog loves to play and loves the dog park
 console.log(lovesToPlay && lovesDogPark);
+// false
 
 // Determine if the dog loves to play or loves the dog park
 console.log(lovesToPlay || lovesDogPark);
+// true
 
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age);
+// 1
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 
-// My final line of code evaluated to 1. Based on what I found on stack overflow, this evaluation is a boolean context, which
-// makes `1` to be considered Truthy. Since both statements are true, the value `Truth` is converted to 1 which means true."
+    // My final line of code evaluated to 1. Based on what I found on stack overflow, this evaluation is a boolean context, which
+    // makes `1` to be considered Truthy. Since both statements are true, the value `Truth` is converted to 1 which means true.
 
 //-------------------
 // FINAL CHECK

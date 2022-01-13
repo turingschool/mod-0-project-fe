@@ -23,7 +23,10 @@ for (var i = 0; i < 3; i++) {
 }
 
 // What is logged to the console for this second example? Why?
-// EXPLAIN: The console will log `i` and run the code 3 times. It logs this because `i` stands for index and index always starts at 0. Counting forward 3 times at 0 is 0, 1, and 2.
+// EXPLAIN:
+    // The console will log `i` and run the code 3 times.
+    // It logs this because `i` stands for index and index always starts at 0.
+    // Counting forward 3 times at 0 is 0, 1, and 2.
 
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
@@ -44,7 +47,7 @@ for (var i = 0; i < 10; i++) {
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 for (var i = 0; i < 1; i++) {
-  console.log("This is a loop number: " + " `i`.");
+  console.log("This is a loop number:" + " `i`.");
 }
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
