@@ -15,7 +15,7 @@ Make sure to run the file with node in your command line.
 // var weather = 'snowy';
 // var weather = 'icy';
 // var weather = 'rainy';
-var weather = 'sunny';
+// var weather = 'sunny';
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
 
@@ -106,5 +106,5 @@ For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
-// I used three different conditional/logical operators to evaluates the conditions of the user input. 
+// I used three different conditional/logical operators to evaluates the conditions of the user input.
 */
