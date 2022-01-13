@@ -111,16 +111,18 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
+
+  //This next line of code asks to see if the variable percentBatteryLeft is greater than or equal to the number 15. If this questions is true than it will log the string "User can call Uber". If this question is false then it will continue to the next line of code.
 if (percentBatteryLeft >= 15) {
   console.log("User can call Uber.");
-  //This above line of code asks to see if the variable percentBatteryLeft is greater than or equal to the number 15. If this questions is true than it will log the string "User can call Uber". If this question is false then it will continue to the next line of code.
+  //This next line of code executes if the first if statement results in false. When this else if runs it is asking to see if the variable hasCharger is true AND the variable chargerType is equal to "car". If BOTH of these are true than it will log the string "User can call Uber". If either one results in false then it will continue to the next line of code.
 } else if (hasCharger === true && chargerType === "car") {
   console.log("User can call Uber.");
-  //This above line of code executes if the first if statement results in false. When this else if runs it is asking to see if the variable hasCharger is true AND the variable chargerType is equal to "car". If BOTH of these are true than it will log the string "User can call Uber". If either one results in false then it will continue to the next line of code. 
+  //This next line of code will execute if all above if and if else statements result in false. WHen that happens it will log the string "User cannot call Uber".
 } else {
   console.log("User cannot call Uber.");
 }
-  //This above line of code will execute if all above if and if else statements result in false. WHen that happens it will log the string "User cannot call Uber".
+
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,
