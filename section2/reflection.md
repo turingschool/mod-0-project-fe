@@ -30,16 +30,13 @@ var catsOwned = 10;
 var catsNeeded = 2;
 var sufficientIncome = false;
 
-if((catsOwned <= catsNeeded) && (sufficientIncome == true))
-{
+if ((catsOwned <= catsNeeded) && (sufficientIncome == true)) {
   console.log("You need more cats!!!");
 }
-else if((catsOwned > catsNeeded) && (sufficientIncome == true))
-{
+else if ((catsOwned > catsNeeded) && (sufficientIncome == true)) {
   console.log("You have too many cats!!!");
 }
-else
-{
+else {
   console.log("You should not any have cats...");
 }
 ```
@@ -48,18 +45,17 @@ else
 
 **To check for different conditions with different results, you can have cascading `if` statements (an if-else if-else code block):**
 ```js
-// First condition
-if() // some statement is true) {
-  // then execute whatever is in here
+// First condition - check if some statement is true
+if (statement) {
+  // if true, then execute whatever is in here
 }
-// Second condition
-else if() // some other statement is true) {
-  // then execute whatever is in here
+// Second condition - check if some other statement is true
+else if (statement) {
+  // if true, then execute whatever is in here
 }
-// Third condition
-else if() // some other OTHER statement is true)
-{
-  // then execute whatever is in here
+// Third condition -  check if some other OTHER statement is true
+else if (statement) {
+  // if true, then execute whatever is in here
 }
 // ...
 // Keep adding else if(statement) to add more conditions...

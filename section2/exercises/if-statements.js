@@ -49,18 +49,11 @@ var dogAge = 3;
 
 // Write your conditional here
 // is the dog a puppy?
-if(dogAge <= 2)
-{
+if (dogAge <= 2) {
   console.log("The dog is a puppy.");
-}
-// is the dog elderly?
-else if(dogAge >= 10)
-{
+} else if (dogAge >= 10) {              // is the dog elderly?
   console.log("The dog is elderly.");
-}
-// is the dog an adult?
-else
-{
+} else {                                // is the dog an adult?
   console.log("The dog is an adult.")
 }
 
@@ -88,8 +81,7 @@ var numQuarters = 0;
 // var numQuarters = 3;
 
 // Write your conditional here
-if(numQuarters >= 2)
-{
+if(numQuarters >= 2) {
   console.log("I have enough money for a gumball");
 } else {
   console.log("I don't have enough money for a gumball");
@@ -119,11 +111,9 @@ var hasSauce = true;
 // var cupsOfFlour = 99;
 
 // Write your conditional here
-if((cupsOfFlour >= 2) && (hasSauce === true))
-{
+if ((cupsOfFlour >= 2) && (hasSauce === true)) {
   console.log("I can make a pizza");
-}
-else {
+} else {
   console.log("I cannot make a pizza");
 }
 
