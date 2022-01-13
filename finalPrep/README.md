@@ -45,15 +45,15 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 ![Week 1](https://user-images.githubusercontent.com/96206823/149392812-1d9f7d37-4460-4fbb-a0a0-b4858f195fc9.png)
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+![Week 2](https://user-images.githubusercontent.com/96206823/149393145-39d694be-592c-4a2b-90da-915e47839404.png)
+![Week 3](https://user-images.githubusercontent.com/96206823/149393194-c9ae993a-5b9c-447b-aa70-3590b3245c57.png)
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here:
+- [X] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [X] Add link to your gist here: https://gist.github.com/whiteheadol/a39ac5f3ef85f34c7f44b1138e530403
 
 ## Lesson Prep
 
