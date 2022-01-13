@@ -38,13 +38,13 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [X] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
+- [X] Study/Project work time (usually about 25 hours/week outside of class time)
+- [X] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+![Week 1](https://user-images.githubusercontent.com/96206823/149392812-1d9f7d37-4460-4fbb-a0a0-b4858f195fc9.png)
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
