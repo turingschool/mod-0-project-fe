@@ -13,7 +13,7 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 ## Refactor Previous Work
 
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 
@@ -23,51 +23,54 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
-Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
+Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+- [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [x] Add a link for your gist here: [GearUp Prework](https://gist.github.com/kal-aalrajhi/6501cac5ffd9deece5b9f6c4677e5c99)
 
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+![image](https://raw.githubusercontent.com/kal-aalrajhi/mod-0-project-fe/main/images/Week1.png)
 - `Add Week 2 Screenshot Here`
+![image](https://raw.githubusercontent.com/kal-aalrajhi/mod-0-project-fe/main/images/Week2.png)
 - `Add Week 3 Screenshot Here`
+![image](https://raw.githubusercontent.com/kal-aalrajhi/mod-0-project-fe/main/images/Week3.png)
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [x] Add link to your gist here: [DTR Prep](https://gist.github.com/kal-aalrajhi/4440d1d255be4d9b8a81405abc751848)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [x] Add a link to your gist here: [Pre Teaching](https://gist.github.com/kal-aalrajhi/08f12c662ac828776e1e0c9f6d857cba)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: [DTR Group](https://gist.github.com/kal-aalrajhi/910eb75ba31fdcb7a125b6bae8700695)
 
 ## Mod 0 Project Submission
 
