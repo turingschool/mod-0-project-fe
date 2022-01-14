@@ -43,13 +43,13 @@ Log to the console the appropriate age range
 
 var dogAge = 2;
 // Write your conditional here
-console.log("What is the lifestage of your doggo?")
+console.log('What is the lifestage of your doggo?');
 if (dogAge >= 10) {
-  console.log("elderly.");
+  console.log('elderly.');
 } else if (dogAge > 2) {
-  console.log("adult.");
+  console.log('adult.');
 } else if (dogAge <= 2){
-  console.log("puppy.");
+  console.log('puppy.');
 }
 
 /*
@@ -73,9 +73,9 @@ var numQuarters = 2;
 
 // Write your conditional here
 if (numQuarters >= 2) {
-  console.log("I have enough money for a gumball");
+  console.log('I have enough money for a gumball');
 } else if (numQuarters < 2) {
-  console.log("I don't have enough money for a gumball");
+  console.log('I do not have enough money for a gumball');
 }
 
 /*
@@ -96,9 +96,9 @@ var hasSauce = true;
 
 // Write your conditional here
 if (cupsOfFlour < 2 || hasSauce === false) {
-  console.log("I cannot make pizza");
+  console.log('I cannot make pizza');
 } else if (cupsOfFlour >= 2 && hasSauce === true) {
-  console.log("I can make pizza");
+  console.log('I can make pizza');
 }
 
 /*

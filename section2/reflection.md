@@ -17,7 +17,7 @@
   * A programmer can use `else` and/or `else if` to add multiple conditions to an `if` statement. The program reads the first `if` statement and evaluates it. If it evaluates this first statement to be `true` the program stops there, doesn't  evaluate any of the `else` or `else if` in that code block, and continues on with the script. However, if the `if` statement is `false` then JavaScript will continue to evaluate the sequence of `else`/`else if` statements until it reaches a true statement at which point it will continue on with the script. The `else` keyword is used when no appropriate `if` statements are logged in which case JavaScript will use the code associated with this `else`. A good example of this was the `if` chain for the bear where if no inputs were logged you became best friends with the bear:
   ```JavaScript
   var bearChoice = 1;
-  var bearClothing = "Puffy Jacket"
+  var bearClothing = "Puffy Jacket";
 
   if (bearChoice === 1) {
     console.log("You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!");
