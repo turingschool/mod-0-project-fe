@@ -39,7 +39,8 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  // I decided to use strings for `firsName` and `isHungry` since they are words but used number for `numberOfPets` since the answer is a number.
+  // I decided to use strings for `firsName` and `isHungry` since they are words but
+  // used a number for `numberOfPets` since I gave a value using a number.
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
