@@ -12,14 +12,14 @@
 3. How would you log the string `"Hello World!"` to the console?
 
   ```JavaScript
-  console.log("Hello World!")
+  console.log("Hello World!");
   ```
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
   * Code comments allow programmers to leave useful comments regarding parts of their code for themselves or for other who may be reading the code later on. Complicated code can sometimes be difficult to read and understand quickly a code comment can be used to describe what a specific piece of code is doing.
   * `//` are used to do single line comments. Any inputs after the slashes will be greyed out and not read for that line of code.
   * ``/*  */`` are used for multiline comments. Anything between the the slashes and asterisks will be greyed out and not read by the computer.
-  * Code comments can also be used to silence sections of code if the programmers wishes to.
+  * Code comments can also be used to silence sections of code if the programmer wishes to test certain aspects of the code.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
   * Variables are a way for us to define something and give it a value. We can then use this something later on in many places of our code when we need it. We can also change its value if we need/want to!
@@ -43,4 +43,4 @@
   * Interpolations seem like an overall simpler and faster way to combine different variables and strings. Why would we use Concatenation over Interpolation?
   * How do you allow a user to change a variable based on certain input?
   * What are some other primitive data types?
-  * Are there different assignment operators used for concatenation other than (`+`)?
+  * One question I had is: are there different assignment operators used for concatenation other than (`+`)?

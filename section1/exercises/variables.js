@@ -51,8 +51,8 @@ data type because it deals with a number of something.
   // values (but same data type).
 // log all three variables to the console.
 firstName = 'john';
-isHungry = false
-numberOfPets = 6
+isHungry = false;
+numberOfPets = 6;
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
