@@ -31,10 +31,10 @@ if (weather === 'sunny') {
   console.log('good to go!');
 }
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
@@ -43,7 +43,15 @@ Log to the console the appropriate age range
 
 var dogAge = 3;
 // Write your conditional here
-
+if (dogAge <= 2) {
+  console.log('puppy');
+} else if (dogAge <=9) {
+  console.log("adult");
+} else if (dogAge >9) {
+  console.log("elderly");
+} else {
+  console.log( "Sweet Little Angel Baby!");
+}
 
 /*
 YOU DO:
@@ -65,10 +73,9 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
-
-
+if (numQuarters <=1); {
+  console.log("I don't have enough money for a gumball");
+}
 /*
 YOU DO:
 Using the variables defined below, determine if you have the
@@ -86,11 +93,19 @@ var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
-
-
+if (cupsOfFlour && hasSauce); {
+  console.log("I cannot make a pizza");
+} if (cupsOfFlour || hasSauce); {
+  console.log("I cannot make a pizza");
+}
+cupsOfFlour >= 2;
+hasSauce = true;
+if (cupsOfFlour && hasSauce); {
+  console.log("I can make a pizza");
+}
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
-*/
+//My original idea was to use a logical operator of &&, but when I did I obviously had the setup wrong, because I got an error that said && was an unexpected token. I was able to make it work without a logical operator, but realized that meant more work. So I went back and changed the variables to make it work with less coding.
