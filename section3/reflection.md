@@ -1,13 +1,14 @@
 ## Section 3 Reflection
 
 1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read through technical documentation, and use your resources more. How did that feel?
-
+This felt immensely more satisfying. I had like 5 tabs open and most of the previous sections open to reference back to, but it was very gratifying to be piecing the parts together and making jumps in understanding. Using previous concepts in ways not explicitly stated to gain your own insight from it felt closer to the real developer experience.
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
-
+An app I use called mountain project likely uses a good deal of arrays. It uses user submitted data to segment sections in names, grades, and areas. When a user submits a post I would assume that it would log the area from geolocation and then add the new data to the relevant arrays. Adds the climb name to var name = [""], grades to var grades = [""], and area to var area = [""] related array maybe even with the push function and stores them. I am not sure how they would relate all the multiple array data together, but I am curious now that I have had the thought. 
 3. In your own words, explain what an Array method is.
-
+An array is a variable that stores multiple elements of data in one list. You can adjust the array using array methods, but cannot alter the methods themselves. It's useful for storing larger sets of similar data without having to manually assign all variables.
 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?
-
+I loop is used to check a variable or array against a condition to determine if it true. If it is true, it can be set to run a section of code and repeat through the rest of the array. You would use a loop with an array if you need a condition applies to an entire set of elements such as "Have all of these names filled out an insurance form". You would run a loop without an array if you wanted for whatever reason to cycle though that single variable many times.
 5. If you had to teach a 5 year old about loops, how would you explain it?
-
+A loop takes a list of things and checks a specific requirement on each. Each one that passes goes onto the next step and follows the next set of directions. This repeats through the whole list unless instructed otherwise.
 6. What questions do you still have about Arrays and loops?
+Array make sense to me from what I have learned so far. It seems like a very functional way to list out multiple elements in a variable. I tried looking up what functionality running a loop on a single variable would have, but I could not find a concrete answer. Seems like a loop would be unnecessary.
