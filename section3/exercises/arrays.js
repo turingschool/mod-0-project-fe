@@ -89,9 +89,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1: Youtube
-// 2: Spotify
-// 3: Yahoo Mail
+// 1: Youtube - list of liked videos
+// 2: Spotify - list of liked songs
+// 3: Yahoo Mail - list of emails or contacts
 
 
 //-------------------
@@ -114,10 +114,10 @@ var chargerType = "car";
 
 // Write your conditional here
 
-if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {   // Conditions declared to let users know if they can call
+if (percentBatteryLeft >= 15 || hasCharger === true && chargerType === "car") {   // Conditions declared to let users know if they can call an Uber
   console.log("Call Ubber");    // If conditions above are true, code executes to notify user that calling Uber is possible
 } else if (percentBatteryLeft < 15 || hasCharger === false) {     // Conditions declared to let the user know if calling Uber is not possible
-  console.log("Cannot Call Ubber"); // If conditions above are false, code executes to notify user that calling uber is not possible
+  console.log("Cannot Call Ubber"); // If conditions above are true, code executes to notify user that calling uber is not possible
 }
 
 
