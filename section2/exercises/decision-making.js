@@ -38,8 +38,8 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-      If condition 1 is true, than the bear's clothing will be pants.
-      If condition 1 is false, then the bear's clothing is a scarf.
+      If condition 1 is true, then the subsequent code will execute and the bear's clothing will be pants.
+      If condition 1 is false, then the second code will execute and the bear's clothing will be a scarf.
 
 2. What variable has a new value assigned to it after the first if statement executes?
       The variable bearClothing has a new assigned value if the first statement executes.
@@ -53,10 +53,10 @@ Questions
       If none of the conditions above are true, then the last code block will be executed.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-      The final outcome would be that `You run as fast as you can into the next room. It's full of snakes!`
+      The final outcome would be `You run as fast as you can into the next room. It's full of snakes!`
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-      The final outcome would be that 'You tell the bear the pants is too small and it starts to cry!'
+      The final outcome would be 'You tell the bear the pants is too small and it starts to cry!'
 
 7. What is your favorite ending?
       My favorite ending is that I stay with the bear and I become it's best friend. I would then be able to ride it anywhere I want.
