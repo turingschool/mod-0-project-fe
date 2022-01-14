@@ -46,8 +46,11 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 
 - `Add Week 1 Screenshot Here`<img width="929" alt="Screen Shot 2022-01-14 at 9 46 52 AM" src="https://user-images.githubusercontent.com/97007726/149561656-5bafe8a7-5c35-46fd-93a0-db6f2af0c6fd.png">
 
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- `Add Week 2 Screenshot Here`<img width="907" alt="Screen Shot 2022-01-14 at 9 47 17 AM" src="https://user-images.githubusercontent.com/97007726/149561871-9fe08887-e004-400c-b4d8-3c4e8ced486f.png">
+
+- `Add Week 3 Screenshot Here`<img width="910" alt="Screen Shot 2022-01-14 at 9 47 28 AM" src="https://user-images.githubusercontent.com/97007726/149561880-ffc97b28-7522-451a-9df1-5c24ae21434f.png">
+<img width="1098" alt="Screen Shot 2022-01-14 at 9 47 37 AM" src="https://user-images.githubusercontent.com/97007726/149561901-b4880a3e-35af-4257-b160-78f0952e280d.png">
+
 
 ## Mentorship Prep
 
