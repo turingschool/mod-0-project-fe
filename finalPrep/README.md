@@ -44,9 +44,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Mod 0 Wk1](https://user-images.githubusercontent.com/89413678/149588060-25c7087e-97cc-4d18-bc9d-f71c909afe27.png)
+- ![Mod 0 Wk2](https://user-images.githubusercontent.com/89413678/149588076-6a7328e3-3489-472e-93cf-9b64222402bc.png)
+- ![Mod 0 Wk3](https://user-images.githubusercontent.com/89413678/149588089-9d28778a-9f1f-427f-beae-11386d9898e4.png)
 
 ## Mentorship Prep
 
