@@ -1,7 +1,7 @@
 /*
 In the exercises below, write your own code where indicated
 to achieve the desired result.
-
+node section3/exercises/arrays.js
 Two examples are already completed. Your task is to complete
 any remaining prompt.
 
@@ -24,42 +24,54 @@ console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
-
+console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-
+animals.pop();
+animals.push("Gorilla");
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-
+animals.push("Lion");
+console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-
+animals.push("Elephant");
+console.log(animals[4]);
 
 //-------------------
 // PART 2: Foods: Array Methods
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
+var foods = ["Pizza", "Sushi", "Salad", "Burger"];
+console.log(foods);
 
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
+console.log(foods.length);
 
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-
+foods.push("broccoli");
+console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
+foods.pop();
+console.log(foods);
 
-
-// YOU DO: Write code to add 3 new foods to the array. 
+// YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-
+foods.unshift("cheese", "lentils", "steak");
+console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
+foods.shift();
+console.log(foods)
 
 //-------------------
 // PART 3: Where are Arrays used?
@@ -79,12 +91,12 @@ The post itself likely has more complex data, but here's one way we can think ab
 var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 // YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
-// may be storing data? Come up with 3 examples - they could be from different web applications or 
+// may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// 1: youtube: Creates a list of reccomended videos
+// 2: youtube also creates a list content creators you are subscribed to
+// 3: Reddit maintains a list of subs you follow.
 
 
 //-------------------
@@ -96,16 +108,30 @@ YOU DO:
 Using the variables defined below, write a program that will tell a user if they
 will be able to call an Uber.
 
-The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter 
+The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter
 if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 12;
-var hasCharger = true;
+var percentBatteryLeft = 15;
+var hasCharger = false;
 var chargerType = "car";
 
 // Write your conditional here
+// If the variable percentBatteryLeft is greater than or equal to 15 evaluates to true continue the associated code block.
+if (percentBatteryLeft >= 15){
+// If the above comparisson was true execute this code block and output the inputed string.
+  console.log("You may call an Uber.");
+// if the previous statement was false evaluate the following statement. In this statement because we are using `&&` both
+// statements contained must be true for the `else if` statement to evaluate `true`.
+} else if (hasCharger === true && chargerType === "car"){
+// if the associated statement was true execute the accompanying code block and output the inputed string.
+  console.log("You may call an Uber.");
+  // If the previous statement was `false` execute the following code block
+} else {
+  // output the accompanying string.
+  console.log("You may not call an Uber");
+}
 
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
