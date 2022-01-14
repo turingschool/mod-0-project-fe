@@ -14,7 +14,7 @@ Make sure to run the file with node in your command line.
 
 // EXAMPLE: Write code that logs to the console "I love hedgehogs!" 9 times:
 for (var i = 0; i < 9; i++) {
-  console.log("I love hedgehogs!");
+  console.log('I love hedgehogs!');
 }
 
 // EXAMPLE: Write code that logs to the console the value of `i`, 3 times:
@@ -49,7 +49,7 @@ for (var i = 0; i < 7; i++) {
 //that concatenates with `i`.
 
 for (var i = 10; i > 0; i--) {
-  console.log("This is loop number:", i);
+  console.log('This is loop number:', i);
 }
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:

@@ -18,26 +18,26 @@ Make sure to run the file with node in your command line.
 
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
-var animals = ["Doggy", "Kitty", "Mouse", "Wabbit", "Deer"];
+var animals = ['Doggy', 'Kitty', 'Mouse', 'Wabbit', 'Deer'];
 
 for (var i = 0; i < animals.length; i++){
-  console.log("The " + animals[i] + " is awesome!");
+  console.log('The ' + animals[i] + ' is awesome!');
 }
 
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-var foods = ["Apples", "Oranges", "Potatoes", "Olives", "Yogurt"];
+var foods = ['Apples', 'Oranges', 'Potatoes', 'Olives', 'Yogurt'];
 
 for (var i = 0; i < foods.length; i++) {
-  console.log("Add " + foods[i] + " to shopping list");
+  console.log('Add ' + foods[i] + ' to shopping list');
 
 }
 
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
-var numbers = [3, 9, 11, 17, 4]
+var numbers = [3, 9, 11, 17, 4];
 
 for (var i = 0; i < numbers.length; i++) {
   console.log(numbers[i] * 2);
@@ -45,10 +45,10 @@ for (var i = 0; i < numbers.length; i++) {
 
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
 // each name except the first two.
-var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca", "Linnea"];
+var names = ['Sevy', 'Lindsey', 'Jericho', 'Raeonna', 'Latrina', 'Jhana', 'Luca', 'Linnea'];
 
 for (var i = 2; i < names.length; i++) {
-  console.log("Happy Birthday " + names[i] + "!");
+  console.log('Happy Birthday ' + names[i] + '!');
 }
 
 
