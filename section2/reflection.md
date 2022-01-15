@@ -10,13 +10,15 @@
 
   3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
-  **At first**, I thought you wrote incompletely and incorrectly. But then, after asking myself and starting to research the problem by looking at other sections, I understood. Searching for the answer,  rather than the answers you gave, allowed me to think critically and find the right one by trying.
+    **At first**, I thought you wrote incompletely and incorrectly. But then, after asking myself and starting to research the problem by looking at other sections, I understood. Searching for the answer,  rather than the answers you gave, allowed me to think critically and find the right one by trying.
 
   4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
 
-  **Conditional statements** determine whether or not pieces of code can run. It is based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
-     ### Different types of conditionals;
+    **Conditional statements** determine whether or not pieces of code can run. It is based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
+
+  ### Different types of conditionals;
+
   * _“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
   * _“Else”_ statements: where if the same condition is false it specifies the execution for a block of code.
   * _“Else if”_ statements: this specifies a new test if the first condition is false.
