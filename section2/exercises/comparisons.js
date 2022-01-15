@@ -59,7 +59,7 @@ console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21
-console.log("Is numberStudents great than or equal to 21?", numberStudents >= 21);
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // this should log: false
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
@@ -129,7 +129,7 @@ console.log(lovesToPlay || lovesDogPark);
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age <= 1);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: The final line of code evaluated to true because the variable lovesToPlay is true and the dogs age is less than or equal to 1. With both boolean evaluations resulting in true the result will be true. 
+// ANSWER: The final line of code evaluated to true because the variable lovesToPlay is true and the dogs age is less than or equal to 1. With both boolean evaluations resulting in true the result will be true.
 
 //-------------------
 // FINAL CHECK
