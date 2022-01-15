@@ -38,4 +38,4 @@
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation? I think when any website greets you by name after you log in (e.g. Hi Whitney, welcome back to instagram, we are happy to see you), that is a concatenation. Or anytime you unsubscribe it is the same idea of combining a set message with your information.
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option) I still have questions about the order of things, and pulling and pushing from GitHub. The command
-git push origin main still confuses me. I feel like it needs more direction than that, like the name of a file or something. q
+git push origin main still confuses me. I feel like it needs more direction than that, like the name of a file or something. 
