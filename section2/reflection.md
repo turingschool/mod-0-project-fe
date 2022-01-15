@@ -14,7 +14,7 @@
   4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
   **Conditional statements** determine whether or not pieces of code can run. It is based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
   ### Different types of conditionals;
-  •••_“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
+  ••• _“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
   •••_“Else”_ statements: where if the same condition is false it specifies the execution for a block of code.
   •••_“Else if”_ statements: this specifies a new test if the first condition is false.
   A daily life conditional; If I don't wake up early, I can't go to work on time.
