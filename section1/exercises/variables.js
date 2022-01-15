@@ -49,7 +49,7 @@ console.log(numberOfPets);
   // values (but same data type).
 // log all three variables to the console.
 var firstName = 'Josh';
-var isHungry = 'Still not hungry but will eat';
+var isHungry = false;
 var numberOfPets = '2';
 
 console.log(firstName);

@@ -32,9 +32,11 @@ console.log("Hello World!");
 
 
 7. In your own words, explain what concatenation is.
+
 * From my understanding, concatenation is linking strings together using the variable with the + operator. Just have to be careful with spacing of the strings between the `var name` and `+ operator`.
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
+
 * With all the information posted into youtube or updating profiles/earning amount.. updating this information would be as simple as referencing the variable `${variableName}` instead of `("Gamer and his amount")` or `(Specific amount made)`. Or when logging longer sentences within the console this reference of `${shortVersion}` is easier to type than `(This is a longer sentence and I have to type more)`.
 
 

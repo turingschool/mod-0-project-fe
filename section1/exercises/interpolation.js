@@ -41,12 +41,12 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log(`In a predicatble result, the ${slowPoke} beat the ${speedy}`);
+console.log(`In a predicatble result, the ${slowPoke} beat the ${speedy}!`);
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
-var inquiry = "question";
+var inquiry = "questions";
 var emotion = "scary for me";
 var otherPeople = "turing peers";
 
