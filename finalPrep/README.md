@@ -2,8 +2,8 @@
 
 Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
-- [Refactor Previous Work](#refactor-previous-work)
-- [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
+-x [Refactor Previous Work](#refactor-previous-work)
+-x [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
 - [Time Management Prep](#time-management-prep)
 - [Mentorship Prep](#mentorship-prep)
 - [Lesson Prep](#lesson-prep)
@@ -44,10 +44,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
-
+- `Add Week 1 Screenshot Here`![Screen Shot 2022-01-15 at 4 43 26 PM](https://user-images.githubusercontent.com/96502923/149641272-652f2fa4-7924-4845-922d-7e1ba64b0e75.png)- 
+- `Add Week 2 Screenshot Here`![Screen Shot 2022-01-15 at 4 44 53 PM](https://user-images.githubusercontent.com/96502923/149641311-36bc58f3-67c5-4bdf-9bf7-54b083e293a3.png)- 
+- `Add Week 3 Screenshot Here`![Screen Shot 2022-01-15 at 4 45 48 PM](https://user-images.githubusercontent.com/96502923/149641330-8d989fa5-2d39-414e-aa07-8497d6b3028c.png)
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
