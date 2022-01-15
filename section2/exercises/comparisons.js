@@ -49,19 +49,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents)
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20)
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21)
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20)
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-console.log("Is numberStudents less than or equal to 21", numberStudents <= 21)
+console.log("Is numberStudents less than or equal to 21", numberStudents <= 21);
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -74,25 +74,25 @@ console.log("Is numberStudents less than or equal to 21", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//log the result of the comaprison: is 4 less than 9?
-//this log should be: True
+//log the result of the comparison: is 4 less than 9?
+//this logs result is: True
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
 // log the result of the comparison: is 4 less than books?
-// the result should be: true
+// this logs result is: true
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// log the result of the comparison: is freinds greater than siblings?
-// the result should be: true
+// log the result of the comparison: is friends greater than siblings?
+// this logs result is: true
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// log the result of the comparison: is attendess not equal to meals?
-// the result should be: true
+// log the result of the comparison: is attendees not equal to meals?
+// this logs result is: true
 
 //-------------------
 // PART 3: Logical Operators
@@ -117,20 +117,20 @@ var age = 1;
 console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play and loves the dog park
-console.log(lovesToPlay && lovesDogPark)
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-console.log(lovesToPlay || lovesDogPark)
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age)
+console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 // The result logged as: 1
-/*From what I understand about the && and || operands, if && can be coerced into into false it returnds the first value,
+/*From what I understand about the && and || operands, if && can be coerced into false it returnds the first value,
 if not then it returns the second value. For || if it can be coerced into true than it returns the first value,
 if not then it returns the second value. Since our example is && it it retuned the second value I would argue that it could
-not coerce the result inot a false*/
+not coerce the result into a false*/
 //-------------------
 // FINAL CHECK
 //-------------------

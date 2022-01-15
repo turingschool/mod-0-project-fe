@@ -73,9 +73,9 @@ var numQuarters = 0;
 
 // Write your conditional here
 if (numQuarters >= 2) {
-  console.log("I have enough money for a gumball")
+  console.log("I have enough money for a gumball");
 } else if (numQuarters <= 1) {
-  console.log("I don't have enough money for a gumball")
+  console.log("I don't have enough money for a gumball");
 }
 
 /*
@@ -96,7 +96,7 @@ var hasSauce = true;
 
 // Write your conditional here
 if (cupsOfFlour >= 2 && hasSauce) {
-  console.log("I can make pizza!");
+  console.log("I can make pizza!🍕");
 } else if (cupsOfFlour <= 1 && hasSauce) {
   console.log("I can't make pizza 😭");
 }
