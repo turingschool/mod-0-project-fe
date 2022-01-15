@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [X] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [X] Add a link for your gist here:https://gist.github.com/whiteheadol/3956af99c59d44211e15fdb943353362
+  - [X] Add a link for your gist here: https://gist.github.com/whiteheadol/3956af99c59d44211e15fdb943353362
 
 ## Time Management Prep
 
@@ -59,8 +59,8 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [X] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [X] Add a link to your gist here: https://gist.github.com/whiteheadol/e3bac97d7f50245f08d4a7402ee45c05
 
 ## Group Work Prep
 
