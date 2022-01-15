@@ -21,7 +21,7 @@ for (var i = 0; i < animals.length; i++) {
 var animals = ["Cat", "Horse", "Pangolin", "Honey Badger"];
 
 for (var i = 0; i < animals.length; i++) {
-  console.log("The" + " "+ (animals[i]) + " " + "is awesome!");
+  console.log("The" +" "+ (animals[i]) +" "+ "is awesome!");
 }
 
 

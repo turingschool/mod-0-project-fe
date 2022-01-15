@@ -26,7 +26,7 @@ console.log(animals[0]);
 // animals from above.
 var numAnimals;
 numAnimals = animals.length;
-
+console.log(numAnimals);
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 
@@ -52,7 +52,7 @@ var foods = ["Burrito", "Bahn Mi", "Hoagie", "Grilled Cheese", "BLT"];
 // foods from above.
 var numFoods;
 numFoods = foods.length;
-
+console.log(numFoods);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
