@@ -29,30 +29,31 @@ console.log('Harry Potter must not return to Hogwarts!');
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
-var name = "firstName";
-var state = "isHungry";
-var petCount = "numberOfPets";
+var firstName = "Emma";
+var isHungry = true;
+var numberOfPets = 3;
 
-console.log(name);
-console.log(state);
-console.log(petCount);
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-//I decided to use strings for all three since they consisted of letters.
-//I wondered if I should have used number data type for the numberOfPets variable.
-
+//I used a string for the `firstName` variable because it is asking for a proper name,
+//which involves using letters, which are used in the String data type.
+//I used Boolean data type for the 'isHungry' variable because it is asking a true false question.
+//I used Number data type for 'numberOfPets' because the variable was describing a number.
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var name = "Benjamin";
-var state ="isCranky";
-var petCount = 3;
+var firstName = "Benjamin";
+var isHungry = false;
+var numberofPets = 27;
 
-console.log(name);
-console.log(state);
-console.log(petCount);
+console.log(firstName);
+console.log(isHungry);
+console.log(numberofPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:

@@ -50,7 +50,7 @@ var name = "Emma"
 var chore = "laundry"
 var dueDate ="tomorrow"
 
-console.log(name + " " + "needs to finish " + chore + " " + "by " + "" + dueDate + "!");
+console.log(name + " " + "needs to finish " + chore + " " + "by" + " " + dueDate + "!");
 //-------------------
 // FINAL CHECK
 //-------------------

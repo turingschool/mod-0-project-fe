@@ -51,7 +51,7 @@ console.log( `In a predictable result, the ${slowPoke} beat the ${speedy}!`);
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 
 var crewMember = "Emma"
-var customer = "a Karen"
+var customer = "Grumpy Beth"
 var complaint = "slow bagging"
 
 console.log(`${crewMember} got flak from ${customer} because of ${complaint}.`)
@@ -62,4 +62,4 @@ console.log(`${crewMember} got flak from ${customer} because of ${complaint}.`)
 
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
-//Roger roger! 
+//Roger roger!

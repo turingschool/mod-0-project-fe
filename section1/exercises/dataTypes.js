@@ -24,7 +24,7 @@ console.log('Welcome to Turing!');
 console.log('99 bottles of pop on the wall');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log("Come on wheels, take this boy away!");
+console.log("When I grow up, I want to be a forester, run through the moss on high heels.");
 
 
 //-------------------
