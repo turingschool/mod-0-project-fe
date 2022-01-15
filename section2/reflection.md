@@ -13,9 +13,9 @@
   * If I do have to say one thing about the experience is that it felt like more of a challenge, having to recall the information from memory. I find to this to be a helpful thing during this exercise. It challenged me to make sure I was able to recall the information and if not find where the information is located.
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
-   * A conditional statement allow the program to run different blocks of code depending on defined boolean variables being true or false.
-   * What does the question mean "daily life conditional"? Work starts at 9, I need 30 minutes to get ready. If I wake up with less than 30 minutes until 9 I will be late. Thats a "conditional" outside of programing if that is what is being asked.
-   * On Youtube if you have an account you will have a "Liked" video section that saves all your liked videos to that area. A code maybe able to determine if a video is liked by user than moved to like folder. If video is not liked by user video is not added to folder.
+  * A conditional statement allow the program to run different blocks of code depending on defined boolean variables being true or false.
+  * What does the question mean "daily life conditional"? Work starts at 9, I need 30 minutes to get ready. If I wake up with less than 30 minutes until 9 I will be late. Thats a "conditional" outside of programing if that is what is being asked.
+  * On Youtube if you have an account you will have a "Liked" video section that saves all your liked videos to that area. A code maybe able to determine if a video is liked by user than moved to like folder. If video is not liked by user video is not added to folder.
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
   * You can use AND and OR operators. AND is && OR is ||. If the logical operators are used you can have them check multiple variables, This AND that have to be true or this OR that has to be true. The program will only return true when using && if both of the operants are true, while || only returns false when both of its operants are false.
 
