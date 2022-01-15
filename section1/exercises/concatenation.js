@@ -23,7 +23,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-
+//Line 22 is a concatenation of a string, and numbers, because the "My zoo has" is connected to the var numberOfCreatures (which logs the number 7 and no letters or special characters which makes it a number data type) with a +, and creatures (which logs "unicors" which is the string because it is in "" and because it is letters) and when different parts are all within () and connected by + it is a concatenation. 
 
 // YOU DO:
 // Write code that combines the variables below into a string that
