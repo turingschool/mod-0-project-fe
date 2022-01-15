@@ -9,11 +9,11 @@
   Setting S.M.A.R.T. goals is a braw new Information that I don't try before. S.M.A.R.T. practicing tuning helps programmers plan and strategize how to handle coding projects on time. And I should learn by practicing setting my goals by setting in S.M.A.R.T.  to be a good programmer. Also, I need to focus on the process; I know that reflecting on the coding process is critical for advancing coding skills.
 
   3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
-  •••**At first**, I thought you wrote incompletely and incorrectly. But then, after asking myself and starting to research the problem by looking at other sections, I understood. Searching for the answer,  rather than the answers you gave, allowed me to think critically and find the right one by trying.
+  **At first**, I thought you wrote incompletely and incorrectly. But then, after asking myself and starting to research the problem by looking at other sections, I understood. Searching for the answer,  rather than the answers you gave, allowed me to think critically and find the right one by trying.
 
   4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
   **Conditional statements** determine whether or not pieces of code can run. It is based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
-  ### Different types of conditionals;
+     ### Different types of conditionals;
   * _“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
   * _“Else”_ statements: where if the same condition is false it specifies the execution for a block of code.
   * _“Else if”_ statements: this specifies a new test if the first condition is false.
@@ -28,7 +28,7 @@
 
   * _if ... else_;   if first condition (value) is true (evaluates to true), first code block executes, if it is false, second code block executes.
 
-  ``` if (condition1) {
+  ````if (condition1) {`
   first code block() ;
   }
   else {
@@ -38,7 +38,8 @@
 
   * _else if_ ;
 
-  ``` if (condition1) {
+  ```
+  if (condition1) {
   a block of code (executes if condition1 is true );
   } else if (condition2) {
   a block of code (executes if condition1 is false ;and condtion2 is true)
