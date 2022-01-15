@@ -45,11 +45,11 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
-Screen Shot 2022-01-14 at 10.19.40 PM
+![alt text](https://github.com/mrlandino/mod-0-project-fe/blob/8ced1a62d23ad2ca93ffd60e82fa7128fc591336/finalPrep/MOD1_Week1.png)
 - `Add Week 2 Screenshot Here`
-Screen Shot 2022-01-14 at 10.20.15 PM
+![alt text](https://github.com/mrlandino/mod-0-project-fe/blob/8ced1a62d23ad2ca93ffd60e82fa7128fc591336/finalPrep/MOD1_Week2.png)
 - `Add Week 3 Screenshot Here`
-Screen Shot 2022-01-14 at 10.20.42 PM
+![alt text](https://github.com/mrlandino/mod-0-project-fe/blob/8ced1a62d23ad2ca93ffd60e82fa7128fc591336/finalPrep/MOD1_Week3.png)
 
 ## Mentorship Prep
 
