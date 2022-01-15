@@ -81,18 +81,18 @@ console.log(4 < 9);
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-//This is using a variable that represents a number, to see if four is greater than that variable, which represents three. The result should be false, because four is not less than three.
+//This is using a variable that represents a number, to see if four is greater than that variable, which represents three. The boolean result should be false, because four is not less than three.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-//Two variables representing numbers, are being used to see if one variable (friends, which represents six) is greater than the second variable (siblings, which represents two). The result should be true, because six is greater than two.
+//Two variables representing numbers, are being used to see if one variable (friends, which represents six) is greater than the second variable (siblings, which represents two). The boolean result should be true, because six is greater than two.
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// Again there are two variables here representing numbers, to see if the first variable (attendees, which represents nine) does not equal the second variable (meals, which represnts 8). The result should be true, because nine and eight are not equal.
+// Again there are two variables here representing numbers, to see if the first variable (attendees, which represents nine) does not equal the second variable (meals, which represnts 8). The boolean result should be true, because nine and eight are not equal.
 
 //-------------------
 // PART 3: Logical Operators
@@ -104,10 +104,10 @@ var finishedHomework = false;
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
 console.log(isHungry && finishedHomework);
-//This will result in an answer of false, due to the fact this type of operator is only true when both variables are true.
+//This will result in an answer of false, due to the fact this type of logical operator is only true when both variables are true.
 // Determine if the user is hungry or has completed their homework
 console.log(isHungry || finishedHomework);
-// This will result in an answer of true, because this type of operator is only false when both variables are false.
+// This will result in an answer of true, because this type of logical operator is only false when both variables are false.
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -130,7 +130,7 @@ console.log(lovesToPlay || lovesDogPark);
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:My final line just showed age. I think this is because there is no var for puppy, so if I added var puppy = 1; then the result would be true, because both are true
+// ANSWER:My final line just showed age. I think this is because there is no var for puppy, so if I added var puppy <= 1; then the result would be true, because both are true
 
 //-------------------
 // FINAL CHECK

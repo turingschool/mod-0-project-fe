@@ -107,5 +107,5 @@ if (cupsOfFlour && hasSauce); {
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
-
+*/
 //My original idea was to use a logical operator of &&, but when I did I obviously had the setup wrong, because I got an error that said && was an unexpected token. I was able to make it work without a logical operator, but realized that meant more work. So I went back and changed the variables to make it work with less coding.

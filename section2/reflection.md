@@ -18,19 +18,19 @@
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 - A conditional Statement means the second part of the code is dependent on the first part. IF the first condition is met, then the code executes a statement. However if that condition is not met, then either nothing happens, or something different is executed.
 - An example of a real life conditional for me is if I don't take my vitamins, I will be really tired. If I do take my vitamins, I will not be near as tired.
-- An example in a web application is any ad you click on and try to learn more, they will only give you the information if you give your email. If you don't give your email, you don't get any info. 
+- An example in a web application is any ad you click on and try to learn more, they will only give you the information if you give your email. If you don't give your email, you don't get any info.
 
 ---
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
-// One way to do it is to use logical operators. With the logical operator &&, both parts of the condition need to be true to have the condition go into affect. With the logical operator ||, as long as one part of the condition is true, the condition will go into affect.
+// One way to do it is to use logical operators. With the logical operator && (and), both parts of the condition need to be true to have the condition go into affect. With the logical operator || (or), as long as one part of the condition is true, the condition will go into affect.
 
 ---
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
-//The logical operators will be helpful for this. The && will make sure two conditions are met, while the || will make sure one of the two conditions are met.
+//The logical operators will be helpful for this. The && (and) will make sure two conditions are met, while the || (or) will make sure one of the two conditions are met.
 
 ---
 
 7. What questions do you still have about `if` statements and/or functions?
-//I had trouble with else if statements. On some, the code would not read them as one command, and I'm not sure why. Does it have to do with the setup of my original if statement? Also, outside of true and false, I do not understand how the logical operators work.
+//I had trouble with else if statements. On some, the code would not read them as one command, and I'm not sure why. Does it have to do with the setup of my original if statement? Or bracket placement? Also, outside of true and false, I do not understand how the logical operators work.cd 
