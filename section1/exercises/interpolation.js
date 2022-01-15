@@ -31,7 +31,7 @@ this is because we use backticks and ${variable} for this method.*/
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log(`The ${speedy} jumped over the ${slowPoke}`)
+console.log(`The ${speedy} jumped over the ${slowPoke}`);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,7 +40,7 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`)
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log(`The ${slowPoke} beat the ${speedy}!`)
+console.log(`The ${slowPoke} beat the ${speedy}!`);
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -50,7 +50,7 @@ console.log(`The ${slowPoke} beat the ${speedy}!`)
 var creature = "Sphinx"
 var mineral = "black quartz"
 var letterCount = 29
-console.log(`${creature} of ${mineral}, judge my vow. ${letterCount} letter pangram.`)
+console.log(`${creature} of ${mineral}, judge my vow. ${letterCount} letter pangram.`);
 //-------------------
 // FINAL CHECK
 //-------------------

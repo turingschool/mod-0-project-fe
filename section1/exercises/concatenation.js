@@ -13,7 +13,7 @@ file from your terminal with the command `node section1/exercises/concatenation.
 var name = "Ron";
 var team = "Chudley Cannons";
 
-console.log("The " + team + " are " + name + "'s favorite Quidditch team");
+console.log("The "+team+" are "+name+"'s favorite Quidditch team");
 
 // YOU DO: Read the next few lines of code...
 var numberOfCreatures = 7;
@@ -31,7 +31,7 @@ because we are adding two strings together with the + operator. */
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log("The " + speedy + "jumped over the " + slowPoke)
+console.log("The " + speedy + " jumped over the " + slowPoke)
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,7 +40,7 @@ console.log("The " + speedy + "jumped over the " + slowPoke)
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log("The " + slowPoke + " beats the " + speedy +"!")
+console.log("The " + slowPoke + " beat the " + speedy +"!")
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -48,9 +48,9 @@ console.log("The " + slowPoke + " beats the " + speedy +"!")
   // Then, log out ONE sentence that incorporates all THREE variables.
   //Two driven jocks help fax my big quiz
 var sportPlayers = "driven jocks"
-var favor = "fax my big quiz"
+var faxQuiz = "fax my big quiz"
 var letterCount = 30
-console.log("Two " + sportPlayers +" help "+ favor +". " +letterCount+ " letter pangram.")
+console.log("Two " + sportPlayers +" help "+ faxQuiz +". " +letterCount+ " letter pangram.")
 //-------------------
 // FINAL CHECK
 //-------------------

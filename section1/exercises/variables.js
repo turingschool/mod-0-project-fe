@@ -23,18 +23,18 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var quote = "Harry Potter must not return to Hogwarts!"
-console.log(quote);
+var movieQuote = "Harry Potter must not return to Hogwarts!"
+console.log(movieQuote);
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Daniel"
-var isHungry = "Wants chipotle"
+var isHungry = true
 var numberOfPets = 1
 console.log(firstName);
-console.log(isHungry)
-console.log(numberOfPets)
+console.log(isHungry);
+console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
@@ -47,11 +47,11 @@ The third was a number data type so that I could use a nimber for the amount of 
   // values (but same data type).
 // log all three variables to the console.
 firstName = "Danny"; //change variable firstName
-console.log(firstName)
-isHungry = "Wants In and Out" //change variable isHungry
-console.log(isHungry)
+console.log(firstName);
+isHungry = false //change variable isHungry
+console.log(isHungry);
 numberOfPets = 2 //change variable numberOfPets
-console.log(numberOfPets)
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
