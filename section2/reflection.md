@@ -14,9 +14,9 @@
   4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
   **Conditional statements** determine whether or not pieces of code can run. It is based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
   ### Different types of conditionals;
-  ••• _“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
-  •••_“Else”_ statements: where if the same condition is false it specifies the execution for a block of code.
-  •••_“Else if”_ statements: this specifies a new test if the first condition is false.
+  * _“If”_ statements: where if a condition is true it is used to specify execution for a block of code.
+  * _“Else”_ statements: where if the same condition is false it specifies the execution for a block of code.
+  * _“Else if”_ statements: this specifies a new test if the first condition is false.
   A daily life conditional; If I don't wake up early, I can't go to work on time.
   Without a password, it can't access the account.
 
@@ -24,28 +24,30 @@
   _"else" and  "else if" (JavaScript keyword)_ can help us create multiple conditions.
   By using "else", I add multiple conditions to an "if " statement.  The code executes when the condition is true(value is true). And It is up to how to condition's evaluation.
 
-  •••**For example:**
+  * **For example:**
 
-  •••_if ... else_;   if first condition (value) is true (evaluates to true), first code block executes, if it is false, second code block executes.
+  * _if ... else_;   if first condition (value) is true (evaluates to true), first code block executes, if it is false, second code block executes.
 
-  •••if (condition1) {
-  •••first code block() ;
-  •••}
-  •••else {
-  •••second code block() ;
-  •••}
+  ``` if (condition1) {
+  first code block() ;
+  }
+  else {
+  second code block() ;
+  }
+  ```
 
-  •••_else if_ ;
+  * _else if_ ;
 
-  •••if (condition1) {
-  •••a block of code (executes if condition1 is true );
-  •••} else if (condition2) {
-  •••a block of code (executes if condition1 is false ;and condtion2 is true)
-  •••} else if (condition3) {
-  •••ablock of code (executes if condition1and condition2 are false and condtion3 is true);
-  •••} else {
-  •••a block of code (execute if none of conditions above are true );
-  •••}
+  ``` if (condition1) {
+  a block of code (executes if condition1 is true );
+  } else if (condition2) {
+  a block of code (executes if condition1 is false ;and condtion2 is true)
+  } else if (condition3) {
+  ablock of code (executes if condition1and condition2 are false and condtion3 is true);
+  } else {
+  a block of code (execute if none of conditions above are true );
+  }
+  ```
 
   6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
   I'm rewriting the code by checking the Terminal. I check the color of the code before running the code in Terminal. Each Javascript keyword (variable, value, condition, datatypes) and a block of code has a color. Also, I compare the code block with other examples in exercises, books. As I write the code, I review other possibilities. I am comparing the variable name with the desired condition by asking myself questions. ( less than, greater than, etc. )
