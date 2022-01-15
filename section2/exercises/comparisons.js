@@ -81,7 +81,7 @@ var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
 // This code declares a variable named books, with an assigned value of 3.
-//The code 4 is less than the value of the variable books is logged to the console.
+//Then 4 is less than the value of the variable books is logged to the console.
 //Expexcted output: False, because 4 is greater than 3.
 //
 //
@@ -91,7 +91,7 @@ console.log(friends > siblings);
 // YOU DO: Explain.
 //Variables friends and siblings are declared.
 //The variable friends is assigned a value of 6,
-//the siblings variable is assigned a value of 2.
+//The siblings variable is assigned a value of 2.
 //Operand friends is greater than operand siblings is logged to the console.
 //Expected output: true, because 6 is greater than 2.
 
@@ -145,7 +145,7 @@ console.log(age && lovesToPlay)
 //console.log(lovesToPlay && age), I got an output of 1. When I switched the order
 //I got true. So by my understanding, the console will log the operands
 //in sequential order, and if the first operand can't be false, then
-//the second operand will always be returned?
+//the second operand will always be returned.
 //-------------------
 // FINAL CHECK
 //-------------------
