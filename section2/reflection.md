@@ -28,17 +28,18 @@
 
   * _if ... else_;   if first condition (value) is true (evaluates to true), first code block executes, if it is false, second code block executes.
 
-```if (condition1) {
-   first code block() ;
-   }
-   else {
-   second code block() ;
-   }
+  ``` JavaScript
+  if (condition1) {
+  first code block() ;
+  }
+  else {
+  second code block() ;
+  }
   ```
 
   * _else if_ ;
 
-  ```
+  ```JavaScript
   if (condition1) {
   a block of code (executes if condition1 is true );
   } else if (condition2) {
