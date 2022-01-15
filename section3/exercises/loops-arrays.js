@@ -21,31 +21,31 @@ for (var i = 0; i < animals.length; i++) {
 var canidaes = ["Coyotes","Wolves","Foxes"];
 
 for (var i = 0; i < canidaes.length; i++) {
-  console.log(canidaes[i] + " are awesome!")
+  console.log(canidaes[i] + " are awesome!");
 }
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-var foods = ["avacados","blueberries","bananas","yogurt","rice noodles"]
+var foods = ["avacados","blueberries","bananas","yogurt","rice noodles"];
 
 for (var i = 0; i < foods.length; i++) {
-  console.log("Add "+foods[i]+ "to shopping list")
+  console.log("Add "+foods[i]+ "to shopping list");
 }
 
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
-var numbers = [6,11,3,21,32]
+var numbers = [6,11,3,21,32];
 
 for (var i = 0; i < numbers.length; i++) {
-  console.log(numbers[i] * 2)
+  console.log(numbers[i] * 2);
 }
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
 // each name except the first two.
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
 for (var i = 2; i < names.length; i++) {
-  console.log("Happy Birthday "+names[i]+"!")
+  console.log("Happy Birthday "+names[i]+"!");
 }
 
 
@@ -63,8 +63,8 @@ var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 
 for (var i = 0; i <ages.length; i++) {
   if (ages[i] >= 18) {
-    console.log("Make sure you get out and vote!")
+    console.log("Make sure you get out and vote!");
   } else if (ages[i] < 18) {
-    console.log("Oh, no you can't vote quite yet.")
+    console.log("Oh, no you can't vote quite yet.");
   }
 }

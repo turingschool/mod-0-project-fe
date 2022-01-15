@@ -35,7 +35,7 @@ for (var i = 0; i < 7; i++) {
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
 for (var i = 0; i < 10; i++) {
-  console.log("She sells Seashells down by the seashore 🐚")
+  console.log("She sells Seashells down by the seashore 🐚");
 }
 
 //-------------------
@@ -45,11 +45,11 @@ for (var i = 0; i < 10; i++) {
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 for (var i = 0; i < 5; i++) {
-  console.log("This is a loop number:" + i)
+  console.log("This is a loop number:" + i);
 }
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 for (var i = 1; i <= 10; i++) {
-  console.log(i)
+  console.log(i);
 }
 // 10
 // 9

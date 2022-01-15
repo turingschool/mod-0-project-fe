@@ -35,7 +35,7 @@ console.log(animals[2] = "Gorilla");
 animals.push("Monkey");
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-animals.unshift("Elephant")
+animals.unshift("Elephant");
 console.log(animals[0]);
 
 //-------------------
@@ -66,7 +66,7 @@ foods.splice(2,0,"Cabbage","Brussle Sprouts","Spinach");
 console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
 foods.shift();
-console.log(foods)
+console.log(foods);
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
@@ -116,11 +116,12 @@ var chargerType = "car";
 // If percentBatteryLeft is equal to or above 15 percent you can call an uber.
 if (percentBatteryLeft >= 15) {
   console.log("You can call an Uber! 🚕");
-  // If you do not have 15 percentBatteryLeft you can still call an uber if hasCharger is true and chargerType = "car"
+  // If you do not have equal or greater than 15 percentBatteryLeft you can
+  //still call an uber if hasCharger is true and chargerType = "car"
 } else if (hasCharger && chargerType === "car") {
   console.log("You can call an uber! 🚕");
-  // For this last conditional your percentBatteryLeft must be less than or equal to 14 to not call an
-  // uber and either hasCharger or chargerType must be false to not be able to call an uber. 
+  // For this last conditional your percentBatteryLeft must be less than or equal to 14 to not be able call an
+  // uber or hasCharger or chargerType must be false to not be able to call an uber.
 } else if (percentBatteryLeft <= 14 || hasCharger && chargerType !== "car") {
   console.log("You cannot call an uber");
 }
