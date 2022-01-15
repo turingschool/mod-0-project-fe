@@ -12,7 +12,7 @@ at the directions from Section 1 if you need a refresher on how to do that.
 //-------------------
 // PART 1: Comparing variables
 //-------------------
-
+    
 var numberTeachers = 4;
 var numberStudents = 20;
 var stringTeachers = "4";
@@ -24,9 +24,12 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
+//console.log("Is numberTeachers less than numberStudents?", 4 < 20);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -36,6 +39,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -49,18 +53,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers != numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
+console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21);
 
 
 //-------------------
@@ -74,21 +79,35 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 console.log(4 < 9);
 //YOU DO: Explain.
+//Log the result of the comparison: 4 is less than 9. Using less than (<) comparison operator.
+//This should log: true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+// On line 85, the variable name is taken from the right-hand value and saved by an assignment (=) to the left-hand variable.
+// var is a Javascript keyword, variable name is "books" and value is "3".
+// On line 86, A comparison is shown as 4 is less than 3-books. (books is a variable name assigned as 3).
+//Log the result of the comparison: 4 is less than books-3. Using less than (<) comparison operator with variable's name.
+//This should log: false. Because 4 is greater than 3.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+// On the lines 94 and 95, the variable names are taken from the right-hand values and saved by an assignment (=) to the left-hand variables.
+// variable names ; "friends" and "siblings" and values ; "6" and "2".
+// Log the result of the comparison: 6 greater than 2. Using greater than (>) comparison operator with variable's names.
+// This should log: true . Because 6 > 2 .
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// On the lines 103 and 104,the variable names are taken from the right-hand values and saved by an assignment (=) to the left-hand variables.
+// variable names ; "attendees" and "meals" and values ; "9" and "8".
+// Log the result of the comparison: attendees are not equal to meals. Using not equal !== comparison operator with variable's names.
+// This should log: true. Because 9 is not equal 8.
 
 //-------------------
 // PART 3: Logical Operators
@@ -110,18 +129,24 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age <= 1);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+//This should log: true. Because lovesToPlay(variable name) is assigned true and "age <= 1" means true as assigned age(variable name) to 1.
+// Log the result of the comparison: lovesToPlay && age <= 1.
+// Using && Logical AND operation with variable's names.
+//Because of lack of variable name as a puppy, using less than or equal <= comparison operator with value (1).(Because Dogs that are one age or less than 1 year old are puppies.)
+// In Logical AND operation, true and && true returns true.
 
 //-------------------
 // FINAL CHECK
