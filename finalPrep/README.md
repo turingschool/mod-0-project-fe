@@ -13,7 +13,7 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 ## Refactor Previous Work
 
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 
@@ -23,51 +23,53 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [✅] I have refactored my `section1` exercises to the best of my ability
+- [✅] I have refactored my `section2` exercises to the best of my ability
+- [✅] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
-Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
+Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+- [✅] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [✅] Add a link for your gist here: [Gearing up for me!](https://gist.github.com/JDeLoach03/1a932e278fdcddf14113a16eb54e90f4)
 
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [✅] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/))
+- [✅] Study/Project work time (usually about 25 hours/week outside of class time)
+- [✅] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- `Add Week 1 Screenshot Here` <img width="1440" alt="Screen Shot 2022-01-15 at 4 52 56 PM" src="https://user-images.githubusercontent.com/86126203/149641472-c449f6cb-43f6-45ce-a844-9a4b942a2ec0.png">
+
+- `Add Week 2 Screenshot Here` <img width="1440" alt="Screen Shot 2022-01-15 at 4 53 42 PM" src="https://user-images.githubusercontent.com/86126203/149641717-9ecdea50-5389-426e-98c8-dca78130f111.png">
+
+- `Add Week 3 Screenshot Here` <img width="1440" alt="Screen Shot 2022-01-15 at 4 55 06 PM" src="https://user-images.githubusercontent.com/86126203/149641830-c1053537-0253-443b-8ff3-109217af4e01.png">
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [✅] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [✅] Add link to your gist here: [Mentee DTR Prep](https://gist.github.com/JDeLoach03/3fd1bb121359bb270f5d36711bbb008b)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [✅] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [✅] Add a link to your gist here: [Pre Teach Practice](https://gist.github.com/JDeLoach03/d912ea7730078d051c9d1ad02ec90017)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [✅] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [✅] Add a link to your gist here: [Define The Relationship](https://gist.github.com/JDeLoach03/57bd18fb7ca7bae44dd141efa5362277)
 
 ## Mod 0 Project Submission
 
@@ -93,12 +95,25 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+* I can tackle these one day at a time, do my check in with my tech friends to look over the technical work.
+
 - What days are you going to work?
+* I am a big, use it or lose it so it will have to be daily..
+
 - What times on those days are you going to work?
+* I cut out blocks of my day where no one will be present and I can do what needs to be done. As well as times at night around 7-8:30 to go over necessary information. Good sleep to process the information as well.
+
 - Where you going to be sitting/standing as you do this?
+* I have a whole gaming setup, turned quiet zone with all the tech I would ever need.
+
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+* In my journal, this is one of those tangible things I need to write down to see. Tangible is always good.
+
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+* I ran it by the people who matter, to make sure I have time to take care of my personal related items.
+
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+* A new DeLoach will be entering the world very soon, and I can guarantee I will make it work. Blocking out time, communicating with my team, letting them know as deadlines and this important event come closer/impact each other.
 
 ### Extensions
 
