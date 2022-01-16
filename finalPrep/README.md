@@ -3,11 +3,16 @@
 Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
 -x [Refactor Previous Work](#refactor-previous-work)
+
 -x [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
-- [Time Management Prep](#time-management-prep)
-- [Mentorship Prep](#mentorship-prep)
+
+-x [Time Management Prep](#time-management-prep)
+
+-x [Mentorship Prep](#mentorship-prep)
+
 - [Lesson Prep](#lesson-prep)
-- [Group Work Prep](#group-work-prep)
+-x[Group Work Prep](#group-work-prep)
+
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
 
