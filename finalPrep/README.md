@@ -10,10 +10,12 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 -x [Mentorship Prep](#mentorship-prep)
 
-- [Lesson Prep](#lesson-prep)
+-x [Lesson Prep](#lesson-prep)
+
 -x[Group Work Prep](#group-work-prep)
 
 - [Mod 0 Project Submission](#mod-0-project-submission)
+
 - [Next Steps](#next-steps)
 
 ## Refactor Previous Work
@@ -63,7 +65,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here: https://gist.github.com/Wperricone/05c61d56e84d0094527f0fdac0a9b745
+  - [x] Add a link to your gist here: https://gist.github.com/Wperricone/05c61d56e84d0094527f0fdac0a9b745
 
 ## Group Work Prep
 
