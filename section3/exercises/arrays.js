@@ -125,7 +125,7 @@ if (percentBatteryLeft >= 15) {
   // In this line I am addressing what script to run if the percentage of battery life is less than or equal to 15. In this case, it is notifying the user that they cannot call a ride until their device has a battery percentage of 15% or more.
 } else if (percentBatteryLeft <= 15) {
   console.log("Unable to call ride. Please try again once battery percentage is 15% or higher.");
-} 
+}
 
 // Since the second sentence of the prompt mentions that it doesn't matter if the user has a charger at all or the type of charger they have, I decided to leave the conditional here as it runs as desired given different percentBatteryLeft inputs.
 
@@ -135,3 +135,4 @@ if (percentBatteryLeft >= 15) {
 
 // MAKE 100% SURE that you have RUN the code in node in your command line, to ensure it works
 // as you think it does🌟
+ 
