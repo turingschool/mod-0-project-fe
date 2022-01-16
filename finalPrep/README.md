@@ -62,8 +62,8 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [ ] Add a link to your gist here: https://gist.github.com/Wperricone/05c61d56e84d0094527f0fdac0a9b745
 
 ## Group Work Prep
 
@@ -95,12 +95,17 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+- I am going to use galvanize to do some more practice on the things we have learned. I will also read more of the JavaScript and JQuery book we have been using for the project. Additionally, I will research questions I have and any questions that come up.
 - What days are you going to work?
-- What times on those days are you going to work?
-- Where you going to be sitting/standing as you do this?
-- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
-- Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+- I would like to work weekdays, in the evenings like we did with Mod 0.
+- What times on those days are you going to work? In the evenings, after dinner.
+- Where you going to be sitting/standing as you do this? In my office.
+- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal? 
+- I will put it in my Google Calendar, along with meetins with friends, and other tasks I wish to finish before starting Mod 1.
+- Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...) 
+- Yes my boyfriend Michael, who I live with, knows about this plan.
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+- It is important to me to finish moving and to get organized. It is also important to me to spend time with my niece and family as much as possible. I am also going to make sure my office is as functional as possible in order to spend most of my day here. 
 
 ### Extensions
 
