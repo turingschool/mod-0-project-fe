@@ -36,6 +36,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 ![w2](/images/betul/feb6.png)
 ![w3](/images/betul/feb13.png)
 
+
 ### Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
