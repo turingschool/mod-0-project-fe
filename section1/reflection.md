@@ -2,7 +2,11 @@
 
     1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
-    - _Over 20 minutes on a subject I don't understand, after research by myself,  I should ask without wasting too much time. I prefer to ask someone else and get an answer in 5-10, maybe 2 minutes,  instead of hesitating to ask a stupid question. Possibly for a moment, I will be someone who asks ridiculous questions, but I will save time by asking the determined questions at the right time. I don't think I asked the questions too soon. But I realized that I didn't ask in the right way. I have to ask short questions. My questions should be open-ended. I always need to ask questions that will make my job easier._
+    - _Over 20 minutes on a subject I don't understand, after research by myself,  I should ask without wasting too much time.
+    I prefer to ask someone else and get an answer in 5-10, maybe 2 minutes,  instead of hesitating to ask a stupid question.
+    Possibly for a moment, I will be someone who asks ridiculous questions, but I will save time by asking the determined questions at the right time.
+    I don't think I asked the questions too soon. But I realized that I didn't ask in the right way. I have to ask short questions.
+    My questions should be open-ended. I always need to ask questions that will make my job easier._
 
     2. What are the data types you learned about in this section? In your own words, define each.
     - data types; numbers, strings of text (known as “strings”), and boolean truth values (known as “booleans”).
