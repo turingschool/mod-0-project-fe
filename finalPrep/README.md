@@ -56,21 +56,21 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
 - [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [x] Add link to your gist here:[EBD Mentorship Gist](https://gist.github.com/emmacbd/e2128532ca7d7acecaa2eed3eaa3d88e)  
+  - [x] Add link to your gist here: (https://gist.github.com/emmacbd/e2128532ca7d7acecaa2eed3eaa3d88e)  
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [x] [Add a link to your gist here:](https://gist.github.com/emmacbd/e5d014989d0e7c12b3d7d28e2bc254e9)
+  - [x] Add a link to your gist here: (https://gist.github.com/emmacbd/e5d014989d0e7c12b3d7d28e2bc254e9)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [x] Add a link to your gist [here:](https://gist.github.com/emmacbd/fdb39bb917ce1d86eb69ec070891db9d) 
+  - [x] Add a link to your gist here: (https://gist.github.com/emmacbd/fdb39bb917ce1d86eb69ec070891db9d) 
 
 ## Mod 0 Project Submission
 
