@@ -1,4 +1,3 @@
-    ## Section 1 Reflection
 
     1. Regarding the blog posts in Part A, how do you feel about asking questions?
     Do you tend to ask them too soon, or wait too long, or somewhere in between?
@@ -60,7 +59,7 @@
     each lego piece chosen by the child; value is what he will use that piece as.
     Thus, it will be shown that lego's box is our variable where we store lego's pieces.
     And the child, whenever they want, pick any piece and give name/task.
-    
+
 
     6. Think of a site or app you use frequently. What are three variables that are probably
      used? Which data type would each of those variables probably hold?
@@ -79,13 +78,8 @@
 
     8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
-    - I've been thinking about an example when taking a covid test these days. After answering the necessary
-     information in the question's name, the last name such as string data type, age such as number data type,
-     and answering for true/false questions such as boolean data type,  I get a confirmation sentence with my
-     information. I think the concatenation is used here.
+    - I've been thinking about an example when taking a covid test these days. After answering the necessary information in the question's name, the last name such as string data type, age such as number data type, and answering for true/false questions such as boolean data type,  I get a confirmation sentence with my information. I think the concatenation is used here.
 
     9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-    - My question is concatenation and interpolation. Maybe I missed the difference between them. While studying,
-     the concatenation(join together) looked the same programming as interpolation. If I missed something between
-     them, I would like to know. **Same result, different way!**
+    - My question is concatenation and interpolation. Maybe I missed the difference between them. While studying, the concatenation(join together) looked the same programming as interpolation. If I missed something between them, I would like to know. **Same result, different way!**
