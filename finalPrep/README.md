@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: https://gist.github.com/mrlandino/b174ef49e46c724e387d60dc90a4eec1
+  - [ ] Add a link for your gist here: (https://gist.github.com/mrlandino/b174ef49e46c724e387d60dc90a4eec1)
 
 ## Time Management Prep
 
@@ -56,21 +56,21 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here:
+  - [ ] Add link to your gist here: (https://gist.github.com/mrlandino/9f63164de992fbf9ed91feb05b125b3f)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here: (https://gist.github.com/mrlandino/269c9a95f1c677a96e2b868bd794bcfa)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here: (https://gist.github.com/mrlandino/03e1e5a3b991015fd7faafd3808fb390)
 
 ## Mod 0 Project Submission
 
