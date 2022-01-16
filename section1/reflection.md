@@ -1,7 +1,7 @@
 ## Section 1 Reflection
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
-I tend to wait too long most the time. I love to find the solution for myself if I think its possible. With that being said, this is a totally new skill I'm learning, so I am trying to approach this in a vulnerable way and ask as many questions as I can to get in the rhythm.
+* I tend to wait too long most the time. I love to find the solution for myself if I think it's possible. With that being said, this is a totally new skill I'm learning, so I am trying to approach this in a vulnerable way and ask as many questions as I can to get in the rhythm of always asking.
 
 2. What are the data types you learned about in this section? In your own words, define each.
 * Number - a data type that is made up of numbers, including negative numbers and decimals. i,e `54` or `-70`
@@ -18,13 +18,14 @@ console.log("Hello World!");
 // two backlashes before a single line of text will make it a comment
 /* or you use an asterisk and slash combo around your text */
 ```
-The purpose of the comment is to have the ability to write information (like instructions or notes) in your code without it interfering with the code itself. It can be helpful when looking back or to other developers.
+* The purpose of the comment is to have the ability to write information (like instructions or notes) in your code without it interfering with the code itself. It can be helpful when looking back or to other developers.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
-A variable is a declared value that we can use throughout the code. It can represent many things. An example of a variable could be `age`. What age equals would depend on what we assign it.
+A variable is a declared value that we can use throughout the code. It can represent many things. An example of a variable could be `age`. What age equals would depend on what we assign it. Think of a variable as assigning a "name" to a piece of data.
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 ```JAVASCRIPT
+// Reddit
 var username = "u/JoeRupp"; //string
 var darkMode = 1 > 0; //boolean
 var redditAge = 5; //number

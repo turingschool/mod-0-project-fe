@@ -23,11 +23,11 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
-console.log(numberTeachers < numberStudents);
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
-console.log(numberTeachers == stringTeachers);
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 // this should log: true
 
 /*
@@ -37,7 +37,7 @@ perform this evaluation
 */
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
-console.log(numberTeachers === stringTeachers);
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 // this should log: false
 
 /*
@@ -51,23 +51,23 @@ you develop good habits that follow best practice, from now on, use the strict c
 */
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
-console.log(numberTeachers !== numberStudents);
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
-console.log(numberStudents >= 20);
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
-console.log(numberStudents >= 21);
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // this should log: false
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
-console.log(numberStudents <= 20);
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
-console.log(numberStudents <= 21);
+console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21);
 // this should log: true
 
 
@@ -87,7 +87,7 @@ console.log(4 < 9);
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// False - the variable 'books' is equal to zero, therefore, four is not less than three.
+// False - the variable 'books' is equal to three, therefore, four is not less than three.
 
 var friends = 6;
 var siblings = 2;
@@ -101,7 +101,7 @@ var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 // True - the varibale 'attendees' is equal to nine, and the variable 'meals' is equal to eight. When the
-// two variables are compared using 'not equal', it will be true because nine does not equal eight.
+// two variables are compared using 'not equal', it will result in true because nine does not equal eight.
 
 //-------------------
 // PART 3: Logical Operators

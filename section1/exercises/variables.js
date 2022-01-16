@@ -31,7 +31,7 @@ console.log(potter);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Joe";
-var isHungry = 6 >= 5;
+var isHungry = true;
 var numberOfPets = 2;
 console.log(firstName);
 console.log(isHungry);
@@ -40,8 +40,8 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-/* For the firstName variable I used a String data type because a name is made up of letters */
-/* For the isHungry variable I used a Boolean data type because I imagined placing my 'hunger level' on scale, and if that was more than 5 numerically, it meant I was hungry. */
+/* For the firstName variable I used a String data type because a name is made up of letters/characters */
+/* For the isHungry variable I used a Boolean data type because I am either hungry (true) or not hungry (false) */
 /* For the numberOfPets variable I used a Number data type because the number of pets I have can be represented in a numerical value */
 
 // YOU DO:
@@ -49,7 +49,7 @@ console.log(numberOfPets);
   // values (but same data type).
 // log all three variables to the console.
 firstName = "Joseph";
-isHungry = 3 >= 5;
+isHungry = false;
 numberOfPets = 4;
 console.log(firstName);
 console.log(isHungry);

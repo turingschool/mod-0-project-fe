@@ -38,7 +38,7 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-In lines 14-18 an `if/else` statement is being run. The outcome of which depends on what door you choose.
+In lines 14-18 an `if` and `else` statement is being run. The outcome of which depends on what door you choose.
 If you chose door 1, then a bear with a hat will be behind the door. If you chose anything but 1, a bear
 with a scarf will be behind the door.
 
@@ -49,7 +49,7 @@ with a scarf will be behind the door.
 `bearClothing` would be "scarf".
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-In lines 27-35 a series of `if/else` statements are being run to see what condition is met based on `bearChoice`.
+In lines 27-35 a series of `else if` statements are being run to see what condition is met based on `bearChoice`.
 If you chose 1 then you offer the bear your clothing. If not, then the code checks if you chose 2 - if you did, then
 you tell the bear their clothing is too small. If not, then we move on to if you chose 3 - if you did, then
 you dash to the next door. And if none of these criteria are met, you stay in the room with the bear.

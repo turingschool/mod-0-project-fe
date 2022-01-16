@@ -106,7 +106,8 @@ if (sauce && flour) {
   console.log("I cannot make pizza")
 }
 
-// Another version of the above?
+// Joe to grader: Another version of the above but way shorter and more concise.
+
 if (hasSauce === true && cupsOfFlour >=2) {
   console.log("I can make pizza")
 } else {
@@ -117,6 +118,8 @@ if (hasSauce === true && cupsOfFlour >=2) {
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
+
 Yes, both my above solutions used a logical operator. Logical operators perform operations
-like AND (`&&`) and OR (`||`), basically allowing you access more than one value at once.
+like AND (`&&`) and OR (`||`), basically allowing you assess more than one value at once,
+and therefore evaulate multiple criteria.
 */
