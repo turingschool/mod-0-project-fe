@@ -8,7 +8,7 @@ any remaining prompt.
 Make sure to run the file with node in your command line.
 */
 
-
+  
 //-------------------
 // PART 1: Animals: Array Syntax
 //-------------------
@@ -135,4 +135,3 @@ if (percentBatteryLeft >= 15) {
 
 // MAKE 100% SURE that you have RUN the code in node in your command line, to ensure it works
 // as you think it does🌟
- 

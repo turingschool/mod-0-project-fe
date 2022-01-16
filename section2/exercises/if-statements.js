@@ -47,7 +47,7 @@ var dogAge = 7;
 
 // Write your conditional here
 if (dogAge >= 10) {
-  console.log ("elderly");
+  console.log("elderly");
 } else if (dogAge >= 3) {
   console.log("adult");
 } else if (dogAge <= 2) {
@@ -100,7 +100,7 @@ var hasSauce = false;
 // Write your conditional here
 if (cupsOfFlour < 2 && hasSauce === true) {
   console.log("I cannot make pizza");
-} else if (cupsOfFlour <2 && hasSauce === false){
+} else if (cupsOfFlour < 2 && hasSauce === false) {
   console.log("I cannot make pizza");
 } else if (cupsOfFlour >= 2 || hasSauce === true) {
   console.log("I can make pizza");
@@ -111,5 +111,5 @@ For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
-Yes, for the last exercise I employed both AND (&&) and OR (||) logical operators. In JavaScript, a logical operator is used to determine a number of outcomes based on true or false boolean values. 
+Yes, for the last exercise I employed both AND (&&) and OR (||) logical operators. In JavaScript, a logical operator is used to determine a number of outcomes based on true or false boolean values.
 */

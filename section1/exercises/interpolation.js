@@ -41,7 +41,7 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
+console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -59,3 +59,4 @@ console.log(`My skincare routine is pretty simple. I use ${cleanser} to wash my 
 
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
+//Yes, everything ran as expected. 

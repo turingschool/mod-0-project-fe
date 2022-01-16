@@ -55,9 +55,9 @@ firstName = "Stephanie";
 isHungry = false;
 numberOfPets = 2;
 
-console.log(firstName)
-console.log(isHungry)
-console.log(numberOfPets)
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:

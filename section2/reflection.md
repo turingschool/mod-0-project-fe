@@ -27,7 +27,7 @@ To add multiple conditions to an `if` statement, you set the first conditional a
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
-[REVISIT THIS]
+The console used in my browser is a helpful tool that allows me to practice JavaScript and see the results in real time. 
 
 7. What questions do you still have about `if` statements and/or functions?
 

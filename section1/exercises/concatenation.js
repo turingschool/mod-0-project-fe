@@ -23,7 +23,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-// A string will be logged to the console as a result of line 22. The elements "My zoo has", creatures and "!" are all strings. Thanks to the help of type coercion in JavaScript, the system will convert the number into a strig so we can combine it all together.
+// A string will be logged to the console as a result of line 22. The elements "My zoo has", "", creatures and "!" are all strings. Thanks to the help of type coercion in JavaScript, the system will convert the number into a strig so we can combine it all together.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -57,4 +57,4 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
 
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
-//Yes, everything printed out as expected! 
+//Yes, everything printed out as expected!

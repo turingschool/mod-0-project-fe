@@ -24,7 +24,7 @@ console.log('Welcome to Turing!');
 console.log('99 bottles of pop on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log("Quiero vivir en paz, tranquila en las montañas");
+console.log("Au Revoir, Shoshanna!");
 
 
 //-------------------
@@ -44,9 +44,9 @@ console.log(6 * 53);
 console.log(20 / 4);
 
 // YOU DO: log the result of the modulo of 10 into 54:
-console.log(54 / 10)
-console.log(5 * 10)
-console.log(54-50)
+console.log(54 / 10);
+console.log(5 * 10);
+console.log(54 - 50);
 
 //-------------------
 // BOOLEANS

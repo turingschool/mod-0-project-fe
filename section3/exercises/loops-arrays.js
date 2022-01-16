@@ -10,7 +10,7 @@ Make sure to run the file with node in your command line.
 
 // EXAMPLE: Write code below that iterates through a list of animals and print
 // each animal.
-var animals = ["Zebra", "Giraffe", "Elephant"];
+var animals = ["Zebra" , "Giraffe" , "Elephant"];
 
 for (var i = 0; i < animals.length; i++) {
   console.log(animals[i]);
