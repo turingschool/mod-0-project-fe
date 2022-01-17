@@ -11,6 +11,7 @@
     in the right way. I have to ask short questions. My questions should be open-ended.
      I always need to ask questions that will make my job easier._
 
+
     2. What are the data types you learned about in this section? In your own words, define each.
     - data types; numbers, strings of text (known as “strings”), and boolean truth values (known as “booleans”).
     - **Numbers** ; The numeric data type includes different kinds of numbers, such as
