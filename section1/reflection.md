@@ -1,5 +1,5 @@
 
-    1. Regarding the blog posts in Part A, how do you feel about asking questions?
+    12345. Regarding the blog posts in Part A, how do you feel about asking questions?
     Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
     - _Over 20 minutes on a subject I don't understand, after research by myself,  
