@@ -6,9 +6,11 @@ When I'm in a good headspace and environment I think I am somewhere in between. 
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
-- String. This is usually containing text but can contain numbers or anything else as well. Must use quotes to surround.
--  2. Numbers. These are numbers, don't need to use quotes. Can handle all numbers such as decimals or negatives, not just positive integers.
--  3. Boolean. This data type is binary, either true or false, not other option.
+String. This is usually containing text but can contain numbers or anything else as well. Must use quotes to surround.
+
+Numbers. These are numbers, don't need to use quotes. Can handle all numbers such as decimals or negatives, not just positive integers.
+
+Boolean. This data type is binary, either true or false, not other option.
 
 3. How would you log the string `"Hello World!"` to the console?
 
@@ -25,6 +27,7 @@ I would say a variable is something that holds information, that you can re-use.
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
 I'm not really sure. Maybe a site like Instagram. Variables might be used for user information like age, location and amount of followers.
+
 7. In your own words, explain what concatenation is.
 
 Combining together data, even different types of data, by adding them together and then outputting something in one data type.
