@@ -22,10 +22,11 @@ console.log('Welcome to Turing!');
 
 // YOU DO: Write code below to log `99 bottles of pop on the wall...`:
 
+console.log('99 bottles of beer on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
 
-
+console.log("You can't handle the truth");
 
 //-------------------
 //NUMBERS
@@ -38,12 +39,13 @@ console.log(2 + 2);
 console.log(83 - 7);
 
 // YOU DO: log the result of 6 multiplied by 53 to the console:
-
+console.log(6 * 53);
 
 // YOU DO: log the result of 20 divided by 4 to console:
-
+console.log(20 / 4);
 
 // YOU DO: log the result of the modulo of 10 into 54:
+console.log(10 % 52);
 
 
 
