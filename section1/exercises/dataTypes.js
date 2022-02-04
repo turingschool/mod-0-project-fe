@@ -21,7 +21,7 @@ console.log("Alan Turing");
 console.log('Welcome to Turing!');
 
 // YOU DO: Write code below to log `99 bottles of pop on the wall...`:
-
+console.log('Welcome to Turing!');
 console.log('99 bottles of beer on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
