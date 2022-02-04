@@ -8,6 +8,7 @@
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 
   -I think I had a Growth Mindset in my approach to music, which was what I did for the past many years. When learning new techniques, or working on my musicianship, I would try to challenge myself and learn new music and new mediums within music. It is really rewarding to approach art that way, as there an infinite amount of things to learn in music.
+
   -I don't think I demonstrate a Growth Mindset sometimes in my career or professional life. I know that I am not as comfortable with this side, so I think that fear and uncomfort stop me from going out and making mistakes when trying to do things like network, find jobs and advocate for myself.
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
@@ -23,7 +24,9 @@
   -The program first checks the first conditional, which will follow `if`. If that condition is not met, we can write `else if` to check another condition that would return a different result. We can do more `else if` for specific conditions, or we can write `else` for anything that falls outside those conditions, and that will return something else.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
+
   -A developer can use the || and && operators to check for two conditions. The || will check if 1 of 2 conditions are met, while the && checks if both are met.
 
 7. What questions do you still have about `if` statements and/or functions?
+
   -I think I understand the basics, but again am confused on how these might be used in bigger complex ways, and how to conceptualize these on a larger scale.
