@@ -54,7 +54,7 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
   // Then, log out ONE sentence that incorporates all THREE variables using interpolation.
 var dayOfTheWeek = "Wednesday"
 var numberOfRelatives = 3
-var relativeType = "neices"
+var relativeType = "nieces"
 
 console.log(`My favorite day is ${dayOfTheWeek} because I get to see all ${numberOfRelatives} of my ${relativeType}!`);
 //-------------------
