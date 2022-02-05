@@ -23,9 +23,10 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-////Due to type conversion, Javascript changes the number data type for
-//numberOfCreatures to a string data type so it will log to the console as:
-//My zoo has 7 unicorns!
+
+// Due to type conversion, Javascript changes the number data type for
+// numberOfCreatures to a string data type when we concatenate it so it will
+// log to the console as: "My zoo has 7 unicorns!"
 
 
 // YOU DO:
