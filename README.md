@@ -165,4 +165,4 @@ To start, in the Terminal, `cd` into the `section0` directory. Follow the instru
 
 ***
 
-🚀 [Go to Section 0](../section0)
+🚀 [Go to Section 0](https://github.com/turingschool/mod-0-project-fe/tree/main/section0)
