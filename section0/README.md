@@ -32,9 +32,18 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+<br>
+I appreciate that the time is provided to focus on professional development.  I am also impressed by the 5 competencies that will be studied.  I feel that the program for professional development addresses many of the important parts of becoming gainfully employed.
+<br>
+- What are you excited about when it comes to professional development?
+<br>
+I'm excited to get the support in interviewing and negotiating skills.  I am also interested in the support provided that will help me to practice interviewing and applications 1:1 with a coach.
+<br>
 - What are your questions or concerns about these expectations?
+<br>
+I am concerned about the time that it will take to participate in these coaching sessions.  I am also concerned that I may not understand the materials presented.
+<br>
 
 ## Part B: Pairin Survey
 
@@ -61,39 +70,85 @@ As you begin this new chapter of your career, the Career Development team is her
 ### Networking
 
 The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
+Link to tracker:
+https://docs.google.com/spreadsheets/d/1PdRfaZTUjReEhJ-Iy6lqZoaSAnUTwK1CcTlO11TSPgU/edit#gid=882531233
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+
+Where 4 is the hardest, it was a 3.
+
 - As you start at Turing, what are your biggest questions or concerns about networking?
+I don't know what to do with my current network.  Should I start by talking to people already in my network?  Should I reach out to those beyond my current contacts?
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+<br> Since 2006, I've been working as a Nonprofit Accountant maintaining and reconciling accounting records for various organizations.  I am interested in Software Development as a career because I have often used automations to expand my capacity at work and make the work easier to do.  I would like to provide these same benefits to others.  Software Development reaches more people and would allow me to impact more people with the benefits of tools and resources to do their jobs better.
+<br>
 - What are your goals for this career?
+<br>
+I would like to expand my current skills to allow myself to provide more tools and resources to a larger group of people.  My goals for my career include making effective tools and resources for those in need of better work resources.  
+<br>
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+<br>My biggest concerns are related to the coding challenges that are given during interviews.  I would like to learn how to successfully pass coding challenges.  My concern is that I don't have enough experience or understanding of the algorithms or technical aspects necessary to solve coding challenges.
+<br>
+
 
 ### Materials
 
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
-- Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
-- Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
-- Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters’ effectiveness previously? What questions or concerns do you have about writing cover letters?
+- Do you have a LinkedIn profile?
+<br> Yes
+<br> If so, how do you currently use it?
+<br> I currently use my LinkedIn profile as a work history highlighting my achievements.<br>
+How frequently do you use it?
+<br>I typically only update it during the employment search with prior experiences.
+<br>
+- Have you created a resume before?
+<br> Yes.
+<br>
+ If so, how confident have you felt about your resume’s effectiveness previously?
+<br> My prior resumes have been sufficient to effectively gain employment.  I also know there are always ways to improve the resume and cover letter submitted for job applications.
+<br>
+ What questions or concerns do you have about writing a technical resume?
+ <br>I have not written a technical resume before in the sense that my resume has had clear accomplishments that I could highlight.  In writing a technical resume, I'm not sure what is most important to employers looking for software developers.
+ <br>
+- Have you written a cover letter for a job posting before?
+<br> Yes
+<br>
+If so, how confident have you felt about your cover letters’ effectiveness previously?
+<br> I've been able to write cover letters that I believe have been very effective.  In the cover letters, I highlight my accomplishments as compared to the job description so that the employer will recognize that my existing skills will provide instant benefits to the employer.
+<br>
+What questions or concerns do you have about writing cover letters?
+<br>Is there a specific format that you would recommend?  I typically provide a brief introduction of myself, a bulleted list of accomplishments and skills, plus a highlight of the job description responsibilities that I have previously had.  I don't know how this would need to change for more technical cover letters.
+<br>
 
 ### Job Search Strategies
 
 Please prepare responses to these questions to submit in the survey:
 
 - Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn’t effective for you?
+<br>I've used networking to gain access to various contacts in the industries that I have been interested in.  In most positions, the job search process included at least submitting an application with the cover letter and resume, a phone interview, in-person interview(s) and some kind of skills assessment.  In accounting, the skills assessments included knowing where to record a debit and credit.  In each application cover letter, I would highlight the job description responsibilities that I've had experience with or that I am interested in learning.  After each interview, I would write a Thank You note.  In most cases, the Thank You notes were effective and allowed me to highlight more accomplishments or to demonstrate my interest in the position.
+<br>
 - When you think about job searching for a software developer position, what are your biggest questions or concerns?
+<br>I think the main process will be the same.  However, instead of an on-site skills assessment, I am prepared to receive code challenges that will be above and beyond what I've done before.  This is my biggest concern.
+<br>
 
 ### Negotiations
 
 Please prepare responses to these questions to submit in the survey:
 
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
+<br> There was one position where the hiring manager told me what salary to request in the interview.  During that experience, I was able to gain an additional $10,000 per year compared to my prior salary.  Other than that, I have not directly negotiated a salary previously.
+<br>
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
+
+<br>I don't know how much is too much to ask for.  In my experience, I have programmed many automations using Visual Basic for Applications in Excel.  I have been programming since my college Computer Science classes in the early 2000's.  In addition to programming for myself, I have created a program that was used for commercial purposes for another person.  As such, I have experience programming.  However, I don't have the proof of those programs because they were primarily created while I was employed and are the intellectual property of the employer.  I don't remember some of the automations that I've created because they were created years ago.  I feel confident that I can solve problems as I have in the past.
+<br>
 
 ## Deliverables
 

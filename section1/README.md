@@ -54,7 +54,17 @@ Read the three blog posts that follow:
 
 Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
 
-It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
+```
+Asking questions is hard for me.  I know that there are many things that I don't know.  However, I love being 
+able to have the right answer and lift other by teaching them something new.  
+
+This may negatively impact my growth because I need to be able to learn constantly.  In an environment where the
+information is regularly changing, there is always going to be something that someone else may know that I 
+haven't encountered yet.
+
+```
+
+It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! Be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
 
 Now that you understand the importance of asking questions, read the [Turing guide on asking questions](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to ensure that you know the best way to ask the questions you may have!
 
