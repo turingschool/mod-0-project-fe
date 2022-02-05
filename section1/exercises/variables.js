@@ -50,7 +50,7 @@ console.log(numberOfPets);
 
   //The `numberOfPets` variable gives me a clue in the name that is wants a number
   //data type.
-  //
+
 
 
 // YOU DO:
