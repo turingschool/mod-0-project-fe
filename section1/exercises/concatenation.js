@@ -45,7 +45,7 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log("In a predictable result, the " + slowPoke + "beat the " + speedy);
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
 
 
 // YOU DO:
@@ -57,7 +57,7 @@ console.log("In a predictable result, the " + slowPoke + "beat the " + speedy);
   var numberOfAwards = 1
   var awardType = "Grammy"
 
-  console.log("For as talented as " + musician + "was, it's astonishing he was only awarded " + numberOfAwards + awardType + "!")
+  console.log("For as talented as " + musician + " was, it's astonishing he was only awarded " + numberOfAwards + " " + awardType + "!")
 
 
 
