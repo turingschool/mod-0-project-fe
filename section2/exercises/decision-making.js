@@ -39,15 +39,44 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
+  Between lines 14 and 18, there is an if...else statement. The statement checks the condition
+  (if doorChoice is equal to 1 or not). If the condition is true, then the code within the curly brackets will
+  execute, and bearClothing will be assigned the value of "hat". However, if the condition is false,
+  the if statement's code will be skipped. The else statement's code will execute, and bearClothing will be
+  assisgned the value of "scarf".
+
 2. What variable has a new value assigned to it after the first if statement executes?
+  The variable bearClothing is reassigned. It previously had an "empty" value (" "), then this is reassigned based on the
+  door the user selects.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+  In that case, the condition would change in the if...else statement. If doorChoice held a value of 3,
+  the if statement would be false. Therefore, the if statement would get skipped, and the else statement
+  would execute. This would assign "scarf" as the new value of bearClothing.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+  This is an if...else statement. It has an if statement, a couple of else if statements with different
+  conditions, and finally an else statement that will be exectued if none of the other conditions are met.
+
+  In the first if statement, the condition evaluates if bearChoice is equal to 1. If it is, the code executes
+  and console.logs the concatinated code within the curly brackets. The statement is complete.
+  If bearchoice is NOT equal to 1, then the next else if statement is evaluated. If bearChoice is equal
+  to 2, the else if statement executes and console.logs the message, and the statement is complete.
+  If bearChoice is NOT equal to two, then the second else if condition is evaluated (is bearChoice equal to 3?).
+  If this is true, the code executes and the message displays in the console. If not, the else statement will be run.
+  There is no condition to be met for this else statement to execute code. Rather, it will run regardless
+  since no other conditions have been met.
+
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+  The second else if statement will execute.
+  The console will display, "You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+   The console will display "You tell the bear the hat is too small and it starts to cry!" How sad!
 
 7. What is your favorite ending?
+
+My favorite ending is the one where doorChoice equals 1, and bearChoice equals 1. Bears in hats are cute! Plus if I get out through
+the secret passageway, maybe I can visit the bear another time. 
 */
