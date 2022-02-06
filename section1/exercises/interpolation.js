@@ -24,9 +24,9 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-// The data type will be string because interpolation allows us to apply
-// the number value from the numberOfCreatures variable directly into the string
-// instead of having to concatenate each string seperately.
+/* The data type will be string because interpolation allows us to apply
+the number value from the numberOfCreatures variable directly into the string
+ instead of having to concatenate each string seperately.*/
 
 
 // YOU DO:
