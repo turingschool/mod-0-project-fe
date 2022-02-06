@@ -22,7 +22,7 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here:
+// Your answer and explanation here: String
 
 
 // YOU DO:
@@ -59,4 +59,4 @@ console.log("In a predicatble result, the " + slowPoke + " beat the " + speedy +
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-  // as you would expect? You should be doing this by now, and getting into the habit of it.
+  // as you would expect? Yes. You should be doing this by now, and getting into the habit of it.
