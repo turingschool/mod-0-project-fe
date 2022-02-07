@@ -22,7 +22,7 @@ A conditional statement compares conditions which are usually always in the form
 ````javascript
 var sunOut = true
 if (sunOut = true) {
-  console.log("Open the blinds!")
+  console.log("Open the blinds!");
 } else {
   console.log("Don't even bother with those blinds.");
 }
