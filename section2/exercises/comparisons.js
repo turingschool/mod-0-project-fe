@@ -24,10 +24,10 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
-
+console.log("Is numberTeachers greater than numberStudents?", numberTeachers < numberStudents);
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
-
+console.log("Is numberTeachers greater than numberStudents?", numberTeachers == stringTeachers);
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
 this statement still evaluated to true. JavaScript forces the stringTeachers into an integer to
@@ -36,7 +36,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
-
+console.log("Is numberTeachers greater than numberStudents?", numberTeachers === stringTeachers);
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
 since the numberTeachers is an integer value and the stringTeachers is a string value, although they are both equal to 4,
@@ -49,19 +49,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-
+console.log("Is numberStudents greater than or equal to 21?", numberTeachers >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 20?", numberTeachers <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 21?", numberTeachers <= 21);
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -74,21 +74,31 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 console.log(4 < 9);
 //YOU DO: Explain.
+// Is 4 less than 9? Using the less than operator, 4 is compared to 9. The console
+// will evaluate this as true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+// Our variable "books" is assigned the value of 3. We then log to the console
+// whether we have less than 4 books using the less than operator. The console
+// will evaluate this as false as 4 is greater than books.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+// We have two variables, "friends" and "siblings" which are assigned the respective
+// values 6 and 2. We then compare the values of friends and siblings using the
+// greater than operator. The console will evaluate this as true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// We have two variables once again, attendees and meals (9 & 8), then using the
+// strict non-equality operator, we assess whether attendees is strictly not equal
+// to meals. The console will evaluate this as true.
 
 //-------------------
 // PART 3: Logical Operators
@@ -110,18 +120,20 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age < 2);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: True. lovesToPlay is true, AND age is less than 2. I used the same
+// parameters we were given for dogAge to determine puppy status.
 
 //-------------------
 // FINAL CHECK
@@ -129,3 +141,5 @@ var age = 1;
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+// I did and everything went great without issues. Clearly programming is easy
+// and I will never run into any problems ever again...
