@@ -22,15 +22,20 @@ var creatures = "unicorns";
 console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
+// Your answer and explanation here:
 
+// Line 22 is using an interpolation to insert the numberOfCreatures and creatures values into the sentence that will appear in the console log, which appears as a string.
+// The use of backticks (`)  at the beginning and end of the sentence in addition to the use of this syntax ${variable_name} is what created this interpolated sentence.
+// Once again similarly, to concatenation, when inserting a number value into an extended string the number gets converted into part of the string.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+var sentence = `The ${speedy} jumped over the ${slowPoke}`;
 
+console.log(sentence);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -39,17 +44,25 @@ var slowPoke = "lazy brown dog";
 
 slowPoke = "tortoise";
 speedy = "hare";
+var newSentence = `In a predictable result, the ${slowPoke} beat the ${speedy}!`;
 
+console.log(newSentence)
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
-  // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation. 
+  // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
+
+var trilogy = 3
+var movieTitle = "Dark Knight"
+var dirctor = "Christopher Nolan"
+
+console.log(`${dirctor} directed ${trilogy} ${movieTitle} films.`);
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
