@@ -7,7 +7,7 @@ Spend some time changing the variables and running the file to see how the story
 
 var doorChoice = 1;
 var bearClothing = "";
-var bearChoice = 1;
+var bearChoice = 2;
 
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
@@ -38,16 +38,20 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-
++ JS is looking to see if `doorChoice` is strictly equal to `bearChoice`.  if
+  its result lines up, it will show "hat".  The `else` statement is if it does
+  not line up, in which it will show "scarf"
 2. What variable has a new value assigned to it after the first if statement executes?
-
++ `bearClothing`
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-
++ It will result in 'scarf' for bearClothing
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-
++ JS is running an if statement against `bearChoice`.  It pulls the answer from
+  'bearClothing', and logs the answer to console.
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-
++ You run as fast as you can into the next room. It's full of snakes!
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
++ You tell the bear the hat is too small and it starts to cry!
 7. What is your favorite ending?
++ I enjoy the adventure of a bear showing me a secret passage out.
 */
