@@ -11,15 +11,20 @@
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
-- Personally, I sort of liked it. There was a concept I was introduced to at the beginning of section 2 called ZPD (zone of proximal development.) I have thought of this several times since beginning Mod 0, and it comes to me often when working with these exercises. Some of the articles introduced have served to explain some of the mindsets and ideas that Turing employs and promotes during their curriculum. It feels pretty obvious to me that ZPD is something they continually have in mind when developing these excercises. It keeps us learning and growing while slightly reaching past our level of comfort. I'm very excited about it! But it's challening in the sense of sometimes not knowing if you're behind, if you should know something that you don't currently, and it can feel overwhelming. But it supported me in finding my own way and troubleshooting the simple issues. 
+- There was a concept I was introduced to at the beginning of section 2 called ZPD (zone of proximal development.) I have thought of this several times since beginning Mod 0, and it comes to me often when working with these exercises. Although I feel challenged, it also feels like I am still in my zone. Not getting pushed too hard, but still reaching on my own. It feels good. Sometimes I feel a challenge when I am concerned that I'm behind, or feel that I should know something that I don't. But I'm working with that discomfort. 
 
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
-
+- A condition statement in life: Am I hungry? If yes, eat something. If no, don't eat. I could see a website applying conditionals when there is two versions of that website. The nytimes website, for example, provides a conditional to their paid and unpaid users: Are you a paid user? If yes, login to read the article. If no, pay us or leave.
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
+- Applying multiple conditions to an `if` statment will require several lines of code. It essentially works like a flow chart, where boolean data determines which direction the code will flow. Taking our real life example from the last question, we could write code that would ask 'Are you hungry?' If the response was `yes`, or `true`, our first line of code would direct a script of 'Eat an oreo!' to display. If the asnwer was `no`, then the condition of the first script would not apply, and therefore would not run. It would then move to our next line of code, written as an `if` statement prepared to signla for the response `no`. With that input, we would design a task for this condition, to run the script `Then don't eat!`. 
+
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
+- To check this information, you can use logical operators. Using `&&` you can compare two conditions. The `&&` will only return a `true` if _both_ conditions are met. On the other hand, `||` will return `true` as long as _one_ of the conditions are met. In this way, you can check if two conditions are met or if 1/2 conditions are met before running a block of code. 
+
 7. What questions do you still have about `if` statements and/or functions?
+- I guess I'm continually wondering about how complicated these functions could become. Mentally I assume that the order of the `if` statements would start to matter if you had many `if` conditions running at once. I suppose I would like to know common mistakes programmers make when ordering more complicated programs. 
