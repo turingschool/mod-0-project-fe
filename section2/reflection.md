@@ -24,7 +24,7 @@ For example
 > if (hunger) {
 > console.log("Get you a sandwich!");
 > } else {
-> console.log("You're nut hungry, but maybe have a little glass of water.");
+> console.log("You're not hungry, but maybe have a little glass of water.");
 > };
 
 
