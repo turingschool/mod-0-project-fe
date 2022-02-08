@@ -39,15 +39,42 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
+Depending on what the doorChoice is, we will either see the bear putting on a hat or a scarf.
+If the door choice is strictly equal to one, the bear will put on the hat.
+If the door choice is not strictly equal to one, the bear will put on a scarf.
+
 2. What variable has a new value assigned to it after the first if statement executes?
+
+None.  It looks like bearChoice should change after the first if statement.
+However, there is no input from the user so the value doesn't actually change
+from what it is assigned to at the beginning of the program file.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
+Scarf
+
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+
+If the bearChoice is strictly equal to one, then the bear will show the
+visitor a secret passage out.  Otherwise, if the bearChoice is strictly
+equal to two, then the bear will start to cry.  Otherwise, if the bearChoice
+is strictly equal to 3 then the visitor will try to escape into the other
+room that is filled with snakes.  If the bearChoice is any other value,
+then the visitor will stay with the bear and become best friends.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
+Running as fast as you can into the next room that is full of snakes.
+
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
+The bear will wear the hat and will start to cry after being told that
+the hat is too small.
+
 7. What is your favorite ending?
+
+I like the secret passage out but that leaves the bear alone.  I also
+like the staying with the bear and becoming best friends.  I'd say That
+becoming best friends is my favorite ending.
+
 */

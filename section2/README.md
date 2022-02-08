@@ -38,13 +38,25 @@ Using the Terminal, open the local copy of the repository that you created durin
 Read/watch one or both of the following:
 
 - This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
-- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
+- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Mindset begins.)
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+
+*** A Growth mindset asks the question "What do I need to learn to overcome this obstacle?"  It allows me to focus on what to learn instead of panicking when I don't know something.***  
+*** I can always learn.***
+*** Don't compare myself to others.  Track my own progress (where I am today vs. where I was a year ago for example).***
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+
+*** I currently demonstrate a growth mindset by being willing to learn from my mistakes.  I demonstrate a fixed mindset when I think that I already know a subject and don't open up to asking questions about things that I am struggling with.***
+
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+
+*** I've spent years in the Accounting field.  Even though there was a learning curve, it seemed to get easier along the way.  Even with years of experience, there are times when I don't understand what to do.  It was hard at some point for me to do the Accounting.***
+
 
 ## Part B: Conditionals
 
@@ -56,7 +68,9 @@ When you are all done with the lessons, exercises, and reflection for this secti
 
 When you learned about Booleans in Section 1, you briefly read about and practiced using some comparison operators.
 
-The conditional operators we touched on earlier are critical in the set up of if statements. Conditional statements (conditions) evaluate to `true` or `false`. The most common operators used for conditions are comparison operators:
+The conditional operators we touched on earlier are critical in the
+setup of if statements. Conditional statements (conditions) evaluate to
+`true` or `false`. The most common operators used for conditions are comparison operators:
 
 * `===` (strictly equal)
 * `!==` (not equal)

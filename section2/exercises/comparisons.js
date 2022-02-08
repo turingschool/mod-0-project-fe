@@ -19,14 +19,19 @@ var stringTeachers = "4";
 var numberDogs = 0;
 
 // EXAMPLE: log the result of the comparison: is numberTeachers greater than numberStudents?
-console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
+console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents, " S/B false");
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
 
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents, " S/B true");
+
+
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers , " S/B true");
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -47,21 +52,32 @@ thinks they _need_ to use the `==` loose comparison, they are doing something th
 you develop good habits that follow best practice, from now on, use the strict comparison.
 */
 
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers, " S/B false");
+
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
+
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents, " S/B true");
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
 
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20, " S/B true");
+
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
+
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21, " S/B false");
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
 
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20, " S/B true");
+
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
 
+console.log("Is numberStudents less than or equal to 21?", numberStudents <=21, " S/B true");
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -72,22 +88,34 @@ you develop good habits that follow best practice, from now on, use the strict c
 // Be as technically precise as possible, but don't just copy and paste a definition from the readings.
 // Make sure YOU can explain it that way!
 
-console.log(4 < 9);
+console.log(4 < 9, " S/B true");
 //YOU DO: Explain.
 
+// Log the result of the comparison: is four less than nine.
+// will evaluate to true.
+
 var books = 3;
-console.log(4 < books);
+console.log(4 < books, " S/B false");
 // YOU DO: Explain.
+
+// log the result of the comparison of four less than books where books has been assigned 3.
+// Will evaluate to false.
 
 var friends = 6;
 var siblings = 2;
-console.log(friends > siblings);
+console.log(friends > siblings, " S/B true");
 // YOU DO: Explain.
+
+// log the result of the comparison of friends greater than siblings where friends is assigned to 6 and siblings is assigned to 2.
+// Will evaluate to true.
 
 var attendees = 9;
 var meals = 8;
-console.log(attendees !== meals);
+console.log(attendees !== meals, " S/B true");
 // YOU DO: Explain.
+
+//Log the result of the comparison that the attendees is not equal to the number of meals where there are 9 attendees and 8 meals.
+// will evaluate to true.
 
 
 //-------------------
@@ -99,9 +127,9 @@ var finishedHomework = false;
 
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
-console.log(isHungry && finishedHomework);
+console.log(isHungry && finishedHomework, " S/B false");
 // Determine if the user is hungry or has completed their homework
-console.log(isHungry || finishedHomework);
+console.log(isHungry || finishedHomework, " S/B true");
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -110,18 +138,27 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
+console.log(lovesToPlay && lovesTreats, " S/B true")
 
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark, " S/B false")
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark, " S/B true")
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age < 1, " S/B false");
+
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+
+// It should be false because I've made the comparison that age is less
+// than 1. This makes the comparison false because age is assigned to 1.
+// If one of the two sides of an and statement is false, the entire
+// and statement will be false.
+
 
 //-------------------
 // FINAL CHECK
@@ -129,3 +166,5 @@ var age = 1;
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+
+// Yes.
