@@ -10,8 +10,7 @@ We learned about the primitive data types: `numbers`, `strings`, and `booleans`.
 
 3. How would you log the string `"Hello World!"` to the console?
 
-``` console.log("Hello world!");
-```
+``` console.log("Hello world!");```
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
