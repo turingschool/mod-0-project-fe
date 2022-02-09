@@ -43,10 +43,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Screen Shot 2022-02-09 at 9 04 46 AM](https://user-images.githubusercontent.com/97985027/153253504-94f0acbc-eba9-420c-9466-cf36d49e00e4.png)
+- ![Screen Shot 2022-02-09 at 9 04 30 AM](https://user-images.githubusercontent.com/97985027/153253508-8d1da777-033a-458d-b71c-a155eba901d3.png)
+- ![Screen Shot 2022-02-09 at 9 04 13 AM](https://user-images.githubusercontent.com/97985027/153253511-c39aed9f-bb97-44c8-b257-fc2c42214e98.png)
 
 ## Mentorship Prep
 
