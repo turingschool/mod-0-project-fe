@@ -24,7 +24,7 @@ var firstElement = ages.shift(27);
 result ---> ages = [28,29];
 ```
 
-4. `shift()`
+4. `unshift()`
 - a method use to _add element(s) to the beginning_ of an array. example:
 ```
 var colors = ['blue','orange','pink']
