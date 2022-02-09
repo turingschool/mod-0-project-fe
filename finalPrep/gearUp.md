@@ -31,4 +31,4 @@
 4. Has there been a time where you were able to advocate or include people around you?
   How will your strengths impact you as a teammate? What will you bring to your cohort?
 
-    - I think having empathy and making efforts to engage those around me has made almost every situation more valuable and impacting for me and the people around me. Once I am comfortable in a new environment, I know from feedback that I can bring down the anxiety in a room by being open and creating room, without judgement, for everyone’s unique personality to flourish.  
+  - I think having empathy and making efforts to engage those around me has made almost every situation more valuable and impacting for me and the people around me. Once I am comfortable in a new environment, I know from feedback that I can bring down the anxiety in a room by being open and creating room, without judgement, for everyone’s unique personality to flourish.  
