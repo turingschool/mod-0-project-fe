@@ -1,4 +1,4 @@
-##Implicit bias
+## Implicit bias
 
 1. What were your reflections from the video?
 
@@ -16,19 +16,19 @@
 
 ## Intersectionality
 
-  1. When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+1. When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
 
-    - The elements of my identity that I am most aware of are my neurodivergence and being a woman.
+  - The elements of my identity that I am most aware of are my neurodivergence and being a woman.
 
-  2. What strengths does your identity give you? How will you utilize those at Turing?
+2. What strengths does your identity give you? How will you utilize those at Turing?
 
-    - I think both aspects of my identity listed above have spurred me to develop empathy for those around me. Struggling in certain ways or being treated in certain ways because of my neurodivergence or my status as a female has made it impossible to ignore the struggles of others when I witness it, so I can extend empathy, understanding, and support to others, even if we have different identities.
+  - I think both aspects of my identity listed above have spurred me to develop empathy for those around me. Struggling in certain ways or being treated in certain ways because of my neurodivergence or my status as a female has made it impossible to ignore the struggles of others when I witness it, so I can extend empathy, understanding, and support to others, even if we have different identities.
 
-  3. How do you think you could value the identies of those around you to bring out their strengths at Turing?
+3. How do you think you could value the identies of those around you to bring out their strengths at Turing?
 
-    - I think being curious and open to others is a good rule in general when engaging in our education. Engaging in genuine conversations so others can share more of themselves or their unique perspective is the only way to uncover our potentials and allow everyone’s strengths to shine. Through my previous life and career experiences, especially in healthcare and various management roles, I found the benefit of listening and making space for others.  
+  - I think being curious and open to others is a good rule in general when engaging in our education. Engaging in genuine conversations so others can share more of themselves or their unique perspective is the only way to uncover our potentials and allow everyone’s strengths to shine. Through my previous life and career experiences, especially in healthcare and various management roles, I found the benefit of listening and making space for others.  
 
-  4. Has there been a time where you were able to advocate or include people around you?
+4. Has there been a time where you were able to advocate or include people around you?
   How will your strengths impact you as a teammate? What will you bring to your cohort?
 
     - I think having empathy and making efforts to engage those around me has made almost every situation more valuable and impacting for me and the people around me. Once I am comfortable in a new environment, I know from feedback that I can bring down the anxiety in a room by being open and creating room, without judgement, for everyone’s unique personality to flourish.  
