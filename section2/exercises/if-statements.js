@@ -12,7 +12,7 @@ Make sure to run the file with node in your command line.
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
-var weather = 'snowy';
+var weather = 'sunny';
 // var weather = 'icy';
 // var weather = 'rainy';
 // var weather = 'sunny';
@@ -31,19 +31,25 @@ if (weather === 'sunny') {
   console.log('good to go!');
 }
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
 
-var dogAge = 3;
+var dogAge = 12;
 // Write your conditional here
-
+if (dogAge <= 2) {
+  console.log('puppy');
+} else if (dogAge >= 10) {
+  console.log('elderly dog')
+} else {
+  console.log('adult dog')
+}
 
 /*
 YOU DO:
@@ -65,8 +71,11 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
+if (numQuarters >= 2) {
+  console.log("I have enough money for a gumball");
+} else {
+  console.log("I don't have enough money for a gumball");
+}
 
 
 /*
@@ -86,11 +95,21 @@ var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
-
+if (cupsOfFlour >= 2 && hasSauce) {
+  console.log("I can make pizza")
+} else {
+  console.log("I cannot make pizza")
+}
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
+Yes, I used the logical AND operator in the last exercise!
+
+Logical operators in Javascript are:
+Logical AND: &&
+Logical OR: ||
+Logical NOT: !
 */
