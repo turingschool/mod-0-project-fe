@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
 - [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+  - [ ] Add a link for your gist here: [link to gist](https://gist.github.com/masaki-kleinkopf/64b766f0f5221aa8c4985b6159af6981)
 
 ## Time Management Prep
 
@@ -43,10 +43,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Screen Shot 2022-02-09 at 9 04 46 AM](https://user-images.githubusercontent.com/97985027/153253504-94f0acbc-eba9-420c-9466-cf36d49e00e4.png)
+- ![Screen Shot 2022-02-09 at 9 04 30 AM](https://user-images.githubusercontent.com/97985027/153253508-8d1da777-033a-458d-b71c-a155eba901d3.png)
+- ![Screen Shot 2022-02-09 at 9 04 13 AM](https://user-images.githubusercontent.com/97985027/153253511-c39aed9f-bb97-44c8-b257-fc2c42214e98.png)
 
 ## Mentorship Prep
 
@@ -54,21 +53,21 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: [link](https://gist.github.com/masaki-kleinkopf/dd02e6cff6d2c8a7d13efea02c46d10f)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here: [link to pre teaching](https://gist.github.com/ddfbce28493517e70e69590e09a823e9.git)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [link to DTR questions](https://gist.github.com/fce55faaa1e76312d7e0d23e6794cf58.git)
 
 ## Mod 0 Project Submission
 
