@@ -38,15 +38,15 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [x] Study/Project work time (usually about 25 hours/week outside of class time)
-- [x] Personal, Health + Wellness
+- [X] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [X] Study/Project work time (usually about 25 hours/week outside of class time)
+- [X] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- [Week 1 Screenshot](![Screen Shot 2022-02-10 at 4 05 21 PM](https://user-images.githubusercontent.com/98493391/153512254-56d67246-1a96-4168-a25d-c92cc417f7f1.png)
-- [Week 2 Screenshot](![Screen Shot 2022-02-10 at 4 05 32 PM](https://user-images.githubusercontent.com/98493391/153512447-478945a6-7c69-4bda-932b-da0a1dd4deb0.png)
-- [Week 3 Screenshot](![Screen Shot 2022-02-10 at 4 05 42 PM](https://user-images.githubusercontent.com/98493391/153512499-64748e92-eae8-4b17-ab33-75c4c76106c7.png)
+- Week 1 Screenshot ![Screen Shot 2022-02-10 at 4 05 21 PM](https://user-images.githubusercontent.com/98493391/153512254-56d67246-1a96-4168-a25d-c92cc417f7f1.png)
+- Week 2 Screenshot![Screen Shot 2022-02-10 at 4 05 32 PM](https://user-images.githubusercontent.com/98493391/153512447-478945a6-7c69-4bda-932b-da0a1dd4deb0.png)
+- Week 3 Screenshot ![Screen Shot 2022-02-10 at 4 05 42 PM](https://user-images.githubusercontent.com/98493391/153512499-64748e92-eae8-4b17-ab33-75c4c76106c7.png)
 
 ## Mentorship Prep
 
