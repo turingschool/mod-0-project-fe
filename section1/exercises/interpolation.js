@@ -63,7 +63,7 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
   numberOfFoods= 3
   flavorProfile= "salty"
 
-  console.log(`I have ${numberOfFoods} ${foods} in the kitchen, and they taste ${flavorProfiles} and delicious!`)
+  console.log(`I have ${numberOfFoods} ${foodType} in the kitchen, and they taste ${flavorProfile} and delicious!`)
 
 //-------------------
 // FINAL CHECK
