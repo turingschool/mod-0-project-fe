@@ -31,19 +31,33 @@ if (weather === 'sunny') {
   console.log('good to go!');
 }
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
 
-var dogAge = 3;
+console.log('puppy = 0-2')
+console.log('adult = 3-9')
+console.log('eldelry = 10 or older')
+
 // Write your conditional here
 
+var dogAge = 2;
+var dogAge = 3;
+var dogAge = 10;
+
+if (dogAge <= 2 && dogAge >= 0) {
+  console.log('puppy');
+} else if (dogAge >= 3 && dogAge <= 9) {
+  console.log('adult');
+} else if (dogAge <= 10) {
+  console.log ('elderly');
+}
 
 /*
 YOU DO:
@@ -65,8 +79,12 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
+
+if (numQuarters >= 2) {
+   console.log("I have enough money for a gumball");
+}  else if (numQuarters < 2) {
+   console.log("I don't have enough money for a gumball");
+}
 
 
 /*
@@ -87,10 +105,25 @@ var hasSauce = true;
 
 // Write your conditional here
 
+if (cupsOfFlour >= 2 && hasSauce) {
+   console.log("I can make pizza");
+}  else if (cupsOfFlour < 2 || !hasSauce) {
+   console.log("I cannot make pizza");
+}
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
+*/
 
+/*
+My soultion to the last problem made use of all three logical operators.
+The logical operators are logical AND (&&), logical OR (||) and logical NOT (!).
+The logical AND evaluates to true if both values are true, and false otherwise.
+The logical OR evaluates to true if either value is true, but false if both are false.
+Lastly, the logical NOT operator is true if value is true, and false if it's false.
+Using these logical operators, my conditional made it so that if both the flour cup
+and sauce values were met the console logged, "I can make pizza." However, my condiional
+also made it so if either of the pizza values weren't met the console logged, "I cannot make pizza."
 */
