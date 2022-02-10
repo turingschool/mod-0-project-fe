@@ -56,10 +56,11 @@ var animalFood;
 var amountEaten;
 
 var animalName= "panda"
-var animalFood= " bamboo shoots"
+var animalFood= "bamboo shoots"
 var amountEaten= 7
 
-console.log ("The " + animalName + " eats " + amountEaten + animalFood + " for lunch. Yum!")
+
+console.log ("The " + animalName + " eats " + amountEaten + " " + animalFood + " for lunch. Yum!")
 //-------------------
 // FINAL CHECK
 //-------------------
