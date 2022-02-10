@@ -50,22 +50,23 @@ Questions
   door the user selects.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-  In that case, the condition would change in the if...else statement. If doorChoice held a value of 3,
-  the if statement would be false. Therefore, the if statement would get skipped, and the else statement
-  would execute. This would assign "scarf" as the new value of bearClothing.
+  In that case, if statement will not be equal to three, so it will evaluate as false and the code in the curly brackets won't run.
+  Then, the else statement would execute as there are no other conditions to be evaluated. This would assign "scarf" as the new value of bearClothing.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
   This is an if...else statement. It has an if statement, a couple of else if statements with different
   conditions, and finally an else statement that will be exectued if none of the other conditions are met.
 
   In the first if statement, the condition evaluates if bearChoice is equal to 1. If it is, the code executes
-  and console.logs the concatinated code within the curly brackets. The statement is complete.
-  If bearchoice is NOT equal to 1, then the next else if statement is evaluated. If bearChoice is equal
-  to 2, the else if statement executes and console.logs the message, and the statement is complete.
-  If bearChoice is NOT equal to two, then the second else if condition is evaluated (is bearChoice equal to 3?).
+  and console displays the concatinated code within the curly brackets. The statement is complete.
+
+  If bearchoice is NOT equal to 1, then the next else if condition is evaluated. If bearChoice is equal
+  to 2, the else if statement executes, the console displays the message, and the statement is complete.
+
+  If bearChoice is NOT equal to 2, then the second else if condition is evaluated (is bearChoice equal to 3?).
   If this is true, the code executes and the message displays in the console. If not, the else statement will be run.
-  There is no condition to be met for this else statement to execute code. Rather, it will run regardless
-  since no other conditions have been met.
+  There is no condition to be met for this else statement to execute code. It will run regardless
+  since no other conditions have been met. I like to think of an else statement as last resort code.
 
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
@@ -78,5 +79,5 @@ Questions
 7. What is your favorite ending?
 
 My favorite ending is the one where doorChoice equals 1, and bearChoice equals 1. Bears in hats are cute! Plus if I get out through
-the secret passageway, maybe I can visit the bear another time. 
+the secret passageway, maybe I can visit the bear another time. I'll bring berries and honey as a sign of good will.
 */
