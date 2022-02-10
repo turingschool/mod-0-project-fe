@@ -55,13 +55,13 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
 
   var foods = "donuts"
   var numberOfFoods= 12
-  var flavorProfiles= "sweet"
+  var flavorProfile= "sweet"
 
-  console.log(`I have ${numberOfFoods} ${foods} in the kitchen, and they taste ${flavorProfiles} and delicious!`)
+  console.log(`I have ${numberOfFoods} ${foods} in the kitchen, and they taste ${flavorProfile} and delicious!`)
 
   foods = "pickles"
   numberOfFoods= 3
-  flavorProfiles= "salty"
+  flavorProfile= "salty"
 
   console.log(`I have ${numberOfFoods} ${foods} in the kitchen, and they taste ${flavorProfiles} and delicious!`)
 
