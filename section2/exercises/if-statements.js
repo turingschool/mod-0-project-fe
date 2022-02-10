@@ -45,14 +45,12 @@ var dogAge = 3;
 
 
 if (dogAge <= 2) {
-  console.log (`Since your dog is ${dogAge}, they are still a puppy. Aw!`)
-}
-else if (dogAge >= 10) {
+  console.log (`Since your dog is only ${dogAge}, they are still a puppy. Aw!`)
+} else if (dogAge >= 10) {
   console.log (`This dog is ${dogAge}, so they are elderly. They are a good old dog and deserve a treat and a belly rub!`)
-}
-else (
+} else (
   console.log (`Your dog is ${dogAge}, so they are a full grown adult. Good dog!`)
-)
+);
 
 // Write your conditional here
 
@@ -79,7 +77,7 @@ if (numQuarters <= 1) {
   console.log("I don't have enough money for a gumball");
   }
 else if (numQuarters >= 2) {
-  console.log("I have enough money for a gumball")
+  console.log("I have enough money for a gumball");
 }
 
 // Write your conditional here
@@ -103,10 +101,9 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 var cupsOfFlour = 1;
 var hasSauce = true;
 
-if (cupsOfFlour >= 2 && hasSauce === true){
-  console.log("I can make pizza")
-}
-else {
+if (cupsOfFlour >= 2 && hasSauce === true) {
+  console.log("I can make pizza");
+} else {
   console.log("I cannot make pizza");
 }
 
