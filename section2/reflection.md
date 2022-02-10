@@ -21,27 +21,25 @@ discomfort as a part of this process.
 
 ### 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
-A conditional statement is a piece of code that evaluates one, or multiple, conditions. Then the statement executes code according to which conditions were or were not met. An if statement gives the first condition to be checked. If it is true, the code executes. If not, the computer evaluates any else if statements, which provide alternate conditions to be checked. Then, if a condition is true, the code executes. If none of the conditions are met, there will be an else statement that tells the code what to execute if no other conditionals are true.
+A conditional statement is a piece of code that evaluates one, or multiple, conditions. Then the statement executes code according to which conditions were or were not met. An _if statement_ gives the first condition to be checked. If it is true, the code executes. If not, the computer evaluates any _else if_ statements, which provide alternate conditions to be checked. Then, if a condition is true, the code executes. If none of the conditions are met, there will be an _else_ statement that tells the code what to execute if no other conditionals are true.
 
 A daily life conditional I can think of would be related to eating. If I'm hungry, I should eat something. Otherwise, there is no need for me to eat anything. This conditional statement would look like this snippet below in theory.
 
 ```javascript
-if (isHungry=true){
-  console.log("You should eat something!")
-}
-else {
-  console.log("You should eat later.")
+if (isHungry === true) {
+  console.log("You should eat something!");
+} else {
+  console.log("You should eat later.");
 }
 ```
 
 One app I use is Pokemon Go. In this game, a player can collect items to use in the game by selecting, or "spinning", a pokestop. Once the player spins the pokestop, items are automatically added to their inventory. However, the player can only collect these items if there is room in their item bag. If there is no room, they cannot collect items. I imagine there is some sort of conditional in place like this:
 
 ```javascript
-if (itemBagFull = true) {
-  console.log("Item bag full")
-}
-else {
-  addItems()
+if (itemBagFull === true) {
+  console.log("Item bag full");
+} else {
+  addItems();
 }
 ```
 
@@ -51,9 +49,8 @@ To add multiple conditions, you can add an _else if statement_ to the code. Basi
 
 ### 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
-To check that two conditions are met, I can use a **_logical operator_** such as &&. For the code to execute, both conditions must be met. If I want to see if
-either one or the other condition is met, I can use ||. When I use this operator, the code will execute if either one of the conditions are met.
+To check that two conditions are met, I can use a **_logical operator_** such as &&. For the code to execute, both conditions must be met. If I want to see if either one or the other condition is met, I can use ||. When I use this operator, the code will execute if either one of the conditions are met.
 
 ### 7. What questions do you still have about `if` statements and/or functions?
 
-I am curious about best practice with if...else statements. For example, can code have too many else if conditions? If there are many many conditions, is there a better or more efficient way to check these rather than evaluating each condition? 
+I am curious about best practice with if...else statements. For example, can code have too many else if conditions? If there are many many conditions, is there a better or more efficient way to check these rather than evaluating each condition?
