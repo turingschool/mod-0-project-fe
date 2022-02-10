@@ -14,16 +14,15 @@ An array method is basically a function used to manipulate an array in some way.
 
 ### 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?
 
-A loop is useful because it gives the code the power to repeat whatever function is needed in the program. A loop would be used in conjuntion with an array if the code needs to apply that loop to the data contained in an array.
+A loop is useful because it gives code the power to repeat whatever function is needed in the program. A loop would be used in conjunction with an array if the code needs to apply a loop to specific elements contained in an array.
 
-For example, if I am using a piece of insurance verification software, I might be prompted to enter my policy number to see if my policy is active. Once I click the submit button, the program will compare the policy number I entered to all of the other policy numbers in their system. Then, it will tell me that the plan is active if it finds a matching policy number.
+For example, if I am using a piece of insurance verification software, I might be prompted to enter my policy number to check if my policy is active. Once I click the submit button, the program will compare the policy number I entered to all of the other policy numbers in their system. These policy numbers are held within an array. The program will loop through the array, and then it will tell me that the plan is active if it finds a matching policy number. I imagine the code would look something like this:
 
 ```javascript
-for (var i=0; i < policies.length; i++) {
+for (var i = 0; i < policies.length; i++) {
   if (policies[i] === input) {
-    console.log("Plan is active")}
-  
- else {
+    console.log("Plan is active");
+  } else {
     console.log("No active policy found");
   }  
 }
@@ -35,11 +34,11 @@ Basically, a loop allows for us to repeat any function as many times as we'd lik
 
 ### 5. If you had to teach a 5 year old about loops, how would you explain it?
 
-Loops are really cool! When you write a loop, you tell your computer to do a task as many times as you tell it to. Let's say you wanted your computer to sing Baby Shark to your friends 100 times. You can tell your computer, hey computer, I want you to start at the number 0 and start counting how many times you sing baby shark. I want you to sing Baby Shark 100 times. Then stop. The computer will sing Baby Shark 100 times, and your friends will laugh. Cool right?
+Loops are really cool! When you write a loop, you tell your computer to do a task as many times as you tell it to. Let's say you wanted your computer to "sing" Baby Shark to your friends 100 times. You can tell your computer, hey computer, I want you to start at the number 0 and start counting how many times you sing baby shark. I want you to sing Baby Shark 100 times. Then stop. The computer will "sing" Baby Shark 100 times, and your friends will laugh. Cool right?
 
 ```javascript
-for ( var i= 0; i<100; i++) {
-  console.log ("BABY SHARK DOO DOO DOO DOO DOO DOODOO!!!!!")
+for (var i = 0; i < 100; i++) {
+  console.log ("BABY SHARK DOO DOO DOO DOO DOO DOODOO!!!!!");
 }
 ```
 
