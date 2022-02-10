@@ -53,13 +53,13 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 
 
-  var foods = "donuts"
+  var foodType = "donuts"
   var numberOfFoods= 12
   var flavorProfile= "sweet"
 
-  console.log(`I have ${numberOfFoods} ${foods} in the kitchen, and they taste ${flavorProfile} and delicious!`)
+  console.log(`I have ${numberOfFoods} ${foodType} in the kitchen, and they taste ${flavorProfile} and delicious!`)
 
-  foods = "pickles"
+  foodType = "pickles"
   numberOfFoods= 3
   flavorProfile= "salty"
 
