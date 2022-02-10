@@ -149,7 +149,7 @@ console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
 
-console.log(lovesToPlay && age <= 1)
+console.log(lovesToPlay && age <= 1);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER: true
