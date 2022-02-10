@@ -31,7 +31,7 @@ console.log(dobbyWarns);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Bobcat";
-var isHungry = 'hippo';
+var isHungry = true;
 var  numberOfPets = 12;
 console.log(firstName);
 console.log(isHungry);
@@ -40,15 +40,15 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-// A variable's name should represent the type of data it holds. firstName should be a name value, isHungry should refer to something that acts that way, and numberOfPets should store numerical data.
+// A variable's name should represent the type of data it holds. firstName should be a name value, isHungry should be a boolean, and numberOfPets should store numerical data.
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
 var firstName = "Doug";
-var isHungry = "pac-man";
-var numberOfPets = "6";
+var isHungry = false;
+var numberOfPets = 6;
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -57,8 +57,7 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-console.log(healthySnacks);
-console.log(junkFoodSnacks);
+console.log(healthySnacks + junkFoodSnacks);
 
 
 //-------------------
