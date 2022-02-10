@@ -23,8 +23,8 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var warning = "Harry Potter must not return to Hogwarts!";
-console.log(warning);
+var elfWarning = "Harry Potter must not return to Hogwarts!";
+console.log(elfWarning);
 
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
@@ -63,7 +63,11 @@ console.log(firstName, isHungry, numberOfPets);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+//Method 1- adds the value of the two variables.
+
 console.log(healthySnacks + junkFoodSnacks);
+
+//Method 2- declares a new variable, and assigns it the value of healthySnacks + junkFoodSnacks.
 
 var allSnacks = (healthySnacks + junkFoodSnacks);
 console.log(allSnacks);
