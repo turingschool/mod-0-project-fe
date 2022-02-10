@@ -14,7 +14,7 @@
 
 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?
 
-- The purpose of a loop is to tell our code to go through the code a certain amount of times. We could use a simple loop, on something that contains only one element, to repeat a simple message a certain amountof time. If we have an array (multiple elements) and want our code to through each element in the loop, we can set the number of loops to equal the amount of elements in the array, and return different values depending on what element is being used in each iteration.
+- The purpose of a loop is to tell our code to go through the code a certain amount of times. We could use a simple loop, on something that contains only one element, to repeat a simple message a certain amount of time. If we have an array (multiple elements) and want our code to through each element in the loop, we can set the number of loops to equal the amount of elements in the array, and return different values depending on what element is being used in each iteration.
 
 5. If you had to teach a 5 year old about loops, how would you explain it?
 
