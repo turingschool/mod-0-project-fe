@@ -22,8 +22,7 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here:
-//A string data type will be logged to the console as a result of type coercion.
+// Your answer and explanation here: A string data type will be logged to the console as a result of type coercion.
 //Javascript is trying to help by converting the number into a string so the two can be combined together.
 
 
@@ -52,11 +51,11 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 
-  var greeting = "Hi there!";
-  var firstName = "Corinne";
-  var age = 32;
+var greeting = "Hi there!";
+var firstName = "Corinne";
+var currentAge = 32;
 
-console.log(greeting + " My name is " + firstName + " and I am " + age + " years old. ");
+console.log(greeting + " My name is " + firstName + " and I am " + currentAge + " years old. ");
 
 
 //-------------------

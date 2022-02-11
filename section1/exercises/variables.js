@@ -42,9 +42,9 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  // I used a string for firstName since this consists of letters.
-  // I used a boolean for isHungry since this has one of two values, true or false.
-  // I used a number for numberOfPets since this is a number.
+  // I used a String for firstName since this consists of letters.
+  // I used a Boolean for isHungry since this has one of two values, true or false.
+  // I used a Number for numberOfPets since this is a number.
 
 
 // YOU DO:
