@@ -80,22 +80,22 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-// This line of code is comparing two number data types: is 4 less than 9?
+// This line of code is comparing two Number data types: is 4 less than 9?
 // this should log: true
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// This code on line 86 is declaring the variable books as well as assigning this variable to the number value 3.
-// Code on line 87 is logging the comparison: is 4 less than books, which holds the value of 3.
+// This code on line 86 is declaring the variable books as well as assigning this variable to the Number value 3.
+// Code on line 87 is logging the comparison: is 4 less than books, which holds the Number value of 3.
 // this should log: false
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// Line 93 is declaring the variable "friends" and assigning it to the number value of 6.
-// Line 94 is declaring the variable "siblings" and assigning it to the number value of 2.
+// Line 93 is declaring the variable "friends" and assigning it to the Number value of 6.
+// Line 94 is declaring the variable "siblings" and assigning it to the Number value of 2.
 // Line 95 is logging the comparison: is friends greater than siblings?
 // this should log: true
 
@@ -103,8 +103,8 @@ var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// Line 102 is declaring the variable "attendees" and assigning it to the number value of 9.
-// Line 103 is declaring the variable "meals" and assigning it to the number value of 8.
+// Line 102 is declaring the variable "attendees" and assigning it to the Number value of 9.
+// Line 103 is declaring the variable "meals" and assigning it to the Number value of 8.
 // Line 104 is logging the comparison: is attendees not equal to meals?
 // this should log: true
 
