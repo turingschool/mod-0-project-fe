@@ -45,8 +45,14 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+<img width="1200" alt="Screen Shot 2022-02-10 at 7 03 21 PM" src="https://user-images.githubusercontent.com/93043035/153527462-547f3c3d-470a-49d6-a49c-ad607f51b20c.png">
+
 - `Add Week 2 Screenshot Here`
+
+<img width="1200" alt="Screen Shot 2022-02-10 at 7 03 36 PM" src="https://user-images.githubusercontent.com/93043035/153527520-2c96657d-9100-4ce7-9bb0-2e8e6491b3b9.png">
+
 - `Add Week 3 Screenshot Here`
+<img width="1200" alt="Screen Shot 2022-02-10 at 7 03 50 PM" src="https://user-images.githubusercontent.com/93043035/153527607-0849b078-8c98-4ba1-a536-fad44a093ef4.png">
 
 ## Mentorship Prep
 
@@ -60,8 +66,8 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [X] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [X] Add a link to your gist here: [See my Lesson Prep gist here!](https://gist.github.com/ASands17/97e0b210f6dcd624b40a87d6b46233a0)
 
 ## Group Work Prep
 
