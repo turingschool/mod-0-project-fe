@@ -6,7 +6,7 @@ I don't like it.  I don't want to be self-taught and I don't like doing "pre-tea
 
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 
-Spotify probably uses arrays to organize playlists of songs.
+Spotify probably uses arrays to organize playlists of songs. A playlist is an ordered list of songs.  
 
 3. In your own words, explain what an Array method is.
 
@@ -23,5 +23,6 @@ A loop is when you repeat something over and over again.
 
 6. What questions do you still have about Arrays and loops?
 
-I could come up with a few questions that I already know the answers to.  For example, how do you access the element of a nested array?  By using 
-bracket notation for each of the arrays such as in "array[0][3]" to access the 4th element in the first array in the variable.
+I could come up with a few questions that I already know the answers to.  For example, how do you access the
+element of a nested array?  By using bracket notation for each of the arrays such as in "array[0][3]" to access
+the 4th element in the first array in the variable.

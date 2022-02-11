@@ -45,9 +45,8 @@ If the door choice is not strictly equal to one, the bear will put on a scarf.
 
 2. What variable has a new value assigned to it after the first if statement executes?
 
-None.  It looks like bearChoice should change after the first if statement.
-However, there is no input from the user so the value doesn't actually change
-from what it is assigned to at the beginning of the program file.
+The variable bearClothing is reassigned.  It begins being assigned to the empty string and ends being 
+assigned to either the word hat or scarf.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
@@ -66,15 +65,14 @@ then the visitor will stay with the bear and become best friends.
 
 Running as fast as you can into the next room that is full of snakes.
 
-6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome?
 
-The bear will wear the hat and will start to cry after being told that
-the hat is too small.
+The bear will wear the hat and will start to cry after being told that the hat is too small.
 
 7. What is your favorite ending?
 
 I like the secret passage out but that leaves the bear alone.  I also
-like the staying with the bear and becoming best friends.  I'd say That
+like the staying with the bear and becoming best friends.  I'd say that
 becoming best friends is my favorite ending.
 
 */

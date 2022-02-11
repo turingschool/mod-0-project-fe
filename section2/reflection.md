@@ -24,11 +24,13 @@ An example of a conditional in a web application I use may be "if the dollar amo
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
-To have multiple conditions, we use else if.  For example, if a condition is not met, then the next condition is considered.  If the second condition is not met, then the third condition is considered.  Once a condition is met, then the code block after that condition will be run.
+To have multiple conditions, we use else if.  For example, if a condition is not true, then the next condition is considered.  If the second condition is not true, then the third condition is considered.  Once a condition is true, then the code block after that condition will be run.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
-The easiest way I can think of to check if multiple conditions are true is by using the the logical and to join the two conditions in the conditional statement.  The other option is to use the logical or to see if one of the two conditions are met.
+The easiest way I can think of to check if multiple conditions are true is by using the logical "and" to join
+the two conditions in the conditional statement.  The other option is to use the logical "or" to see if one of
+the two conditions are true.
 
 7. What questions do you still have about `if` statements and/or functions?
 

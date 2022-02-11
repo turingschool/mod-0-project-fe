@@ -10,14 +10,15 @@ Make sure to run the file with node in your command line.
 
 
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
-  // than 'coat'.
+// than 'coat'.
 
 // var weather = 'snowy';
 // var weather = 'icy';
 // var weather = 'rainy';
 var weather = 'sunny';
+
 // While working through this example, I would toggle which variable declaration is
-  // commented in/out and run the program in node several times to observe the output.
+// commented out and run the program in node several times to observe the output.
 
 if (weather === 'sunny') {
   console.log('sunscreen');
@@ -70,17 +71,14 @@ When numQuarters = 2, program should log "I have enough money for a gumball"
 When numQuarters = 3, program should log "I have enough money for a gumball"
 */
 
-var numQuarters = 0;
+var numQuarters = 3;
 
 // Write your conditional here
 if (numQuarters === 0 || numQuarters === 1){
-  console.log("I don't have enough money for a gumball");
+  console.log("I don't have enough money for a gumball.");
 } else if (numQuarters === 2 || numQuarters === 3){
-  console.log("I have enough money for a gumball");
-} else {
-  console.log("Yo! I'm broke.  What gumball money?")
+  console.log("I have enough money for a gumball.");
 }
-
 
 /*
 YOU DO:
@@ -100,11 +98,9 @@ var hasSauce = true;
 
 // Write your conditional here
 
-if (cupsOfFlour = 1){
-  console.log("I cannot make pizza.");
-} else if(cupsOfFlour === 2 && hasSauce === true ){
+if (cupsOfFlour === 2 && hasSauce === true ){
   console.log("I can make pizza.");
-} else if (cupsOfFlour ===3 && hasSauce === true){
+} else if (cupsOfFlour === 3 && hasSauce === true){
   console.log("I can make pizza.");
 } else {
   console.log("I cannot make pizza.");

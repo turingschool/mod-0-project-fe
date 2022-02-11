@@ -106,16 +106,17 @@ var siblings = 2;
 console.log(friends > siblings, " S/B true");
 // YOU DO: Explain.
 
-// log the result of the comparison of friends greater than siblings where friends is assigned to 6 and siblings is assigned to 2.
-// Will evaluate to true.
+// log the result of the comparison of friends greater than siblings where friends is assigned to 6 and 
+// siblings is assigned to 2.  Will evaluate to true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals, " S/B true");
 // YOU DO: Explain.
 
-//Log the result of the comparison that the attendees is not equal to the number of meals where there are 9 attendees and 8 meals.
-// will evaluate to true.
+// Log the result of the comparison that the attendees is not equal to the number of meals where there are 
+// 9 attendees and 8 meals.
+// Will evaluate to true.
 
 
 //-------------------
@@ -128,6 +129,7 @@ var finishedHomework = false;
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
 console.log(isHungry && finishedHomework, " S/B false");
+
 // Determine if the user is hungry or has completed their homework
 console.log(isHungry || finishedHomework, " S/B true");
 
@@ -140,7 +142,6 @@ var age = 1;
 // Determine if the dog loves to play and loves treats
 console.log(lovesToPlay && lovesTreats, " S/B true")
 
-
 // Determine if the dog loves to play and loves the dog park
 console.log(lovesToPlay && lovesDogPark, " S/B false")
 
@@ -149,7 +150,6 @@ console.log(lovesToPlay || lovesDogPark, " S/B true")
 
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age < 1, " S/B false");
-
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:

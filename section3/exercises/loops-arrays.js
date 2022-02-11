@@ -76,12 +76,15 @@ var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 // "Make sure you get out and vote!"
 // "Make sure you get out and vote!"
 
+// For all ages in the ages array, 
 for( var i = 0; i < ages.length; i++){
+// determine if the age is under 18 or 18 and older,
   if(ages[i]<18){
+// if age is under 18, log can't vote yet message to the console.
     console.log("Oh no, you can't vote quite yet.");
-  } else if (ages[i] >= 18){
-    console.log("Make sure you get out and vote!");
+// Otherwise, if the age is 18 and older, 
   } else {
-    console.log("Party on!");
+// Log the message to go out and vote to the console.
+    console.log("Make sure you get out and vote!");
   }
 }

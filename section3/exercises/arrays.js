@@ -31,17 +31,17 @@ console.log(`Number of elements in animals array: `, animals.length);
 animals[2] = "Gorilla";
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-animals.push("Monkey");
+animals.push("Elephant");
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-console.log(animals[2]); //This instruction doesn't make sense because we reassigned Elephant to Gorilla in a prior step.
+console.log(animals[3]); 
 
 //-------------------
 // PART 2: Foods: Array Methods
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-var foods = ["Apple", "Carrot", "Banana", "Lettuce"];
+var foods = ["apple", "carrot", "banana", "lettuce"];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -49,7 +49,7 @@ console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-foods.push("Broccoli");
+foods.push("broccoli");
 console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
