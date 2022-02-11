@@ -59,10 +59,12 @@ console.log(7 > 2);
 
 // YOU DO: log to the console the result of "hello" is equal to "Hello":
 console.log('hello' === 'Hello');
-// YOU DO: log to the console the result of 3 is not equal to 4:
-console.log(3 !== 4)
-// YOU DO: log to the console the result of 4 is less than or equal to 5:
 
+// YOU DO: log to the console the result of 3 is not equal to 4:
+console.log(3 !== 4);
+
+// YOU DO: log to the console the result of 4 is less than or equal to 5:
+console.log( 4 >= 5);
 
 
 //-------------------
