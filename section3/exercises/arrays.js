@@ -108,7 +108,7 @@ if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 20;
+var percentBatteryLeft = 10;
 var hasCharger = true;
 var chargerType = "car";
 
@@ -118,9 +118,13 @@ var chargerType = "car";
 if (percentBatteryLeft >= 15) {
   console.log("You can call an Uber!");
 // if the condition evaluates to true that the user has 15% or more battery, print out the line "You can call an Uber!"
+} else if (hasCharger == true && chargerType == "car") {
+// code on line 121 is an else if that evaluates whether two conditions are met, 1) if the user has a charger and 2) if it is a car charger.
+// if these two conditions both evaluate to true, print out the line "You can call an Uber!"
+  console.log("You can call an Uber!");
 } else {
   console.log("You cannot call an Uber.");
-//if the condition does NOT evaluate to true and the user has less than 15% battery, print out the line "You cannot call an Uber."
+//if none of the above conditions evaluate to true and the user has less than 15% battery and does not have a charger that is a car charger, print out the line "You cannot call an Uber."
 }
 
 
