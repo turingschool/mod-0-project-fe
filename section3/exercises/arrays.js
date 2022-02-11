@@ -37,12 +37,12 @@ console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
-var moreAnimals = animals.push("Yak");
+animals.push("Yak");
 console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
-var moreAnimals = animals.push("Elephant");
+animals.push("Elephant");
 console.log(animals);
 
 //-------------------
@@ -62,25 +62,25 @@ console.log(foods.length);
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
 
-var moreFoods = foods.push("broccoli");
+foods.push("broccoli");
 console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
 
-var fewerFoods= (foods.pop());
+foods.pop();
 console.log(foods);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
 
-var manyMoreFoods= (foods.unshift("nachos", "ice cream", "potato chips"));
+foods.unshift("nachos", "ice cream", "potato chips");
 console.log(foods);
 
 // YOU DO: Remove the food that is in index position 0.
 
-var removeFoods = foods.shift();
+foods.shift();
 console.log(foods);
 
 //-------------------
