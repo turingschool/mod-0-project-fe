@@ -27,8 +27,8 @@
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
 <h4>Reddit</h4>
-* Upvotes and downvotes are variables that are stored as numbers.
-* Comments are all strings.
+* Upvotes and downvotes are variables that are stored as numbers.<br>
+* Comments are all strings.<br>
 * A boolean example they may use is to know if I am logged in or not. When true I would have access to all of the features of the website, perhaps when I'm logged out in which it would be false and I would need to authenticate my privileges by logging in? I'm probably super wrong!
 
 7. In your own words, explain what concatenation is.
