@@ -13,7 +13,7 @@
 
 3. How would you log the string `"Hello World!"` to the console?
 
-console.log("Hello World!");
+`console.log("Hello World!");`
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 // or */
@@ -41,4 +41,4 @@ console.log("Hello World!");
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-We printed to the console a lot in this section. In real practice, is console.log a huge thing or would you usually send the data elsewhere and not log it? Is console.log a test thing? I suppose I just wonder more about the big picture. Also, are there limits to the data types? Would I be able to store 100 trillion as a number or the Gettysburgh address as a string? What are the limits to what computers themselves can even handle? 
+* We printed to the console a lot in this section. In real practice, is console.log a huge thing or would you usually send the data elsewhere and not log it? Is console.log a test thing? I suppose I just wonder more about the big picture. Also, are there limits to the data types? Would I be able to store 100 trillion as a number or the Gettysburgh address as a string? What are the limits to what computers themselves can even handle? 
