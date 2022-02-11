@@ -46,7 +46,7 @@ Questions
   assisgned the value of "scarf".
 
 2. What variable has a new value assigned to it after the first if statement executes?
-  The variable bearClothing is reassigned. It previously had an "empty" value (" "), then this is reassigned based on the
+  The variable bearClothing is reassigned. It previously had an "empty" value (""), then this is reassigned based on the
   door the user selects.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
