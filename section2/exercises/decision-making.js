@@ -38,16 +38,23 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+This code is saying that if doorChoice is strictly equal to 1 then bearClothing will be "hat". If doorChoice does not strictly equal 1 then bearClothing will be "scarf".
 
 2. What variable has a new value assigned to it after the first if statement executes?
+bearClothing has a new value assigned to it after the first if statement.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+The bearClothing value will be "scarf".
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+This code is saying that if bearChoice strictly equals 1, then execute the statement between the first curly brackets. If bearChoice strictly equals 2, then execute the statement between the second set of curly brackets. If bearChoice strictly equals 3, then execute the statement between the third set of curly brackets.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+You run as fast as you can into the next room. It's full of snakes!
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+You tell the bear the hat is too small and it starts to cry!
 
 7. What is your favorite ending?
+You offer the bear your hat and the bear shows you a secret passage out!
 */
