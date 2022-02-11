@@ -51,13 +51,10 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 
-var animalName;
-var animalFood;
-var amountEaten;
 
-var animalName= "panda"
-var animalFood= "bamboo shoots"
-var amountEaten= 7
+var animalName = "panda"
+var animalFood = "bamboo shoots"
+var amountEaten = 7
 
 
 console.log ("The " + animalName + " eats " + amountEaten + " " + animalFood + " for lunch. Yum!")
