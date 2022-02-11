@@ -21,7 +21,8 @@ for (var i = 0; i < animals.length; i++) {
 var animals = ["horse", "cow", "sheep", "goat"];
 
 for (var i = 0; i < animals.length; i++) {
-  console.log("The " + animals[i] + " is awesome!");
+  //console.log("The " + animals[i] + " is awesome!");
+  console.log(`The ${animals[i]} is awesome!`);
 }
 
 
@@ -30,7 +31,7 @@ for (var i = 0; i < animals.length; i++) {
 var foods = ["bananas", "bread", "tomatoes", "bacon"];
 
 for (var i = 0; i < foods.length; i++) {
-  console.log("Add " + foods[i] + " to shopping list.");
+  console.log(`Add ${foods[i]} to shopping list.`);
 }
 
 
@@ -47,7 +48,7 @@ for (var i = 0; i < numbers.length; i++) {
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
 for (var i = 2; i < names.length; i++) {
-  console.log("Happy Birthday " + names[i] + "!");
+  console.log(`Happy Birthday ${names[i]}!`);
 }
 
 
