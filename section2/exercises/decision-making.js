@@ -50,7 +50,7 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 * If/else statment
-* If doorChoice is exactly equal to 1, then assign bearClothing equal to hat, else assign bearClothing equal to scarf.
+* If doorChoice is exactly equal to 1, then assign bearClothing equal to hat, if doorChoice is not exactly equal to 1, else assign bearClothing equal to scarf.
 * If you choose door # 1 the bear wears a hat. If you choose any other door number, the bear wears a scarf.
 
 2. What variable has a new value assigned to it after the first if statement executes?

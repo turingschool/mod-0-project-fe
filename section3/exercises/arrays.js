@@ -119,7 +119,7 @@ var percentBatteryLeft = 12;
 var hasCharger = true;
 var chargerType = "car";
 
-// Write your conditional here
+// 
 
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.

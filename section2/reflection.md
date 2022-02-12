@@ -24,6 +24,7 @@
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
 * It was a little uncomfortable because I didn't immediately have the answer and how to do it.
+
 * It supported my learning because I had to look back how to do it correctly and focused more on the node command that was entered to run a file in node.
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
@@ -34,8 +35,16 @@
 
 * Opt in/opt out of emails or notifications.
 
-5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
+5. How do you add multiple conditions to an `if` statement? In your own words, explain how the program reads them and determines what to do.
+
+* You would utilize else if statments to add multiple conditions to an `if` statement.
+
+* The program will read each statement and each statement must be true before the code in the code block will execute.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
+* You can check that two conditions are met with the help of the logical operators && and | | . The && operators will evaluate if one condition AND another are both true. The || will evaluate if 1 of 2 conditions are met before running a code block.
+
 7. What questions do you still have about `if` statements and/or functions?
+
+* I feel like I need lots of practice with these to understand them better and be able to ask more questions.

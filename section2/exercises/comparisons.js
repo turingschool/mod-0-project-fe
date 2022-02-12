@@ -110,9 +110,9 @@ var finishedHomework = false;
 
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
-console.log(isHungry && finishedHomework);
+console.log(isHungry && finishedHomework); //false
 // Determine if the user is hungry or has completed their homework
-console.log(isHungry || finishedHomework);
+console.log(isHungry || finishedHomework); //true
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -121,16 +121,16 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-console.log(lovesToPlay && lovesToPlay);
+console.log(lovesToPlay && lovesToPlay); //true
 
 // Determine if the dog loves to play and loves the dog park
-console.log(lovesToPlay && lovesDogPark);
+console.log(lovesToPlay && lovesDogPark); //false
 
 // Determine if the dog loves to play or loves the dog park
-console.log(lovesToPlay || lovesDogPark);
+console.log(lovesToPlay || lovesDogPark);//true
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age <= 2)
+console.log(lovesToPlay && age <= 2);//true
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER: True and True. The variable lovesToPlay is true. The variable age <= 2 is considered a puppy age. The age is 1. This is true.
 
