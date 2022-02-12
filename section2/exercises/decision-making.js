@@ -20,8 +20,8 @@ if (doorChoice === 1) {
   bearClothing = "scarf";
 }
 
-console.log("You see a bear putting on a " + bearClothing);
-console.log("It looks like that " + bearClothing + " is too small for the bear, do you...");
+console.log(`You see a bear putting on a ${bearClothing}`);
+console.log(`It looks like that ${bearClothing} is too small for the bear, do you...`);
 
 console.log("1. Offer your own to the bear?");
 console.log("2. Point it out to the bear?");
@@ -30,11 +30,11 @@ console.log("3. Make a dash for the next room?");
 //if bearChoice is exactly equal to 1, then
 if (bearChoice === 1) {
 //you offer the bear your bearClothing and the bear shows you a secret passage out!
-  console.log("You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!");
+  console.log(`You offer the bear your ${bearClothing} and the bear shows you a secret passage out!`);
 //else if bearChoice is exactly equal to 2, then
 } else if (bearChoice === 2) {
 //you tellthe bear the bearClothing is too small and it starts to cry!
-  console.log("You tell the bear the " + bearClothing + " is too small and it starts to cry!");
+  console.log(`You tell the bear the ${bearClothing} is too small and it starts to cry!`);
   //else if bearChoice is exactly equal to 3, then
 } else if (bearChoice === 3) {
   //you run as fast as you can into the next room. Its full of snakes!
