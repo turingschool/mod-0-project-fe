@@ -49,9 +49,9 @@ console.log("In a predicatble result, the " + slowPoke + " beat the " + speedy +
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-  var femaleteam = "Feminists";
-  var maleteam = "Misogynists";
-  console.log("In a stunning upset, the " + femaleteam + " beat the " + maleteam + "!");
+  var femaleTeam = "Feminists";
+  var maleTeam = "Misogynists";
+  console.log("In a stunning upset, the " + femaleTeam + " beat the " + maleTeam + "!");
 
 
 //-------------------
