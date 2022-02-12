@@ -110,8 +110,8 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
-//if variable percentBatteryLeft value is under 15, log "I can call an uber"
-if (percentBatteryLeft > 15) {
+//if variable percentBatteryLeft value is equal to or over 15, log "I can call an uber"
+if (percentBatteryLeft >= 15) {
   console.log("I can call an Uber");
   // if first conditional is not met, check if variable hasCharger is true AND variable chargerType strictly equals string "car."
   // if both of these conditions are true, log "I can call an Uber"
