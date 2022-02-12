@@ -48,7 +48,7 @@ numberOfPets is a number because the answer has a numeric value.
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
-firstName = 'Donna';
+firstName = "Donna";
 isHungry = false;
 numberOfPets = 1;
 // log all three variables to the console.

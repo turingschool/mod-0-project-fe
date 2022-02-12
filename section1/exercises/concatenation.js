@@ -48,8 +48,8 @@ console.log("In a predictable result, the " + slowPoke + " beats the " + speedy 
   // Then, log out ONE sentence that incorporates all THREE variables.
 var catName = "Chimera";
 var catAge = 8;
-var favoriteFood = "salmon";
-console.log(catName + " is " + catAge + " years old! His favorite food is " + favoriteFood + ".");
+var catFavoriteFood = "salmon";
+console.log(catName + " is " + catAge + " years old! His favorite food is " + catFavoriteFood + ".");
 
 //-------------------
 // FINAL CHECK
