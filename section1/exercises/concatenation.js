@@ -22,8 +22,7 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here:
-// Answer: My zoo has 7 unicorns!
+// Your answer and explanation here: My zoo has 7 unicorns!
 
 // YOU DO:
 // Write code that combines the variables below into a string that
