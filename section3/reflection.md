@@ -2,7 +2,7 @@
 
 1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read through technical documentation, and use your resources more. How did that feel?
 
-*It felt uncomfortable, but I can tell that it reinforces concepts and I learn more without the supports.
+* It felt uncomfortable, but I can tell that it reinforces concepts and I learn more without the supports.
 
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 

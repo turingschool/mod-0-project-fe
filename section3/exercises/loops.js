@@ -45,7 +45,7 @@ for (var i = 0; i < 10; i++) {
 //that concatenates with `i`.
 
 for (var i = 0; i < 10; i++) {
-  console.log("This is loop number: " + i);
+  console.log(`This is loop number: ${i}`);
 }
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
