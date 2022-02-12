@@ -44,7 +44,8 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+- `Add Week![Screen Shot 2022-02-12 at 10 53 05 AM](https://user-images.githubusercontent.com/30582452/153724382-78e98f35-48ba-42d7-b991-23cf7fcf0a21.png)
+ 1 Screenshot Here`
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
