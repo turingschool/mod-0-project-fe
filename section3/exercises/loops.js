@@ -32,14 +32,12 @@ the value of i is no longer less than 3.
 */
 
 // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
 for (i = 0; i < 7; i++) {
   console.log(2+2);
 }
 
 // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
 // 10 times.
-
 for (i = 0; i < 10; i++) {
   console.log('She sells seashells down by the seashore');
 }
@@ -50,14 +48,9 @@ for (i = 0; i < 10; i++) {
 
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
-
 console.log ("This is loop number: " + i);
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
-
-// for (i = 10; i > 0; i--) {
-//   console.log(i);
-// }
 
 // 10
 // 9

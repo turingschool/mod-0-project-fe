@@ -1,4 +1,4 @@
-/* 
+/*
 In the exercises below, write your own code where indicated
 to achieve the desired result.
 
@@ -24,20 +24,16 @@ console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
-
 console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-
 animals[2] = "Gorilla";
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-
 animals[3] = "Snake"
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-
 animals.push("Elephant");
 console.log(animals);
 
@@ -46,35 +42,29 @@ console.log(animals);
 //-------------------
 
 // YOU DO: Declare a variable that will store an array of at least 4 foods (strings)
-
 var foods = ['Apple', 'Orange', 'Bannana', 'Grape'];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
-
 console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-
 foods.unshift('broccoli');
 console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
-
 foods.pop();
 console.log(foods);
 
 // YOU DO: Write code to add 3 new foods to the array.
-  // There are several ways to do this - choose whichever you'd like!
+// There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-
 foods.push('carrot', 'cauliflower', 'onion');
 console.log(foods);
 
 // YOU DO: Remove the food that is in index position 0.
-
 foods.shift();
 
 //-------------------
@@ -127,6 +117,7 @@ var chargerType = "car";
 // 15 the console will log string, "You can call an Uber!"
 if (percentBatteryLeft >= 15) {
   console.log("You can call an Uber!")
+
 // Conditional else if statement determies that if the value of variable hasCharger is stricly equal to true
 // and if the value of variable chargerType is stricly equal to "car" then the console will log string,
 // "You can call an Uber!"
