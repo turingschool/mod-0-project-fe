@@ -24,12 +24,10 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
-
 console.log(numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
-
 console.log(numberTeachers == stringTeachers);
 
 /*
@@ -40,7 +38,6 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
-
 console.log(numberTeachers === stringTeachers);
 
 /*
@@ -55,28 +52,23 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-
 console.log(numberTeachers !== numberStudents);
 
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-
 console.log(numberStudents >= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-
 console.log(numberStudents >= 21);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-
 console.log(numberStudents <= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-
 console.log(numberStudents <= 21);
 
 //-------------------
@@ -137,27 +129,25 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
 console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
 console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-
 console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 
-// ANSWER: My final line of code evaluated to 1. I believe it did this because the
-// AND (&&) and OR (||) operations only use the two boolean facotors of true and false.
-// Since the varialbe age has a value of 1, it appears that the 1 is taking precidence
-// over the variable lovesToPlay and the && operation.
+/*
+ANSWER: My final line of code evaluated to 1. I believe it did this because the
+AND (&&) and OR (||) operations only use the two boolean facotors of true and false.
+Since the varialbe age has a value of 1, it appears that the 1 is taking precidence
+over the variable lovesToPlay and the && operation.
+*/
 
 //-------------------
 // FINAL CHECK
@@ -165,3 +155,5 @@ console.log(lovesToPlay && age);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+
+// Yes, everything ran as expected.

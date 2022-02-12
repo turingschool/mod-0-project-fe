@@ -12,9 +12,9 @@ Make sure to run the file with node in your command line.
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
-var weather = 'snowy';
+// var weather = 'snowy';
 // var weather = 'icy';
-// var weather = 'rainy';
+var weather = 'rainy';
 // var weather = 'sunny';
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
@@ -37,26 +37,24 @@ Using the dogAge variable defined below,
 determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
+Based on the dog age paramenters provided above, the dog is an adult.
+
 Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
-
-console.log('puppy = 0-2')
-console.log('adult = 3-9')
-console.log('eldelry = 10 or older')
+console.log('Puppy = 0-2')
+console.log('Adult = 3-9')
+console.log('Eldelry = 10 or older')
 
 // Write your conditional here
-
-var dogAge = 2;
 var dogAge = 3;
-var dogAge = 10;
 
 if (dogAge <= 2 && dogAge >= 0) {
-  console.log('puppy');
+  console.log('Puppy');
 } else if (dogAge >= 3 && dogAge <= 9) {
-  console.log('adult');
+  console.log('Adult');
 } else if (dogAge <= 10) {
-  console.log ('elderly');
+  console.log ('Elderly');
 }
 
 /*
@@ -79,7 +77,6 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-
 if (numQuarters >= 2) {
    console.log("I have enough money for a gumball");
 }  else if (numQuarters < 2) {
@@ -104,7 +101,6 @@ var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
-
 if (cupsOfFlour >= 2 && hasSauce) {
    console.log("I can make pizza");
 }  else if (cupsOfFlour < 2 || !hasSauce) {

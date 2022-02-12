@@ -57,8 +57,8 @@ Assigning varible doorChoice to 3 makes the bearClothing value, "scarf".
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
 Lines 27 through 35 estalish a few conditionals for the variable bearChoice. The console can log 4 different
-options depending on what value variable bearChoice is assined to. The variable  bearClothing is also included
-in the console log, but it's value is determined by prvious conditions.
+options depending on what value variable bearChoice is assined to (choices based on values 1 - 3, or any other number).
+The variable bearClothing is also included in the console log, but it's value is determined by prvious conditions.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
