@@ -1,4 +1,4 @@
-/*
+/* 
 In the exercises below, write your own code where indicated
 to achieve the desired result.
 
@@ -52,13 +52,13 @@ console.log(10 % 54);
 //-------------------
 
 // EXAMPLE: log to the console the result of 1 is equal to 2:
-console.log(1 === 2);
+console.log(1 == 2);
 
 // EXAMPLE: log to the console the result of 7 is greater than 2:
 console.log(7 > 2);
 
 // YOU DO: log to the console the result of "hello" is equal to "Hello":
-console.log('hello' === 'Hello');
+console.log('hello' == 'Hello');
 // YOU DO: log to the console the result of 3 is not equal to 4:
 console.log(3 != 4);
 // YOU DO: log to the console the result of 4 is less than or equal to 5:
@@ -71,3 +71,5 @@ console.log (4 <= 5);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+
+// Yes, everything ran as expected.
