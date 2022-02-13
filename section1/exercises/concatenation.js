@@ -25,7 +25,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 // Your answer and explanation here:
 
 // Due to type conversion, Javascript changes the number data type for
-// numberOfCreatures to a string data type when we concatenate it so it will
+// `numberOfCreatures` to a string data type when it's concatenated so it will
 // log to the console as: "My zoo has 7 unicorns!"
 
 
@@ -53,12 +53,12 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-  //"For as talented as " + musician + "was, it's astonishing he was only awarded " + numberOfAwards + awardType)
-  var musician = "Louis Armstrong"
-  var numberOfAwards = 1
-  var awardType = "Grammy"
 
-  console.log("For as talented as " + musician + " was, it's astonishing he was only awarded " + numberOfAwards + " " + awardType + "!")
+  var catName = "Mina";
+  var mood = "happy";
+  var favTreat = "salmon";
+
+  console.log("If " + catName + " gets her favorite treat, " + favTreat + ", then she will be " + mood + " the rest of the night!");
 
 
 
