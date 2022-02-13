@@ -38,15 +38,17 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Screen Shot 2022-02-13 at 10 08 00 AM](https://user-images.githubusercontent.com/98188684/153759574-b5342c5b-ada2-438c-b5d0-a4872326e5a3.png)
+
+- ![Screen Shot 2022-02-13 at 10 08 14 AM](https://user-images.githubusercontent.com/98188684/153759634-b6c7e824-7655-40b8-b0a9-251e61774629.png)
+
+- ![Screen Shot 2022-02-13 at 10 08 27 AM](https://user-images.githubusercontent.com/98188684/153759658-98f26ccc-7727-4dd6-8229-8738f69fbc78.png)
 
 ## Mentorship Prep
 
@@ -104,3 +106,5 @@ What is your plan and how are you going to hold yourself to it? Specifically...
 ### Extensions
 
 Check out our thoughts on [extension activities](https://mod0.turing.io/project/extensions) if you find yourself with some extra time before starting Mod 1!
+
+
