@@ -79,38 +79,38 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//This line of code is evaluating if the number 4 is less than the number 9.
-//It will log the result as a boolean value "true" as we know
-//mathetmatically 9 has a larger value than 4.
+//This line of code is evaluating if the number data type 4 is less than the number data type 9.
+//It will log the result as a boolean value `true` as we know
+//mathematically 9 has a larger value than 4.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
 //This line of code is trying to evaluate if the number 4 is less than the value
-//of the  variable books. The value stored in the books variable is assigned a
+//of the  variable `books`. The value stored in the `books` variable is assigned a
 //number data type of 3 which we are comparing to the number date type 4. The number
-// 4 is not less than the number 3, so this would return "false".
+// 4 is not less than the number 3, so this would return `false`.
 
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-//This line of code is comparing the variables friends and siblings and
-//trying to see if the value of friends is greater than the value of siblings.
-//The value of the friends variable is assigned the number 6 and the value of the siblings
+//This line of code is comparing the variables `friends` and `siblings` and
+//trying to see if the value of `friends` is greater than the value of `siblings`.
+//The value of the `friends` variable is assigned the number 6 and the value of the `siblings`
 //variable is assigned the number 2. Therefore, it will evaluate if is 6 is greater than 2 and will
-//return the boolean value "true".
+//return the boolean value `true`.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-//The above line of code is evaluating if the variable attendees is not
-//equal to the variable meals. The value of the variable attendees is the
-//integer 9 and the value of the variable meals is the integer 8,
-//these variables are not equal to each other and will return "true",
-// confirming the values are not equal.
+//The above line of code is evaluating if the variable `attendees` is not
+//equal to the variable `meals`. The value of the variable `attendees` is the
+//integer 9 and the value of the variable `meals` is the integer 8,
+//these variables are not equal to each other and will return `true`,
+//confirming the values are not equal.
 
 //-------------------
 // PART 3: Logical Operators
@@ -147,12 +147,12 @@ console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age);
-//logs: boolean value 1 for true
+//logs: 1
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER: The final line of code printed as "1". This line of code is trying to
-// determine if the age variable, which has the number value of 1, and the lovesToPlay
-// variable, which has the boolean value true, are both true. Upon doing some
+// determine if the `age` variable, which has the number value of 1, and the `lovesToPlay`
+// variable, which has the boolean value `true`, are both true. Upon doing some
 // digging regarding how the "&&" operator works, I came across the rule:
 // "If value a is truthy, return b. Otherwise, return a." The result will not be
 // a boolean value like the others, but with this rule in mind, we can reason
