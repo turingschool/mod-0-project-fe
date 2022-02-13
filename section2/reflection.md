@@ -30,3 +30,8 @@ We can use the logical operators && and || in a comparison. We can also run node
 
 7. What questions do you still have about `if` statements and/or functions?
 What are more examples of apps that use these statements?
+
+The weather app uses `if` statements by telling the user if it sunny or if it is rainy. 
+The Booking.com app uses `if` statements to tell if a room is available or not. 
+
+Can you write a code without an `if` statement? How necessary are `if` statements?
