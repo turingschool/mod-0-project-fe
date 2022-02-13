@@ -43,6 +43,10 @@ console.log(firstName, isHungry, numberOfPets);
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
+  // I chose a string for the first variable 'firstName' because it was asking for a name
+  // I chose a boolean for the second variable 'isHungry' because it was asking a question (true or false) response
+  // I chose a number for the third variable 'numberOfPets' because it was asking for a numbers
+  
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
