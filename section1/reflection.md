@@ -3,15 +3,15 @@
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
   * I feel confident in asking questions and I’ve found it’s the only way I will learn certain things. For the most part, I like to explore topics on my own as much as I can until I reach a deficit in my knowledge or ability to grasp a concept.
-  * Through a lot of trial and error in my personal and professional life, I have a pretty good idea of when to ask questions. If anything, I will tend to I ask questions too late because I am afraid of asking too early/worried that I am just overlooking some tiny detail that is the key to my problem. The person I’m asking the question to will also have some impact on my behavior- I’m sure we have all experienced someone getting annoyed with us for asking a question and will make you feel bad/stupid for asking certain questions. Getting over that fear and accepting the other person’s response is something I still struggle with, but my drive to learn typically trumps that fear.
+  * Through a lot of trial and error in my personal and professional life, I have a pretty good idea of when to ask questions. If anything, I will tend to I ask questions too late because I am worried that I am just overlooking some tiny detail that is the key to my problem. The person I’m asking the question to will also have some impact on my behavior- I’m sure we have all experienced someone getting annoyed with us for asking a question and will make you feel bad/stupid for asking certain questions. Getting over that fear and accepting the other person’s response is something I still struggle with, but my drive to learn typically trumps that fear.
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
     * **String**- Works with letters and other characters to convey the text elements of a webpage or other application in JavaScript. The letters and characters in a string you want to add to a project are enclosed in double or single quotes (“” or ‘’).
 
-    * **Number**- Assigns number values to variables. Can use negative numbers (ex: -5) or decimals  (0.25) but when writing bigger number values, you do not include a comma (ex: 1234 instead of 1,234)
+    * **Number**- Assigns number values to variables. Can use negative numbers (ex: -5) or decimals (0.25) but when writing bigger number values, you do not include a comma (ex: 1234 instead of 1,234)
 
-    * **Boolean**- Expresses true/false or yes/no values. Can help determine which part of a script will run initiated by user input or some other event.
+    * **Boolean**- Expresses true/false or yes/no values. Can help determine which part of a script will run, initiated by user input or some other event.
 
 
 3. How would you log the string `"Hello World!"` to the console?
@@ -19,6 +19,7 @@
   ```
   Var openingLine = “Hello World!”
   console.log.(openingLine);
+
   ```
 
 
