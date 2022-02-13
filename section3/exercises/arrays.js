@@ -119,28 +119,28 @@ var percentBatteryLeft = 12;
 var hasCharger = true;
 var chargerType = "car";
 
-// This line of code is creating a conditional statement and when run, and the condition
+// This line of code is creating a conditional statement and when run, the defined condition
 //(the code within the parentheses) is evaluated for truth. This line is asking if
-//the value of the percentBatteryLeft variable is less than or equal to 15.
+//the value of the percentBatteryLeft variable is greater than or equal to 15.
 if (percentBatteryLeft >= 15) {
-// This line will execute the script (in parentheses) if the above condition is found to be true.
+// This line will execute the script (string in parentheses) if the above condition is found to be true.
   console.log("Can call Uber");
 }
-//This line of code will only run if the above condition is false. It defines another condition
-//which will be evaluated for truth, in this case if the percentBatteryLeft variable has a
-//value less than 15.
+//This code will only run if the above condition is ran and evaluated as false.
+// It defines another condition which will be evaluated for truth, in this case if the
+//percentBatteryLeft variable has a value less than 15.
 else if (percentBatteryLeft < 15) {
 //This line of code contains the script that will run if this condition is found to be true.
   console.log("Cannot call Uber");
 }
 //This line creates a logical AND conditional statement that is evaluating if both the values
-//of the hasCharger and chargerType are true.
+//of the hasCharger and chargerType variables are true. Both values must be true to evaluate
+//the condition as true and initiate the rest of the code.
 if (hasCharger && chargerType) {
-//If above condition results in both variable values being evaluated as true, the script below
-//will run.
+//Since above condition is true, the script below will run.
   console.log("Can call Uber");
 }
-//This line of code contains script that will run if above condition is found to be false.
+//This line of code contains script that will run when above condition is found to be false.
 else {
   console.log("Cannot call Uber");
 }
