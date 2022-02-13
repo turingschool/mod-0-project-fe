@@ -81,6 +81,14 @@ if (numQuarters < 2) {
 } else {
 };
 
+//Below is a more efficient way to use if statements with fewer lines of code
+
+if (numQuarters < 2) {
+  console.log("I don't have enough money for a gumball");
+} else {
+  console.log("I have enough money for a gumball");
+}
+
 
 
 /*

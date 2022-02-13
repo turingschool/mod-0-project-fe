@@ -35,7 +35,8 @@ animals.push("Monkey");
 //animals.indexOf("Monkey");
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-//WORK ON THIS//
+animals[2] = "Elephant";
+console.log(animals[2]);
 
 //-------------------
 // PART 2: Foods: Array Methods

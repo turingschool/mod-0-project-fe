@@ -32,11 +32,11 @@
     2. Condition; i.e., i < 10; and it will run until it reaches 10; as long as it evaluates as **true**
     3. Update (increment or decrement); i.e., i++ and this adds one to the counter
 
-  - //ADD MORE//
+  - We would use a loop with an array when working with a large quantity or number of items that we need to iterate through.
 
 5. If you had to teach a 5 year old about loops, how would you explain it?
 
-* A _for loop_ is the most common type of loop.  We can use this when we need to run something a certain number of times
+* A _for loop_ is the most common type of loop.  We can use this when we need to run something a certain number of times.
 
 6. What questions do you still have about Arrays and loops?
 
@@ -46,5 +46,5 @@
   console.log(<variable name>[i]);
   }`
 - The part about `.length` when looping through Arrays
-- This seems to allow you to change the array in a more dynamic ways
+- This seems to allow you to change the array in a more dynamic way
 - What other things can you do to keep loops and arrays more dynamic?

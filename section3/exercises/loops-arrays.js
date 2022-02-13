@@ -65,6 +65,6 @@ for (var i = 0; i < ages.length; i++) {
   if (ages[i] < 18) {
     console.log("Oh no, you can't vote quite yet. " + ages[i]);
   } else {
-    console.log("Make sure you get out and vote!" + ages[i]);
+    console.log("Make sure you get out and vote! " + ages[i]);
   }
 };

@@ -135,8 +135,6 @@ console.log(lovesToPlay || lovesDogPark);
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age);
 
-//****** WORK ON THIS ******//
-
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:  The result output 1
 // I think this is because the variable age was assigned a number and not a boolean

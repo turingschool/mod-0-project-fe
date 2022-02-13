@@ -14,9 +14,9 @@ T- Timely
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 
-* I definitely have a growth mindset in that I believe we can always grow/change our skill set
+* I definitely have a growth mindset in that I believe we can always grow/change our skill set.
   - Awareness is a huge component of having a growth mindset
-* I struggle with having a growth mindset in that I sometimes don't like asking Questions
+* I struggle with having a growth mindset in that I sometimes don't like asking Questions.
   - Constructive feedback is helpful to our learning and I am still working on accepting that
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
@@ -32,7 +32,7 @@ T- Timely
 
   - Daily life condition - "If it is Friday I will wear jeans else/otherwise I will wear khakis"
 
-  - Web application condition - //GIVE AN EXAMPLE//
+  - Web application condition - A conditional statement could be used on Amazon; i.e., "If user buys a couch then show user similar items else/otherwise do not show similar items"
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how the program reads them and determines what to do.
 
