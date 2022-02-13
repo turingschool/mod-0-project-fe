@@ -23,16 +23,19 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+- [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [x] Add a link for your gist here: 
+
+[Gear Up Assignment](https://gist.github.com/rachel-bock/18ea898227ff0493241fd69d5b497d0e)
+
 
 ## Time Management Prep
 
@@ -44,31 +47,37 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- [Week 1 Screenshot](https://user-images.githubusercontent.com/70186075/153724508-07a174bc-b99c-42c3-8da0-b084a9a1da16.png)
+- [Week 2 Screenshot](https://user-images.githubusercontent.com/70186075/153724507-b240afda-1fb9-450b-ae8a-e37170f5f944.png)
+- [Week 3 Screenshot](https://user-images.githubusercontent.com/70186075/153724505-05363509-37f9-45d6-a685-2168c737b386.png)
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [x] Add link to your gist here: 
+
+  [Mentorship DTR Gist](https://gist.github.com/rachel-bock/dae7e754990773de6bb4711165fd1784)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [x] Add a link to your gist here:
+
+[Pre-teaching Practice Gist](https://gist.github.com/rachel-bock/982b98918831e531e6fe4409dfb2048b)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: 
+
+  [DTR Guiding Questions Gist](https://gist.github.com/rachel-bock/d1cd1b255a9d684eef69ec92691b59e4)
 
 ## Mod 0 Project Submission
 
@@ -93,13 +102,13 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 
 What is your plan and how are you going to hold yourself to it? Specifically...
 
-- What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
-- What days are you going to work?
-- What times on those days are you going to work?
-- Where you going to be sitting/standing as you do this?
-- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
-- Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
-- What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+- What are you going to work on? I can work on [the Resources here](https://github.com/turingschool-examples/fe-m1-practice) then my own projects.  
+- What days are you going to work? I will work on coding Tuesday - Friday while the boys are in school.
+- What times on those days are you going to work? I will work on coding from 9 - 11 a.m. 
+- Where you going to be sitting/standing as you do this? I will be in the office when coding.
+- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?  I've added the appointment to my Google Calendar.
+- Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...) Yes.
+- What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!) I meet with Diane on a monthly basis.  I'll record my appointments with her on my Google calendar as well.
 
 ### Extensions
 
