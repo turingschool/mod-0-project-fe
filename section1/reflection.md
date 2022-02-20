@@ -21,7 +21,7 @@ For one line this `// This is a note` will indicate a code comment, or for multi
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
 
-In code a variable is going to store some kind of data. A variable is like a lable on a box. The variable tells you what is in the box and can be used later to reference what is in the box, the data is what ever is in the box which we can change.
+In code a variable is going to store some kind of data. A variable is like a label on a box. The variable tells you what is in the box and can be used later to reference what is in the box, the data is what ever is in the box which we can change.
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
