@@ -9,7 +9,6 @@ When navigated to the root of this project directory, you should be able to run 
 file from your terminal with the command `node section1/exercises/variables.js`
 */
 
-
 // EXAMPLE: Write code below to assign Harry Potter's name to a variable and
 // log that variable to the console:
 var name = "Harry Potter";
@@ -23,33 +22,50 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var hpquote = "Harry Potter must not return to Hogwarts!";
+console.log(hpquote);
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = 'David';
+var isHungry = true;
+var numberOfPets = 1;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+  // Name had to be a string because I couldn't express it as a number or a boolean because I am not a number I am a free man.
+  // Similarly number of pets had to be a number.
+  // isHungry could theoretically have been answered as a string and that would actually allow for some more nuanced answers like "somewhat but only for sushi."
+  // However isHungry as a boolean lets you act on that answer more easily in additional code.
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
+
+firstName = "Brevin...I mean Brad...I mean Kevin";
+isHungry = false;
+numberOfPets = 14;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-
+console.log(healthySnacks + junkFoodSnacks);
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
