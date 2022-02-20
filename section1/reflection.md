@@ -29,7 +29,7 @@ At my current job we use Outlook for emails. I imagine the text body of emails m
 
 7. In your own words, explain what concatenation is.
 
-Concatenation is combining multiple variables in an output, such as writing a sentence by adding text and adding variables in a long the way. 
+Concatenation is combining multiple variables in an output, such as writing a sentence by adding text and adding variables in along the way. 
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
