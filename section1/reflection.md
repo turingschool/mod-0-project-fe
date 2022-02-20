@@ -11,7 +11,9 @@ like menUsedToLookBetterInHats = true
 
 3. How would you log the string `"Hello World!"` to the console?  
 I think this is a trick question? Because you use quotes to define something as a string using them within the string can confuse things so you have to be careful and use \ to mark special characters. So in order to log this exact string you'd use
-console.log('\`"Hello World!"\`')
+console.log('\`"Hello World!"\`').  
+If I'm overthinking this and the back ticks are just here to `format soemthing as code` then you could simply use single quotes to enclose the double quotes as in  
+console.log('"Hello World!"').
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?  
 // to mark off the rest of a line as a comment (everything after the //)  
 /* to mark off a section of a line */  
