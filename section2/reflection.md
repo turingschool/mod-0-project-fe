@@ -19,5 +19,5 @@ You essentially run all the conditionals one after another and the program reads
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?  
 Now you're talking logical operators. You can use && to check if multiple conditions are all true and || to check if any of several conditions are true.  
 
-7. What questions do you still have about `if` statements and/or functions?
+7. What questions do you still have about `if` statements and/or functions?  
 I guess I'm wondering about nesting if statements or what happens if in more complex programs you are attaching multiple if statement trees to the same variable. (Multiple parts of gitHub might want to run checks on someone's username for instance.) Is there a way or organizing that or is it still just "whatever's first in the code evaluates first" even with multiple if statements.
