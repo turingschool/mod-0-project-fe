@@ -23,33 +23,51 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var title = "Harry Potter must not return to Hogwarts!";
+console.log(title);
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = 'Emily';
+console.log(firstName)
+
+var isHungry = 'All the time';
+console.log(isHungry)
+
+var numberOfPets = 2;
+console.log(numberOfPets)
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+// For the first one it sounded like it could be a title of of chapter
+//For the second problem, I just personally answered each variable, my name is Emily, I am hungry all the time, I have one pet
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
+var firstName ='AJ';
+console.log(firstName);
 
+var isHungry = 'For pizza';
+console.log(isHungry);
 
-// YOU DO:
+var numberOfPets = '2';
+console.log(numberOfPets)
+
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
-var junkFoodSnacks = 8;
+console.log(healthySnacks)
 
+var junkFoodSnacks = 8;
+console.log(junkFoodSnacks)
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
