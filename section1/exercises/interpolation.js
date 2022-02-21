@@ -22,15 +22,16 @@ var creatures = "unicorns";
 console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
-
+// Your answer and explanation here:
+//A string will be logged to the console because javascript is wrapping the variables of the creatures and numberOfcreatures
+//so that it can display correctly within the console, making the 7 a string for the output.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-
+console.log (`The jumped over the ${slowPoke}`);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -39,17 +40,21 @@ var slowPoke = "lazy brown dog";
 
 slowPoke = "tortoise";
 speedy = "hare";
-
+console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
-  // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation. 
+  // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 
+var name = "Frederick";
+var petType = "dog";
+var petAmount = 2;
 
+console.log(`Blue found out their fiance ${name} wants a ${petType} but they already have ${petAmount} pets! Getting a ${petType} would mean they have ${petAmount + 1} pets!`);
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
