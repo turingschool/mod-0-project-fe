@@ -110,8 +110,10 @@ var finishedHomework = false;
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
 console.log(isHungry && finishedHomework);
+//the user is hungry but has not finished homework so will return false.
 // Determine if the user is hungry or has completed their homework
 console.log(isHungry || finishedHomework);
+//user is hungry so  will return is hungry or true.
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -120,18 +122,32 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);  // should return true
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark); //should return false
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark); //should return true
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age < 2); //should return true
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: My code evaluated true, false, true, true as I thought!
+// In the first evaluation
+//the value lovesToPlay and lovesTreats are both true, and since they both must be
+// true in order to evaluate so they evaluate true.
+//In the second evaluation lovesToPlay
+//is true but lovesDogPark is false, since they both need to be the same evaluation it returns
+//false.
+//In the third evaluation lovesToPlay is true and lovesDogPark is false,
+//since its using the OR evaluator and one option is true it returns true.
+//In the final evaluation it wants me to find out if the lovesToPlay value
+//and the age of the puppy will both return true.  It also wants me to evaluate
+//the dogs age constitutes a puppy.  I think that puppies are atleast 2 to be
+//considered fully grown, so I compared the age value to be less than 2. since
+//that was true and lovesToPlay is true the statement returns true. 
 
 //-------------------
 // FINAL CHECK
