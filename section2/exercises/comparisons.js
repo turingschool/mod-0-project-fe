@@ -80,21 +80,24 @@ console.log("Is numberStudents greater than or equal to 20?", numberStudents <= 
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-//YOU DO: Explain.
+//YOU DO: The log is evaluating if the integer 4 is less than 9, it should result in the output: true.
 
 var books = 3;
 console.log(4 < books);
-// YOU DO: Explain.
+// YOU DO: A variable "books" is initialized as the value 3, then in the console the integer 4 is being evaluated as less
+//than the value books, this output will be: false.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain.
+// YOU DO: The variable "friends" is initialized with the integer 6, and the variable "siblings" is initialized with 2.
+//The log is then evaluating if the value of friends is greater than the value of siblings. The output will be: true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain.
+// YOU DO: The variable "attendees" is initialized to 9 and the variable "meals" is initialized to 8. The console is
+// evaluating if the attendees value is not equal to the meals value. This output will return: true.
 
 
 //-------------------
