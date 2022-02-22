@@ -25,9 +25,9 @@ This section will introduce a number of new terms, that may feel a bit more comp
 
 ### JavaScript Reserved Keywords
 
-- `if`
-- `else if`
-- `else`
+- `if` perform an action if a certain condition is met.
+- `else if` performs an action if the previous conditions are not met but this one is.
+- `else` performs an action if none of the previous conditions are met.
 
 ## Get Set Up
 
