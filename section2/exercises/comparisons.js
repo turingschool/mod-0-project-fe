@@ -24,9 +24,11 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("Is numberTeachers less than numberStudents?", numberTeachers< numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == numberStudents);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
