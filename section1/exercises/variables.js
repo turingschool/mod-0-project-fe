@@ -23,22 +23,42 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
+var action = "Harry Potter must not return to Hogwarts!";
+console.log(action);
 
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = "Cami";
+var isHungry = true;
+var numberOfPets = 3;
+
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
+  // For the var firstName I decided to use my name as a string value since it meets the criteria for the exercise.
+  // For the var isHungry I put true because it is a Boolean.
+  // For the var numberOfPets I used the number data type to meet the criteria for value.
 
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
+firstName = "Camila";
+isHungry = false;
+numberOfPets = 4;
+
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
+
 
 
 // YOU DO:
@@ -46,10 +66,12 @@ console.log(enrolledStudents);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+console.log(healthySnacks + junkFoodSnacks);
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
+// After some issues, I was able to get it done! :)
