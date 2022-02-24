@@ -89,9 +89,12 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// 1: In the stanford programming abstractions website there is a list of lectures
+//that links to each video, and even has some drop down information for each.
+// 2: On youtube the comments on videos are probably array since they hold the
+//links to each user, the option to reply, and thumbs up and thumbs down along
+//string of their comment!
+// 3:On amazon, the different options to buy are lists.
 
 
 //-------------------
@@ -110,10 +113,16 @@ The can call an uber if they have a charger and it is a car charger.
 */
 var percentBatteryLeft = 12;
 var hasCharger = true;
-var chargerType = "car";
+var chargerType = "home";
 
 // Write your conditional here
-
+if( hasCharger === true && chargerType === "car"){
+  console.log("Yay you can call an Uber!");
+}else if (percentBatteryLeft >= 15){
+  console.log("Yay you can call an Uber, but itll be expensive");
+}else {
+  console.log("No uber for you");
+}
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,
