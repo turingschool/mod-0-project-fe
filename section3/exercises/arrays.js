@@ -42,26 +42,32 @@ console.log(animals[1]);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-
+var myFood = ["tacos", "pancakes","apples","eggs"];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
-
+console.log(myFood.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-
+myFood.push("Broccoli");
+console.log(myFood);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
+myFood.pop();
+console.log(myFood);
+
 
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-
+myFood.push("Sushi","Donuts","Bell Peppers");
+console.log(myFood);
 // YOU DO: Remove the food that is in index position 0.
-
+myFood.shift();
+console.log(myFood);
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
