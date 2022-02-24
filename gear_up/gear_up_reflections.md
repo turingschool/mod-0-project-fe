@@ -25,3 +25,12 @@
   **when I do get into a technical profession, I know that I'll have to analyze the type of**
   **person who will use it. And, I will have to look at a lot of different factors**
   **to see who this would be beneficial for.**
+  <br></br>
+  <br></br>
+4. When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+
+5. What strengths does your identity give you? How will you utilize those at Turing?
+
+6. How do you think you could value the identies of those around you to bring out their strengths at Turing? Has there been a  time where you were able to advocate or include people around you?
+
+7. How will your strengths impact you as a teammate? What will you bring to your cohort?
