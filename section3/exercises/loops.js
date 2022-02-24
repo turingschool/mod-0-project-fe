@@ -30,6 +30,7 @@ as long as it's less than 3. */
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
  sum = (2 + 2);
+
  for (var i = 1; i <= 7; i++) {
    console.log(sum);
 }
