@@ -116,11 +116,27 @@ var hasCharger = true;
 var chargerType = "home";
 
 // Write your conditional here
+//The first condition is evaluated below.  The variable hasCharger is checked
+//if it strictly equals true. The chargerType is checked if it is strickly equal
+//to the string "car".  The logical operator indicates that both of these must return
+//true in order to run the method.
 if( hasCharger === true && chargerType === "car"){
+  //If the above argument returns true, the below method logs the string
+  //confirming you can call an uber.
   console.log("Yay you can call an Uber!");
+  //If the first condition returns false, this next argument is evaluated.
+  //the value of percentBatteryLeft is being evaluated to see if it is more than
+  //or equal to 15.  If it is it returns true and moves to the log method within
+  //its brackets.
 }else if (percentBatteryLeft >= 15){
+  //the console log says you can call an uber but it will be expensive.  It
+  //only states this if the above condition returned true.
   console.log("Yay you can call an Uber, but itll be expensive");
+  //finally if the above conditions all returned false, then the last argument
+  //will run instead, within the "elses" brackets.
 }else {
+  //because the user doesnt have 15 or more percent battery and either doesnt have
+  //a charger or doesnt have a car charger they cant call an uber. 
   console.log("No uber for you");
 }
 
