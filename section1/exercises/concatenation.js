@@ -33,6 +33,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+
 console.log("The " + speedy + " jumped over the " + slowPoke);
 
 // YOU DO:
@@ -42,6 +43,7 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 
 slowPoke = "tortoise";
 speedy = "hare";
+
 console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!")
 
 // YOU DO:
@@ -51,6 +53,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
 var alcohol = "bottle of wine";
 var howWillIDrink = "guzzle";
 var work = "section 1 of the Mod 0 project";
+
 console.log("I am going to " + howWillIDrink + " an entire " + alcohol + " after completing " + work + "!");
 
 //-------------------

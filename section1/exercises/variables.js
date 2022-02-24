@@ -13,17 +13,20 @@ file from your terminal with the command `node section1/exercises/variables.js`
 // EXAMPLE: Write code below to assign Harry Potter's name to a variable and
 // log that variable to the console:
 var name = "Harry Potter";
+
 console.log(name);
 
 // EXAMPLE: Write code below to add 2 to the variable `students` and
 // log the result:
 var enrolledStudents = 22 + 2;
+
 console.log(enrolledStudents);
 
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
 var lightningBoy = 'Harry Potter must not return to Hogwarts!';
+
 console.log(lightningBoy);
 
 // YOU DO:
@@ -33,6 +36,7 @@ console.log(lightningBoy);
 var firstName = "Jordan";
 var isHungry = true;
 var numberOfPets = 4;
+
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -52,6 +56,7 @@ numberOfPets required a number value. */
 firstName = "Cecil";
 isHungry = false;
 numberOfPets = 1;
+
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -60,6 +65,7 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
+
 console.log(healthySnacks + junkFoodSnacks);
 
 //-------------------
