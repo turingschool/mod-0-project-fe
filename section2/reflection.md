@@ -1,15 +1,17 @@
 ## Section 2 Reflection
 
-1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-
-2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-
-3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
-
-4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
-
-5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
-
-6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
-
-7. What questions do you still have about `if` statements and/or functions?
+1. **What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?**
+  1. In the article, I liked how the Zone of Proximal Development (ZPD) was brought up. Being new to coding, I can get overwhelmed sometimes; I feel like I won't ever learn everything I need to know to be a successful developer. However, it is true that we won't be asked to do something completely unknown all at once, but rather, we will slowly challenge ourselves in ways that encourage consistent, steady progress. This is crucial to remember to avoid becoming discouraged.
+  2. It is apparent how my growth mindset will contribute to my learning coding, but I have not really thought about how coding will, in return, contribute to my growth mindset. For example, when learning coding, there will be a lot of trial and error, which I have already accepted. This mindset is harder to accept in my personal life. I think coding will give me a chance to practice this humble mindset, which I can then carry into my personal life.
+2. **In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?**
+I am very aware of the fact that there's always room to grow. I know there's so much I don't know both in coding and in the bigger world, but this fact doesn't necessarily scare me. In fact, it encourages me to be a lifelong learner. I also know that to do the things I set out to do, I will need help along the way. Sometimes, I am hesitant to ask for it if I know I can do it by myself. More often than not, though, I see how teamwork fills in the gaps I can't fill in myself, and even if I can fill it in myself, help makes it more efficient. In terms of a Growth Mindset, I acknowledge that I could be better at focusing on the process instead of the destination. I feel rushed to achieve my goals, but in doing that, I fail to live in the moment and absorb as much as I can from the learning process.
+3. **In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?**
+I appreciated the removal of some of the supports. Since the instructions weren't listed right there, we either had to think and retrieve the information in our brains, or we had to find the information again and reiterate into our brains. Either way, we were more active about our learning as opposed to just following instructions given to us easily, which will help us better retain information.
+4. **What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.**
+A conditional statement is *if* an answer meets a certain expectation/condition, *then* you will get a certain statement or action that occurs. If a certain condition is not met, then you can have an *else* situation. An example of a daily life conditional is "If you want to go out in the cold, (then) you need to dress warmly, (or else) otherwise, stay at home." An example in Instagram is "If you want to post this picture, click 'post', otherwise, click 'cancel'."
+5. **How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.**
+You would write something like `if (var1 === value1 && var2 === value2)`. The program would make sure both of these conditions are met, and then the appropriate code would run. If one or both of these values are not met, then another specified code would run instead.
+6. **What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?**
+If you want to check that TWO conditions or if 1 of 2 conditions are met, you could run the little bit of code that involves the conditions and then use // or /* .. */ to block off all the other code you don't want to run yet. You would do all this in atom and then log the code on terminal.
+7. **What questions do you still have about `if` statements and/or functions?**
+I think the operators `&&` and `//` are still something quite new for me, so my general question would be how to better utilize those in `if` statements.
