@@ -12,9 +12,9 @@ var bearChoice = 1;
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
 if (doorChoice === 1) {
-  bearClothing = "hat";
+  bearClothing = "jumper";
 } else {
-  bearClothing = "scarf";
+  bearClothing = "shirt";
 }
 
 console.log("You see a bear putting on a " + bearClothing);
@@ -38,16 +38,23 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+We are setting the variable 1 for door choice, and setting variables for the bear clothing.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+It would be the second choice, which I've changed to shirt.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+Based on the variable used for bearChoice, we are determining what clothing and outcome we get from the program.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+Yo run to the next room, which is snakes. "Why is it always snakes?" - Indiana Jones
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+The bear puts on the second clothing variable, and make it sad and cry.
 
 7. What is your favorite ending?
+I like the snakes ending.
 */
