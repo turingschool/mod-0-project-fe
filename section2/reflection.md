@@ -18,13 +18,13 @@ I thought this was good exercise to ask ourselves how much do we remember from t
 
 A conditional statement checks if two values are greater than, less than, or equal to eachother. Then the condition returns true or false which tells the program what to do next. In my weekly routine I go to the gym on Tuesdays and Thursdays so the conditional statement in my head would check is the day of the week, today, equal to Tuesday or Thursday if yes - go to gym, if no -no gym! When checking out on a website there is probably a conditional statement for if the customer will get free shipping.
 
-*/
+```
 if (shoppingChart > 50){
   console.log ('Free Shipping')
 } else {
   console.log ('Shipping will cost..')
 }
-/*
+```
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
 To add multiple `if` statements we can use `else if` several times. The program reads each `if` or `else if` statement until the return is true then the program disregards the rest of the `if` statement. 
