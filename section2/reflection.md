@@ -16,7 +16,7 @@ I thought this was good exercise to ask ourselves how much do we remember from t
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
-A conditional statement checks if two values are greater than, less than, or equal to eachother. Then the condition returns true or false which tells the program what to do next. In my weekly routine I go to the gym on Tuesdays and Thursdays so the conditional statement in my head would check is the day of the week, today, equal to Tuesday or Thursday if yes - go to gym, if no -no gym! When checking out on a website there is probably a conditional statement for if the customer will get free shipping.
+A conditional statement checks if two values are greater than, less than, or equal to eachother. Then the condition returns true or false which tells the program what to do next. In my weekly routine I go to the gym on Tuesdays and Thursdays so the conditional statement in my head would check - Is the day of the week, today, equal to Tuesday or Thursday? If yes - go to gym, if no -no gym! When checking out on a website there is probably a conditional statement for if the customer will get free shipping.
 
 ```
 if (shoppingChart > 50){
@@ -27,7 +27,7 @@ if (shoppingChart > 50){
 ```
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
-To add multiple `if` statements we can use `else if` several times. The program reads each `if` or `else if` statement until the return is true then the program disregards the rest of the `if` statement. 
+To add multiple `if` statements we can use `else if` after the first `if`. The program reads each `if` or `else if` statement until the return is true then the program disregards the rest of the `if` statement. 
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
