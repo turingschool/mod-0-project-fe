@@ -1,15 +1,17 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-
+* The growth mindset video really resonated with me. In the video Carmen made two points that I made sure to write on my inspiration whiteboard for Turing which is "You can learn anything if you want to learn it-track your own progress" and "Focus on positive change and ask yourself 'What can I realistically do today?'". In the article the S.M.A.R.T. goals was a concept that was brand new to me and I hope to set more S.M.A.R.T. goals not just in Turing but also in other aspects of my life.
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-
+* I think I have been setting S.M.A.R.T goals for myself when it comes to completing the Mod 0 project. I am not over scheduling myself because I know that will lead to burnout, so I am making sure I am splitting the exercises and readings throughout my week, which I think aligns with my goals with the S.M.A.R.T. strategy.
+* One area I think I can improve on is getting over my mindset of being afraid of failure or getting anxious when a code doesn't run smoothly. My mind tends to automatically think "Maybe you are not cut out for this!" and I know that thought pattern is not helpful. I'm trying to work on embracing failure and switching that negative thought pattern into "Oh, this is a opportunity for me to learn and grow".
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
-
+* It was a bit uncomfortable and I found that my detailed note taking was valuable and helped me a lot. I did have to refer back to different sections and even homework but I think overall it was good to re-read some old material.
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
-
+* Conditional statements help JavaScript determine whether or not pieces of code can run. For a daily life I think how a conditional might work is if your car is not running smoothly first check if your car needs an oil change if that is true then just get an oil change if that is false then run a diagnostic test and determine what else could be going on. For a web applications I think conditional statements are used when to verify age often. For example if a user wanted to apply for a credit card online there will probably be a conditional statement in the code that determines if a users age if greater or equal to 18: if (age >= 18)
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
-
+* You would need the help of logical operators which are 'AND &&' and 'OR ||'. The && operator evaluates if both boolean values are true otherwise it evaluates everything else as false, the || operator evaluates if either of the booleans are true and it evaluates false if both booleans are false.
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
-
+* I think you would have to run an OR operation || if you wanted to check if 1 of 2 conditions are met. Although, I haven't tried this yet (we did have a brief intro to this in lesson 4) I know you can use Chrome Developer Tools to de-bugg codes.
 7. What questions do you still have about `if` statements and/or functions?
+* Not going to lie, the `if` statements were not a walk in the park and reading ahead on that articles Marius Schulz wrote I know that they can get a little more complex. Something that was hard to wrap my brain around was using logical operators with non-boolean values (this might be getting ahead of myself), is this something we will be getting a lesson on? I think it would be helpful not just to read it but having an instructor go over this concept.

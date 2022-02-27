@@ -116,7 +116,7 @@ console.log(lovesToPlay && lovesTreats);
 //it logged as True
 // Determine if the dog loves to play and loves the dog park
 console.log(lovesToPlay && lovesDogPark);
-//it logged as False
+//it logged as Falsegitn
 // Determine if the dog loves to play or loves the dog park
 console.log(lovesToPlay || lovesDogPark);
 //it logged as True
