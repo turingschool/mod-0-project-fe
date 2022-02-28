@@ -33,6 +33,7 @@ var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
 console.log( `The ${speedy} jumped over the ${slowPoke}`);
+
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "In a predictable result, the tortoise beat the hare!"
@@ -49,7 +50,7 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 var dogName = 'Oscar';
 var dogAge = 8;
-var dogStatus = 'sleeping';
+var dogStatus = 'eating a treat';
 
 console.log(`My dog's name is ${dogName}. He is ${dogAge} human years and ${(dogAge*7)} dog years old. He is currently ${dogStatus}.`);
 
