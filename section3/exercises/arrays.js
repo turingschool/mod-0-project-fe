@@ -118,15 +118,15 @@ var chargerType = "car";
 //Checks if the users battery life is at or above 15%
 if (percentBatteryLeft >= 15) {
   // If so we'll print that they can call an uber
-  console.log("You can call an Uber!")
+    console.log("You can call an Uber!")
   // If battery life is under 15% checks if they have a charger and it's a car charger
 } else if (hasCharger === true && chargerType === "car") {
   // If that's so prints that they can call an Uber.
-  console.log("You can call an Uber!");
+    console.log("You can call an Uber!");
   //otherwise
 } else {
   //tell them they're boned.
-  console.log("Sorry bro you are stranded.");
+    console.log("Sorry bro you are stranded.");
 };
 
 
