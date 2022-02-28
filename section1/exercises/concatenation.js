@@ -33,6 +33,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+
 console.log("The " + speedy + " jumped over the " + slowPoke);
 
 // YOU DO:
@@ -40,8 +41,8 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 // reads "In a predictable result, the tortoise beat the hare!"
 // Note that we are omitting the var keyword below, because we are re-assigning the variables
 
-slowPoke = "tortoise";
 speedy = "hare";
+slowPoke = "tortoise";
 
 console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +"!");
 
@@ -52,7 +53,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
   // Then, log out ONE sentence that incorporates all THREE variables.
 var dogName = "Oscar";
 var dogAge = 8;
-var dogStatus = "sleeping";
+var dogStatus = "playing with a toy.";
 
 console.log("my dog " + dogName + " is " + dogAge + " human years or " + (dogAge*7) + " dog years old. He is currently " + dogStatus + ".");
 //-------------------
