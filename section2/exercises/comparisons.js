@@ -23,11 +23,13 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
-// this should log: true
 console.log(numberTeachers < numberStudents);
-// YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+
+// YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 console.log(numberTeachers == stringTeachers);
+// this should log: true
+
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
 this statement still evaluated to true. JavaScript forces the stringTeachers into an integer to
@@ -35,8 +37,9 @@ perform this evaluation
 */
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
-// this should log: false
 console.log(numberTeachers === stringTeachers);
+// this should log: false
+
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
 since the numberTeachers is an integer value and the stringTeachers is a string value, although they are both equal to 4,
@@ -48,20 +51,25 @@ you develop good habits that follow best practice, from now on, use the strict c
 */
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
-// this should log: true
 console.log(numberTeachers !== numberStudents);
+// this should log: true
+
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
-// this should log: true
 console.log(numberStudents >= 20);
+// this should log: true
+
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
-// this should log: false
 console.log(numberStudents >= 21);
+// this should log: false
+
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
-// this should log: true
 console.log(numberStudents <= 20);
-// YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
+
+// YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 console.log(numberStudents <= 21);
+// this should log: true
+
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -77,7 +85,7 @@ console.log(4 < 9);
 
 var books = 3;
 console.log(4 < books);
-// Logs the evaluation of the statement 4 is less than the value of the variable books. Since books is 3 the statement can be rephrased 4 is less than 3.
+// Logs the evaluation of the statement 4 is less than the value of the variable books. Since books is 3 the statement can be rephrased "4 is less than 3.""
 // This is false and so the result will be false.
 
 var friends = 6;
@@ -128,7 +136,7 @@ console.log(lovesToPlay && isPuppy);
 // ANSWER: It evaulated to an error because we have not yet initialized a variable that specifies if the dog is a puppy or not.
 // we could write some new code that would evaluate to true by writing something like
 // var isPuppy;
-//  if (age <= 1) {ispuppy = true};
+//  if (age <= 2) {ispuppy = true};
 // and then running the evaluation again.
 
 //-------------------
