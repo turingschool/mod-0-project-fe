@@ -38,9 +38,8 @@ console.log(numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
-  // Explain.
   // Name had to be a string because I couldn't express it as a number or a boolean because I am not a number I am a free man.
-  // Similarly number of pets had to be a number.
+  // Similarly number of pets is best expressed as a number. 
   // isHungry could theoretically have been answered as a string and that would actually allow for some more nuanced answers like "somewhat but only for sushi."
   // However isHungry as a boolean lets you act on that answer more easily in additional code.
 
