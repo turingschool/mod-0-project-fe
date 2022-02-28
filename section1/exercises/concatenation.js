@@ -32,7 +32,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log('The ' + speedy + 'jumped over the ' + slowPoke);
+console.log('The ' + speedy + ' jumped over the ' + slowPoke);
 
 
 // YOU DO:
@@ -43,13 +43,20 @@ console.log('The ' + speedy + 'jumped over the ' + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log('In a predictable result, the ' + slowPoke + 'beat the ' + speedy + '!');
+console.log('In a predictable result, the ' + slowPoke + ' beat the ' + speedy + '!');
 
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
+
+var numberOfBranches = 12;
+var colorOfFruit = 'red'
+var typeOfTree = 'first fruit tree'
+
+console.log('The ' + typeOfTree + ' was the color' + colorOfFruit + ' and had' +
+numberOfBranches + ' branches!');
 
 
 //-------------------
