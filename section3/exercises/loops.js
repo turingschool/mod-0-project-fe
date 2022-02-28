@@ -23,7 +23,6 @@ for (var i = 0; i < 3; i++) {
 }
 
 // What is logged to the console for this second example? Why?
-// EXPLAIN:
 /*
 It'll log
 0
