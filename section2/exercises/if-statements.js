@@ -12,7 +12,7 @@ Make sure to run the file with node in your command line.
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
-var weather = 'snowy';
+var weather = 'sunny';
 // var weather = 'icy';
 // var weather = 'rainy';
 // var weather = 'sunny';
@@ -72,10 +72,10 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-if (numQuarters <= 1) {
-console.log("I don't have enough money for a gumball");
+if (numQuarters < 2) {
+  console.log("I don't have enough money for a gumball");
 } else if (numQuarters >= 2) {
-console.log("I have enough money for a gumball");
+  console.log("I have enough money for a gumball");
 }
 
 /*
