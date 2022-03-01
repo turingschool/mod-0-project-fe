@@ -141,7 +141,8 @@ console.log(lovesToPlay || lovesDogPark);
 console.log(lovesToPlay && is a puppy);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: 
+// ANSWER: I think that my final line of code evaluated to true because the dog's
+// age is 1.
 
 //-------------------
 // FINAL CHECK
