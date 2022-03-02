@@ -44,7 +44,7 @@ console.log(numberOfPets);
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
-/*firstName is string because it is just asking for non numerical answer, and it is not true or false.
+/*firstName is string because it is just asking for a non-numerical answer, and it is not true or false.
 isHungry is boolean because it is asking whether or not we are hungry, which is true or false.
 numberOfPets is numberical because it is asking for a quantity. */
 
@@ -65,7 +65,7 @@ console.log (numberOfPets);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
-console.log (healthySnacks + junkFoodSnacks)
+console.log (healthySnacks + junkFoodSnacks);
 //-------------------
 // FINAL CHECK
 //-------------------

@@ -24,9 +24,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-/* For numberOfCreatures, the data type is numerical because the answer is a quantity.
-For creatures, the data type is string because it is wrapped in quotes, and the answer is descriptive.
-The overall data type will be string because it is wrapped in quotes. */
+//The overall data type will be string because it is a mix of numerical and alphabetical characters wrapped in quotes.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -52,11 +50,11 @@ console.log("In a precitable result, the " + slowPoke + " beat the " + speedy + 
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 
-var drink = "vanilla latte"
+var coffeeDrink = "vanilla latte"
 var temperature = "cold"
 var espressoShots = 2
 
-console.log("I am drinking a " + drink + " that is " + temperature + " and has " + espressoShots + " espresso shots.")
+console.log("I am drinking a " + coffeeDrink + " that is " + temperature + " and has " + espressoShots + " espresso shots.")
 
 //-------------------
 // FINAL CHECK
