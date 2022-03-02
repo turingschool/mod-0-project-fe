@@ -49,6 +49,11 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 
+var dragon = "fiery Red Dragon";
+var knight = "heroically armored town savior";
+var skeleton = "Kentucky Fried Tinman";
+console.log("The " + dragon + "'s flaming breath turned the " + knight + " into a " + skeleton +".");
+
 
 //-------------------
 // FINAL CHECK
