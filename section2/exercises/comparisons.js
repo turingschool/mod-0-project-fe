@@ -49,19 +49,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-console.log("Is numberTeachers not equal to numberStudents?" , numberTeachers != numberStudents);
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers != numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-console.log("Is numberStudents greater than or equal to 20?" , numberStudents >= 20);
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-console.log("Is numberStudents greater than or equal to 21?" , numberStudents >= 21);
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-console.log("Is numberStudents less than or equal to 20?" , numberStudents <= 20);
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-console.log("is numberStudents less than or equal to 21?" , numberStudents <= 21);
+console.log("is numberStudents less than or equal to 21?", numberStudents <= 21);
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -126,7 +126,7 @@ console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 // Final line of code evaluated 1. Upon further research, it seems that && and || don't always
-// return a boolean value, but they always return one the operand expressions' value.
+// return a boolean value, but they always return one of the operand expressions' value.
 //-------------------
 // FINAL CHECK
 //-------------------
