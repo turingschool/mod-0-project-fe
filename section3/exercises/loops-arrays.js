@@ -25,14 +25,14 @@ for (var i = 0; i < animals.length; i++) {
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-var foods = ["apple", "chicken", "bread"]
+var foods = ["apple", "chicken", "bread"];
 for (var i = 0; i < foods.length; i++) {
   console.log("Add " + foods[i] + " to shopping list");
 }
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
-var numbers = [7, 77, 777]
+var numbers = [7, 77, 777];
 for (var i = 0; i < numbers.length; i++) {
   console.log(numbers[i] * 2);
 }

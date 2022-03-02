@@ -59,7 +59,7 @@ console.log(food);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-food.push ("fried chicken", "soup", "pie");
+food.push("fried chicken", "soup", "pie");
 console.log(food);
 // YOU DO: Remove the food that is in index position 0.
 food.shift();
