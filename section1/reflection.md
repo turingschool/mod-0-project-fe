@@ -35,4 +35,4 @@ Linking together variables for a code.
 I think eBay could use it when it's compiling search results and says "Your search for XXX returned XXX results."
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
-I don't understand what the advantage of concatenation vs interpolation is. It seems to me that they're pretty much the same, just a perference.
+I don't understand what the advantage of concatenation vs interpolation is. It seems to me that they're pretty much the same, just a preference.
