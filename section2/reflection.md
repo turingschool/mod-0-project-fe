@@ -2,7 +2,7 @@
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 
-I like the SMART acronym. It will be able to help me break projects down into realistic chunks to work on.
+I like the SMART acronym. It will help me be able to break projects down into realistic chunks to work on.
 The reading also helped to reinforce that it is ok to ask for help.
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
