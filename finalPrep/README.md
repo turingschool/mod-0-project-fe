@@ -43,10 +43,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+![Week 1 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451203-8297f3ad-7fd5-48a9-9417-f187c5f5e6e1.png)
+![Week 2 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451279-9a5b074c-aa6d-4782-9d96-2f7574eca985.png)
+![Week 3 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451372-4fbac3db-ccf4-4bee-9172-9e78174477b0.png)
 
 ## Mentorship Prep
 
@@ -104,3 +103,4 @@ What is your plan and how are you going to hold yourself to it? Specifically...
 ### Extensions
 
 Check out our thoughts on [extension activities](https://mod0.turing.io/project/extensions) if you find yourself with some extra time before starting Mod 1!
+!
