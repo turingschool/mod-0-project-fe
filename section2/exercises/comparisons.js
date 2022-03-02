@@ -92,7 +92,7 @@ var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// We are stting variables "friends" to 6 and "siblings" to 2, and telling the console to log if friends (6) is greater than siblings (2), which will give us a true statement.
+// We are setting variables "friends" to 6 and "siblings" to 2, and telling the console to log if friends (6) is greater than siblings (2), which will give us a true statement.
 
 var attendees = 9;
 var meals = 8;
