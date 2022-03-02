@@ -43,9 +43,6 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-![Week 1 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451203-8297f3ad-7fd5-48a9-9417-f187c5f5e6e1.png)
-![Week 2 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451279-9a5b074c-aa6d-4782-9d96-2f7574eca985.png)
-![Week 3 LK GoogleCal](https://user-images.githubusercontent.com/99596577/156451372-4fbac3db-ccf4-4bee-9172-9e78174477b0.png)
 
 ## Mentorship Prep
 
