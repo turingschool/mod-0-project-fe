@@ -52,9 +52,9 @@ console.log(numberOfPets);
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "Harry";
-var isHungry = "already ate";
-var numberOfPets = "2";
+firstName = "Harry";
+isHungry = "already ate";
+numberOfPets = "2";
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -64,9 +64,8 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-var snackCount = "The total number of snacks is " + healthySnacks + " healthy snacks "
-+ junkFoodSnacks + " junk food snacks.";
-console.log(snackCount);
+
+console.log((healthySnacks) + (junkFoodSnacks));
 
 //-------------------
 // FINAL CHECK
