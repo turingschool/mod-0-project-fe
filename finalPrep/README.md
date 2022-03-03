@@ -23,7 +23,7 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
+- [x ] I have refactored my `section1` exercises to the best of my ability
 - [ ] I have refactored my `section2` exercises to the best of my ability
 - [ ] I have refactored my `section3` exercises to the best of my ability
 
@@ -43,10 +43,6 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
 
 ## Mentorship Prep
 
@@ -104,3 +100,4 @@ What is your plan and how are you going to hold yourself to it? Specifically...
 ### Extensions
 
 Check out our thoughts on [extension activities](https://mod0.turing.io/project/extensions) if you find yourself with some extra time before starting Mod 1!
+!
