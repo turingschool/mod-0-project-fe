@@ -46,7 +46,7 @@ block of code is excecuted. If the condition runs "false" (any number other than
 * scarf
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 * Line 27 is a condition which states if the bearChoice is exactly 1 then execute "You offer the bear your + bearClothing+ and the
-bear shows you a secret passage out" and then after line 28 it is a series of 3 else if statements. If the bearChoice is anythiing other than 1, the code is continuing
+bear shows you a secret passage out" and then after line 28 it is a series of 3 else if statements. If the bearChoice is anything other than 1, the code is continuing
 on to the next line of code block and checking if the other else if conditions are running true or false if the bearChoice is 2, 3 or something else.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?

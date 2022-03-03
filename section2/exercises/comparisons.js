@@ -74,7 +74,7 @@ console.log('is numberStudents less than or equal to 21', numberStudents <= 21);
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//This line of code is asking if 4 is less than 9 and it logged as true because mathimatically 4 is less than 9
+//This line of code is asking if 4 is less than 9 and it logged as true because mathematically 4 is less than 9
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
@@ -89,7 +89,7 @@ var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-//This line of code is asking of the value of attendees is strictly not equal to the value of means, and this will log as true because 9 does
+//This line of code is asking of the value of attendees is strictly not equal to the value of meals, and this will log as true because 9 does
 //not equal 8
 
 //-------------------
@@ -116,7 +116,7 @@ console.log(lovesToPlay && lovesTreats);
 //it logged as True
 // Determine if the dog loves to play and loves the dog park
 console.log(lovesToPlay && lovesDogPark);
-//it logged as Falsegitn
+//it logged as False
 // Determine if the dog loves to play or loves the dog park
 console.log(lovesToPlay || lovesDogPark);
 //it logged as True
@@ -124,8 +124,8 @@ console.log(lovesToPlay || lovesDogPark);
 console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
-//The final code just spit out 1, and I think that is because the variable declaration (var age = 1) value is 1 and not true or false and when you use an &&
-//operator you have to have a true or false value in the varible declaration
+//The final code just spit out 1, and I think that is because the variable declaration (var age = 1) value is 1
+//and not true or false and when you use an && operator you have to have a true or false value in the variable declaration
 //-------------------
 // FINAL CHECK
 //-------------------

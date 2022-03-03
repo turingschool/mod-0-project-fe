@@ -44,7 +44,7 @@ Log to the console the appropriate age range
 var dogAge = 1;
 // Write your conditional here
 if (dogAge <= 2) {
-  console.log('Its a puppy');
+  console.log('Dog is a puppy');
 } else if (dogAge >= 3) {
   console.log('Dog is an adult');
 } else if (dogAge >= 10) {
