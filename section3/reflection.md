@@ -15,7 +15,9 @@
  And, that was the best I could come up with, I am sure there are way better examples!
 6. What questions do you still have about Arrays and loops?
 * Honestly I wasn't sure what was the best solution for the problem below and I Googled to see if there was a better array method and I felt a little lost in my searches. This ended up working in my terminal but I am wondering if there was a better way to execute this?
-// YOU DO: Write code that will add a new animal (type of your choice) to position 3.
+
+YOU DO: Write code that will add a new animal (type of your choice) to position 3.
+```
 animals.push('Llama');
 animals[0]= 'Zebra'
 animals[1]='Giraffe'
@@ -23,3 +25,4 @@ animals[2]= 'Llama';
 animals[3]= 'Elephant';
 animals[4]= 'Gorilla';
 console.log(animals);
+```
