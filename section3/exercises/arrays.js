@@ -45,8 +45,8 @@ console.log(animals);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-var foods = ['rice','beans','salmon','bananas'];
-console.log(foods);
+var foods = ['rice', 'beans', 'salmon', 'bananas'];
+
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -65,7 +65,7 @@ console.log(foods);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-console.log(foods.unshift('grapes','cereal','olives'));
+console.log(foods.unshift('grapes', 'cereal', 'olives'));
 console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
 console.log(foods.shift());
@@ -91,9 +91,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1: Chase Mobile App- Lists of recent transactions
-// 2: Spotify-Lists of recently played songs
-// 3: Goodreads-Lists of 'Read' and 'Want to Read'books
+/* 1: Chase Mobile App- Lists of recent transactions
+   2: Spotify-Lists of recently played songs
+   3: Goodreads-Lists of 'Read' and 'Want to Read'books */
 
 
 //-------------------
@@ -115,16 +115,19 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
-// If variable percentBatteryLeft is greater or equal to 15, then the user may call an Uber.
-// b/c the value assigned to percentBatteryLeft is 12, the condition resolves to false and moves to next statement.
-if (percentBatteryLeft >=15){
+
+/*  If the value of the percentBatteryLeft variable is greater or equal to 15, then
+the user may call an Uber. Because the value assigned to percentBatteryLeft is 12,
+the condition resolves to false and moves to next statement. */
+if (percentBatteryLeft >= 15){
   console.log('The user can call an Uber');
-  //Else if the variable hasCharger is true and chargertype is equal to 'car', then the user can call an Uber.
-  //This condition evaluates to true with assigned values 'true' and 'car', so ultimately the user can call an Uber.
+/* Else if the variable hasCharger is true and chargertype is equal to 'car', then
+the user can call an Uber. This condition evaluates to true with assigned values
+'true' and 'car', so ultimately the user can call an Uber. */
 } else if  (hasCharger && chargerType === "car") {
   console.log('The user can call an Uber');
-  //If none of the conditions were met, the else code block would be executed and would read
-  //'the user cannot call an Uber '
+/* If none of the conditions were met, the else code block would be executed and
+would read 'the user cannot call an Uber '*/
 } else {
   console.log('The user cannot call an Uber');
 }

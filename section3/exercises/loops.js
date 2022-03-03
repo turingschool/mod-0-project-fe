@@ -23,9 +23,11 @@ for (var i = 0; i < 3; i++) {
 }
 
 // What is logged to the console for this second example? Why?
-// EXPLAIN: 0, 1, 2 are logged to the console. The loop runs as long as the condition
-// evalutes to true. With the condition (i < 3), the loop stopped at 2, as additional
-// loops would evaluate to false.
+// EXPLAIN:
+
+/* The index numbers 0, 1, 2 are logged to the console. The loop runs
+as long as the condition evalutes to true. With the condition (i < 3), the
+loop stopped at 2 because it is less than 3. */
 
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
@@ -48,7 +50,7 @@ for (var i = 0; i < 10; i++){
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 for (var i = 1; i <= 10; i++){
-  console.log("This is loop number" + " " + i);
+  console.log(`This is loop number ${i}`);
 }
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 for (var i = 10; i >= 1; i--) {
