@@ -58,7 +58,7 @@ console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 
 console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-console.log(" Is numberStudents less than or equal to 20?", numberStudents <= 20);
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
 console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21);
@@ -80,6 +80,7 @@ var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
 // Is 4 less than the number of books?; false
+
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
@@ -124,8 +125,8 @@ console.log(lovesToPlay || lovesDogPark);
 console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
-//My finale line came out as 1 because we were comparing different data types,
-// so Javascript converted the value to a number. 1 == true 
+/* My finale line came out as 1 because we were comparing values of different data types
+(Boolean and numnber), so Javascript converted the value to a number. 1 == true */
 //-------------------
 // FINAL CHECK
 //-------------------

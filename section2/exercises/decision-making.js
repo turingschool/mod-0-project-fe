@@ -17,21 +17,21 @@ if (doorChoice === 1) {
   bearClothing = "scarf";
 }
 
-console.log("You see a bear putting on a " + bearClothing);
-console.log("It looks like that " + bearClothing + " is too small for the bear, do you...");
+console.log(`You see a bear putting on a ${bearClothing}`);
+console.log(`It looks like that ${bearClothing} is too small for the bear, do you...`);
 
 console.log("1. Offer your own to the bear?");
 console.log("2. Point it out to the bear?");
 console.log("3. Make a dash for the next room?");
 
 if (bearChoice === 1) {
-  console.log("You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!");
+  console.log(`You offer the bear your ${bearClothing} and the bear shows you a secret passage out!`);
 } else if (bearChoice === 2) {
-  console.log("You tell the bear the " + bearClothing + " is too small and it starts to cry!");
+  console.log(`You tell the bear the ${bearClothing} is too small and it starts to cry!`);
 } else if (bearChoice === 3) {
-  console.log("You run as fast as you can into the next room. It's full of snakes!");
+  console.log(`You run as fast as you can into the next room. It's full of snakes!`);
 } else {
-  console.log("You stay with the bear and become it's best friend!");
+  console.log(`You stay with the bear and become it's best friend!`);
 }
 
 /*
@@ -55,17 +55,17 @@ so the else code block would execute and the bearClothing value would be "scarf"
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
 When the variable bearChoice is equal to 1, then the condition evaluates to true and the line printed
-will be "You offer the bear your "bearClothing"and the bear shows you a secret passage out.
+will be "You offer the bear your "bearClothing" and the bear shows you a secret passage out.
 If bearChoice is not equal to one, the condition resolves to false and it will check the next
 condition, and if it's equal to 2, then the line printed will be "You tell the bear the "bearClothing"
 is too small and it starts to cry!" If not equal to one or two, then next condition is checked which is the
 bearChoice equal to three, which if true will print out "You run as fast as you can into the next room. It's
-full of snakes!" If bearChoice is 4 or greater, the else code block will be executed and the line "You stay
+full of snakes!" If bearChoice is 4 or greater, the else code block will be executed and "You stay
 with the bear and become it's best friend!" is printed.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
-If I changed the variable bearChoice to equal 3, then the 2nd else if coditional statement will run true and
+If I changed the variable bearChoice to equal 3, then the 2nd else..if coditional statement will be true and
 the line printed would be "You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
