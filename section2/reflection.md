@@ -36,3 +36,5 @@ To check if two or 1 or 2 conditions are met we use logical operators, `&&` or `
 7. What questions do you still have about `if` statements and/or functions?
 
 Using the logical operators I first put (cupsOfFlour >= 2 && hasSauce=true), this didn't run properly, but when I removed `=true` it did but I didn't really get why? Becuase it's already defined we can't define it again in the operation?
+
+I answered this myself in section 3, realizing it needs to be `==` not the assignment operator!
