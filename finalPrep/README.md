@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
 - [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: <script src="https://gist.github.com/willhobson85/cb0ef81bc76f26b85fcab5afb36496b0.js"></script>
+  - [ ] Add a link for your gist here: (https://gist.github.com/willhobson85/cb0ef81bc76f26b85fcab5afb36496b0.js)
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
@@ -43,7 +43,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+- 
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
