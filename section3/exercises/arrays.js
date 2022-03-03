@@ -98,8 +98,8 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // all from the same one.
 
 // 1: Facebook- there a lists of users when they like or comment on a post
-// 2: Facebook Messanger- whehn you have a group chat you can see the list of users in the group
-// 3: Reddit- in subreddits there is probably a list of users within that
+// 2: Facebook Messenger- when you have a group chat you can see the list of users in the group
+// 3: Reddit- subreddits have a list of users that have joined that subreddit
 
 
 //-------------------
@@ -131,7 +131,8 @@ if (percentBatteryLeft >= 15){
 // Condition will evaluate to "Call an Uber"
 } else if (percentBatteryLeft <= 14 && hasCharger === true && chargerType === "car"){
   console.log("Call an Uber");
-//block of code evaluates is percentBatteryLeft is less than or equal to 14 and hasCharger is false. Condition will execute as "Ask a friend to borrow phone"
+//block of code evaluates is percentBatteryLeft is less than or equal to 14 and hasCharger is false.
+//Condition will execute as "Ask a friend to borrow phone"
 } else if (percentBatteryLeft <= 14 && hasCharger === false){
   console.log("Ask a friend to borrow phone");
 }

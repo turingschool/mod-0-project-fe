@@ -12,11 +12,11 @@
 * I guess I would say:
  "Imagine that you had a hundred toys all over your room and your mom is asking you to clean up your room and to organize your toys from smallest to biggest to put on a shelf, thats going to take you forever, right? But imagine if you had robot named Loopy and you can just tell your robot that you want to organize your toys from smallest to biggest and your robot will make sure its perfect, that would be so helpful, right? Loopy can save you time comparing all the sizes of your toys and will make sure its all counted perfectly"
 
- And, that was the best I could come up with, I am sure there are way better examples!
+ - And, that was the best I could come up with, I am sure there are way better examples!
 6. What questions do you still have about Arrays and loops?
 * Honestly I wasn't sure what was the best solution for the problem below and I Googled to see if there was a better array method and I felt a little lost in my searches. This ended up working in my terminal but I am wondering if there was a better way to execute this?
 
-YOU DO: Write code that will add a new animal (type of your choice) to position 3.
+- YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 ```
 animals.push('Llama');
 animals[0]= 'Zebra'
