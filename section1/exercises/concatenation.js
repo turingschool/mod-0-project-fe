@@ -23,15 +23,16 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-//"My zoo has 7 unicorns!"--The string "My zoo has" is added to the specified
-//number of creatures (7) with the creature type (unicorns)!//
+
+/*"My zoo has 7 unicorns!"--The string "My zoo has" is added to the values for numberOfCreatures
+(7) and creatures  (unicorns)!*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log( "The"+ " " + speedy + " " + "jumps over the" + " " + slowPoke + "!");
+console.log( "The"+ " " + speedy + " " + "jumps over the" + " " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,17 +41,17 @@ console.log( "The"+ " " + speedy + " " + "jumps over the" + " " + slowPoke + "!"
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log("In a predictable result, the" + " " + slowPoke + " " + "beat the" + speedy + "!");
+console.log("In a predictable result, the" + " " + slowPoke + " " + "beat the" + " " + speedy + "!");
 
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-var name = "Slack";
-var content = "mode of communication";
+var name = "Peyton Manning";
+var team = "Indianapolis Colts";
 var number = 1;
-console.log(name + " " + "is the number" + " " + number + " " + content + " " + "in our program!");
+console.log(name + " " + "is ranked the number" + " " + number + " " + "quarterback for the" + " " + team +"!");
 
 //-------------------
 // FINAL CHECK

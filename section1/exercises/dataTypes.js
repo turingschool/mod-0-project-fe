@@ -25,7 +25,7 @@ console.log('99 bottles of pop on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
 
-console.log('It feels like I only go backwards, baby');
+console.log('It feels like I only go backwards, baby.');
 
 //-------------------
 //NUMBERS

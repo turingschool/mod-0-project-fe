@@ -23,6 +23,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
+
 // String and number data will be logged: 'My zoo has 7 unicorns!'.  'My zoo has
 // ${7} ${unicorns}'!'
 
@@ -49,6 +50,11 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
+var hungryChild = 'Oskar';
+var number = 3;
+var snack = 'large bowls of ice cream';
+
+console.log(`${hungryChild} was a hungry boy and ate ${number} ${snack}!`);
 
 
 //-------------------
