@@ -28,15 +28,15 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-animals[2] = "Gorilla"
+animals[2] = "Gorilla";
 console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-var newAnimal = animals.push("Cat")
+var newAnimal = animals.push("Cat");
 console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-var anotherAnimal = animals.unshift("Elephant")
+var anotherAnimal = animals.unshift("Elephant");
 console.log(animals);
 
 //-------------------
