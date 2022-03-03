@@ -81,30 +81,33 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//We are asking the code to print the result of the comparison 4 is less than 9,
-//which will be true.
+//We are asking the code to log the result of the comparison 4 is less than 9,
+//which the output will be true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// It was declared that the var books is 3, after that the code is comparing if
-// 4 is less than books, the final output will be false.
+// The variable books is declared and assigned to the number 3, after that the
+//code is comparing if 4 is less than books to log in the console, the final
+//output will be false.
 
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// It was declared that the var friends is 6 and the var siblings is 2, after that
-//the code is comparing if friends is greater than sibilings, the final output
-//will be true.
+// The variable friends is declared and assigned to the number 6 and the variable
+// siblings is declared and assigned to the number is 2, after that the code is
+//comparing if friends is greater than sibilings to log in to the console, the
+//final output will be true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// It was declared that the var attendees is 9 and the var meals is 8, after
-//that the code is comparing if attendees is not equal to meals, the final output
+// The variable attendees is declared and assigned to the number 9 and the varriable
+// meals is declared and assigned to the number 8, after that the code is comparing
+// if attendees is not equal to meals to log in to the console, the final output
 // will be true.
 
 //-------------------
@@ -140,8 +143,8 @@ console.log(lovesToPlay && age <= 2);
 // we know that a dog age 2 or less is considered a puppy.
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: my code evalueted as true because I considered that a puppy is a dog
-// that has 2 or less years.
+// ANSWER: I considered that a puppy is a dog that has 2 or less years, and since
+// the variable age was assigned to the number 1, that output as true.
 
 //-------------------
 // FINAL CHECK

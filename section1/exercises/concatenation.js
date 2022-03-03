@@ -19,10 +19,12 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here:
+// Your answer and explanation here: The result of line 22 is a String. Even if
+//numberOfCreatures is assigned to a number data type and creatures is assigned
+//to a string data type, after we run the code they become a string.
 
 
 // YOU DO:
@@ -60,4 +62,4 @@ console.log("Hi, my name is " + name + " and I am " + age + " years old. My favo
 
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
-// yes! 
+// yes!

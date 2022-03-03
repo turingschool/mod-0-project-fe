@@ -44,13 +44,13 @@ Log to the console the appropriate age range
 var dogAge = 11;
 // Write your conditional here
 if (dogAge <= 2) {
-  console.log('puppy');
+  console.log("puppy");
 } else if (dogAge === 3) {
-  console.log('adult');
+  console.log("adult");
 } else if (dogAge >= 10) {
-  console.log('elderly')
+  console.log("elderly")
 } else {
-  console.log('adult');
+  console.log("adult");
 }
 
 /*
@@ -98,9 +98,9 @@ var hasSauce = false;
 
 // Write your conditional here
 if (cupsOfFlour >= 2 && hasSauce === true){
-  console.log('I can make pizza');
+  console.log("I can make pizza");
 } else {
-  console.log('I cannot make pizza');
+  console.log("I cannot make pizza");
 }
 
 

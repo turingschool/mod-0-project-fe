@@ -49,7 +49,8 @@ bearClothing.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
-bearClothing value will be scarf because of the condition in line 16 and 17.
+bearClothing value will be scarf because of the condition in line 16 and 17 that assigned
+the string "scarf" to the variable bearClothing.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
@@ -60,20 +61,31 @@ bearChoice === 3).
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
 The final outcome will be: "You run as fast as you can into the next room. It's
-full of snakes!"
+full of snakes!" because the number 3 is assigned to the else if statement that
+output the string with this sentence.
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
 The final outcome will be:
+
 You enter a dark room with two doors. Do you go through #1 or #2?
 You see a bear putting on a hat
+**When the variable doorChoice is assigned to the number 1 reassign the variable
+bearClothing to the string "hat".**
+
 It looks like that hat is too small for the bear, do you...
 1. Offer your own to the bear?
 2. Point it out to the bear?
 3. Make a dash for the next room?
+** When the variable bearChoice is assigned to the number 2 the if statement that
+has the condition bearChoice === 2 will log the string "You tell the bear the hat
+is too small and it starts to cry!" in the console.**
+
 You tell the bear the hat is too small and it starts to cry!
+
 
 7. What is your favorite ending?
 
-My favorite ending is when the variable bearChoice === 1. :)
+My favorite ending is when the variable bearChoice === 1 because I really liked
+the message in the string. :)
 */

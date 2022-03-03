@@ -42,9 +42,14 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  // For the var firstName I decided to use my name as a string value since it meets the criteria for the exercise.
-  // For the var isHungry I put true because it is a Boolean.
-  // For the var numberOfPets I used the number data type to meet the criteria for value.
+  // For the var firstName I decided to use my name as a string value since names
+  // are words and words are considered strings.
+
+  // For the var isHungry, the variable is a question that has to be answered
+  // with yes or no, which indicates that is a boolean data type, so I put true.
+
+  // For the var numberOfPets, the variable is indicating that we want to assign
+  // quantity, for that we need to use a number data type, so I used 3.
 
 
 // YOU DO:
