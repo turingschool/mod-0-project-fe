@@ -23,8 +23,8 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var anOrder = "Harry Potter must not return to Hogwarts!";
-console.log(anOrder);
+var instructionForHarry = "Harry Potter must not return to Hogwarts!";
+console.log(instructionForHarry);
 
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
@@ -33,17 +33,18 @@ console.log(anOrder);
 var firstName = "Amber";
 console.log(firstName);
 
-var isHungry = "She's famished."
+var isHungry = true;
 console.log(isHungry);
 
-var numberOfPets = 2
+var numberOfPets = 2;
 console.log(numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-  //I assigned a text string to firstName and isHungry since neither Boolean nor numbers made sense here.
-  //I assigned the number 2 to numberOfPets since the variable name was explicity asking for the number of pets.
+  // I assigned a text string to firstName since I used a string of letters that spelled out my name.
+  // I assiged a Boolean for the variable isHungry since it could be a true or false (yes/no) question.
+  // I assigned the number 2 to numberOfPets since the variable name was explicity asking for the number of pets.
 
 
 // YOU DO:
@@ -53,10 +54,10 @@ console.log(numberOfPets);
 firstName = "Steve";
 console.log(firstName);
 
-isHungry = "Just had a big lunch.";
+isHungry = false;
 console.log(isHungry);
 
-numberOfPets = 1
+numberOfPets = 1;
 console.log(numberOfPets);
 
 
@@ -64,7 +65,7 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-console.log(healthySnacks + junkFoodSnacks)
+console.log(healthySnacks + junkFoodSnacks);
 //expected result = 14
 
 
