@@ -31,7 +31,7 @@ The console logs:
 2
 We see this because we have set the initialExpression of i to 0 and will see the
 code block run until i (the index) reaches 3. The increment operator i++ means we are adding
-1 to starting index after running each loop.
+1 to the starting index after running each loop.
 */
 
 

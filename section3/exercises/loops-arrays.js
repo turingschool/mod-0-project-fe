@@ -16,12 +16,12 @@ for (var i = 0; i < animals.length; i++) {
   console.log(animals[i]);
 }
 
+
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
 for (var i = 0; i < animals.length; i++) {
   console.log("The " + (animals[i]) + " is awesome!");
 }
-
 
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
@@ -40,6 +40,7 @@ var numbersToBeDoubled = [4, 5, 6, 7, 8, 9, 10];
 for (var i = 0; i < numbersToBeDoubled.length; i++) {
   console.log((numbersToBeDoubled[i])*2);
 }
+
 
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
 // each name except the first two.

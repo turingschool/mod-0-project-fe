@@ -123,16 +123,16 @@ var chargerType = "car";
 
 // Write your conditional here
 
-// If true, meaning the defined variable percentBatteryLeft is greater than or equal to 15, the block of code will execute and stop there.
-// Console result - "I can call an Uber"
+// If true, meaning the defined variable percentBatteryLeft is greater than or equal to 15, the code block will execute and stop there.
+// Console result: "I can call an Uber"
 if (percentBatteryLeft >= 15) {
   console.log("I can call an Uber");
-// Block of code will execute only if the above condition is false AND variable hasCharger is true AND chargerType strictly equals "car".
-// Console result - "I can call an Uber"
+// Code block will execute only if the above condition is false AND variable hasCharger is true AND chargerType strictly equals "car".
+// Console result: "I can call an Uber"
 } else if (hasCharger && chargerType === "car") {
   console.log("I can call an Uber");
 // If both of the above conditions evaluate false, the below block of code will execute.
-// Console result - "I cannot call an Uber"
+// Console result: "I cannot call an Uber"
 } else {
   console.log("I cannot call an Uber");
 }
