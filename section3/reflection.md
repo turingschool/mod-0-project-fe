@@ -20,4 +20,5 @@ A loop does a task over and over as long as certain criteria is met. Using an ar
 Lets say we are preparing for a birthday party and we need to put goodie bags together for the boys and for the girls. Fairies will go in the girls bags and trucks will go in the boys. We are doing the same action over and over putting the toy in the bag but if the bag is yellow, we'll put the girls toys in, if the bag is orange we'll put the boys toy in. This is just like a loop doing one action/task over and over based on criteria.
 
 6. What questions do you still have about Arrays and loops?
+
 At one point I ran a loop that starting running numbers endlessly and had to quit terminal to get it to stop, which made me wonder could an endless loop ever break somehting because you can't get it to stop or can we always quit a program and it will stop no problem?
