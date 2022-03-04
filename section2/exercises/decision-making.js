@@ -45,7 +45,7 @@ bearClothing
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 pashmina
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-If bearChoice is stritcly equal to 1, you offer the bear you bearClothing and the bear shows you a
+It's an if else statement. If bearChoice is stritcly equal to 1, you offer the bear you bearClothing and the bear shows you a
 secret passage out. If the bearChoice is strictly equal to 2, you tell the bear the bearClothing is too small
 and he starts to cry. If the bearChoice is strictly equal to 3, you run as fast as you can into the
 next room. It's full of snakes! If any other bearChoice is entered, then you stay with the bear

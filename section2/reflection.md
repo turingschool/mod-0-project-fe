@@ -16,6 +16,7 @@ see it's content on my feed.
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 Add else if for the additional conditions. The program reads each line of code and only runs the line that meets all the expected conditions.
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
-The dev tools on Chrome allow you to see that conditions are met before running a block of code.
+The dev tools on Chrome allow you to see that conditions are met before running a block of code. The console was a lifesaver
+in this project. 
 7. What questions do you still have about `if` statements and/or functions?
 I don't have particular questions because this is all still very new and I don't know what I don't know. More opportunity to work on if statements would be appreciated.
