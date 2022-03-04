@@ -6,9 +6,9 @@
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
-  * string - this contains at least one letter plus other characters (can include emojis or special characters) within quotation marks. Can be double quotes or single quotes, but the opener/closer mark must be the same.
-  * number - any number! Can be positive (ie. 47), negative (ie. -27), decimal (ie. 0.25), or large without a comma (ie. 9845)
-  * Boolean - these help us determine what script to run based on a true or false statement
+   * string - this contains at least one letter plus other characters (can include emojis or special characters) within quotation marks. Can be double quotes or single quotes, but the opener/closer mark must be the same.
+   * number - any number! Can be positive (ie. 47), negative (ie. -27), decimal (ie. 0.25), or large without a comma (ie. 9845)
+   * Boolean - these help us determine what script to run based on a true or false statement
 
 3. How would you log the string `"Hello World!"` to the console?
 
