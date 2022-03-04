@@ -3,6 +3,7 @@
 1. In Section 3, we removed even more supports and pushed you to learn a bit more independently, read through technical documentation, and use your resources more. How did that feel?
  
 I didn't notice more information being removed this time, as much as I did in section 2. I think practicing in the evening classes I was more familiar with using terminal and atom and had less difficult for section 3. 
+
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 
 The first app that came to mind that uses Arrays was the Every Dollar budgeting app. You set different categories and enter a list of your spending that month. Each category is likely an Array that the user is constantly adding to creating a list of what was spent for how much. 
