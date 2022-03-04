@@ -82,30 +82,28 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 // YOU DO: Explain.
-// Logs the result of "Is the number 4 less than the number 9?"
-// Result should be true.
+// Logs the result of the comparison is the number 4 less than the number 9?
+// This should log: true
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// Logs the result of "Is the number 4 less than the defined variable 'books' where 'books' is assigned the number value 3?"
-// Result should be false.
+// Logs the result of the comparison of the number 4 to the defined variable 'books' where 'books' is assigned the number value 3
+// This should log: false
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// Logs the result of "Is the defined variable 'friends' greater than the defined variable 'siblings' where the assigned number
-// values are 6 and 2, respectively?"
-// Result should be true.
+// Logs the result of the comparison of two defined variables that have been assigned number values.
+// This should log: true
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// Logs the result of "Is the defined variable 'attendees' not equal to the defined variable 'meals,' where the assigned number
-// values are 9 and 8, respectively?"
-// Result should be true.
+// Logs the result of the comparision of two defined variables that have been assigned number values. Are they not equal?
+// This should log: true
 
 //-------------------
 // PART 3: Logical Operators
@@ -117,6 +115,7 @@ var finishedHomework = false;
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
 console.log(isHungry && finishedHomework);
+
 // Determine if the user is hungry or has completed their homework
 console.log(isHungry || finishedHomework);
 
@@ -148,8 +147,8 @@ console.log(lovesToPlay && age);
 
 /*
 The final line of code evaluated to the number 1. Based on the reading, "The && and || Operators in JavaScript"
-it explains that logical operators do not always return a boolean value. In our example, the defined variable lovestoPlay
-is a boolean value and the defined variable age is assigned the number 1. From the reading, "A && B returns the value A if
+it explains that logical operators do not always return a Boolean value. In our example, the defined variable lovestoPlay
+is a Boolean value and the defined variable age is assigned the number 1. From the reading, "A && B returns the value A if
 A can be coerced into false; otherwise, it returns B." Since lovesToPlay is true, it returned the value of age.
 */
 
