@@ -52,7 +52,7 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-console.log('Is numberTeachers not equal to numberStudents?', numberTeacher !== numberStudents);
+console.log('Is numberTeachers not equal to numberStudents?', numberTeachers !== numberStudents);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
@@ -138,11 +138,11 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && is a puppy);
+console.log(lovesToPlay && 'is a puppy');
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: I think that my final line of code evaluated to true because the dog's
-// age is 1.
+// ANSWER: My final line of code evaluated to 'is a puppy'. lovesToPlay is true
+// and 'is a puppy' is a string. And in && comparisons, the string value is produced.
 
 //-------------------
 // FINAL CHECK
