@@ -31,13 +31,6 @@ for (var i = 0; i < 3; i++) {
    console.log(4);
  }
 
-// or
-// var sum = 0;
-// for (var i = 2; i < 7; i+=2) {
-//  sum = sum + i;
-// }
-// console.log('The sum is: ' + sum);
-
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.

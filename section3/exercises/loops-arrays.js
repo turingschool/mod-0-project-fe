@@ -40,7 +40,7 @@ for (var i = 0; i < foods.length; i++) {
 
 var num = [1, 2, 3, 4];
 
-for (var i = 0; i <= num.length; i++) {
+for (var i = 0; i < num.length; i++) {
   console.log(num[i] * 2);
 }
 
@@ -68,7 +68,7 @@ for (var i = 2; i < names.length; i++) {
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
-for (var i = 0; i <= ages.length; i++); {
+for (var i = 0; i <= ages.length; i++) {
   if (ages[i] < 18) {
   console.log("Oh no, you can't vote quite yet.");
 } else (ages[i] >= 18); {
