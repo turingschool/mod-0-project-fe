@@ -55,7 +55,7 @@ var numberOfBranches = 12;
 var colorOfFruit = 'red'
 var typeOfTree = 'first fruit tree'
 
-console.log('The ' + typeOfTree + ' was the color' + colorOfFruit + ' and had' +
+console.log('The ' + typeOfTree + ' was the color ' + colorOfFruit + ' and had ' +
 numberOfBranches + ' branches!');
 
 
