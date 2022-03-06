@@ -45,8 +45,14 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+- <img width="1150" alt="Screen Shot 2022-03-06 at 9 04 34 AM" src="https://user-images.githubusercontent.com/98415017/156931262-7d983a22-faba-4374-b0e3-e4f8882666ea.png">
+
 - `Add Week 2 Screenshot Here`
+- <img width="1157" alt="Screen Shot 2022-03-06 at 9 06 55 AM" src="https://user-images.githubusercontent.com/98415017/156931319-2583e68d-a6b9-4583-9dd3-b72c2e9d7cce.png">
+
 - `Add Week 3 Screenshot Here`
+- <img width="1152" alt="Screen Shot 2022-03-06 at 9 08 02 AM" src="https://user-images.githubusercontent.com/98415017/156931356-f9167619-1290-47ca-a549-583f897b6d25.png">
+
 
 ## Mentorship Prep
 
