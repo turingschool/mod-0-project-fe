@@ -111,10 +111,13 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
+//If the percentBetterLeft if greater than or equal to 15, the condition is True and the following is logged. If the condition is False the interpretor tests the next else if.
 if (percentBatteryLeft >= 15){
   console.log('You can call an Uber!!');
+//For the else if to be true the user must have a charger and must be the type "car", if both are true the following is logged if either are false, the condition is false and the intpretor reads the next line.
 } else if (hasCharger && chargerType == 'car'){
   console.log('Good thing you have a car charger, you can call an Uber!');
+//If all of the above conditions are false, the following is logged.
 } else {
   console.log('You are out of luck and cant call an Uber.');
 }
