@@ -13,7 +13,7 @@ Boolean - An evaluation which equates to either True or False.
 
 3. How would you log the string `"Hello World!"` to the console?
 
-`console.log(`"Hello World"`)`
+`console.log("Hello World")`
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
