@@ -28,22 +28,28 @@ if (weather === 'sunny') {
 } else if (weather === 'icy') {
   console.log('yak traks');
 } else {
-  console.log('good to go!');
-}
+  console.log('good to go!')
+};
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
 
-var dogAge = 3;
+var dogAge = 5;
 // Write your conditional here
-
+if (dogAge <= 2)  {
+  console.log('Cute puppy is cute!');
+} else if (dogAge >= 3 && dogAge <= 9) {
+  console.log('Adult dog is paying taxes, so much fun.')
+} else {
+  console.log('Elderly doggie is taking a nap, shhh.')
+};
 
 /*
 YOU DO:
@@ -62,12 +68,14 @@ When numQuarters = 2, program should log "I have enough money for a gumball"
 When numQuarters = 3, program should log "I have enough money for a gumball"
 */
 
-var numQuarters = 0;
+var numQuarters = 3;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
-
+if (numQuarters === 0 || numQuarters === 1) {
+  console.log("I don't have enough money for a gumball")
+} else {
+  console.log("I have enough money for a gumball")
+};
 
 /*
 YOU DO:
@@ -82,15 +90,25 @@ When cupsOfFlour = 2 and hasSauce = true, your program should log "I can make pi
 When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pizza";
 */
 
-var cupsOfFlour = 1;
-var hasSauce = true;
+var cupsOfFlour = 5;
+var hasSauce = false;
 
 // Write your conditional here
-
+if (cupsOfFlour === 1 && hasSauce === true) {
+  console.log("I cannot make pizza")
+} else if (cupsOfFlour === 1 && hasSauce === false) {
+  console.log("I cannot make pizza")
+} else if (cupsOfFlour === 2 && hasSauce === true) {
+  console.log("I can make a pizza")
+} else if (cupsOfFlour === 3 && hasSauce === true) {
+  console.log("I can make a pizza")
+} else (cupsOfFlour >= 3 && hasSauce === false); {
+  console.log("I cannot make a pizza")
+}
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
-
+// Yes; A logical operator in JavaScript is used to determine the logic beteeen variables or values (ie: && and, || or, ! not).
 */

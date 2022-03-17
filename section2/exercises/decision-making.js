@@ -38,16 +38,23 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+This code block is an if/else statement which assigns the variable bearClothing the value of "hat" or "scarf" based on whether doorChoice is the vaule 1 or anything besides that value.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+The variable bearClothing has a new value assigned to it after the first if statement executes.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+The value of bearClothing would be "scarf".
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+This code block evaluates the variable bearChoice ; depending if the value is 1, 2, 3 or any other value it will log different messages.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+"You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+"You tell the bear the hat is too small and it starts to cry!"
 
 7. What is your favorite ending?
+"You stay with the bear and become it's best friend!"
 */
