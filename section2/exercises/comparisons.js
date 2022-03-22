@@ -19,14 +19,16 @@ var stringTeachers = "4";
 var numberDogs = 0;
 
 // EXAMPLE: log the result of the comparison: is numberTeachers greater than numberStudents?
-console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
+console.log("is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -36,6 +38,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
+console.log("is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -49,19 +52,23 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
+console.log("is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
+console.log("is numberStudents greater than or equal to 20?", numberStudents >= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
+console.log("is numberStudents greater than or equal to 21?", numberStudents >= 21);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
+console.log("is numberStudents less than or equal to 20?", numberStudents <= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-
+console.log("is numberStudents less than or equal to 21?", numberStudents <= 21);
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -75,20 +82,36 @@ you develop good habits that follow best practice, from now on, use the strict c
 console.log(4 < 9);
 //YOU DO: Explain.
 
+// log the result of the comparison: is 4 less than 9?
+// this should log: true
+
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+
+// variable of books declared and assigned to the Number of 3
+// log the result of the comparison: is 4 less than books?
+// this should log: false
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
 
+// variable of friends declared and assigned to the Number of 6
+// variable of siblings declared and assigned to the Number of 2
+// log the result of the comparison: is friends greater than siblings?
+// this should log: true
+
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 
+// variable attendees declared and assigned to the Number of 9
+// variable meals declared and assigned to the Number of 8
+// log the result of the comparison: is attendees not equal to meals?
+// this should log: true
 
 //-------------------
 // PART 3: Logical Operators
@@ -110,18 +133,33 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+
+/* My final line of code evaluated to 1.
+From the blog of "Operators in JavaScript", the && operator
+(if applied to Boolean values) only returns true if both operands are true.
+In this case, however, we were asked to log the result of the comparison: if the dog loves to play and is a puppy
+I decided to use the age variable since that is the way to determine if the dog is a puppy
+but the age variable is a number and not a Boolean.
+From the article,the values produced by && or || is not a type of Boolean, "The value produced
+will always be the value of one of the two operand expressions".
+In one of the authors examples: A && B will return the result of B, but will return
+the result of A IF A can can be "coerced" to be false. In other words, the operators SELECT their operands.
+In this case, A is lovesToPlay and it is true, therefore, the final line of
+code evaulated to the value of 1 (which is B) */
+
 
 //-------------------
 // FINAL CHECK
