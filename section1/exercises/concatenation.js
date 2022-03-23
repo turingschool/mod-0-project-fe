@@ -22,7 +22,10 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
+// Your answer and explanation here:
+// My zoo has 7 unicorns! is what will print
+// "my zoo has " is a string and so is the space between the variables numberOfCreatures and creatures and so is "!"
+// the + then adds the strings to the variables to print "My zoo has 7 unicorns!" as it reads the code left to right.
 
 
 // YOU DO:
@@ -30,6 +33,8 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+
+console.log("The " + speedy + " jumped over the " + slowPoke);
 
 
 // YOU DO:
@@ -40,16 +45,21 @@ var slowPoke = "lazy brown dog";
 slowPoke = "tortoise";
 speedy = "hare";
 
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +"!");
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
+var catName = "Eko";
+var catAge = 10;
+var dogAge = 2;
 
+console.log("I can't beleive " + catName + " is already going to be " + catAge +" this year! " + "Ripley is barely " + dogAge + ".");
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
