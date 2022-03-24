@@ -13,13 +13,15 @@ I realize thats an healthy mindset and i've been trying to get better at not bei
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 
-- One way i believe i've demonstrated this "Growth Mindset" is by applying to Turing. At first, i was content with my degree in chemistry and becoming a pharmacy tech.
+- One way i believe i've demonstrated this `Growth Mindset` is by applying to Turing. At first, i was content with my degree in chemistry and becoming a pharmacy tech.
 But as i worked and got my paychecks... i realized i wasn't happy and not making enough to support a future i would want to have.
-Examples: Move out, get a house, eat luxurious food, buy all the anime figures i want.
+
+**Examples**: Move out, get a house, eat luxurious food, buy all the anime figures i want.
+
 My family urged me to look into Turing and i finally decided that if i wanted to make a better future for myself, i would need to better myself by learning a new skill that could pave my way.
 
 - One way i don't demonstrate this mindset is when i start comparing myself to others. I see how smart my cohort is and I start to ask myself if i'm really capable.
-The answer is YES since we're all learning but i'm still trying to get my mind to be more accepting of that belief.
+The answer is **YES** since we're all learning but i'm still trying to get my mind to be more accepting of that belief.
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
@@ -38,20 +40,20 @@ If i don't get it, then nothing will happen and i save money.
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
-- You can add multiple conditions to an 'if' statement by doing 'else if' and then stating a new condition. You can keep doing that but it will probably look messy and your computer might take a bit to figure out what's going on because, if the first condition is not true then it moves on to the next one and sees if it's true or not. You computer will keep checking each condition until it finds a true statement and when it does, it stops and executes that line of code and whatever else you want it to do in that situation.
+- You can add multiple conditions to an `if` statement by doing `else if` and then stating a new condition. You can keep doing that but it will probably look messy and your computer might take a bit to figure out what's going on because, if the first condition is not true then it moves on to the next one and sees if it's true or not. You computer will keep checking each condition until it finds a true statement and when it does, it stops and executes that line of code and whatever else you want it to do in that situation.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
-- You can use logical operators: The AND operator (&&) is used when you need two or more conditions to be met.
-The OR operator (||) is used when you need only one of the two or more conditions to be met.
+- You can use logical operators: The AND operator `&&` is used when you need two or more conditions to be met.
+The OR operator `||` is used when you need only one of the two or more conditions to be met.
 
-- In addition to the logical operators, you can use the dev console in a browser (in the console tab) to run code and call variables to see what the output will be before
+- In addition, to the logical operators, you can use the `dev console` in a browser (in the console tab) to run code and call variables to see what the output will be before
 running a block of code.
 
 7. What questions do you still have about `if` statements and/or functions?
 
-- 'if' statements are fine but they seem a bit...messy. if i had 20 conditions, that would take forever to code. is there a faster way?
+- `if` statements are fine but they seem a bit...messy. if i had 20 conditions, that would take forever to code. is there a faster way?
 
-- can we mix AND and OR in one condition? For example: you can make pizza if you have 2 cups of flour and sauce (or you can use water if there is no sauce)
+- can we mix `AND` and `OR` in one condition? For example: you can make pizza if you have 2 cups of flour and sauce (or you can use water if there is no sauce)
 
-- The story scenario in the decision-making exercise was fun. will we be encountering more or even making our own? 
+- The story scenario in the decision-making exercise was fun. will we be encountering more or even making our own?
