@@ -19,7 +19,7 @@ var products = ['soap', 'stickers', 'slime', 'art']
 
 3. In your own words, explain what an Array method is.
 
-- An Array method is s function that is built into javascript to perform a specific process. Such as, added something to an end of an Array or to the beginning.
+- An `Array method` is a function that is built into javascript to perform a specific process. Such as, added something to an end of an Array or to the beginning.
 
 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?
 
@@ -45,4 +45,4 @@ console.log(products);
 
 - Do i have to console.log every time i make a change to an array using a array method?
 
-- Maybe i'm just typing it wrong but will there be instances where interpolation won't work so we would have to use concatenation instead a loop in an array?
+- Maybe i'm just typing it wrong when i try it but will there be instances where interpolation won't work so we would have to use concatenation instead of a loop in an array?
