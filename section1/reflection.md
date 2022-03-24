@@ -12,8 +12,10 @@ I tend to wait too long. this is because i'm nervous about others seeing me as "
 
 3. How would you log the string `"Hello World!"` to the console?
 
+```JavaScript
 var statement = "Hello World!";
 console.log(statement)
+```
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
@@ -44,4 +46,4 @@ this is a bit iffy and can be debated but the Strings can be the names of all th
 
 - why would i use concatenation instead of interpolation? it wasn't explained very well in the lesson. i could google it but what is turings stance on it?
 
-- comparisons are a bit much right now too. especially with "null" and "undefined" when set to...equal each other? is there a simple way to explain that kind of comparison? 
+- comparisons are a bit much right now too. especially with "null" and "undefined" when set to...equal each other? is there a simple way to explain that kind of comparison?
