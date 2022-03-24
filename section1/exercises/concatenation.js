@@ -34,7 +34,7 @@ String so we can combine them.*/
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log("The" + " " + speedy + " " + "jumped over the" + " " + slowPoke)
+console.log("The " + speedy + " jumped over the " + slowPoke)
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -43,7 +43,7 @@ console.log("The" + " " + speedy + " " + "jumped over the" + " " + slowPoke)
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log("In a predictable result, the" + " " + slowPoke + " " + "beat the" + " "+ speedy + "!")
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!")
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -52,7 +52,7 @@ console.log("In a predictable result, the" + " " + slowPoke + " " + "beat the" +
 var catName = "Butter";
 var dogNames = ["Kina", "Gambit"];
 var petsOwned = 3;
-console.log("I have" + " " + petsOwned + " " + "pets named" + " " + catName + "," + " " + dogNames[0] + "," + " " + "and" + " " + dogNames[1])
+console.log("I have " + petsOwned + " pets named " + catName + "," + " " + dogNames[0] + "," + " and" + " " + dogNames[1])
 
 //-------------------
 // FINAL CHECK
