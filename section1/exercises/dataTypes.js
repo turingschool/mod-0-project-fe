@@ -24,10 +24,7 @@ console.log('Welcome to Turing!');
 console.log("99 bottles of pop on the wall...")
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-
-console.log("slowPoke = "tortoise";
-speedy = "hare";
-console.log("I'm in a glass case of emotion!-Anchorman"")
+console.log("I'm in a glass case of emotion! -Anchorman"")
 
 //-------------------
 //NUMBERS
