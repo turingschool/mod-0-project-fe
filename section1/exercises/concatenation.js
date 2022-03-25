@@ -22,8 +22,11 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
-
+// Your answer and explanation here:
+// This will run the following: 'My zoo has 7 unicorns!' which is a string.
+// The first variable (numberOfCreatures) is a numeric value and the second (creatures)
+// is a string. When they are logged, javascript will
+// convert the numeric data to a string so that they can be combined together.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -31,6 +34,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
+console.log("The " + speedy + " jumped over the " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,16 +44,23 @@ var slowPoke = "lazy brown dog";
 slowPoke = "tortoise";
 speedy = "hare";
 
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
+
+var dreamVacation = "Japan";
+var timeOfYear = "Spring";
+var daysSpent = 10;
+
+console.log("Next " + timeOfYear + " I would love to travel to " + dreamVacation + " for atleast " + daysSpent + " days!");
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
