@@ -49,7 +49,7 @@ console.log( `In a predictable result, the ${slowPoke} beat the ${speedy} !`);
 var pups = "three little dogs"
 var action = "went swimming"
 var timeDay = "an hour after dinner"
-console.log(`Yesterday while camping, the ${pups} all ${action} roughly ${timeDay} .`)
+console.log(`Yesterday while camping, the ${pups} all ${action} roughly ${timeDay} .`);
 //-------------------
 // FINAL CHECK
 //-------------------
