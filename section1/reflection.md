@@ -32,7 +32,7 @@ the double slash can also be used to omit the block of code that follows.  This 
 A variable is something that can change.  Things that vary from day to day?  The temperature outside, the money in someones pocket.
 in code we can name things like temperature and then give it a value (like the degrees in farhenheit.  Example in a text editor I can create a variable for temperature by saying
   var (this tells the computer that I am making a variable) and then I want to name it dailyTemp
-  so
+so...
   var dailyTemp = 72;
 
 
