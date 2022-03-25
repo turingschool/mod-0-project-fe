@@ -20,7 +20,8 @@ I always wait too long, hoping someone else will ask them! I am trying to work o
 
 For a single line comment, use `// before each line`
 
-For a multi-line comment, use `/* *comment goes here* */`
+For a multi-line comment, use `/* comment goes here */`
+
 The purpose of code comments are to include any useful information, or relevant notes that you would like to keep only in the working file and not be logged.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
@@ -41,4 +42,4 @@ On Instagram when you comment on someone's photo, it is stringing together the v
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-I am still not clear on the difference between github gist and github. 
+I am still not clear on the difference between github gist and github.
