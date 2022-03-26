@@ -96,10 +96,15 @@ var hasSauce = true;
 
 // Write your conditional here
 
+if (cupsOfFlour < 2) {
+  console.log('I cannot make pizza');
+} else if (cupsOfFlour && hasSauce) {
+  console.log('I can make pizza');
+}
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
-for yourself!
+for yourself! Mine did include a logical operator in Javascript, i used the link from the lesson
 
 */
