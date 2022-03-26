@@ -102,9 +102,9 @@ var finishedHomework = false;
 
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
-console.log(isHungry && finishedHomework); // false
+console.log(isHungry && finishedHomework);
 // Determine if the user is hungry or has completed their homework
-console.log(isHungry || finishedHomework); // true
+console.log(isHungry || finishedHomework);
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -124,7 +124,8 @@ console.log(lovesToPlay || lovesDogPark); // true
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age); // false
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: 1, I believe it was like this because the logical operators dont always
+// return a boolean value but the value will always be one of the two expressions
 
 //-------------------
 // FINAL CHECK
