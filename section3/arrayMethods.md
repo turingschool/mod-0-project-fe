@@ -8,12 +8,14 @@ var array = [1, 6, true, "Hi"];
 
 array.pop();
 
-console.log(array);```
-`[ 1, 6, true ]`
+console.log(array);
+[ 1, 6, true ]
+```
 
 The method popped off the 'Hi' value.
 
-    ### The `shift()` method
+
+# The `shift()` method
 
     The shift method removes the **first** item from an existing array.  Unlike `pop()` The method "shifts" the items to left by 1 index value.
 
@@ -23,8 +25,9 @@ The method popped off the 'Hi' value.
 
     array.shift();
 
-    console.log(array);```
-    `[ 6, true, 'Hi']`
+    console.log(array);
+    [ 6, true, 'Hi']
+    ```
 
 # The `push()` method
 
@@ -37,12 +40,13 @@ var array = [1, 6, true, "Hi"];
 
 array.push("orange", 1000000);
 
-console.log(array);```
+console.log(array);
 `[1, 6, true, 'Hi', 'orange', 1000000 ]`
+```
 
 This will print all my values inserted in the initial `array` variable in addition to the other 2 values ('orange' and 1000000) that I pushed into the array using the `push()` method.  The last 2 values printed have an index value of [4] and [5] respectively.
 
-    ### The `unshift()` method
+# The `unshift()` method
 
     The unshift method shifts all the values in the array to the right leaving the first index (which is[0]) open to append.  Similar to push which adds an item(s) to the end of the existing array, unshift adds to the start of the array.  inthe parenthesis of the `unshift()` you input the value to be added
 
@@ -52,5 +56,6 @@ This will print all my values inserted in the initial `array` variable in additi
 
     array.unshift("orange");
 
-    console.log(array);```
+    console.log(array);
     `[ 'orange, 1, 6, true, 'Hi']`
+```
