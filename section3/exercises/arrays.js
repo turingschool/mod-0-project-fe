@@ -24,11 +24,11 @@ console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
-
+console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-
+console.log(animals[2]"Gorilla")
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
@@ -55,7 +55,7 @@ console.log(animals[0]);
 // log the changed array to verify that item has been removed
 
 
-// YOU DO: Write code to add 3 new foods to the array. 
+// YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
 
@@ -79,7 +79,7 @@ The post itself likely has more complex data, but here's one way we can think ab
 var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 // YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
-// may be storing data? Come up with 3 examples - they could be from different web applications or 
+// may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
 // 1:
@@ -96,7 +96,7 @@ YOU DO:
 Using the variables defined below, write a program that will tell a user if they
 will be able to call an Uber.
 
-The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter 
+The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter
 if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
