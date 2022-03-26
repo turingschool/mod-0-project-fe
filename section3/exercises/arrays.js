@@ -40,7 +40,7 @@ animals.push('Rabbit');
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
 animals.push('Elephant');
-console.log(animals.toString());
+console.log(animals);
 
 //-------------------
 // PART 2: Foods: Array Methods
