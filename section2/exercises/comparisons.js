@@ -52,13 +52,13 @@ you develop good habits that follow best practice, from now on, use the strict c
 console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-console.log("Is numberStudents greater than or equal to 20?", numberTeachers >= numberStudents);
+console.log("Is numberStudents greater than or equal to 20?", numberTeachers >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-console.log("is numberStudents greater than or equal to 21?", numberStudents >= 21)
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
 
@@ -74,21 +74,24 @@ console.log("is numberStudents greater than or equal to 21?", numberStudents >= 
 
 console.log(4 < 9);
 //YOU DO: Explain.
-
+// This comparison is evaluating 4 being less than 9 and it should evaluate to true
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-
+// This comparison is evaluating if 4 is less than 3. 3 is represented by the variable books
+// This should evaluate to false
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-
+// This is evaluating to see if 6 is greater than 2.  Both are represented by a variable
+// This should equate to true
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// This is evaluating to see that 9 and 8 are not equal. Both are represented by variables
+// this should equate to true
 
 //-------------------
 // PART 3: Logical Operators
@@ -99,9 +102,9 @@ var finishedHomework = false;
 
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
-console.log(isHungry && finishedHomework);
+console.log(isHungry && finishedHomework); // false
 // Determine if the user is hungry or has completed their homework
-console.log(isHungry || finishedHomework);
+console.log(isHungry || finishedHomework); // true
 
 var lovesToPlay = true;
 var lovesDogPark = false;
@@ -110,16 +113,16 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats); // true
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark); // false
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark); // true
 
 // Determine if the dog loves to play and is a puppy
-
+console.log(lovesToPlay && age); // false
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 
