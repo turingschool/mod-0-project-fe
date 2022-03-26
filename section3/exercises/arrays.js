@@ -28,39 +28,44 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-console.log(animals[2]"Gorilla")
+console.log(animal.sort);
+console.log(animals[3] = "Gorilla"):
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-
+console.log(animals.splice(3, 2, 'Snake');
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-
+console.log(animals[4]);
 
 //-------------------
 // PART 2: Foods: Array Methods
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-
+var foods = ["Pizza", "Burger", "Salad", "Soup"];
+console.log(foods);
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
-
+console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-
+console.log(foods[5] = "Broccoli");
+console.log(foods.includes);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
-
+console.log(foods.push);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-
+console.log(foods[6] = "Hotdog");
+console.log(foods[7] = "Chicken");
+console.log(foods[8] = "Spaghetti");
 // YOU DO: Remove the food that is in index position 0.
-
+console.log(foods.unshift);
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
