@@ -20,25 +20,32 @@ console.log(animals);
 
 // EXAMPLE: Write code below that will log "Zebra" from the animals array
 // YOUR CODE HERE
-console.log(animals[0]);
+var animals = ["Zebra", "Giraffe", "Elephant"];
+console.log(animals [0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
+var animals = ["Zebra", "Giraffe", "Elephant"];
 console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-console.log(animal.sort);
-console.log(animals[3] = "Gorilla");
+var animals = ["Zebra", "Giraffe", "Elephant"];
+console.log(animals[2] = 'Gorilla');
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-animals.pop("Elephant");
-animals.push("Snake");
+var animals = ["Zebra", "Giraffe", "Elephant"];
+console.log(animals.pop());
+console.log(animals.push("Whale"));
+console.log(animals.push("Elephant"));
 console.log(animals);
 
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-console.log(animals[4]);
+var animals = ["Zebra", "Giraffe", "Elephant"];
+console.log(animals [2]);
+
 
 //-------------------
 // PART 2: Foods: Array Methods
@@ -50,25 +57,39 @@ console.log(foods);
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
+var foods = ["Pizza", "Burger", "Salad", "Soup"];
+console.log(foods);
 console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-console.log(foods[5] = "Broccoli");
-console.log(foods.includes);
+var foods = ["Pizza", "Burger", "Salad", "Soup"];
+console.log(foods[4] = "Broccoli");
+console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
-console.log(foods.push);
+var foods = ["Pizza", "Burger", "Salad", "Soup", "Broccoli"];
+var start = foods.indexOf('Broccoli');
+var deleteCount = 4;
+var removedItems = foods.splice(start, deleteCount);
+console.log(foods);
+console.log(removedItems);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-console.log(foods[6] = "Hotdog");
-console.log(foods[7] = "Chicken");
-console.log(foods[8] = "Spaghetti");
+var foods = ["Pizza", "Burger", "Salad", "Soup"];
+console.log(foods[4] = "Hotdog");
+console.log(foods[5] = "Chicken");
+console.log(foods[6] = "Spaghetti");
+console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
-console.log(foods.unshift);
+var foods = ["Pizza", "Burger", "Salad", "Soup", "Hotdog", "Chicken", "Spaghetti"];
+var firstFood = foods.shift();
+console.log(foods);
+console.log(firstFood);
+
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
@@ -119,7 +140,7 @@ if (percentBatteryLeft >= 15) {
   console.log('Can call uber');
 }
 // This next line will determine you can also call an uber if you both have a charger and it is a car charger
-else if (hasCharger && charger type) {
+else if (hasCharger && chargerType) {
   console.log('Can call uber');
 }
 
