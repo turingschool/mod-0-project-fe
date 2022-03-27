@@ -133,7 +133,7 @@ console.log(lovesToPlay || lovesDogPark);
 // Determine if the dog loves to play and is a puppy
 console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:  the final line of code evaluated to 1.  The only thing I can think is that loves to play is true and age is just a data value.  Since the former is true it prints the value assigned to age.
+// ANSWER:  the final line of code evaluated to 1.  The only thing I can think is that loves to play is true and age is just a data value.  Since the former is true it prints the value assigned to age.  And honestly, what 1 year dog doesn't love to play?
 
 //-------------------
 // FINAL CHECK
