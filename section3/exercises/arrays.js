@@ -32,7 +32,10 @@ console.log(animal.sort);
 console.log(animals[3] = "Gorilla");
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-console.log(animals.splice(3, 2,"Snake");
+animals.pop("Elephant");
+animals.push("Snake");
+console.log(animals);
+
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 console.log(animals[4]);
