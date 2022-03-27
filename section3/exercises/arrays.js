@@ -29,7 +29,7 @@ console.log(animals.length);
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 console.log(animal.sort);
-console.log(animals[3] = "Gorilla"):
+console.log(animals[3] = "Gorilla");
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 console.log(animals.splice(3, 2, 'Snake');
