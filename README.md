@@ -69,7 +69,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 
 Now that you have your own forked repository—which is _your_ Mod 0 Project—the next thing to do is *clone the repository* to your computer.
 
-Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer. 
+Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer.
 
 1. In YOUR project repository that you just forked, click on `Clone or Download`
 ![clone your copy](/images/fe_step3.png)
