@@ -87,9 +87,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// 1: netflix selecting different content for your profile based on what you have watched
+// 2: amazon prime using purchase history for targeted ads and product deals
+// 3: twitter for you section with focused stories and mentions based on your follows and history
 
 
 //-------------------
@@ -111,7 +111,14 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
-
+//This line below is stating they can call an uber if they have greater than or equal to 15% battery
+if (percentBatteryLeft >= 15) {
+  console.log('Can call uber');
+}
+// This next line will determine you can also call an uber if you both have a charger and it is a car charger
+else if (hasCharger && charger type) {
+  console.log('Can call uber');
+}
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,
