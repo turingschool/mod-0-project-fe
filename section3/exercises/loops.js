@@ -28,15 +28,11 @@ for (var i = 0; i < 3; i++) {
 
 //the index variable is 0 and for every time the loop runs as long as the i variable is less than 3 it will print the value of i.  Each pass it incrementally adds 1 to the index variable.  Once it hits 3 (becasue it it no longer less than 3) it will stop running the log.
 
-
-
- // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
+// YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 
 for (var i = 0; i < 7; i++) {
   console.log(2+2);
 }
-
 
 //this also works
 var sum = (2+2);
@@ -52,7 +48,6 @@ for (var i = 0; i < 7; i++) {
    console.log("She sells seashells down by the seashore");
  }
 
-
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
@@ -62,8 +57,6 @@ for (var i = 0; i < 7; i++) {
 for (var i = 1; i <= 17; i++) {
   console.log("This is loop number: " + i);
 }
-
-
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 for (var i = 10; i > 0; i--) {

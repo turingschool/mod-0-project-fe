@@ -28,6 +28,11 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
+
+//not sure if this is what is asking us to do.  The current array has 3 items; index postions 0, 1, and 2.
+//Reassign the last item?  Does this mean take off "elephant" from the array adn reassign it a new value? (like with or unshift method)
+//or just append the array by adding (push) in a new item
+//thus reassigning the last position (which would then have an index value of 3)??
 animals.push("Gorilla");
 console.log(animals);
 
@@ -112,7 +117,7 @@ if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 14;
+var percentBatteryLeft = 21;
 var hasCharger = true;
 var chargerType = "car";
 

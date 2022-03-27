@@ -60,7 +60,6 @@ for (var i = 2; i < names.length; i++){
 
 // WORD FROM THE WISE: Before you start coding, jot down, with pen and paper, what steps you
 // want to tell the program to take. Think of all the concepts you've learned so far.
-
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
