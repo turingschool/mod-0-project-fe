@@ -24,8 +24,9 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-/* this will log the String "My zoo has 7 unicorns!", because we have assigned
-our variables as numberOfCreatures and creatures. In addition, this is a type
+/* this will log the String "My zoo has 7 unicorns!", because we have delcared
+our variables as numberOfCreatures and creatures and their assigned values being 7
+and unicorns respectively. In addition, this is a type
 of coercion, where JavaScript is trying to help us convert the Number into a
 String so we can combine them.*/
 
