@@ -32,10 +32,14 @@ console.log(animals.length);
 // array to "Gorilla"
 
 animals[2] = 'Gorilla';
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
 animals.push('Rabbit');
+console.log(animals);
+//This should log the result ['zebra', 'Giraffe', 'Gorilla', 'Rabbit']
+//'rabbit' being in index postion 3
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
