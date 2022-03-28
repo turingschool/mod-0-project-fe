@@ -44,7 +44,7 @@ console.log(animals);
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
 animals.push('Elephant');
-console.log(animals);
+console.log(animals[4]);
 
 //-------------------
 // PART 2: Foods: Array Methods
