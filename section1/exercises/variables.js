@@ -30,9 +30,9 @@ console.log(harryMustNot);
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
-var firstName = "Anthony"
-var isHungry = "I'm hungry"
-var numberOfPets = 1
+var firstName = "Anthony";
+var isHungry = "I'm hungry";
+var numberOfPets = 1;
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
@@ -43,9 +43,9 @@ console.log("It seems that firstName and isHungry are string types, so that's wh
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "Tony"
-var isHungry = "stomach growling noises"
-var numberOfPets = 3
+var firstName = "Tony";
+var isHungry = "stomach growling noises";
+var numberOfPets = 3;
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -55,11 +55,11 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-console.log(healthySnacks + junkFoodSnacks)
+console.log(healthySnacks + junkFoodSnacks);
 //-------------------
 // FINAL CHECK
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
-console.log("Yes, I did.")
+console.log("Yes, I did.");

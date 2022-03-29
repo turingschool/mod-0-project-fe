@@ -19,7 +19,7 @@ console.log(`The ${team} are ${name}'s favorite Quidditch team.`);
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
+console.log(`My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
@@ -41,17 +41,17 @@ console.log(`The ${speedy} jumped over the ${slowPoke}`)
 var slowPoke = "tortoise";
 var speedy = "hare";
 
-console.log(`In a predicable result, the ${slowPoke} beat the ${speedy}!`)
+console.log(`In a predicable result, the ${slowPoke} beat the ${speedy}!`);
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
-var timing = "Never"
-var action = "give"
-var aspirations = "dreams"
+var timing = "Never";
+var action = "give";
+var aspirations = "dreams";
 
-console.log(`${timing} ${action} up on your ${aspirations}!`)
+console.log(`${timing} ${action} up on your ${aspirations}!`);
 
 //-------------------
 // FINAL CHECK
@@ -59,4 +59,4 @@ console.log(`${timing} ${action} up on your ${aspirations}!`)
 
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
-console.log("Yes, I did :)")
+console.log("Yes, I did.");

@@ -19,7 +19,7 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
@@ -42,18 +42,18 @@ console.log("The " + speedy + "jumped over the " + slowPoke);
 var slowPoke = "tortoise";
 var speedy = "hare";
 
-console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!")
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-var protag = "Luffy"
-var royalty = "king"
-var sailors = "pirates"
+var protagonist = "Luffy";
+var royalty = "king";
+var sailors = "pirates";
 
-console.log(protag + " will become " + royalty + " of the " + sailors + "!")
+console.log(protagonist + " will become " + royalty + " of the " + sailors + "!");
 
 //-------------------
 // FINAL CHECK
@@ -62,4 +62,4 @@ console.log(protag + " will become " + royalty + " of the " + sailors + "!")
 // Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
 
-console.log("Yes, I did")
+console.log("Yes, I did");
