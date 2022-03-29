@@ -37,8 +37,8 @@ for (var i = 0; i < foods.length; i++) {
 // of each of the number. (Ex: 4 doubled is 8.)
 var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
-for (var i = 0; i < numbers.length; i+=2){
-  console.log(i)
+for (var i = 0; i < numbers.length; i+=2) {
+  console.log(i);
 }
 
 
@@ -46,7 +46,7 @@ for (var i = 0; i < numbers.length; i+=2){
 // each name except the first two.
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
-for (var i = 2 ; i < names.length; i++){
+for (var i = 2 ; i < names.length; i++) {
   console.log("Happy Birthday " + names[i]);
 }
 
@@ -62,26 +62,10 @@ for (var i = 2 ; i < names.length; i++){
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 
-for (var i = 0; i < ages.length; i++){
-  if (ages[i] == 10) {
-    console.log("Go outside and play with your friends")
-  } else if (ages[i] == 16) {
-    console.log("Drive carefully")
-  } else if (ages[i] == 17) {
-    console.log("Enjoy your youth")
-  } else if (ages[i] == 18) {
-    console.log("Don't forget to vote")
-  } else if (ages[i] == 20) {
-    console.log("Have fun, be safe")
-  } else if (ages[i] == 22) {
-    console.log("Explore the world")
-  } else if (ages[i] == 34) {
-    console.log("Slow dow a bit and take care of yourself")
-  } else if (ages[i] == 49) {
-    console.log("Brush, floss, get good sleep")
-  } else if (ages[i] == 65) {
-    console.log("Enjoy retirement ... if you're lucky")
+for (var i = 0; i < ages.length; i++) {
+  if (ages[i] < 18) {
+    console.log("Age: " + ages[i] + " -" + " Oh no, you can't vote quite yet.");
   } else {
-    console.log("How old are you, anyway?")
+    console.log("Age: " + ages[i] + " -" + " Make sure you get out and vote!");
   }
 }
