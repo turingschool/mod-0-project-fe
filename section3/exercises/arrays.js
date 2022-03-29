@@ -125,15 +125,15 @@ if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 11;
+var percentBatteryLeft = 12;
 var hasCharger = true;
-var chargerType = "house";
+var chargerType = "car";
 
 // Write your conditional here
 
 /*block of code executes if percentBatteryLeft is greater than or equal to 15
 or if the user hasCharger evaluates to true and the chargerType is a car charger*/
-if (((percentBatteryLeft >= 15)) || ((hasCharger === true) && (chargerType === 'car')))
+if ((percentBatteryLeft >= 15) || (hasCharger === true) && (chargerType === 'car'))
 {console.log('can call an uber');}
 /*block of code executes if percentBatteryLeft is less than 15 or the user hasCharger
 evaulates to false or if the user hasCharger evaulates to true but the chargerType
