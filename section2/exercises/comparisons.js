@@ -120,7 +120,7 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age)
+console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 // The final line of code evaluated to 1. This is because the variable age did not contain a boolean value, but rather a numerical value.
@@ -130,4 +130,4 @@ console.log(lovesToPlay && age)
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
-// Yes
+console.log("Yes, I did.") 
