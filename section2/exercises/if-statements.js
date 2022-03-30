@@ -29,12 +29,12 @@ if (weather === 'sunny') {
   console.log('yak traks');
 } else {
   console.log('good to go!');
-}
+};
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
@@ -43,7 +43,15 @@ Log to the console the appropriate age range
 
 var dogAge = 3;
 // Write your conditional here
-
+if (dogAge <= 2) {
+  console.log('puppy');
+} else if (dogAge === 3) {
+  console.log('adult');
+} else if (dogAge >= 10) {
+  console.log('elderly');
+} else {
+  console.log("They might be cats!")
+}
 
 /*
 YOU DO:
@@ -89,7 +97,7 @@ var hasSauce = true;
 
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
