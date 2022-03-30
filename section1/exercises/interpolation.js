@@ -49,12 +49,12 @@ console.log(speedySlow);
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 
-var emotion = "hard";
-var notHere = "gone";
-var ifNotHere = "you're on your own"
-var onYourOwn = `You know it's ${emotion} when you're ${notHere} but ${ifNotHere}`;
+var num = 4;
+var place = "states";
+var years = 10;
+var addressHistory = `I have lived in ${num} ${place} in the last ${years} years.`
 
-console.log(onYourOwn);
+console.log(addressHistory);
 
 
 //-------------------

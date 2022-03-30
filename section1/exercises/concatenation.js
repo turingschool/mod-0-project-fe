@@ -23,10 +23,10 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-
-/*Answer: String data type will be logged to the console.
-While several variables were declared, when the variables are combined in the console log, the final result is a string due to being wrapped in quotes.
-*/
+/* Expected output: string data type.
+When stringing together concatenations, Javascript uses type coercion to execute
+the entire console log message as a string data type, regardless of each
+concatenations' assigned data type.*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -34,7 +34,7 @@ While several variables were declared, when the variables are combined in the co
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The " + speedy + " jumped over the" + " " + slowPoke)
+console.log("The " + speedy + " jumped over the " + slowPoke)
 
 
 // YOU DO:

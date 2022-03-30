@@ -31,8 +31,11 @@ console.log(noReturn);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 
+//String data type selected for variable firstName because the variable's value is a set of characters.
 var firstName = "Stephanie";
+//Boolean data type selected for variable isHungry because the variable's value is either true/false.
 var isHungry = false;
+//Number data type selected for variable numberOfPets because the variable's value is a number.
 var numberOfPets = 1;
 console.log(firstName);
 console.log(isHungry);
@@ -41,17 +44,15 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-//string was chosen because the keyword called for a name value. A name is a set of characters and a string is used to store characters together. I defined the value as Stephanie because that is my name.
-//Boolean was chosen because the keyword called for a true/false value. A boolean data type is used to store a true/false value. I defined the value as false because I am not hungry.
-//Number was chosen because the keyword called for a number value. A number data type is used to store number values. I defined the value as 1 since that is how many pets I have.
+// *See code annotations above declared variables.
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "Pedro";
-var isHungry = true;
-var numberOfPets = 25;
+firstName = "Pedro";
+isHungry = true;
+numberOfPets = 25;
 
 console.log(firstName);
 console.log(isHungry);
@@ -62,8 +63,6 @@ console.log(numberOfPets);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 console.log(healthySnacks + junkFoodSnacks);
-
-
 
 //-------------------
 // FINAL CHECK
