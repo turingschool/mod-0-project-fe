@@ -22,7 +22,9 @@ For a single line comment, use `// before each line`
 
 For a multi-line comment, use `/* comment goes here */`
 
-The purpose of code comments are to include any useful information, or relevant notes that you would like to keep only in the working file and not be logged.
+The purpose of code comments are to include any useful information, or relevant notes that you would like to keep only in the working file and not be logged. They can be helpful for explaining
+what your lines of code are doing, are asking a question if you are looking in another persons
+code.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
 

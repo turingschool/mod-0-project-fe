@@ -25,8 +25,8 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // Your answer and explanation here:
 // This will run the following: 'My zoo has 7 unicorns!' which is a string.
 // The first variable (numberOfCreatures) is a numeric value and the second (creatures)
-// is a string. When they are logged, javascript will
-// convert the numeric data to a string so that they can be combined together.
+// is a string. When they are logged together, javascript will
+// convert the numeric data to a string so that they can be combined.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -53,9 +53,9 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
 
 var dreamVacation = "Japan";
 var timeOfYear = "Spring";
-var daysSpent = 10;
+var length = 10;
 
-console.log("Next " + timeOfYear + " I would love to travel to " + dreamVacation + " for atleast " + daysSpent + " days!");
+console.log("Next " + timeOfYear + " I would love to travel to " + dreamVacation + " for atleast " + length + " days!");
 
 
 //-------------------

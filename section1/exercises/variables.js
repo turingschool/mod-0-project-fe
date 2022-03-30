@@ -30,13 +30,9 @@ console.log(string);
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
-var firstName;
-var isHungry;
-var numberOfPets;
-
-firstName = 'Abby';
-isHungry = true;
-numberOfPets = 1;
+var firstName = 'Abby';
+var isHungry = true;
+var numberOfPets = 1;
 
 console.log(firstName);
 console.log(isHungry);
@@ -44,11 +40,10 @@ console.log(numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
-  // The first variable (firstName) is a string. The quotes are important here in case your
-  // data changes to multiple words, ex: 'Mary Kay'
-  // The second (isHungry) is a true/false question and so the data must reflect that it is
-  // either true or false, also called a boolean.
-  // The third (numberOfPets) is a numeric data type and can be assigned any number.
+  // The first variable (firstName) is a string because it can be any word or phrase.
+  // The second (isHungry) is a true/false question, otherwise called a Boolean, and so the variable
+  // must be assigned either as true or false.
+  // The third (numberOfPets) is a numeric data type because it is asking for a number.
 
 
 // YOU DO:
