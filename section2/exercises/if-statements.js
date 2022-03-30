@@ -91,10 +91,10 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 */
 
 var cupsOfFlour = 3;
-var hasSauce = true;
+var hasSauce = false;
 
 // Write your conditional here
-if ((cupsOfFlour >= 2) && (hasSauce === true))
+if (cupsOfFlour >= 2 && hasSauce === true)
 {console.log('I can make pizza');}
 else {console.log('I cannot make pizza')}
 
