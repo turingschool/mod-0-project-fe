@@ -116,23 +116,19 @@ var hasCharger = true;
 var chargerType = "tv";
 
 // Write your conditional here
-//I chose to start with the 15% battery left condition because when mapping out the workflow for the conditionals,
-//the 15% condition was the most straightforward scenario that can lead to true if answered yes.
-//I started my condition with the IF statement because that is the order in which to start.
+//If statement "percentBatteryLeft is greater than or equal to 15" checks whether condition is true.
 if(percentBatteryLeft >= 15) {
-//If the user has 15% battery left or more (conditon is met), the console will log the message "You can call an Uber!"
-//If the user does not have 15% battery left (condition is not met), then the code will not run and will move to the following line.
+//If true, the expected output is: "You can call an Uber!"
   console.log("You can call an Uber!");
-//If the first condition isn't met, the code on this line will check whether this ELSE IF statement is true.
-//This statement also corresponds to the second branch of my conditionals workflow:
-//If the user does not have 15% battery left, does the user have a charger and is that charger a car charger?
+/*If false, script continues. Else if statement that utilizes logical AND operators "percentBatteryLeft
+is less than 15,and hasCharger strictly equals true, and chargerType strictly equals car" checks whether
+condition is true.*/
 } else if(percentBatteryLeft < 15 && hasCharger === true && chargerType === "car") {
-//If the condition is met (returns as true), then the console will log the message, "You can call an Uber!"
+//If true, the expected output is: "You can call an Uber!"
   console.log("You can call an Uber!");
-//If the above condition is not met (returns as false), then the final ELSE statement will run to capture the final scenario:
-//The user does not have any of the following: 15% battery left, charger, charger that is a car charger.
+//If false, script continues and else if statement is run for remaining input values.
 } else {
-//The console will log the message, "Sorry, you can't call an Uber right now."
+//Expected output: "Sorry you can't call an Uber right now."
   console.log("Sorry, you can't call an Uber right now.");
 }
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
