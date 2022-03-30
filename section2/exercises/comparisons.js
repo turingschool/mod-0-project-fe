@@ -85,20 +85,20 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 console.log(4 < 9);
 //YOU DO: Explain.
 //This line of code is comparing two numeric data values (4 and 9) with the comparison operator '<' meaning less than.
-//Overall it is asking if 4 is less than 9, which would log as true.
+//It is asking if 4 is less than 9, which would log as true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
 // The variable named 'books' was assigned a value of 3. The second line of code asks if 4 is less than the
-// variable 'books' which we know has a value of 3. This would therefore log as false.
+// variable 'books' which we know has a numeric value of 3. This would therefore log as false.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
 // The variable named 'friends' was assigned a numeric value of 6, the variable
-// 'siblings' was assigned 2. The third line asks if 6 is greater than 2, which is true.
+// 'siblings' was assigned 2. Plugging in the data, the third line asks if 6 is greater than 2, which is true.
 
 var attendees = 9;
 var meals = 8;
@@ -106,7 +106,7 @@ console.log(attendees !== meals);
 // YOU DO: Explain.
 // The variable named 'attendees' has a numeric assignment of 9, meals is 8.
 // The third line uses the comparison operator '!==' which means "not equal to"
-// so 9 does not equal 8, which is true.
+// so it reads 9 does not equal 8, which logs as true.
 
 //-------------------
 // PART 3: Logical Operators

@@ -42,7 +42,7 @@ Questions
 This section starts with  an 'If...Else' statement which is checking the condition of the variable,
 'doorChoice'. Line 15 states that if the doorChoice is exactly equal to 1, then the variable, 'bearClothing' will equal 'hat'.
 The else statement in line 16 says that if the doorChoice is anything other than 1, it will skip line 15 of code and instead
-run line 17: 'bearClothing' will be 'scarf'.
+run line 17: 'bearClothing' will be assigned the value, 'scarf'.
 
 2. What variable has a new value assigned to it after the first if statement executes?
 
@@ -54,7 +54,7 @@ bearClothing
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
-This block of code shows a series of else if statements with multiple conditions. Only one section of this code will run
+This block of code shows a series of 'else if' statements with multiple conditions. Only one section of this code will run
 and is determined by the value of the variable, 'bearChoice'.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
