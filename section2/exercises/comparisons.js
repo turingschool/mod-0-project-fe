@@ -80,39 +80,35 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//The code is evaluating whether 4 is less than 9. In this line of code, 4 and 9 are both treated as number data types.
-//The presence of < also indicates we are looking at a comparison operation.
-//Therefore when the console log is run, it will run whether the number 4 IS less than the number 9.
-//This operation will return a TRUE boolean result because 4 is less than 9.
+//The comparison is evaluating whether the Number of 4 is less than the Number of 9.
+//Expected output: true
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-//The variable books is given a number data type and value of 3.
-//This is also another comparison operation with the presence of <
-//The console log is comparing whether the number 4 is less than(<) the variable books(3).
-//With this information, we can conclude that the console log will determine whether "4 < 3".
-//When run, it will return a FALSE boolean result because the number 4 is not less than the number 3.
+/* The comparison is evaluating whether Number of 4 is less than the declared variable books which is
+assigned to the Number of 3.
+Expected output: false
+*/
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-//The variables friends and siblings are both assigned number data types with values of 6(friends) and 2(siblings)
-//The presence of > also tells us this is a comparison operation
-//The console log is comparing whether friends(6) is greater than (>) siblings(2)
-//With this information, we can conclude that the console log will determine whether 6 > 2
-//When run, it will return a TRUE boolean result because the number 6 is greather than the number 2.
+/* The comparison is evaluating whether the declared variable friends assigned to the Number of 6 is
+greater than the declared variable siblings assigned to the Number of 2.
+Expected output: true
+*/
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-//The variables attendees and meals are both assigned number data tpes with values of 9(attendees) and 8(meals)
-//The presence of !== tells us that this is a comparison operation
-//The console log is then determining whether attendees(9) is not equal(!==) to meals(8)
-//With this information we can conclude that the console log is actually running whether 9 !== 8
-//When run, it witll return a TRUE boolean result because 9 does not equal 8.
+/* The comparison is evaluating whether the declared variable attendees assigned to the Number of 9
+is not equal to the declared variale meals assigned to the Number of 8.
+Expected output: true
+*/
+
 
 //-------------------
 // PART 3: Logical Operators
@@ -147,12 +143,11 @@ console.log("The dog loves to play and is a puppy", lovesToPlay && age <= 1);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
-//TRUE
-//As written, we have not defined key pieces of information for the computer to run the operation as intended.
-//Specifically, we have not defined what a puppy is or how old a puppy is.
-//Therefore, the computer also does not know this information and cannot run the operation.
-//For the sake of this example, I used the age variable we already defined and then defined a puppy as 'age <= 1' in order to run the operation.
-//I chose to move forward with this example in order to produce a viable result.
+//Output: The dog loves to play and is a puppy true
+/*As written, we have not defined for the computer what a puppy is nor how old a puppy is,
+information needed to execute the code.
+I defined a puppy as  'age <= 1' in the console log and then executed the code.
+*/
 
 //-------------------
 // FINAL CHECK

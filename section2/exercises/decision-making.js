@@ -38,10 +38,10 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-The user is presented with two options on line 12: door 1 or 2. Line 14 begins the if conditional statement.
-If the user chooses door 1, the if statement on line 14 executes as true and the bearClothing variable for hat executes.
-If the user does not choose door 1, if statement on line 14 executes as false.
-The computer then runs the else statement on line 16 which executes as true and the bearClothing variable for scarf executes
+If doorChoice variable strictly equals a value of 1, the statement is true and bearClothing
+String variable "hat" will return.
+If false, doorChoice variable equals a value other than 1, bearClothing String variable
+"scarf" will return.
 
 2. What variable has a new value assigned to it after the first if statement executes?
 bearClothing
@@ -50,10 +50,13 @@ bearClothing
 Changing the variable value doorChoice on line 8 results in the bearClothing value executing as scarf.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-If the user selects bearChoice 1, the if statement on line 28 executes as true and is displayed to the user.
-If the user selects bearChoice 2, the else if statement on line 30 executes as true and is displayed to the user.
-If the user selects bearChoice 3, the else is statement on line 32 executies as true and is displayed to the user.
-If the user does not select bearChoice 1, 2, or 3, the else statement on line 34 executes as true and is displayed to the user.
+- If bearChoice variable strictly equals the Number 1, the statement is true and the console will log the
+if message.
+- If false, the code continues on the next line and checks whether bearChoice variable strictly equals
+the Number 2. If the statement is true, the console will log the else if message.
+- If false, the code continues on the next line and checks whether bearChoice variable strictly equals
+the Number 3. If the statement is true, the console will log the corresponding else if message.
+- If false, the else statement executes as true for the remaining values and the console logs the else message.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 You stay with the bear and become its best friend!
