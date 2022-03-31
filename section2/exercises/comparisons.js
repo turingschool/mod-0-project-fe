@@ -24,9 +24,11 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -36,6 +38,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -49,19 +52,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers != numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents greater than or equal to 20?", numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-
+console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 20?", numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-
+console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21);
 
 //-------------------
 // PART 2: Articulating what you are doing
@@ -74,21 +77,28 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 console.log(4 < 9);
 //YOU DO: Explain.
+console.log("This line of code is comparing the value of 4 to the value of 9. It is asking if the result of this will be true or false using a bulleon data type. It is asking if the result of the statement that four as an integer being less than nine in value is true or false. Because the value of the integer 4 is less than 9, the result will be true.");
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+console.log("This line of code is comparing the value of the variable defined as books, which is 3 in this case, to the integer 4. Specifically, it is asking if the result of the statemen that 4 is less than 3 will be true or false. The result will be false, because 4 is not less than 3 represented as the variable books in this case. In other words, 4 is not less than books.");
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+console.log("This line of code is first defining the variables friends and siblings as 6 and 2 integers, respectively.");
+console.log("The log is stating that the variable friends is greater than the variable siblings, which is translated as six being greater than two.");
+console.log("The result of this line of code will be true, because the integer six is greater than the integer two.");
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+console.log("This line of code defines the variables attendees and meals as the integers nine and eight, respectively.");
+console.log("The code log is making the statement that nine is not equal to eight.");
+console.log("The result of this code will be true, because the value of 9 does not equal 8. In other words, attendess do not equal meals in this case.");
 
 //-------------------
 // PART 3: Logical Operators
@@ -110,18 +120,21 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+console.log("My final line of code evaluated to the integer 1.")
+console.log("I think this is the case, because the variable lovesToPlay is defined as true and the variable age is defined as 1. Written in this code line, the code indicates that true and 1  are both true in this case, meaning the true value is one.")
 
 //-------------------
 // FINAL CHECK
