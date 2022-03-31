@@ -31,7 +31,7 @@ console.log(string)
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Tom"
-var isHungry = 2 === 2
+var isHungry = true
 var numberOfPets = 2
 console.log(firstName)
 console.log(isHungry)
@@ -49,7 +49,7 @@ console.log(numberOfPets)
   // values (but same data type).
 // log all three variables to the console.
 var firstName = "Thomas"
-var isHungry = 2 != 2
+var isHungry = false
 var numberOfPets = 3
 console.log(firstName)
 console.log(isHungry)
