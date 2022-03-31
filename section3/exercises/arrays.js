@@ -130,6 +130,9 @@ if (percentBatteryLeft >= 15) {
 } else if (chargerType === "car" && hasCharger === true) {
 // If the user has a charger, AND it is a car charger, this line will print.
   console.log("Charge your phone and then call an Uber");
+// This final line will only print if neither of the above statements are true.
+} else {
+  console.log("You cannot call an Uber using your cellphone")
 }
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
