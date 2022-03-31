@@ -23,7 +23,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-/* The console will log a string as a result of type coercion.  It is combining
+/* The console will log a string as a result of the concatenation.  It is combining
 the number (numberOfCreatures) with the string (creatures). The quotations around
 the blank space insert a space between the "7" and the "unicorns" in the output. */
 
