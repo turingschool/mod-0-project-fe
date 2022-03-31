@@ -93,12 +93,12 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
-- What days are you going to work?
-- What times on those days are you going to work?
-- Where you going to be sitting/standing as you do this?
-- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
-- Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
-- What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+- What days are you going to work? i intend to spend 6 days a week leading up to the start of mod1 practicing coding.  I will be continuing with my job until April 22nd which will allow me to continue simulating full work weeks while coding at night. 
+- What times on those days are you going to work? I plan on doing this each night after dinner while I am still working, and then spending significantly more time both day and night practicing in the two weeks leading up to the officical start of Mod1.
+- Where you going to be sitting/standing as you do this? I have set up an office in a spare bedroom in our basement.  THis will serve as my workplace for the duration of my time in Turing
+- Where are you documenting this plan? Google Calendar, calendar on your wall, your journal? I plan to stick with Google Calendar for the time being, it was what I have used so far in Mod 0 and I dont currently see a reason to change it.  I am definitely looking for better alternatives 
+- Do any stakeholders in your life know about this plan? Yes the key stakeholders in my life are aware of my plan and they are fully on board in supporting me.
+- What personal items/events are important to you during this time? How are you going to make sure those are not neglected? The most important thing to me during my time in school will be time spent with my family.  I have a baby boy at home and most all time I am not spending in class or studying will be spent with him and my wife.  We have an incredible support system with our family all living in town, full time daycare, and plenty of friends to help if we are in need of anything.
 
 ### Extensions
 
