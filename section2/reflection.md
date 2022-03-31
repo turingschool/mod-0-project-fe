@@ -27,7 +27,7 @@ if (variable === x) {
   console.log("These will be printed");
 }
 ```
-In the above example, the program will first check if the `variable` is equal to x. If it is, it will print the first result.  If it does not equal x, it will move on to the next line.  If the `variable` is equal to y, it will print the second result.  If neither of the first two if statements are true, it will move to the third and final result and print it because I have not set a specific condition for that result.  So if the `variable` is anything besides x or y, it will print the third result.
+In the above example, the program will first check if the `variable` is equal to x. If it is, it will print the first result.  If it does not equal x, it will move on to the next line.  If the `variable` is equal to y, it will print the second result.  If neither of the first two `if` statements are true, it will move to the third and final result and print it because I have not set a specific condition for that result.  So if the `variable` is anything besides x or y, it will print the third result.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
