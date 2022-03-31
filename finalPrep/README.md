@@ -92,7 +92,7 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 
 What is your plan and how are you going to hold yourself to it? Specifically...
 
-- What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+- What are you going to work on? I intend on revisiting all Session notes and homework examples from Mod 0, I also intend to work through all lessions on the mod1 prework that are included in the link.  I understand the importance of practicing here as I can already start to see some of my work and muscle memory pay off. [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
 - What days are you going to work? i intend to spend 6 days a week leading up to the start of mod1 practicing coding.  I will be continuing with my job until April 22nd which will allow me to continue simulating full work weeks while coding at night. 
 - What times on those days are you going to work? I plan on doing this each night after dinner while I am still working, and then spending significantly more time both day and night practicing in the two weeks leading up to the officical start of Mod1.
 - Where you going to be sitting/standing as you do this? I have set up an office in a spare bedroom in our basement.  THis will serve as my workplace for the duration of my time in Turing
