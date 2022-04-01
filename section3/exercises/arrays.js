@@ -24,43 +24,52 @@ console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
-
+console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-
+animals.pop();
+animals.push("Gorilla");
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-
+animals.push("Sloth");
+console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-
+animals.unshift("Elephant");
+console.log(animals);
+console.log(animals[0]);
 
 //-------------------
 // PART 2: Foods: Array Methods
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-
-
+var foods = ["pizza", "brownies", "naan", "grapefruit"];
+console.log(foods);
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
-
+console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-
+foods.push("broccoli");
+console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
+foods.pop();
+console.log(foods);
 
-
-// YOU DO: Write code to add 3 new foods to the array. 
+// YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-
+foods.unshift("donuts", "cheeseballs", "pecans");
+console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
-
+foods.shift();
+console.log(foods);
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
@@ -75,16 +84,17 @@ or, array.
 
 The post itself likely has more complex data, but here's one way we can think about it:
 */
-
+//
 var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 // YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
-// may be storing data? Come up with 3 examples - they could be from different web applications or 
+// may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// Target Website:
+// 1. var departmentsToShop = ["clothing", "cosmetics", "toys", "sporting goods"];
+// 2. var clothingDepartments = ["kids", "mens", "womens", "juniors"];
+// 3. var sizesOfWomensClothing = ["xsmall", "small", "medium", "large"];
 
 
 //-------------------
@@ -96,7 +106,7 @@ YOU DO:
 Using the variables defined below, write a program that will tell a user if they
 will be able to call an Uber.
 
-The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter 
+The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter
 if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
@@ -105,7 +115,28 @@ var percentBatteryLeft = 12;
 var hasCharger = true;
 var chargerType = "car";
 
-// Write your conditional here
+if (percentBatteryLeft >= 15) {
+  //here I am establishing the conditional with an if-statement for the user's battery life
+  //percentage as a variable identified as percentBatteryLeft (valued above) as needing to be at
+  //or above the value 15 in order to receive the below response from the program
+  //by using the comparison operator that symbolizes "greater than or equal to"
+  console.log("Woohoo! You can call an Uber!🤠 ");
+  //here, I am using a string to indicate that the user CAN call an uber, if the
+  //above conditional statement computes as true or correct, meaning that if the
+  //if-statement reads as true from what is established by the variables value,
+  //the user will see this response
+} else if (percentBatteryLeft < 15) {
+  //here I am using an else if conditional to provide a response if the value of
+  //the variable reads as false from the first conditional
+  //if false, the print will read to the user an alternative response
+  //which is determined true or false based on the above conditional
+  //here, I used the less than comparison operator, because if the amount is equal
+  //to the required 15%, the user should see the true response, not this one below
+  console.log("Bummer! Uber is only available with a battery life of 15% or more!🥺 ");
+  //which will be seen here on the print that the user will see, indicating That
+  //the user can NOT call an Uber based on the current battery percentage, which
+  //is indicated by a variable that is less than 15%
+}
 
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
