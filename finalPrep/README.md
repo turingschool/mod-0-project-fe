@@ -23,9 +23,9 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
@@ -45,6 +45,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+- <img width="1691" alt="Screen Shot 2022-04-01 at 12 03 00 PM" src="https://user-images.githubusercontent.com/101140241/161318479-1fb24f0f-1db3-492f-bb26-476cad71f03d.png">
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
