@@ -25,8 +25,9 @@ console.log(animals[0]);
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
 
-console.log(animals.length);
 //This should log the result of 3
+console.log(animals.length);
+
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
@@ -37,9 +38,8 @@ console.log(animals);
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
 animals.push('Rabbit');
-console.log(animals);
 //This should log the result ['zebra', 'Giraffe', 'Gorilla', 'Rabbit']
-//'rabbit' being in index postion 3
+console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
@@ -62,9 +62,9 @@ console.log(foods.length);
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
 
-foods.unshift('broccoli');
 /*this line of code calls the unshift method on the food array to add broccoli into
 index postion 0*/
+foods.unshift('broccoli');
 console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and

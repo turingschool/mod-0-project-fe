@@ -46,7 +46,7 @@ for (var i = 0; i < 10; i++) {console.log('She sells seashells down by the seash
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 
-for (var i = 0; i < 5; i++) {console.log('This is loop number:', i);}
+for (var i = 0; i < 5; i++) {console.log('This is loop number: ' + i);}
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 
@@ -70,4 +70,4 @@ for (var i = 10; i >= 1; i--) {console.log(i);}
 through the Loops*/
 // i is declared and assigned to the Number of 10
 // the condition is that if 1 is greater than or equal to 1 the statement will execute
-// i decreases in increments of 1 when an iteration is run 
+// i decreases in increments of 1 when an iteration is run
