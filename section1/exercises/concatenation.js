@@ -53,7 +53,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
 var catName = "Butter";
 var dogNames = ["Kina", "Gambit"];
 var petsOwned = 3;
-console.log("I have " + petsOwned + " pets named " + catName + "," + " " + dogNames[0] + "," + " and" + " " + dogNames[1])
+console.log("I have " + petsOwned + " pets named " + catName + "," + " " + dogNames[0] + "," + " and " + dogNames[1])
 
 //-------------------
 // FINAL CHECK

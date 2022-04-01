@@ -25,9 +25,9 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // Your answer and explanation here:
 
 /* this will log the String "My zoo has 7 unicorns!". This is similar to the
-example in the concatenation example just with different syntax we still
-have assigned our variables as numberOfCreatures and creatures.
-In addition, this is a type of coercion, where JavaScript is trying to help us convert the Number into a
+example in the concatenation exercise just with different syntax. We still
+have our declard variables as numberOfCreatures and creatures.
+In addition, this is a type coercion, where JavaScript is trying to help us convert the Number into a
 String so we can combine them.*/
 
 // YOU DO:
