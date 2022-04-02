@@ -30,7 +30,7 @@ counts to 3, the result is "0 1 2". */
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 for (var i = 0; i < 7; i++) {
-  console.log(2 + 2)
+  console.log(2 + 2);
 }
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
