@@ -44,7 +44,7 @@ for (var i = 0; i < 7; i++) {
 
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
-for (var i = 2; i >= 0; i--) {
+for (var i = 3; i >= 0; i--) {
   console.log("This is loop number " + [i] );
 }
 
