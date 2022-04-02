@@ -22,7 +22,7 @@ var weather = 'rainy';
 if (weather === 'sunny') {
   console.log('sunscreen');
 } else if (weather === 'rainy') {
-  console.log('umbrella');
+  console.log('Umbrella');
 } else if (weather === 'snowy') {
   console.log('coat');
 } else if (weather === 'icy') {
