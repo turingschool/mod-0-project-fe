@@ -19,7 +19,7 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here: I believe that this would be an example of a string data type
@@ -31,16 +31,16 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log("The " + speedy + " jumped over " + slowPoke)
+console.log("The " + speedy + " jumped over " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "In a predictable result, the tortoise beat the hare!"
 // Note that we are omitting the var keyword below, because we are re-assigning the variables
 
-slowPoke = "tortoise";
-speedy = "hare";
-console.log("In a predictable result, the " + slowPoke + " beat the " + hare + "!")
+var slowPoke = "tortoise";
+var speedy = "hare";
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -49,7 +49,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + hare + "
 var pups = "three little dogs"
 var action = "went swimming"
 var timeDay = "an hour after dinner"
-console.log("Yesterday while camping, the" + pups + "all" + action + "roughly" + timeDay + ".")
+console.log("Yesterday while camping, the " + pups + " all" + action + "roughly " + timeDay + ".");
 
 //-------------------
 // FINAL CHECK
