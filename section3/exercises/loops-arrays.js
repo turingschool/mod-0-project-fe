@@ -21,7 +21,7 @@ for (var i = 0; i < animals.length; i++) {
 var animals = ["Lion", "Hyena", "Cheetah"];
 
 for (var i = 0; i < animals.length; i++) {
-  console.log(`The ${animals[i]} is awesome!`)
+  console.log(`The ${animals[i]} is awesome!`);
 }
 
 
@@ -36,8 +36,9 @@ for (var i = 0; i < foods.length; i ++) {
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
 var myNumbers =  [2, 4, 6, 8, 10, 12];
+
 for (var i = 0; i < 6; i++) {
-  console.log(myNumbers[i]*2);
+  console.log(myNumbers[i] * 2);
 }
 
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
