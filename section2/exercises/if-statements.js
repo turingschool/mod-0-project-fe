@@ -109,5 +109,5 @@ Did yours? Do you know what a logical operator in JavaScript is? Google it to an
 for yourself!
 
 Yes, I chose to use the logical and (&&) operator. Logical operators use boolean
-logic to help JS programs make decisions and run specified tasks based.
+logic to help JS programs make decisions and run specified tasks.
 */
