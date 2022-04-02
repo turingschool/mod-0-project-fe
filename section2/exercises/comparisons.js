@@ -127,15 +127,14 @@ console.log(lovesToPlay || lovesDogPark);
 // Determine if the dog loves to play and is a puppy
 var age = 1;
 var underOne = "puppy";
-var result = underOne < age;
-console.log(lovesToPlay && result);
+
+console.log(lovesToPlay && (underOne = true));
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: I think you need to determine what equals a puppy. I think it should evaluate to false.
-  // I think it will evaluate this way because lovesToPlay is true but result may be false so the overall answer is false. 
+// ANSWER: My final line of code evaluated to true. I think it did this because I used the logical operator && and said the variable underOne was true.
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect?
+// as you would expect? I did. I went through and cahnged the last question because I think I made it more complicated than it needed to be.

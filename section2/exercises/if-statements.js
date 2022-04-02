@@ -41,17 +41,15 @@ Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
 
-var dogAge = 3;
+var dogAge = 2;
 // Write your conditional here
 if (dogAge <= 2) {
   console.log('puppy');
-} else if (dogAge === 3) {
-  console.log('adult');
 } else if (dogAge >= 10) {
   console.log('elderly');
 } else {
-  console.log("They might be cats!")
-}
+  console.log('adult')
+};
 
 /*
 YOU DO:
@@ -73,9 +71,15 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
+
 console.log("I have enough money for a gumball");
 console.log("I don't have enough money for a gumball");
 
+if (numQuarters <= 1) {
+  console.log("I don't have enough money for a gumball");
+} else if (numQuarters >= 2) {
+  console.log("I have enough money for a gumball");
+};
 
 /*
 YOU DO:
@@ -90,15 +94,22 @@ When cupsOfFlour = 2 and hasSauce = true, your program should log "I can make pi
 When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pizza";
 */
 
-var cupsOfFlour = 1;
+var cupsOfFlour = 2;
 var hasSauce = true;
 
 // Write your conditional here
-
+if (cupsOfFlour < 2 && hasSauce) {
+  console.log("I cannot make pizza");
+} else if (cupsOfFlour < 2 && !(hasSauce)) {
+  console.log("I cannot make pizza");
+} else if (cupsOfFlour >= 2 && hasSauce) {
+  console.log("I can make pizza")
+};
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
-for yourself!
+for yourself! I had to remind myself what a logical operator was. For the last exercise, my solution
+did have a logical operator.
 
 */
