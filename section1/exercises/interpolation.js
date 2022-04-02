@@ -31,7 +31,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-console.log( `The ${speedy} jumped over ${slowPoke}`);
+console.log( `The ${speedy} jumped over ${slowPoke}.`);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -40,7 +40,7 @@ console.log( `The ${speedy} jumped over ${slowPoke}`);
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log( `In a predictable result, the ${slowPoke} beat the ${speedy} !`);
+console.log( `In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -49,7 +49,7 @@ console.log( `In a predictable result, the ${slowPoke} beat the ${speedy} !`);
 var pups = "three little dogs"
 var action = "went swimming"
 var timeDay = "an hour after dinner"
-console.log(`Yesterday while camping, the ${pups} all ${action} roughly ${timeDay} .`);
+console.log(`Yesterday while camping, the ${pups} all ${action} roughly ${timeDay}.`);
 //-------------------
 // FINAL CHECK
 //-------------------

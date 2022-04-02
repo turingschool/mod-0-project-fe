@@ -21,10 +21,10 @@ console.log("Alan Turing");
 console.log('Welcome to Turing!');
 
 // YOU DO: Write code below to log `99 bottles of pop on the wall...`:
-console.log("99 bottles of pop on the wall...")
+console.log("99 bottles of pop on the wall...");
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log("I'm in a glass case of emotion! -Anchorman"")
+console.log("I'm in a glass case of emotion! -Anchorman");
 
 //-------------------
 //NUMBERS
