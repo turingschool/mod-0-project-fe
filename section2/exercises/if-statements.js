@@ -96,8 +96,8 @@ When cupsOfFlour = 2 and hasSauce = true, your program should log "I can make pi
 When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pizza";
 */
 
-var cupsOfFlour = 1;
-var hasSauce = true;
+var cupsOfFlour = 6;
+var hasSauce = false;
 
 if (cupsOfFlour >= 2 && hasSauce){
   console.log("I can make pizza");
@@ -105,10 +105,10 @@ if (cupsOfFlour >= 2 && hasSauce){
   console.log("I cannot make pizza");
 }
 
-
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
 */
+console.log("Yes, mine did! 🥳 ")

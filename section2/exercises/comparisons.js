@@ -134,7 +134,7 @@ console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 console.log("My final line of code evaluated to the integer 1.")
-console.log("I think this is the case, because the variable lovesToPlay is defined as true and the variable age is defined as 1. Written in this code line, the code indicates that true and 1  are both true in this case, meaning the true value is one.")
+console.log("I think this is the case, because the variable lovesToPlay is defined as true and the variable age is defined as 1. Written in this code line with the logical comparison &&, the result with end in either the first or the second variable in the line of code. In this case, the test results in true, meaning it will result with the second variable which is 1 in this case.")
 
 //-------------------
 // FINAL CHECK
@@ -142,3 +142,4 @@ console.log("I think this is the case, because the variable lovesToPlay is defin
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+console.log "yes."

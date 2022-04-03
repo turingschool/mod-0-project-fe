@@ -1,31 +1,32 @@
 ## Section 2 Reflection
 
-1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
+### 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 - SMART goal setting is something that has resonated with me over time, throughout most (if not all) of my academic settings, in order to limit the amount of overwhelm I feel within projects and to achieve them by specific deadlines by use of sub-goals.
 - Understanding that mistakes are essential to learning is a point that was brand new to me. Most often in my past academic settings, there is a level of judgement and near-embarrassment applied when presenting my work. Most often, my work was always presented as a "final submission" or that it should reach perfection by the time anyone else can view the project. It's such a new feeling to understand that not all of my coding knowledge or technique will be perfect, and is necessary to seek help to achieve efficiency and learning throughout the coding world.
 
-2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+### 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 - I currently demonstrate a Growth Mindset by beleiving that I will improve my coding skills with effort and practice. This is something that, despite challenges, is one of the most rewarding parts of learning to code in my opinion. This keeps me having a positive attitude and continually seeking to learn and improve what I can.
 - I also understand that all minds will take a different approach in some unique way when reviewing a project and how vital that is to the process of solving or completing said work. Besides, as mentioned, before mistakes are vital to learning. I am actually starting to enjoy making these mistakes purely by learning through Mod0 and collaborating. I have always loved team-based activities, and these mistakes provide ways for me to self-teach new skills on accident and to also learn how to learn with others.
 - I am also starting to learn how to seek out challenges, especially when working on this Mod0 Project. Seeking out challenges helps me to understand more and more of what does and does not make a certain code block work, fail, or alter in some way or another. I haven't always done things this way, but it's certainly an exciting new way to learn!
 - Something I am not demonstrating a Growth Mindset is fully not being afraid to seek help. I'm not exactly unwilling to seek help, but I am not fully comfortable with knowing how and when to ask questions. Sometimes, I feel that I can't yet articulate what my issue is that I am having or where in the process I am lost/made a mistake. This is something that has been highly beneficial while being in Mod0, as I'm able to "phone a friend" and verbally as well as visually display my code with others to be able to talk through the process and understand what exactly is the part of the instructions I may have overlooked, where there is a gap in understanding, or to help me be able to articulate what exactly I need and which resources to find in order to fix it.
 
-3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
+### 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 - This felt both uncomfortable and exciting. It forced me to challenge my memory and repetition of this process -- I was even able to find shortcuts on my own to make the process more efficient. I liked that it allowed me to explore more options and resources to solve this on my own.
 - Additionally, it helped to build my confidence in knowledge of the material/basic functions and reference my own work as well as others to check my process. After all, growth is uncomfortable!
 
-4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
+### 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 - A conditional statement is a code block that instructs the computer system to determine whether to do one thing or another within a set of criteria using "if statements". These use operators that will tell the computer which one thing or the other to do when determining the outcome. There are also data types that choose whether the set is true or false based on the subsequent variables and values given to the code block for print.
 - One daily life conditional could be a door lock. If a door is unlocked, it will open with or without a key. If the door is unlocked and you do not have a key, it will not open. If the door is unlocked but you have a key, it will open.
 - A conditional that is probably used in the Spotify app: If the logged in user has a premium subscription, there will be no advertisements played. If the logged in user has a premium subscription, downloaded music will be available offline.
 
-5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
+### 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 - You add multiple conditions to an `if` statement by also utilizing `else if` and `else` functions. The program reads `else if` as in an alternative input if the first condition does not apply and will output that "second option" so-to-say. Additionally, it will read `else` in the event that none of the other `else if` functions apply to the variables and values indicated within the code. Anything else that is inputted will output what is indicated by the `else` function. Automatically the first indication will always be what is indicated by the `if` statement prior to moving onto the `else if` then subsequently the `else` and whatever corresponds to each by the log.console(output).
 
-6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
+### 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 - To determine that two conditions are met, I can use the logical operator &&
 - To determine that 1 of 2 conditions are met, I can use the logical operator ||
 
-7. What questions do you still have about `if` statements and/or functions?
+### 7. What questions do you still have about `if` statements and/or functions?
 - Is there a way to have a code that runs with multiple conditions that will exclude a specific item?
-  - For example, is it possible to create an `if` statement that can determine "if all of these statements are true BUT x, then y"
+  - For example, is it possible to create an `if` statement that can determine "if all of these statements are true BUT x, then y".
+- From the `decison-making.js exercise`, would it be possible to create an outcome that would result in both the bear showing you a secret passage out while also becoming friends? I presume it is possible with some additions/adjustments to the code block, but I'd love to know what the best approach would be.
