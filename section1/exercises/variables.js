@@ -33,7 +33,7 @@ console.log(harryQuote);
 var firstName = 'Marianne';
 var isHungry = 'Not now';
 var numberOfPets = 2;
-console.log({firstName, isHungry, numberOfPets});
+console.log(firstName, isHungry, numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
@@ -49,7 +49,7 @@ console.log({firstName, isHungry, numberOfPets});
 firstName = 'M'; //change variable 'firstName'
 isHungry = 'Having dinner now'; //change variable 'isHungry'
 numberOfPets = 6; //change variable 'numberOfPets'
-console.log({firstName, isHungry, numberOfPets});
+console.log(firstName, isHungry, numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
@@ -64,4 +64,4 @@ console.log(result);
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect? 
+// as you would expect? Yes I did. I have actually gone back and re-run this file in my terminal to double check.
