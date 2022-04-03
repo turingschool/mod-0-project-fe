@@ -131,7 +131,7 @@ if (percentBatteryLeft >= 15) {
   //if false, the print will read to the user an alternative response
   //which is determined true or false based on the above conditional
   //here, I used the less than comparison operator, because if the amount is equal
-  //to the required 15%, the user should see the true response, not this one below
+  //to the required 15%, the user should see the true response, not this one below:
   console.log("Bummer! Uber is only available with a battery life of 15% or more!🥺 ");
   //which will be seen here on the print that the user will see, indicating That
   //the user can NOT call an Uber based on the current battery percentage, which
