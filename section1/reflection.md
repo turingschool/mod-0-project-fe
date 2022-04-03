@@ -16,7 +16,7 @@ console.log(greeting);
 ```
 
 ### 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
-- Comments in code are written either with two backslashes // like this or with a backslash and an asterisks on either side of the comment /* like this */
+- Comments in code are written either with two backslashes `// like this` or with a backslash and an asterisks on either side of the comment `/* like this */`
 - The purpose of a code comment is primarily to indicate further commentary that is needed to make the code as easy to read for other developers as possible, but they can also be used when there are parts of our codes that we want to intentionally prevent from running for one reason or another.
 
 ### 5. In your own words, what is a variable? How would you explain it to a 5 year old?
@@ -32,7 +32,7 @@ console.log(greeting);
 - Concatenation is a programming term used to describe joining strings together within JavaScript. It can be used to join together particular values utilizing several variables in order to create full sentences and interactions with the user of a particular website, app, etc.
 
 ### 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
-- A perfect example of an app/website that I think the developers used concatenation would be the Target app. Anytime you login to the app, you can see where the top of the page is greeting the user with their personalized name (something that was inputted when the user created their profile within the app). For example, it says "Hello, Maia!" -- the user's first name being the variable's value in this case. I would be willing to guess that this would also apply to "recently purchased items" portions of the user interface as well as "purchase again?" -- where the developers would simply pull a log from some sort of link from a previously confirmed purchase that itemizes the last shopping purchase you made within the site.
+- A perfect example of an app/website that I think the developers used concatenation would be the Target app. Anytime you login to the app, you can see where the top of the page is greeting the user with their personalized name (something that was inputted when the user created their profile within the app). For example, it says `"Hello, Maia!"` using the user's first name being the variable's value in this case. I would be willing to guess that this would also apply to "recently purchased items" portions of the user interface as well as "purchase again?" -- where the developers would simply pull a log from some sort of link from a previously confirmed purchase that itemizes the last shopping purchase you made within the site.
 
 ### 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 - Are concatenations and interpolations data types, or are they terms that are separate from data types? If so, what is the difference between the two?
