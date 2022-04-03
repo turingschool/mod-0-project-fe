@@ -52,7 +52,7 @@ console.log("Lastly, the variable isHungry is likely indicating a true/false out
 // log all three variables to the console.
 firstName = "Shishka";
 isHungry = false;
-numberOfPets = 569;
+numberOfPets = 369;
 console.log(firstName);
 console.log(isHungry);
 console.log(numberOfPets);
@@ -71,3 +71,4 @@ console.log(totalSnacks);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+console.log("yes.")

@@ -24,7 +24,7 @@ console.log('Welcome to Turing!');
 console.log('99 bottles of pop on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log('Life can be like a painting.');
+console.log('You want to get rid of time?');
 
 //-------------------
 //NUMBERS
@@ -72,3 +72,4 @@ console.log(4 <= 5);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+console.log("yes.")

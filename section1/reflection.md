@@ -11,8 +11,8 @@
 
 ### 3. How would you log the string `"Hello World!"` to the console?
 ``` JavaScript
-var introduction = "Hello World!";
-console.log(introduction);
+var greeting = "Hello World!";
+console.log(greeting);
 ```
 
 ### 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
@@ -35,5 +35,4 @@ console.log(introduction);
 - A perfect example of an app/website that I think the developers used concatenation would be the Target app. Anytime you login to the app, you can see where the top of the page is greeting the user with their personalized name (something that was inputted when the user created their profile within the app). For example, it says "Hello, Maia!" -- the user's first name being the variable's value in this case. I would be willing to guess that this would also apply to "recently purchased items" portions of the user interface as well as "purchase again?" -- where the developers would simply pull a log from some sort of link from a previously confirmed purchase that itemizes the last shopping purchase you made within the site.
 
 ### 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
-- Are concatenations and interpolations data types, or are they terms that are separate from data types? If so, what is different between the two?
-- Why am I still not able to open Atom independently from the Terminal when commanding it to do so?
+- Are concatenations and interpolations data types, or are they terms that are separate from data types? If so, what is the difference between the two?
