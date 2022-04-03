@@ -137,4 +137,4 @@ console.log(lovesToPlay && (underOne = true));
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect? I did. I went through and cahnged the last question because I think I made it more complicated than it needed to be.
+// as you would expect? I did. I went through and changed the last question because I think I made it more complicated than it needed to be.
