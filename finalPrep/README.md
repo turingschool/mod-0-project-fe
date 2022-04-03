@@ -59,7 +59,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [x] Add link to your gist here: 
+  - [x] Add link to your gist here: https://gist.github.com/sambo803/ab888ed6d671aec770bc7f1ae63c2795
 
 ## Lesson Prep
 
