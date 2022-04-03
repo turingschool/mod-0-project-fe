@@ -23,8 +23,8 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
 - [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
 - [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] [Add a link for your gist here:](https://gist.github.com/mhbarton/7a7e451aa6b032930a45585ddc507650)
+  - [x] [Link to my gist here:](https://gist.github.com/mhbarton/7a7e451aa6b032930a45585ddc507650)
  
 
 ## Time Management Prep
@@ -58,14 +58,14 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] [Add link to your gist here:](https://gist.github.com/mhbarton/101482db9ade75379b409e4b696b5d6e) 
+  - [ ] [Link to my gist here:](https://gist.github.com/mhbarton/101482db9ade75379b409e4b696b5d6e) 
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] [Add a link to your gist here:](https://gist.github.com/mhbarton/fe7a6b8195afb86b5a4457f9df8dd778)
+  - [x] [Add a link to your gist here:](https://gist.github.com/mhbarton/fe7a6b8195afb86b5a4457f9df8dd778)
   
 
 ## Group Work Prep
@@ -73,7 +73,7 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] [Add a link to your gist here:](https://gist.github.com/mhbarton/4e390a9363fe1cbd518775a18c5ca2c3) 
+  - [x] [Link to my gist here:](https://gist.github.com/mhbarton/4e390a9363fe1cbd518775a18c5ca2c3) 
 
 ## Mod 0 Project Submission
 
