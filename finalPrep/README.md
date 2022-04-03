@@ -25,50 +25,55 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 - [ ] I have refactored my `section1` exercises to the best of my ability
 - [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+- [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [ ] [Add a link for your gist here:](https://gist.github.com/mhbarton/7a7e451aa6b032930a45585ddc507650)
+ 
 
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- `Week 1 Screenshot Here`
+- ![Image 4-3-22 at 2 47 AM](https://user-images.githubusercontent.com/102000070/161419741-7e9ad4f9-28fd-4654-9f3f-b397b682eed4.jpg)
+- `Week 2 Screenshot Here`
+- ![Image 4-3-22 at 2 47 AM 2](https://user-images.githubusercontent.com/102000070/161419777-ab9c8ad1-fa6e-4f4c-b57c-149499d8aca7.jpg)
+- `Week 3 Screenshot Here`
+- ![Image 4-3-22 at 2 48 AM](https://user-images.githubusercontent.com/102000070/161419794-e2247b59-2c41-47fd-805e-7f5ef356a23b.jpg)
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [ ] [Add link to your gist here:](https://gist.github.com/mhbarton/101482db9ade75379b409e4b696b5d6e) 
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [ ] [Add a link to your gist here:](https://gist.github.com/mhbarton/fe7a6b8195afb86b5a4457f9df8dd778)
+  
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [ ] [Add a link to your gist here:](https://gist.github.com/mhbarton/4e390a9363fe1cbd518775a18c5ca2c3) 
 
 ## Mod 0 Project Submission
 
