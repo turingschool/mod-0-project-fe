@@ -23,33 +23,50 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var str = 'Harry Potter must not return to Hogwarts';
+console.log(str);
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = "Anna";
+console.log(firstName);
+var isHungry = "no" === "yes";
+console.log(isHungry);
+var numberOfPets = 4;
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+ /* For `firstName` variable I used string data type beacause I was using a word that
+    I wanted printed out. For `isHungry` I used boolean data type to get a `true` (yes)
+    or `false` (no) answer. For the `numberOfPets`I used a numaric data type because the
+    value is representing how many of a thing there is. The number may need to change and
+    a numeric data type is easier to update then a string.*/
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-
+firstName = "Javonne";
+console.log(firstName);
+isHungry = "yes" === "yes";
+console.log(isHungry);
+numberOfPets = 0;
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
+console.log(healthySnacks + junkFoodSnacks);
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
