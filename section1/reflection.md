@@ -39,14 +39,17 @@ var endTimeMinute = 30
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
-  Scheduling apps could use them to join together your times using `var` like the example above. It may look something like:
-  ```
-  (startTimeHour + ":"  + startTimeMinute)
-  ```
+I like to play an online card game that matches you up with a remote opponent. When you are matched the loding screen displays you and your opponents screen names. I imagine it may look something like this:
+```
+(firstOpponent + "vs" + secondOpponent);
+```
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
 - I'm confused about what the definition for an `object` is (from the reading) I googled it and the takeaway I got was that it was any "unordered" letter, number or symbol. In the book, the definition seems more like any thing that can be described. From the books definition I am thinking of it more like a variable.
+
+  *Update* I went back with fresh eyes and re-read the definition for `object` in the book. Now my understanding of it is that it's something like `var` or `console` then the contents in the data type are `parameters`?
+
 
 - What vocabulary word do I use to describe something like what is being compared in a `boolean`. I used `property` in question 2, but I initially put `object`. I'd like to know if there is an umbrella term to describe the different parts inside a data type, or if you'd just use words like "compares two strings" or "compares two numbers"?
 
