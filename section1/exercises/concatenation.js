@@ -13,7 +13,7 @@ file from your terminal with the command `node section1/exercises/concatenation.
 var name = "Ron";
 var team = "Chudley Cannons";
 
-console.log("The " + team + " are " + name + "'s favorite Quidditch team");
+console.log("The " + team + "are " + name + "'s favorite Quidditch team");
 
 // YOU DO: Read the next few lines of code...
 var numberOfCreatures = 7;
@@ -22,7 +22,11 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
+// Your answer and explanation here:
+// This will log the string: "My zoo as 7 unicorns!"
+// Also knowsn as a type coercion
+// numberOfCreatures is a value of 7
+// creatures is a string = unicorns
 
 
 // YOU DO:
@@ -31,25 +35,34 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
+console.log("The " + speedy + " jumped over the " + slowPoke);
+
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "In a predictable result, the tortoise beat the hare!"
 // Note that we are omitting the var keyword below, because we are re-assigning the variables
 
-slowPoke = "tortoise";
-speedy = "hare";
+var slowPoke = "tortoise";
+var speedy = "hare";
+
+console.log("In a predictable result the " + slowPoke + " beat the " + speedy);
 
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
+  var technicalWalker = "hiker"
+  var destination = "lake"
+  var home = "camp"
+
+console.log("After a long slog uphill the " + technicalWalker + " made it to the " + destination + " and set up their " + home);
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
