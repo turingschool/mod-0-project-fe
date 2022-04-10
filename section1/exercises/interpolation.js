@@ -26,6 +26,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // This will log the string "My zoo has 7 zebras!"
 // numberOfCreatures has a value of 7
 // creatures contains the value of unicorns
+// This would be called a type coercion since creatures is a STRING and numberOfCreatures is a number or integer value
 
 
 // YOU DO:
