@@ -1,14 +1,30 @@
 ## Section 1 Reflection
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
+ * After reading the blog posts in Part A, I feel better about forcing myself to ask questions, no matter if I deem the question to be stupid or not. As long as I follow the "How to Ask Questions" gist, I think I'll be on the right track.
+ * I definitely wait to much time before asking questions. With section 1, I found myself going down a rabbit hole (several actually), before realizing that, perhaps I need to reformulate the question and ask it out loud.
 
 2. What are the data types you learned about in this section? In your own words, define each.
+ * There are seven data types in JavaScript: number, string, boolean, symbol, object, undefined and null. In section 1, we specifically learned about number, string and boolean.
+   - **Number** is any number, this includes decimals and negative numbers.
+   - **String** is any set of letters, numbers or symbols as long as they are wrapped in quotes. A string can be wrapped in one or two quotations marks, but they have to match.
+   - **Boolean** is a true or false value. Any time a yes or no answer is required, a boolean data type can probably be used.
 
 3. How would you log the string `"Hello World!"` to the console?
+var greeting = "Hello World!"
+console.log(greeting);
+
+or just
+
+console.log("Hello World!");
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
+// Two backslashes are used for a single line of
+/* If you want to comment out multiple lines of code, you can use a backslash followed by an asterisk and then wrap the code with an asterisk followed by a backslash. */
+ * The are multiple reasons for code comments. We try to write code as clearly as possible, but sometimes it requires a little extra explanation. Sometimes we use comments to organize code into sections. Sometimes we want to comment out a piece of code because we're testing another function or something isn't working.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
+ * A variable is like a box that allows you to put something in it. We call that something an object. Once you know what or decide what that object is you can name it. Once you've give it a name you can declare it or give it a value. For example, I can make a variable an animal by saying `var animal`, then I have to decide what that animal is. The animal can be anything I decide. Let's make the animal a panda by saying `var animal = "panda"`.
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
