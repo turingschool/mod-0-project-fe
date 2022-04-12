@@ -32,8 +32,8 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+- What are you excited about when it comes to professional development?
 - What are your questions or concerns about these expectations?
 
 ## Part B: Pairin Survey
@@ -63,37 +63,70 @@ As you begin this new chapter of your career, the Career Development team is her
 The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+4, being the easiest
 - As you start at Turing, what are your biggest questions or concerns about networking?
+Mostly how we will be able to find avenues of meeting people. What applications or resources are most effective? What kind of in-person events should we attend?
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+
+ I am 27 years old, living in Denver, CO with my wife and two beautiful dogs Scully and Marleau. I have long been a fan of practical creativity, or coming up with solutions to everyday problems that make my life easier. Combined with my love of all things nerdy (competitive trading card games, fantasy books and TV, etc), a move into software engineering seemed like a natural fit. It doesn't hurt that it is highly demanded labor in the largest growing industry with great wages.
+
 - What are your goals for this career?
+
+Learn the practical skills to contribute to technological success for a company who specializes in one of my interests (ex. Wizards of the Coast, or Innova). I also would love to specialize training in cryptography. I consider personal privacy and security to be paramount in a digitalized world.
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+
+I trust that I will learn a fully comprehensive FE education through Turing, but I'm worried a job will sneak in code during an interview in a language that I have not learned. What happens then?
 
 ### Materials
 
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
 - Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
+
+I did previously but UI believe it has been deactivated due to inactivity. I have worked in the restaurant industry for the last decade, and generally a linkedin isn't required to acquire a job. However, I am familiar with its interface and the benefits of using it.
+
 - Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
+
+Yes, but not in a technical context. My background is all in service and my education is in humanities. That being said, I believe I do a good job in my resume of conveying what the job experience imparted to me relative to skills and wisdom.
+I don't have a ton of concerns about adding a technical approach to resumes. I assume we will learn quite a bit about this in Turing, but intuition tells me that a list of languages I'm fluent in as as well as a list of relevant technical projects I've done will be included.
+
 - Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters’ effectiveness previously? What questions or concerns do you have about writing cover letters?
+
+Yes. I feel confident with writing cover letters. I do my best to research background about the company and use the cover letter to match those aspects to my skillset and experience. I feel that it is also important to say what I find exciting about their products or services, how I can contribute to their development.
 
 ### Job Search Strategies
 
 Please prepare responses to these questions to submit in the survey:
 
 - Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn’t effective for you?
+
+Generally, I always found showing up in person to be the best strategy. Having is a good resume is one thing, but making an impression on someone without being able to speak to them is very difficult. Persistence is key too. If I wanted to work somewhere, I would follow up with a phone call every week to check in, and eventually I got a call back. This is specific to jobs in the restaurant industry, though.
+In terms of what doesn't work, anytime I've just "dropped off a resume" without getting in front of someone, I left knowing almost for sure I would not get a call. The few times I did, it was on average a month or two after I came by.
+
 - When you think about job searching for a software developer position, what are your biggest questions or concerns?
+
+Is networking truly the only way to get into a position? From what I'm told, applying on sites like Indeed is akin to putting your resume in the trash.
 
 ### Negotiations
 
 Please prepare responses to these questions to submit in the survey:
 
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
+
+Yes. I negotiated one raise. I went from 48,000 to 55,000. I started by asking for a 10000 raise and was prepared to take anything above 54000. I referenced the fact that I had great relationships with both guests and staff, always stayed on top of daily/weekly tasks, and constantly pushed myself to become better with demonstrable results.
+
+It was an uncomfortable experience, but advocating for yourself often is. I learned that I have to be confident in my worth, and be prepared to seek another job if the one I work at now won't compensate me fairly.
+
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
+
+I have no idea where to establish a baseline for my salary. 80000? 90000? I need to learn the distinguishing factors that jump people into that higher income bracket. I don't want to discount myself and look towards two or three years of work to reach the income level I could've had at the beginning if I knew how to negotiate effectively. 
+
 
 ## Deliverables
 
