@@ -32,9 +32,12 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+The expectations are extremely reasonable. They seem to want to push you to learn about the industry and careers as you progress through school.
+- What are you excited about when it comes to professional development?
+I'm most excited to develop a professional and meaningful demeanor for the future of my career.
 - What are your questions or concerns about these expectations?
+None
 
 ## Part B: Pairin Survey
 
@@ -56,44 +59,57 @@ _Optional: To build an understanding of your Pairin results, here are additional
 
 ## Part C: Competencies
 
-As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the Career Development Mod 0 Project Submission Survey (see [submission directions](#deliverables)). Each competency section should take about 10-15 minutes to complete.
+As you begin this new chapte
+r of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You’ll submit them in the Career Development Mod 0 Project Submission Survey (see [submission directions](#deliverables)). Each competency section should take about 10-15 minutes to complete.
 
 ### Networking
 
 The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+2
 - As you start at Turing, what are your biggest questions or concerns about networking?
+I really would like to know how to best make professional connections, as I've never worked in an environment quite like that.
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+I come from a background, professionally, as a chef. I worked in that field for 10 years before realizing it wasn't what I wanted to do. I grew up around tech, and I always loved destroying and creating hardware and software. I have done some coding before and I fell in love with it.
 - What are your goals for this career?
+My goals are to eventually start my own business. Before that happens, I want to learn as much as I can from people and companies with far greater knowledge than I have currently.
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+I want to know the best way to show my ambition for a job, and how to secure that job.
 
 ### Materials
 
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
 - Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
+I have one, but I have never used it.
 - Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
+Creating resumes is not my strong suit, and I'd love to learn how to make mine more readable for employers.
 - Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters’ effectiveness previously? What questions or concerns do you have about writing cover letters?
+I always struggle with cover letters. I feel like I'm over selling myself, or trying to use language catered to that specific job. It's hard to try to not come across as over confident.
 
 ### Job Search Strategies
 
 Please prepare responses to these questions to submit in the survey:
 
 - Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn’t effective for you?
+I usually would find a company that seemed like a good fit, or that I really wanted to work for. I would then send resumes out to them. I'd do this with multiple companies at once.
 - When you think about job searching for a software developer position, what are your biggest questions or concerns?
+I am concerned about the technical interviews the most. I am also used to craigslist or finding companies via word of mouth. I would like to learn the best way to go about finding a job.
 
 ### Negotiations
 
 Please prepare responses to these questions to submit in the survey:
 
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
+I have, and I always find it a bit awkward. My previous jobs didn't pay well enough to really have to worry about negotiating too much.
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
+Which range I should aim for, and how to get the most amount.
 
 ## Deliverables
 
