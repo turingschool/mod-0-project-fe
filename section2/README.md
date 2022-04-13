@@ -43,8 +43,12 @@ Read/watch one or both of the following:
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+  I quite enjoyed the concept of the SMART learning. It breaks down the work process into smaller steps to think about.
+  I also was intrigued by how determined you have to be to truly learn and thrive in your career.
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+- I currentlu believe I can improve with effort and practice. One thing I am working on in the field of NOT using a growth mindset, is being defensive towards feedback. This is something I have worked on for years and am finally starting to grasp it.
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+    I feel I am quite good at communicating with people. This took many years of social awkwardness and poor interaction skills to finally progress.
 
 ## Part B: Conditionals
 
