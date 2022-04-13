@@ -43,9 +43,10 @@ console.log("Hello World!");
  var lastName = "Kopelevich";
 
  console.log("Hi" + " " + firstName + "!")
-
- Or they use interpolation istead.
  ```
+
+ Or they use interpolation instead.
+
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 * Why exactly do we use pull requests instead of just pushing our work up to the main branch and then having our partner change from there?
