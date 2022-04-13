@@ -38,12 +38,14 @@ console.log("Hello World!");
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 * I often peruse a clothing site called Lulus. One of the places the developers probably used concatenation is in the greeting. When you've signed into the site an alert pops up "Hi Dinne!" Imagine the code goes something like this.
 
- `var firstName = "Dinne";`
- `var lastName = "Kopelevich";`
+ ```javascript
+ var firstName = "Dinne";
+ var lastName = "Kopelevich";
 
- `console.log("Hi" + " " + firstName + "!")`
+ console.log("Hi" + " " + firstName + "!")
 
  Or they use interpolation istead.
+ ```
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 * Why exactly do we use pull requests instead of just pushing our work up to the main branch and then having our partner change from there?
