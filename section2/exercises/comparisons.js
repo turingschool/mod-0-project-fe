@@ -82,29 +82,32 @@ console.log("is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-// This log is asking if 4 is less than 9.  Both of these values are integers and this should log true.
+// This log is asking if 4 is less than 9.  Both of these values are integers
+//Expected output: True.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// The variable name books has an integer value of 3.  The log will ask if 4 is less than or greater to 3 books.  This should log false.
-//  The variable value is an integer.
+// Variable books is delcared is assigned a value of 3.
+// Books variable is logged into the console 4 is less than or greater to 3 books.
+// Expected output: 4 < 3; false
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// The variable name friends is an integer value of 6.  The variable name siblings is an integer value of 2.
-// The log is asking if friends, with a value of 6 is greater than siblings with a value of 2.
-// The log result should be true.
+// Variable friends is declared and assigned a number of 6.
+// Variable siglbings is declared and assinged a number of 2.
+// Both variables are logged.  Expected results (6 > 2)
+// The log result: true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// The variable name attendees is an integer value of 9.  The variable name meals is an integer value of 8.
-// The log is asking if attendees, with a value of 9 is strictly inequal to meals with a value of 8.
-// The log result should be true.
+// The variable attendees is assigned a numberical value of 9.  Variable meals is assigned a numberical value of 8.
+// Both variables are logged to the console
+// Expected output 9 attendees is not equal to 8 meals: true
 
 
 //-------------------
