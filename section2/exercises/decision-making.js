@@ -39,15 +39,36 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
+//We are using an if/else statement to determine what clothing item the bear puts on. If the bear goes
+//through door 1, it puts on a hat. Otherwise, the bear goes through door 2 and puts on a scarf.
+
 2. What variable has a new value assigned to it after the first if statement executes?
+
+//bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
+//scarf, because it fills scarf for all values not equal to 1.
+
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+
+//We are using an if/else statement to determine what happens given a choice of actions.
+//If var bearChoice === 1, we give the bear our hat/scarf, and the bear shows us a secret passage
+//If var bearChoice === 2, we point out the bear's flaws and hurt its self asteem
+//If var bearChoice === 3, we dash out of the room into the next and are punished by finding snakes.
+//If var bearChoice is anything else, we stay with the bear and become best friends.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
+//You run as fast as you can into the next room. It's full of snakes!
+
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
-7. What is your favorite ending?
-*/
+//You tell the bear the hat is too small and it starts to cry!
+
+7. What is your favorite ending?*/
+
+var doorChoice = 1;
+var bearChoice = 1;
+
+//You offer the bear your hat and the bear shows you a secret passage out!
