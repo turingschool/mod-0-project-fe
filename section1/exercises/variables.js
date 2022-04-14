@@ -41,10 +41,10 @@ console.log(firstName + isHungry + numberOfPets)
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
-  I used a string data type to create the values of the variables.  I named the variables using only letters with camel
-  case to indicate that there are multiple words.
-  I wanted to create a concatenation for all 3 variables to come together on the terminal.
-  I added a space between the (.) and "" so there would be a space between sentenses in the terminal.
+  //I used a string data type to create the values of the variables.  I named the variables using only letters with camel
+  //case to indicate that there are multiple words.
+  //I wanted to create a concatenation for all 3 variables to come together on the terminal.
+  //I added a space between the (.) and "" so there would be a space between sentenses in the terminal.
 
 
 
