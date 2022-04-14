@@ -31,7 +31,8 @@ console.log( "Hello World!")
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
 
 ```
-- A variable is like a nickname that has a complex different meaning. In code you can substitute a nickname(variable) for a lot of information.
+- A variable is like a nickname that has a complex different meaning. 
+- In code you can substitute a nickname(variable) for a lot of information.
   - EX: a nick name of "za" means "pizza"
 ```
 
