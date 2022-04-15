@@ -38,16 +38,29 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-
+//Lines 14 - 18 include an if statement.
+//If door choice is 1 and true then the bear will wear a "hat" else and false the bear will wear a "scarf"
 2. What variable has a new value assigned to it after the first if statement executes?
-
+//bearClothing has a vaule re-assignment of "scarf" on line 17.
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-
+//The bear clothing would remain false, else would be executed and "scarf" will run.
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-
+//Lines 27 - 35 include an if/else statement.
+//If the variable bearChoice is condition1 it is true and first block of code will execute.
+//If the variable bearChoice is condition2, then condition1 evaluates as false and cond2 will evaulate as true.
+//If the variable bearChoice is cond.3, then cond.1 and cond.2 will evaluate to false & cond.3 will evaluate to true.
+//Else, if non of the cond. are met they will evaluate to false. Line 34. block of code wil execute.
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-
+//"You will run as fast as you can into the next room. It's full of snakes!"
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
+//The variable doorChoice is 1 and the variable bear clothing will execute "hat."
+//The variable bearChoice is 2 "you point it out to the bear." Then line 30 code block will execute. . .
+//"You tell the bear the "hat" is too small and it starts to cry! will run.
 7. What is your favorite ending?
 */
+//My favorite ending is variable doorChoice 2, and the variable bearChoice 1
+var doorChoice = 2;
+var bearClothing = "";
+var bearChoice = 1;
+
+//You offer the bear your hat and the bear shows you a secret passage out!
