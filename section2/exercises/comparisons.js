@@ -24,9 +24,11 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
+console.log("Is numberTeachers less than numberStudents?", numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
+console.log("Is numberTeachers equal to stringTeachers?", numberTeachers == stringTeachers);
 
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
@@ -36,6 +38,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -49,18 +52,23 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
+console.log("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
+console.log("Is numberStudents greater than or equal to 20", numberStudents >= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
+console.log("Is numberStudents greater than or equal to 21", numberStudents >= 21);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
+console.log("Is numberStudents less than or equal to 20", numberStudents <= 20);
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
+console.log("Is numberStudents less than or equal to 21", numberStudents <= 21);
 
 
 //-------------------
@@ -74,20 +82,31 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 console.log(4 < 9);
 //YOU DO: Explain.
+/* This is true, because the conditional operator is less than (<) and the data type number 4 is less than
+number 9. */
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+/* This will be false, because the variable books is set to the value of 3. The data type number 4 is greater
+than not less than 3. */
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+/* This is true. The variable friends is assigned a value of 6, which is a number data type. The variable
+siblings is assigned a value of number 2. Therefore, the variable friends is greater than the variable
+siblings. */
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
+/* This will equal true. The variable attendees is assigned a value of 9, the variable meals is assigned a value
+of 8. If the log that the number of attendees is not equal (!==) to the number of meals, then the boolean
+result will be true */
+
 
 
 //-------------------
@@ -110,18 +129,32 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
+// This will be true, the dog loves to play and it loves treats.
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
+// This is false, the dog must love to play and love the dog park, but the dog only loves to play.
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
+/* This is true, because the dog only needs to love to play or it needs to love the dog park.
+Only one value needs to be true. */
 
 // Determine if the dog loves to play and is a puppy
+var puppy = 1 >= age;
+
+console.log(lovesToPlay && puppy);
+// In this case the is true, the dog loves to play and is a puppy. Explanation below.
+
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+/* I believe in this case the code above will evaluate to true, but to determine this we have to first
+decide what constitutes a puppy. Dogs are usually considered puppies if they are one year old or younger,
+so in this case we would create a variable puppy and assign it a value of 1 is equal to or more (1 >= age). If the
+variable age had been 2 or above, than the dog would not have been a puppy and the code above would evaluate to false
+because lovesToPlay and puppy would have to both be true. */
 
 //-------------------
 // FINAL CHECK
