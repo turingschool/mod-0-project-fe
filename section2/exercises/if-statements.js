@@ -130,13 +130,6 @@ if (cupsOfFlour < 2 || hasSauce === false) {
 } else if (cupsOfFlour >=2 && hasSauce) {
   console.log('I can make pizza');
 }
-/*
-if (cupsOfFlour < 2 || hasSauce === false) {
-  console.log('I cannot make pizza');
-} else if (cupsOfFlour >=2 && hasSauce) {
-  console.log('I can make pizza');
-}
-*/
 
 
 /*
