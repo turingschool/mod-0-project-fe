@@ -7,7 +7,7 @@ Spend some time changing the variables and running the file to see how the story
 
 var doorChoice = 1;
 var bearClothing = "";
-var bearChoice = 1;
+var bearChoice = 2;
 
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
@@ -38,16 +38,29 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
+//  A condition is set that states if variable "doorChoice" is equal is 1,
+//  then the variable "bearClothing" will be set to "hat". If doorChoice equals anything else besides 1,
+//  then the variable "bearClothing" will be set to "scarf".
 
 2. What variable has a new value assigned to it after the first if statement executes?
+//  The variable "bearClothing" is assigned a value after the "doorChoice" if statement.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//  If doorChoice is set to equal 3, then bearClothing would be set to "scarf".
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+//  If the condition bearChoice is equal to 1, then the console will log the specified statement.
+//  Then there are two other conditionals that would determine the value of the variable bearChoice.
+//  The last conditional states that if anything besides the variable values that have been coded to produce a response
+//  is set to the bearChoice variable (such as an empty string or an integer that has not been accounted for in the code),
+//  the console will log the specified response.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//  You enter a room full of snakes.
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+//  The bear will be trying on a hat that's too small. We point it out and make the beare cry.
 
 7. What is your favorite ending?
 */
+// I prefer to stay with the bear and be friends!
