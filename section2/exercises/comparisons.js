@@ -89,22 +89,25 @@ console.log('Is numberStudents less than or equal to 21?', numberStudents <= 21)
 // Be as technically precise as possible, but don't just copy and paste a definition from the readings.
 // Make sure YOU can explain it that way!
 
-console.log(4 < 9); 
-//YOU DO: Explain.
+console.log(4 < 9);
+// Line 92 is posting to the console a true boolean statment; 4 is less than 9
 
 var books = 3;
 console.log(4 < books);
-// YOU DO: Explain.
+// Line 95 has assigned the value of 3 to the variable books.
+// Line 96 is posting a true statement that the integer 4 is less than 3
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain.
+// Lines 100 - 101 declare to variables assigned two differnt integers.
+// Line 103 is logging to the console that 6 is greater than 2; a true statment
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain.
+// Lines 106 - 107 declare two differnt integers to the variables attendees & meals
+// The console is logging the statement that 9 does not equal 8; a true statment
 
 
 //-------------------
@@ -127,18 +130,23 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+
+// ANSWER: The final line evaluated to 1. I think that since the = sign is an assignment operator & the
+//         lovesToPlay variable is a boolean the terminal cannot make a comparison and returns the
+//         the value of 1 assigned to var age. Since we did not declare var isPuppy = 1 we have
+//         not defined the age of a puppy.
 
 //-------------------
 // FINAL CHECK
