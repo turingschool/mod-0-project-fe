@@ -9,7 +9,8 @@
 -The date types I learned in this section are the following:
   ### JavaScript Primitive data types-
 ```
-- String -consists of a letter and other character all wrapped w/ quotes or '' can be used. Note open and closing quote ,=must be consistent.
+- String -consists of a letter and other character all wrapped w/ quotes or '' can be used. 
+Note: open and closing quote ,=must be consistent.
 
 - Number -all numbers including negative -, decimal 0.25, and large #'s no comma is used. ex: 3456
 
@@ -30,7 +31,8 @@ console.log( "Hello World!")
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
 
 ```
-- A variable is like a nickname that has a complex different meaning. In code you can substitute a nickname(variable) for a lot of information.
+- A variable is like a nickname that has a complex different meaning. 
+- In code you can substitute a nickname(variable) for a lot of information.
   - EX: a nick name of "za" means "pizza"
 ```
 
@@ -44,7 +46,8 @@ I frequently use Gmail.
 7. In your own words, explain what concatenation is.
 
 ```
-Concatenation: Means "join together." Join together strings using the (+). Just like in adding #'s together. In context it does something different
+Concatenation: Means "join together." Join together strings using the (+). Just like in adding #'s together. 
+In context it does something different
 ```
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
