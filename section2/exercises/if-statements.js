@@ -105,9 +105,9 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 */
 
 var cupsOfFlour = 1;
-var hasSauce = true;
+var hasSauce = true
 
-// Not Working correctly. Logic error using && operator on my part (must learn more/revist)
+// Not Working correctly. Logic error using && operator on my part & reassigning hasSauce = false
 /*
 if (cupsOfFlour < 2 && hasSauce = false) {
   console.log('I cannot make pizza');
@@ -115,8 +115,28 @@ if (cupsOfFlour < 2 && hasSauce = false) {
   console.log('I can make pizza');
 }
 */
-if (cupsOfFlour < 2)
 
+/*
+// All conditions work with this code except conditon 2 (1,false) wont print anything in terminal?
+if (cupsOfFlour < 2 && hasSauce) {
+  console.log('I cannot make pizza');
+} else if (cupsOfFlour >=2 && hasSauce) {
+  console.log('I can make pizza');
+}
+*/
+
+if (cupsOfFlour < 2 || hasSauce === false) {
+  console.log('I cannot make pizza');
+} else if (cupsOfFlour >=2 && hasSauce) {
+  console.log('I can make pizza');
+}
+/*
+if (cupsOfFlour < 2 || hasSauce === false) {
+  console.log('I cannot make pizza');
+} else if (cupsOfFlour >=2 && hasSauce) {
+  console.log('I can make pizza');
+}
+*/
 
 
 /*
