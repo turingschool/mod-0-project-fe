@@ -133,7 +133,7 @@ var chargerType = "car";
 
 if (percentBatteryLeft >= 15) {
   console.log("You can call an uber"); //This establishes the condition that id you have 15% battery, you're good to go and don't need to worry about anything else
-} else if (percentBatteryLeft <= 15 && hasCharger === true && chargerType === "car") { //This uses the && logical operator to say, if you have less than 15%, but have a charger that is a car charger, you're good to go
+} else if (percentBatteryLeft < 15 && hasCharger === true && chargerType === "car") { //This uses the && logical operator to say, if you have less than 15%, but have a charger that is a car charger, you're good to go
   console.log("You can call an uber");
 } else {
   console.log("You cannot call an uber"); //This establishes that if you dont have 15%, have a charger, or if that charger is not the correct type, you're walking home.
