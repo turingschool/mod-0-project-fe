@@ -28,8 +28,8 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-var removeOldAnimal = animals.pop();
-var addNewAnimal = animals.push("Gorilla");
+animals.pop();
+animals.push("Gorilla");
 console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
@@ -121,7 +121,7 @@ the percentBatteryLeft has to be at 15% or above, if this statement evaluates to
 stops evaluating and the console will print "User can call Uber". However, if the percentBatteryLeft evaluates
 to false the expression will move on. For the second part of the expression both statements need to be true
 for the console to print "User can call Uber".  */
-if (percentBatteryLeft >= 15 || hasCharger && chargerType === "car") {
+if (percentBatteryLeft >= 15 || (hasCharger && chargerType === "car")) {
   /* If either statement in the expression, either percentBatteryLeft is 15% or over OR (hasCharger
 AND chargerType) evaluates to true, console will print "User can call Uber" */
   console.log("User can call Uber");
