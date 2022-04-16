@@ -82,13 +82,13 @@ console.log("Is numberStudentsless than or equal to 21?", numberStudents <= 21);
 console.log(4 < 9);
 //YOU DO: Explain.
 /*This tells the object (console), what method (log), you want it to use to process the parameters (4 < 9).
- The perameter's data type is a boolean. The evaluation will be true because 4 is smaller then .*/
+ The perameter's data type is a compairison and it will result is a boolean. The evaluation will be true because 4 is smaller then .*/
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-/*One variable (var) is being assigned, the var name is books. The value for books is 3. Then the console is
-being told to log the boolean perameters of 4 being less the book (3). The evaluation will be false
+/*The name books is being assigned as a variable. The value for books is 3. Then the console is
+being told to compair books and 4. This will evaluate to a boolean. The evaluation will be false
 because 4 is bigger then 3.*/
 
 var friends = 6;
@@ -96,16 +96,14 @@ var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
 /*Two variables are being assigned, one being named friends and the other named siblings.
-The value of friends is 6 and the value of siblings is 2. Then we ask the console to log the boolean of friends being
-bigger then siblings. The evaluatin true because 6 is bigger then 2.*/
+The value of friends is the number 6 and the value of siblings is number 2. Then the console will log the compairisom of friends being greater then siblings. The boolean will be true because 6 is bigger then 2.*/
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 /*Two variables are being assigned, one is named attendees and the other is named meals. The value of attendees is the number 9
-and the value of meals is the number 8. The consol will compare attendees and meals using a boolean because we gave it a conditional
-operator of not equal (!==). The evaluation will be true because attendees is 8 and meals is 9 and these numbers are not equal.*/
+and the value of meals is the number 8. The variables eill be compaires with a strictly not equal operator and the boolean will evaluate to true because 9 will never equal 8.*/
 
 //-------------------
 // PART 3: Logical Operators
@@ -142,9 +140,7 @@ console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
-/*The final line of code evaluated to the age, 1, because lovesToPlay can not be false, it will always be true.
-So the logic AND operation looks at the first operand determins if it can ever be false, and if it can't it then it resolves the problem
-with the second operand.*/
+/*The AND logical operator reads from left to right and compairs the operands. If both operands are true then the boolean returns true. First the operand on the left is returns as true, then the operand on the right returns as true. Then the logical operator returns the value on the right, which in this case is the number 1. The number one is equal to true. */
 //-------------------
 // FINAL CHECK
 //-------------------
