@@ -39,7 +39,7 @@ var endTimeMinute = 30
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
-I like to play an online card game that matches you up with a remote opponent. When you are matched the loding screen displays you and your opponents screen names. I imagine it may look something like this:
+I like to play an online card game that matches you up with a remote opponent. When you are matched the loading screen displays you and your opponents screen names. I imagine it may look something like this:
 ```
 (firstOpponent + " VS " + secondOpponent);
 ```
