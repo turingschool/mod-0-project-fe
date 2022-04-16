@@ -21,27 +21,42 @@ for (var i = 0; i < 9; i++) {
 for (var i = 0; i < 3; i++) {
   console.log(i);
 }
-
+// console.log("==================================================");
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
-
+/* 0, 1, 2 is logged into the consol because the consol is logging the position of i.
+We told i to start at 0 then to run a loop until i is less then 3, and to move in
+increments of 1. So it logged 0, 1, 2 because they are all less then 3, then the loop
+stoped because it got to 3 and no longer met the conditions of the loop. */
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
-
+var total = 0;
+for (var i = 0; i < 8 ; i++){
+  total = total + 2 + 2; // can also be written total += 2 + 2
+}
+console.log(total);
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
+ for (i = 0; i < 10; i++) {
+   console.log("She sells seashells down by the seashore");
+ }
 
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
-// YOU DO: Write code below that logs to the console a String of "This is loop number: " 
+// YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
-
+for (var i = 0; i < 10; i++) {
+  console.log("This is loop number " + i);
+}
 // YOU DO: Using a for loop, how could you get an output that looks like this:
-
+for (var i = 10; i > 0; i--){
+  console.log(i);
+}
+//console.log(i);
+//}
 // 10
 // 9
 // 8
@@ -53,6 +68,6 @@ for (var i = 0; i < 3; i++) {
 // 2
 // 1
 
-// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend 
+// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
 // progress, that means it's time to reach out to your Mod 0 group on Slack!
