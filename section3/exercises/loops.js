@@ -24,21 +24,31 @@ for (var i = 0; i < 3; i++) {
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
-
+/* For the second example the data type number will be logged, it will print 0, 1, 2. This
+will happen because console.log is set to print i or the index. JavaScript is a zero-based language,
+it begins counting from 0 not 1. In the loop above i < 3, so it will continue to count until it hits
+3. */
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
+for (var i = 0; i < 7; i++) {
+  console.log(2 + 2);
+}
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
-
+for (var i = 0; i < 10; i++) {
+  console.log("She sells seashells down by the seashore");
+}
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
-// YOU DO: Write code below that logs to the console a String of "This is loop number: " 
+// YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
+for (var i = 10; i > 0; i--) {
+  console.log("This is a loop number: " + i);
+}
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 
@@ -53,6 +63,6 @@ for (var i = 0; i < 3; i++) {
 // 2
 // 1
 
-// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend 
+// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
 // progress, that means it's time to reach out to your Mod 0 group on Slack!
