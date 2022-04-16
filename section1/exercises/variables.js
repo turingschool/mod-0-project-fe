@@ -23,8 +23,8 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var str = 'Harry Potter must not return to Hogwarts';
-console.log(str);
+var dialog = 'Harry Potter must not return to Hogwarts';
+console.log(dialog);
 
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
@@ -32,7 +32,7 @@ console.log(str);
 // log all three variables to the console.
 var firstName = "Anna";
 console.log(firstName);
-var isHungry = "no" === "yes";
+var isHungry = true;
 console.log(isHungry);
 var numberOfPets = 4;
 console.log(numberOfPets);
@@ -52,7 +52,7 @@ console.log(numberOfPets);
 // log all three variables to the console.
 firstName = "Javonne";
 console.log(firstName);
-isHungry = "yes" === "yes";
+isHungry = false;
 console.log(isHungry);
 numberOfPets = 0;
 console.log(numberOfPets);
