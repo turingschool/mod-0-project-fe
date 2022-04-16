@@ -57,4 +57,5 @@ I like to play an online card game that matches you up with a remote opponent. W
 - I'm wondering if I am using the inline code in a way that I shouldn't. For example, like I'm using it in these questions?
 
 - I got ahead of myself with my commits and didn't follow the format outlined in this sections README. I had read the whole README before starting and just forgot. I'll follow the guideline better in the next sections. Will most the assignments have detailed directions on how to make commits?
+
   *Update* I did end up rebasing so it would have the correct commit message. I know not to rebase after something has been pushed, but since I hadn't pushed yet I thought it would be alright. Hopefully I got it right.
