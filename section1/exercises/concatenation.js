@@ -41,7 +41,7 @@ console.log("The " + speedy + " jumped over the " + slowPoke)
 
 slowPoke = "tortoise";
 speedy = "hare";
-console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -50,7 +50,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
 var firstSeed = "Tod";
 var secondSeed = "Laci";
 var tableNumber = 3;
-console.log(firstSeed + " and " + secondSeed + " will be matched at table " + tableNumber);
+console.log(firstSeed + " and " + secondSeed + " will be matched at table " + tableNumber + ".");
 
 //-------------------
 // FINAL CHECK
