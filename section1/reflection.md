@@ -6,9 +6,9 @@
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
-  - `numerical` = A data type that is a number. It can be a negative,  positive or decimal. It can not be a fraction or contain commas.
-  - `string` = A string is data that is wrapped in ether single or double quotes (can be ether but the start and end must match) it can consist of number, letters and some symbols. There are some symbols that need special character syntax.
-  - `boolean` = This data type compares two properties and determines if the outcome is true or false.  
+  - `numerical` = A data type that is a number. It can be a negative,  positive or a decimal. It can not be a fraction or contain commas.
+  - `string` = A string is a data type that is wrapped in ether single or double quotes (can be ether but the start and end must match) it can consist of numbers, letters and some symbols. There are some symbols that need special character syntax.
+  - `boolean` = This data type compares two operands and determines if the outcome is true or false.  
 <br><br>
 3. How would you log the string `"Hello World!"` to the console?
   ```
@@ -17,7 +17,7 @@
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
-  You can use `///` or wrap the text in `*/` to comment out something in JavaScript. You'd do this to leave notes about what the code does to yourself and whoever else is reading the code.
+  You can use `//` or wrap the text in `/* */` to comment out something in JavaScript. Do this to leave notes about what the code does to yourself and whoever else is reading the code.
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
 
@@ -41,7 +41,7 @@ var endTimeMinute = 30
 
 I like to play an online card game that matches you up with a remote opponent. When you are matched the loding screen displays you and your opponents screen names. I imagine it may look something like this:
 ```
-(firstOpponent + "vs" + secondOpponent);
+(firstOpponent + " VS " + secondOpponent);
 ```
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
@@ -50,9 +50,11 @@ I like to play an online card game that matches you up with a remote opponent. W
 
   *Update* I went back with fresh eyes and re-read the definition for `object` in the book. Now my understanding of it is that it's something like `var` or `console` then the contents in the data type are `parameters`?
 
-
 - What vocabulary word do I use to describe something like what is being compared in a `boolean`. I used `property` in question 2, but I initially put `object`. I'd like to know if there is an umbrella term to describe the different parts inside a data type, or if you'd just use words like "compares two strings" or "compares two numbers"?
+
+  *Update* I landed on using the vocabulary word operands.
 
 - I'm wondering if I am using the inline code in a way that I shouldn't. For example, like I'm using it in these questions?
 
 - I got ahead of myself with my commits and didn't follow the format outlined in this sections README. I had read the whole README before starting and just forgot. I'll follow the guideline better in the next sections. Will most the assignments have detailed directions on how to make commits?
+  *Update* I did end up rebasing so it would have the correct commit message. I know not to rebase after something has been pushed, but since I hadn't pushed yet I thought it would be alright. Hopefully I got it right.
