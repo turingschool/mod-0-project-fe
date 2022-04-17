@@ -19,10 +19,10 @@
 - Epicurious is a recipe website I love, when you go to the search bar, you are prompted to enter a recipe or food, if you do it will take you to the page with matches, else it prompts you to enter your search again.
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
-* You add multiple conditions to an `if` statement by using **If...Else**. If the condition of the first statement is met than the programs stops running, but if that statement evaluates to false, the program will keep running, to do this, you add an __else...if__ statement. If condition one is not met, else move on to condition two, if condition two is met, the code stops running, __else__, if condition two is not met, the computer moves on to condition three and so on.
+* You add multiple conditions to an `if` statement by using **If...Else**. If the condition of the first statement is met than the programs stops running, but if that statement evaluates to false, the program will keep running, to do this, you add an _else...if_ statement. If condition one is not met, else move on to condition two, if condition two is met, the code stops running, `else`, if condition two is not met, the computer moves on to condition three and so on.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 * The console in the browser, which is part of the Chrome DevTools, is an incredible tool. It allows you to play with around with code or check if two conditions are met. You can write the expression directly in the console to check your code.
 
 7. What questions do you still have about `if` statements and/or functions?
-* I'm finding the logic of logical operators to be incredibly difficult. I think it may just be a thing that takes time. Thinking through the logic before writing the code is challenging. 
+* I'm finding the logic of logical operators to be incredibly difficult. I think it may just be a thing that takes time. Thinking through the logic before writing the code is challenging.
