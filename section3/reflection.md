@@ -11,7 +11,7 @@
 
 3. In your own words, explain what an Array method is.
 
-* An Array method is a variable that's name has a list of values. The values are wrapped in square brackets and separated by commas. The values can be strings, numbers, functions, objects and even other arrays. You can different data types in the same array. The values of the array are each assigned a position starting from zero. To call a value in an array you would use its position.   
+* Array method gives you a way to interact with with the values stored in an array. Different methods allow you to interact in different ways. For example, add and remove values from the beginning, end or even from within the array list. 
 
 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?
 
@@ -19,7 +19,7 @@
 
 * A loop will check a condition using a variable and numbers. Set what number the variable should start on, a condition where it should end and what increments to count by. The increments can be both positive and negative. The condition where the loop will end will evaluate to a boolean. The loop will run, counting as log as the boolean is returning true. When the boolean returns false the loop stops. The loop has a code block. Every time the loop returns true the code block will run. When the loop returns false the code block will not run and the loop stops.
 
-* Loops can use the values in arrays by referencing the the position of each array value with the value of the loop variable. Code can be executed in the code block using the values of the array. Set the position of the array to be the value of the loop variable in order to run the condition of the loop through every array variable, or a portion of the array that is specified in the condition.
+* Loops can use the values in arrays by referencing the the position of each array value with the value of the loop variable. Code can be executed in the code block using the values of the array. Set the position of the array to be the value of the loop variable in order to traverse the array, or a portion of the array that is specified in the condition of the loop.
 
 5. If you had to teach a 5 year old about loops, how would you explain it?
 
