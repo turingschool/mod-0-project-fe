@@ -36,7 +36,7 @@ because it is adding words and numbers together and wrapping them in quotes.*/
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The" + " " + speedy + " jumped over the" + " " + slowPoke);
+console.log("The " + speedy + " jumped over the " + slowPoke);
 
 
 // YOU DO:
@@ -47,7 +47,7 @@ console.log("The" + " " + speedy + " jumped over the" + " " + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log("In a predictable result, the" + " " + slowPoke + " beat the" + " " + speedy + "!");
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -57,8 +57,8 @@ var firstName = "Lucy";
 var animalType = "frog"
 var numberOfAnimals = 12
 
-console.log(firstName + " loves" + " " + animalType + "s so much," + " " + firstName
-+ " has" + " " + numberOfAnimals + "!");
+console.log(firstName + " loves " + animalType + "s so much, " + firstName
++ " has " + numberOfAnimals + "!");
 
 //-------------------
 // FINAL CHECK

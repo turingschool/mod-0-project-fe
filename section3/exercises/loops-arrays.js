@@ -44,21 +44,20 @@ for (var i = 0; i < num.length; i++) {
 // each name except the first two.
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
-names.splice(-0,2);
-
 for (var i = 0; i < names.length; i++) {
-console.log(`Happy Birthday ${names[i]}!`);
-}
+  if (i >= 2) {
+    console.log(`Happy Birthday ${names[i]}!`);
+  }
 
-// THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
-// The age should determine which message is printed out:
-  // Under 18? "Oh no, you can't vote quite yet."
-  // 18 or over? "Make sure you get out and vote!"
+//THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
+//The age should determine which message is printed out:
+  //Under 18? "Oh no, you can't vote quite yet."
+  //18 or over? "Make sure you get out and vote!"
 
-// WORD FROM THE WISE: Before you start coding, jot down, with pen and paper, what steps you
-// want to tell the program to take. Think of all the concepts you've learned so far.
+//WORD FROM THE WISE: Before you start coding, jot down, with pen and paper, what steps you
+//want to tell the program to take. Think of all the concepts you've learned so far.
 
-// Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
+//Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 
