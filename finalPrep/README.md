@@ -25,7 +25,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 - [x] I have refactored my `section1` exercises to the best of my ability
 - [x] I have refactored my `section2` exercises to the best of my ability
-- [x] I have refactored my `section3` exercises to the best of my ability
+- [X] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
