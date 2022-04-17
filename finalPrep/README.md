@@ -1,4 +1,4 @@
-# Final Prep- testing
+# Final Prep
 
 Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
