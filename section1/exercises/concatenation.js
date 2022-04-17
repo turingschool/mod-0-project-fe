@@ -24,9 +24,9 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 // This will log the string: "My zoo as 7 unicorns!"
-// Also knowsn as a type coercion
-// numberOfCreatures is a value of 7
-// creatures is a string = unicorns
+// numberOfCreatures is assigned a value of 7
+// creatures is assigned a value of "unicorns"
+// The log will run a concatentation and combine the series of strings
 
 
 // YOU DO:
@@ -43,8 +43,8 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 // reads "In a predictable result, the tortoise beat the hare!"
 // Note that we are omitting the var keyword below, because we are re-assigning the variables
 
-var slowPoke = "tortoise";
-var speedy = "hare";
+slowPoke = "tortoise";
+speedy = "hare";
 
 console.log("In a predictable result the " + slowPoke + " beat the " + speedy);
 
