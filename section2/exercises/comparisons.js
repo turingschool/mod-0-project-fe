@@ -142,7 +142,7 @@ console.log(lovesToPlay || lovesDogPark);
 Only one value needs to be true. */
 
 // Determine if the dog loves to play and is a puppy
-var puppy = 1 >= age;
+var puppy = 2 >= age;
 
 console.log(lovesToPlay && puppy);
 // In this case the is true, the dog loves to play and is a puppy. Explanation below.
@@ -151,9 +151,9 @@ console.log(lovesToPlay && puppy);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 /* I believe in this case the code above will evaluate to true, but to determine this we have to first
-decide what constitutes a puppy. Dogs are usually considered puppies if they are one year old or younger,
-so in this case we would create a variable puppy and assign it a value of 1 is equal to or more (1 >= age). If the
-variable age had been 2 or above, than the dog would not have been a puppy and the code above would evaluate to false
+decide what constitutes a puppy. Dogs are usually considered puppies if they are two years old or younger,
+so in this case we would create a variable puppy and assign it a value of 2 is equal to or more (2 >= age). If the
+variable age had been 3 or above, than the dog would not have been a puppy and the code above would evaluate to false
 because lovesToPlay and puppy would have to both be true. */
 
 //-------------------

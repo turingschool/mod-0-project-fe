@@ -92,7 +92,7 @@ When cupsOfFlour = 2 and hasSauce = true, your program should log "I can make pi
 When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pizza";
 */
 
-var cupsOfFlour = 3;
+var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
@@ -111,6 +111,6 @@ My solution did use a logical operator, in JavaScript logical operators are usua
 used with boolean values. If/else statements work for this logic, because if you
 using the logical AND (&&) operator, both sides of the expression must be true, if
 one side is false, then the code moves on to the next expression, until it evalutes to
-to true. If using the OR (||) operator only one side if the expression must be trouble
+to true. If using the OR (||) operator only one side if the expression must be true
 for it to evaluate to true.
 */
