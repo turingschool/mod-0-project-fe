@@ -53,24 +53,54 @@ console.log(animals [4]);
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
 
+var foods = ["Spinach", "Avocado", "Blueberries", "Poultry"];
+console.log(foods);
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
 
+var numFoods;
+numFoods = foods.length;
+console.log(numFoods);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
 
+foods [4] = "Broccoli";
+console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
+
+// Removes last item in array
+// Unlike using delete, the last element is removed completely and the array length reduced.
+foods.pop();
+console.log(foods);
+
+//OR
+// Setting the length property to a value less than the current value.
+// Any element whose index is greater than or equal to the new length will be removed.
+
+var foodsNew = ["Salmon", "Kale", "Brussels Sprouts", "Cheese", "Beets"];
+
+foodsNew.length = 4
+console.log(foodsNew);
 
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
 
+foods.push("Tuna", "Coconut", "Bok Choy");
+console.log(foods);
+console.log(foods.length);  // Updates to 7 elements
+console.log(numFoods);      // Still says 4 elements???
+
+
 // YOU DO: Remove the food that is in index position 0.
+
+foods.shift();       // removes index 0 (Spinach)
+console.log(foods);
 
 //-------------------
 // PART 3: Where are Arrays used?
