@@ -61,7 +61,7 @@ for (var i = 2; i < names.length; i++) {
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
 
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18]
-for (var i = 0; i < ages.length; i++){
+for (var i = 0; i < ages.length; i++) {
   console.log(ages[i]);
  if (ages[i] <18){
   console.log("Under 18? Oh no, you can't quite vote yet");

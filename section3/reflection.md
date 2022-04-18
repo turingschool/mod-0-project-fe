@@ -6,6 +6,8 @@ It was tough at first, but I recalled much from the growth mindset podcast video
 
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 
+Youtube saves videos in an array as a playlist. For example, the array is "videos saved for later", and the items in the array are the specific videos you choose.
+
 3. In your own words, explain what an Array method is.
 
 commands that make changes to a given array. Most common uses are adding/deleting a value from the front/back of an array.
