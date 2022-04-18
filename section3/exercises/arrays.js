@@ -123,9 +123,14 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// 1: Google Podcasts - There are lists of podcasters and by selecting a single podcast,
+// you get a list of all their episodes.
+
+// 2: Mountain Project - A climbing application that stores lists of routes on specific
+// climbing walls (organized from L-R ideally).
+
+// 3: Mountain Project Cont... - On each persons profile, they log all of their ascents,
+// creating a chronological list of climbs completed
 
 
 //-------------------
@@ -139,15 +144,29 @@ will be able to call an Uber.
 
 The user can call an uber if they have 15% battery remaining, or more. In this case, it doesn't matter
 if the user has a charger at all, or what type.
-The can call an uber if they have a charger and it is a car charger.
+They can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft = 12;
+var percentBatteryLeft = 15;
 var hasCharger = true;
 var chargerType = "car";
 
+
 // Write your conditional here
 
+// Check if battery charge is at least 15%.
+if (percentBatteryLeft >= 15 ) {
+  // Allow user to order an Uber
+  console.log("Battery is greater than 15%, you may call an Uber.");
+// If battery charge is less than 15%, and user has a car charger - they can call Uber.
+} else if (hasCharger && chargerType) {
+  // Allow user to order an number
+  console.log("Accepted, you may call an Uber.");
+  // If battery charge is less than 15% and no car charger - they cannot call an Uber.
+}  else if (percentBatteryLeft < 15 && hasCharger === false) {
+  // Deny user from ordering an Uber
+  console.log("Uber is unavailable due to insufficent battery charge without car charger");
+}
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,
