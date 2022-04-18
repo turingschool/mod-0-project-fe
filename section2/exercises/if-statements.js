@@ -70,13 +70,13 @@ When numQuarters = 2, program should log "I have enough money for a gumball"
 When numQuarters = 3, program should log "I have enough money for a gumball"
 */
 
-var numQuarters = 2;
+var numQuarters = 1;
 
 // Write your conditional here
 
-if (numQuarters <=1) {
+if (numQuarters <=2) {
 console.log("I don't have enough money for a gumball");
-} else if (numQuarters >= 2) {
+} else {
 console.log("I have enough money for a gumball");
 }
 
