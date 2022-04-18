@@ -13,9 +13,8 @@ Booleans - Used for true/false statements.
 3. How would you log the string `"Hello World!"` to the console?
 
 var phrase = "Hello World!"
-console.log(`${phrase}`);
+console.log(phrase);
 
-not sure why this isn't formatting in proper code, but this is the same thing I did in the exercises.
 
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 
