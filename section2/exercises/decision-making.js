@@ -38,16 +38,21 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-
+-This is an if/else structure that prints "hat" if the condition of the variable doorChoice being strictly equal to 1 is evaluated as true.
+-If the user selects door choice 1 it will change the value of the variable bearClothing to "hat", if not then it changes the value to "scarf".
 2. What variable has a new value assigned to it after the first if statement executes?
-
+-bearClothing has a new value assigned to it after the first if statement executes.
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-
+-the bearClothing value would be "scarf"
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-
+-Between lines 27 and 35 is an if/else if statement.
+-The proceeding console.log statements give the user 3 choices, user changes "bearChoice" depending on which statement is chosen.
+-lines 27-35 contain concatenations of the value of bearClothing in separate strings that print different statements depending on the users choice.
+-The console continues processing else if statements until one of them returns a value of "true", at which point that specific concatenation is printed
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-
+"You run as fast as you can into the next room. It's full of snakes!"
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
+"You tell the bear the hat is too small and it starts to cry!"
 7. What is your favorite ending?
+"I like selecting any number besides 1, 2, or 3 for bearChoice and getting to be the bear's best friend!"
 */
