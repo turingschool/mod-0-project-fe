@@ -14,9 +14,9 @@
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
-  Removing some of the support I had in section 1 made me a bit eager to see how much information I retained from the previous
-section. There were a few points I did get stuck or received error messages, however it gave me the opportunity to read through
-the error codes and problem solve on my own. In the end it reminded me what resources I have available to me while also giving me a little confidence boost.
+    Removing some of the support I had in section 1 made me a bit eager to see how much information I retained from the previous
+    section. There were a few points I did get stuck or received error messages, however it gave me the opportunity to read through
+    the error codes and problem solve on my own. In the end it reminded me what resources I have available to me while also giving me a little confidence boost.
 
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
@@ -35,7 +35,7 @@ If a user clicks a "thumbs down" icon under a youtube video, then the web applic
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
   In order to add multiple conditions to an `if` statement you need to add an `else if` command that will add a new value to your variable with a new expected outcome. The program will then question if the value is "true" based on the first `if` variable assignment. If the input is in fact true, the code will stop.
-If the value is "false" the program will then move to the next `else if` command to see if it can determine a "true" value. If the program can determine this value to be true the console.log will read whatever the `else if` assigned outcome is. However, if the program determines this value input to be "false" as well it will then move on to the next command. Repeating this process until it can determine a "true" value.
+  If the value is "false" the program will then move to the next `else if` command to see if it can determine a "true" value. If the program can determine this value to be true the console.log will read whatever the `else if` assigned outcome is. However, if the program determines this value input to be "false" as well it will then move on to the next command. Repeating this process until it can determine a "true" value.
 
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
