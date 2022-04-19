@@ -12,6 +12,7 @@
    * Boolean data types evaluate to one of two values:
      1. True
      2. False
+     
      Comparison operators may be used in the variable name.
 
 3. How would you log the string `"Hello World!"` to the console?
@@ -33,10 +34,10 @@
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
-  An app I use frequently is Momentum Dash. It is a productivity app and three variables that I think they would use would be:
-  1. var time to display the current time on the screen. This would be a string data type.
-  2. var dailyQuote This would also be a string data type, as it is a sentence on the screen
-  3. var checkBox This would be a Boolean data type, indicating is it is true or false that the checkbox is checked off.
+   An app I use frequently is Momentum Dash. It is a productivity app and three variables that I think they would use would be:
+   * var time to display the current time on the screen. This would be a string data type.
+   * var dailyQuote This would also be a string data type, as it is a sentence on the screen
+   * var checkBox This would be a Boolean data type, indicating is it is true or false that the checkbox is checked off.
 
 7. In your own words, explain what concatenation is.
 
@@ -44,8 +45,9 @@
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
-  When I sign up to volunteer for something at my kids' school, we use SignUp Genius, where first and last names are put inputted separately. When submitting for confirmation of what you signed up for, I would think that they use a form of concatenation to show the completed submission form, with first and last names together, as well as volunteer task choice.
+   When I sign up to volunteer for something at my kids' school, we use SignUp Genius, where first and last names are put inputted separately. 
+   When submitting for confirmation of what you signed up for, I would think that they use a form of concatenation to show the completed submission form, with first and last names together, as well as volunteer task choice.
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-  Is there an instance where concatenation is preferred to interpolation? Why?
+   Is there an instance where concatenation is preferred to interpolation? Why?
