@@ -24,10 +24,13 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!") // My zoo
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-  /* A string data type will be logged to the console. This is due to the + " " +
-     section of code. The " " is type coercion whereby js is helping us concatenate a number data type
-     and a string data type together and for a string to be logged in the console. */
+/*
 
+A string data type will be logged to the console. This is due to the + " " +
+section of code. The " " is type coercion whereby .js is helping us concatenate a number data type
+and a string data type together. Resulting in a string to be logged to the console.
+
+*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -47,7 +50,6 @@ speedy = "hare";
 
 console.log("In a predictable result, the " + slowPoke + " beat the " +speedy);
 
-
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
@@ -59,8 +61,8 @@ var fourWheels = "car";
 
 // Did you kmow that 2 motorcycles have as many wheels as one car.
 
-console.log("Did you know that " + numberOfWheels + " " + twoWheels + " have as many wheels as one " + fourWheels + ".");
-
+console.log("Did you know that " + numberOfWheels + " " + twoWheels + " have as many wheels as one "
++ fourWheels + ".");
 
 //-------------------
 // FINAL CHECK
