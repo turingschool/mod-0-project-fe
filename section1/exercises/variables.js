@@ -23,8 +23,8 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var warnHarryPotter = 'Harry Potter must not return to Hogwarts!';
-console.log(warnHarryPotter);
+var warnHarry = 'Harry Potter must not return to Hogwarts!';
+console.log(warnHarry);
 
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
@@ -34,12 +34,8 @@ console.log(warnHarryPotter);
 
 // Declared 3 variables and stored the matching data types
 
-var firstName;
-firstName = 'Shane';
-
-var isHungry;
-isHungry = false;
-
+var firstName = 'Shane';
+var isHungry = false;
 var numberOfPets = 0;
 
 // log 3 variables above to console
@@ -53,9 +49,13 @@ console.log(numberOfPets);
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
-  /* For the firstName variable I used the string data type as I am only using letters. The second data type
-     is a boolean data type (and I am currently not hungary). The final data type is a number (an integer),
-     in which I do not own any pets presently.   */
+/*
+
+For the firstName variable I used the string data type as I am only using letters. The second data type
+is a boolean data type (and I am currently not hungary). The final data type is a number (an integer),
+in which I do not own any pets presently.
+
+*/
 
 
 // YOU DO:
