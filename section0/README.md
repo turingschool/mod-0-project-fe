@@ -32,9 +32,14 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+    - _I feel excited but nervous about the professional development curriculum. The `Networking` and and `Negotiating` parts I am the most nervous about._
+
+- What are you excited about when it comes to professional development?
+    - _I'm excited to improve my `Networking` and `Negotiating` skills. Especially, since those are the area's I am most nervous about._
+
 - What are your questions or concerns about these expectations?
+    - _My only concern is that I will let my past experiences in the working world to cloud my confidence and judgement while choosing a job._
 
 ## Part B: Pairin Survey
 
@@ -44,8 +49,14 @@ You can find all information on the curriculum and job search support [on the Ca
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
 - First section: Choose adjectives to answer how you currently are
+    ✅ Done!
+
 - Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes.
+    ✅ Done!
+
 2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your survey submission.
+    - _I'm actually very surprised at how accurate my results are after reading them over. It makes sense to me that my `Personal` section I ranked the lowest on... 😅 Something I look forward to working on!_
+
 
 _Optional: To build an understanding of your Pairin results, here are additional resources:_
 
@@ -63,13 +74,17 @@ As you begin this new chapter of your career, the Career Development team is her
 The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+    - _On a scale of 1-4, 1 being not easy at all and 4 being very easy, I'd say my ease during the activity was about a 2. Once I got to the second tab and thinking about who in my network I would contact and why I struggled a lot._
+
 - As you start at Turing, what are your biggest questions or concerns about networking?
+    - _How to do it properly. 😆 I'm great at customer service, and in some ways that is `Networking`, but I'm nervous that it will feel like customer service and that will make me hesitant to do it._
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+    - 
 - What are your goals for this career?
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
 
@@ -94,6 +109,8 @@ Please prepare responses to these questions to submit in the survey:
 
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
+
+# **_NOTE: I had done the survey, but wasn't sure if I was also supposed to fill everything in within my `repo`, so I opted to do both. That being said my answers may vary a bit in content and length._**
 
 ## Deliverables
 
