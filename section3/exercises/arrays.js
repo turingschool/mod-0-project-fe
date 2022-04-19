@@ -49,7 +49,7 @@ console.log(animals[4]);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-var foods = ["apples","jicama","bananas","strawberries"]
+var foods = ["apples", "jicama", "bananas", "strawberries"]
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -68,7 +68,7 @@ console.log(foods);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-var foods = ['apples','jicama','bananas','strawberries','peaches','blueberries','avocado'];
+var foods = ['apples', 'jicama', 'bananas', 'strawberries', 'peaches', 'blueberries', 'avocado'];
 console.log(foods);
 
 // YOU DO: Remove the food that is in index position 0.
@@ -97,15 +97,15 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // all from the same one.
 
 console.log("1. Peloton app lists out workout choices");
-var workouts = ['arms','legs','core','total body'];
+var workouts = ['arms', 'legs', 'core', 'total body'];
 console.log(workouts);
 
 console.log("2. The Tasty app uses lists for recipes, sorted by course of meal, or ingredients");
- var mealCourse = ['breakfast','lunch','dinner','snacks'];
+ var mealCourse = ['breakfast', 'lunch', 'dinner', 'snacks'];
  console.log(mealCourse);
 
 console.log("3. Apple music uses lists to sort out genre of music");
-var musicGenre = ['Jazz','Classic Rock','Country','Classical','Hip hop'];
+var musicGenre = ['Jazz', 'Classic Rock', 'Country', 'Classical', 'Hip hop'];
 console.log(musicGenre);
 
 //-------------------
