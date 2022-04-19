@@ -31,10 +31,10 @@ console.log(request);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Emily";
-var isHungry = "false";
-var numberOfPets = "2";
 console.log(firstName);
+var isHungry = "false";
 console.log(isHungry);
+var numberOfPets = "2";
 console.log(numberOfPets);
 
 // IN WORDS:
@@ -47,10 +47,10 @@ console.log(numberOfPets);
   // values (but same data type).
 // log all three variables to the console.
 var firstName = "Randy";
-var isHungry = "true";
-var numberOfPets = "1";
 console.log(firstName);
+var isHungry = "true";
 console.log(isHungry);
+var numberOfPets = "1";
 console.log(numberOfPets);
 
 // YOU DO:
