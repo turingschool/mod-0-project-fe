@@ -49,7 +49,9 @@ for (var i = 0; i < numsToDouble.length; i++) {
 // each name except the first two.
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
-
+for (var i = 2; i < names.length; i++) {      // Begin loop at 2nd indexed element. Sorry Sevy & Lindsey!
+  console.log('Happy Birthday ' + names[i]);  // Log Happy Birthday <name> beginning from 2nd indexed element
+}
 
 // THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
 // The age should determine which message is printed out:
@@ -61,4 +63,25 @@ var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"
 
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
 
+
+// Steps (& Pseudo Code)
+
+// Array is defined already
+// We need for loop 1st ==> with conditonal inside of loop
+// if/else structure
+      // if (ages < 18)
+      //  log ==> Can't vote
+      // else (no need to add >=18)
+      //    log ==> Go Vote!
+
+
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
+
+for (var i = 0; i < ages.length; i++) {             // (count from 0th index; dynamic index length; increement by 1)
+  console.log(ages[i]);
+ if (ages[i] < 18) {                                // if you're not 18 ==> cant't vote
+  console.log('Oh no, you can\'t vote quite yet');
+}  else {                                           // if you >= 18 ==> Go vote!
+ console.log('Make sure you get out and vote!');
+  }
+}  // End for loop
