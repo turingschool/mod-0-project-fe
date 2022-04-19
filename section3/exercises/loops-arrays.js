@@ -19,17 +19,17 @@ for (var i = 0; i < animals.length; i++) {
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
 for (var i = 0; i < animals.length; i++) {
-  console.log(animals[i] + ' is awesome!')
+  console.log('The ' + animals[i] + ' is awesome!');
 }
 
 
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-var foodArray = ['Banana', 'Potato', 'Cat food'];
+var foodArray = ['Bananas', 'Potatoes', 'Cat food'];
 
 for (var i = 0; i < foodArray.length; i++) {
-  console.log('Add ' + foodArray[i] + ' to shopping list!')
+  console.log('Add ' + foodArray[i] + ' to shopping list!');
 }
 
 
@@ -70,6 +70,6 @@ for (var i = 0; i < ages.length; i++) {
     console.log('Make sure to get out and vote!');
   // If not, decline right to vote
 } else {
-    console.log("Oh no, you can't vote quite yet.")
+    console.log("Oh no, you can't vote quite yet.");
   }
 }
