@@ -57,7 +57,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [✅] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [✅] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [✅] Add link to your gist here: [Mentee DTR Gist](https://gist.github.com/jrmedina/76f022375d2ed98810ba2c68337fd0f9)
+- [✅] Add link to your gist here: [Mentee DTR Gist](https://gist.github.com/jrmedina/76f022375d2ed98810ba2c68337fd0f9)
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
