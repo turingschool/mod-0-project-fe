@@ -84,7 +84,8 @@ The first step for networking in your new career as a software developer is to a
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
-    - _My name is Emily Miles, and I am born and raised is CT.
+    - _My name is Emily Miles, and I am born and raised is CT._
+    
 - What are your goals for this career?
 
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
@@ -95,7 +96,7 @@ Whatever your comfort level with interviewing, an effective interview comes down
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
 - Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
-    - _Yes, I have a LinkedIn profile but I don't thinks it's 100% finished. I haven't used it in quite sometime and only used it to see if there were any other jobs listed that weren't on Indeed.
+    - _Yes, I have a LinkedIn profile but I don't thinks it's 100% finished. I haven't used it in quite sometime and only used it to see if there were any other jobs listed that weren't on Indeed._
 
 - Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
     - _I definitely feel like I could use work in the resume department, but also feel like my current resumes effectiveness is much better than it had been in the past. I have never written a technical resume, and since I still need help with my current resume, I'm nervous about being able to create something that is effective and presents me appropriately._
