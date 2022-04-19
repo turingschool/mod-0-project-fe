@@ -24,10 +24,13 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-  /* The resulting data type that will be logged from line 22 will be a string. Much like concatenation
-  uses type coercion to turn a number into a string, interpolation accomplishes the same outcome yet may be
-  cleaner and easier to read in long strings.
-  */
+/*
+
+The resulting data type that will be logged from line 22 will be a string. Much like concatenation
+uses type coercion to turn a number into a string. Interpolation accomplishes the same result yet may be
+cleaner and easier to read in long strings.
+
+*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
