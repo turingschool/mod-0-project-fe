@@ -84,17 +84,24 @@ The first step for networking in your new career as a software developer is to a
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
-    - 
+    - _My name is Emily Miles, and I am born and raised is CT.
 - What are your goals for this career?
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+
 
 ### Materials
 
 It’s important for the team to know about each student’s level of experience with job search-related materials. Please prepare responses to these questions to submit in the survey:
 
 - Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
+    - _Yes, I have a LinkedIn profile but I don't thinks it's 100% finished. I haven't used it in quite sometime and only used it to see if there were any other jobs listed that weren't on Indeed.
+
 - Have you created a resume before? If so, how confident have you felt about your resume’s effectiveness previously? What questions or concerns do you have about writing a technical resume?
+    - _I definitely feel like I could use work in the resume department, but also feel like my current resumes effectiveness is much better than it had been in the past. I have never written a technical resume, and since I still need help with my current resume, I'm nervous about being able to create something that is effective and presents me appropriately._
+
 - Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters’ effectiveness previously? What questions or concerns do you have about writing cover letters?
+    - _No, I have never written a cover letter before, partially because I did not know how to write one. I want to make sure I have the skills to do these things going forward in my career, so understanding how to properly write a cover letter and resume are my only concerns._
 
 ### Job Search Strategies
 
@@ -110,7 +117,7 @@ Please prepare responses to these questions to submit in the survey:
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
-# **_NOTE: I had done the survey, but wasn't sure if I was also supposed to fill everything in within my `repo`, so I opted to do both. That being said my answers may vary a bit in content and length._**
+**_NOTE: I had already done and submitted the survey, but after rereading the directions I wasn't sure if I was also supposed to fill everything in within my `repo`, so I opted to do both. That being said my answers may vary a bit in content and length._**
 
 ## Deliverables
 
