@@ -14,7 +14,7 @@ It pushed me to acquire some knowledge on my own, and made the learning process 
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
-A conditional statement is if, then, else. If I want to work out, then I need to go to the gym! Facebook most likely uses if userName type of statements!
+A conditional statement is if, then, else. If I want to work out, then I need to go to the gym! Instagram probably uses if statements to determine suggested follows!
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 

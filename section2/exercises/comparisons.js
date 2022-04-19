@@ -82,24 +82,24 @@ console.log('is numberStudents less than or equal to 21?', numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-// this should see if 4 is less than 9, and return true.
+// this should see if 4 is less than 9
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-// this should see if 4 is less than books, and return false.
+// this should see if 4 is less than books
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-// this should compare if friends are greater than siblings, and return true.
+// this should compare if friends are greater than siblings
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-// this should compare if attendees is NOT equal to meals, and return true.
+// this should compare if number of attendees is NOT equal to number of meals
 
 
 //-------------------
@@ -132,7 +132,7 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age)
+console.log(lovesToPlay && age);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER: It evaluated to 1. This is because it's comparing a number and true.
 
