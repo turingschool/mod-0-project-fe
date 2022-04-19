@@ -34,8 +34,8 @@ If a user clicks a "thumbs down" icon under a youtube video, then the web applic
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
-  In order to add multiple conditions to an `if` statement you need to add an `else if` command that will add a new value to your variable with a new expected outcome. The program will then question if the value is "true" based on the first `if` variable assignment. If the input is in fact true, the code will stop.
-  If the value is "false" the program will then move to the next `else if` command to see if it can determine a "true" value. If the program can determine this value to be true the console.log will read whatever the `else if` assigned outcome is. However, if the program determines this value input to be "false" as well it will then move on to the next command. Repeating this process until it can determine a "true" value.
+    In order to add multiple conditions to an `if` statement you need to add an `else if` command that will add a new value to your variable with a new expected outcome. The program will then question if the value is "true" based on the first `if` variable assignment. If the input is in fact true, the code will stop.
+    If the value is "false" the program will then move to the next `else if` command to see if it can determine a "true" value. If the program can determine this value to be true the console.log will read whatever the `else if` assigned outcome is. However, if the program determines this value input to be "false" as well it will then move on to the next command. Repeating this process until it can determine a "true" value.
 
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
