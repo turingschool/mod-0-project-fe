@@ -23,9 +23,9 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [✅] I have refactored my `section1` exercises to the best of my ability
+- [✅] I have refactored my `section2` exercises to the best of my ability
+- [✅] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
@@ -44,15 +44,18 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- [Week 1]![Screen Shot 2022-04-19 at 4 06 03 PM](https://user-images.githubusercontent.com/102757890/164109858-49d8b148-ce92-4546-8b78-45bab6039109.png)
+
+- [Week 2]![Screen Shot 2022-04-19 at 4 06 19 PM](https://user-images.githubusercontent.com/102757890/164109949-50a2c01a-9dcb-44a1-83ea-55f505c21055.png)
+
+- [Week 3]![Screen Shot 2022-04-19 at 4 06 33 PM](https://user-images.githubusercontent.com/102757890/164110037-2becebd8-32e6-45d5-baa6-ff02608f8f12.png)
+
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [✅] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
   - [ ] Add link to your gist here: 
 
