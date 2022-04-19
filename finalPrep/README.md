@@ -43,10 +43,10 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-"Mod1 Week 1"![Mod1 Week 1](https://user-images.githubusercontent.com/83977544/163693086-375a85a7-e6b7-4111-b58f-515666fffb1b.png) 
-"Mod2 Week 2"![Mod1 Week 2](https://user-images.githubusercontent.com/83977544/163693124-7f26f106-2160-4f13-a766-fffa578308dc.png)
-"Mod3 Week 3"![Mod1 Week 3](https://user-images.githubusercontent.com/83977544/163693149-0f67c940-eab8-42f8-8564-442c15f604cc.png)
+*I will be in Central Time
+"Mod1 Week 1"![Mod1 Week 1](https://user-images.githubusercontent.com/83977544/164119297-2e7c7e53-3657-4b65-9d3f-1422020e7c33.png)
+"Mod2 Week 2"![Mod1 Week 2](https://user-images.githubusercontent.com/83977544/164119389-bf9a53d3-9565-4787-b0ad-747296ee80f6.png)
+"Mod3 Week 3"![Mod1 Week 3](https://user-images.githubusercontent.com/83977544/164119415-ff22d2d6-f0ef-46ba-8ec7-aae6b493845e.png)
 
 
 ## Mentorship Prep
