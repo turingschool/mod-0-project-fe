@@ -25,17 +25,13 @@ console.log(animals[0]);
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
 
-var numAnimals;
-numAnimals = animals.length;
-console.log(numAnimals);
-
+console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 
 animals [2] = "Gorilla";
 console.log(animals);
-
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
@@ -59,9 +55,7 @@ console.log(foods);
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
 
-var numFoods;
-numFoods = foods.length;
-console.log(numFoods);
+console.log(foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
@@ -94,10 +88,6 @@ console.log(foodsNew);
 foods.push("Tuna", "Coconut", "Bok Choy");
 console.log(foods);
 console.log(foods.length);  // Updates to 7 elements
-
-console.log(numFoods);      // Still says 4 elements --> This is a string that is tied to a value
-                            // 4 elements from earlier in the coded. Figured this out in Session 5!
-
 
 // YOU DO: Remove the food that is in index position 0.
 
@@ -158,15 +148,15 @@ var chargerType = "car";
 
 // Check if battery charge is at least 15%.
 if (percentBatteryLeft >= 15 ) {
-  // Allow user to order an Uber
+  // If true, allow user to order an Uber. Exit conditional
   console.log("Battery is greater than 15%, you may call an Uber.");
 // If battery charge is less than 15%, and user has a car charger - they can call Uber.
 } else if (hasCharger && chargerType) {
-  // Allow user to order an number
+  // If true, allow user to order an Uber. Exit conditional
   console.log("Accepted, you may call an Uber.");
   // If battery charge is less than 15% and no car charger - they cannot call an Uber.
 }  else if (percentBatteryLeft < 15 && hasCharger === false) {
-  // Deny user from ordering an Uber
+  // Deny user from ordering an Uber - Exit conditional
   console.log("Uber is unavailable due to insufficent battery charge without car charger");
 }
 
