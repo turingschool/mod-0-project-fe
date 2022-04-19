@@ -24,7 +24,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 //"My zoo has 7 unicorns!" consists of a number value that is the sum of a variable
-// as well as a variable that consists of characters and symbols surrounded by quotes,
+//as well as a variable that consists of characters and symbols surrounded by quotes,
 //therefore the two data types are Numeric Data and String Data.
 
 
