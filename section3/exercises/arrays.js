@@ -94,7 +94,9 @@ console.log(foodsNew);
 foods.push("Tuna", "Coconut", "Bok Choy");
 console.log(foods);
 console.log(foods.length);  // Updates to 7 elements
-console.log(numFoods);      // Still says 4 elements???
+
+console.log(numFoods);      // Still says 4 elements --> This is a string that is tied to a value
+                            // 4 elements from earlier in the coded. Figured this out in Session 5!
 
 
 // YOU DO: Remove the food that is in index position 0.
