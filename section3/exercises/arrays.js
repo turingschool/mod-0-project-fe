@@ -30,16 +30,16 @@ console.log(animals.length);
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 animals.push('Gorilla'); //Not sure this is what was wanted
-console.log(animals)
+console.log(animals);
 
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-animals[2]= "Unicorn";
-console.log(animals)
+animals[2] = "Unicorn";
+console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
-animals[4] = "Elephant";
-console.log(animals[4]);
+animals.unshift("Elephant");
+console.log(animals[0]);
 
 
 //-------------------
@@ -56,7 +56,7 @@ console.log(foodArray.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-foodArray.push('broccoli');
+foodArray.push('Broccoli');
 console.log(foodArray);
 
 
@@ -70,7 +70,7 @@ console.log(foodArray);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-foodArray.unshift('Peirogi', 'Hamburger', 'Corn Dog');
+foodArray.unshift('Pierogi', 'Hamburger', 'Corn Dog');
 console.log(foodArray);
 // YOU DO: Remove the food that is in index position 0.
 foodArray.shift();
@@ -97,8 +97,8 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // all from the same one.
 
 // 1: Spotify probably tracks liked songs with an array, also playlists.
-// 2: Tinder tracks matches with an array
-// 3: Facebook tracks events with an array
+// 2: Tinder tracks match names with an array of strings.
+// 3: Gmail stores saved email addresses in a array of strings!
 
 
 //-------------------
@@ -123,10 +123,10 @@ var chargerType = 'car';
 // Checks condition of if battery is 15% or above OR checks if you have a car charger.
 if (percentBatteryLeft >= 15 || hasCharger && chargerType === 'car') {
   // If these conditions are met, you can get home.
-  console.log('You can get home!')
+  console.log('You can get home!');
 } else {
   // If conditions are not met, you can not get home.
-  console.log("You're out of luck!")
+  console.log("You're out of luck!");
 }
 
 
