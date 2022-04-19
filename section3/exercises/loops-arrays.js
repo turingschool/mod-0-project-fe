@@ -18,7 +18,7 @@ for (var i = 0; i < animals.length; i++) {
 
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
-var animals = ["Sloth","Chinchilla","Guinea pig"];
+var animals = ["Sloth", "Chinchilla", "Guinea pig"];
 
 for (var i = 0; i < animals.length; i++) {
   console.log("The " + animals[i] + " is awesome!");
@@ -27,7 +27,7 @@ for (var i = 0; i < animals.length; i++) {
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-var groceryItems = ["bread","milk","eggs"]
+var groceryItems = ["bread", "milk", "eggs"]
 
 for (var i = 0; i < groceryItems.length; i++) {
   console.log("Add " + groceryItems[i] + " to shopping list");
@@ -36,7 +36,7 @@ for (var i = 0; i < groceryItems.length; i++) {
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
-var numList = [3,4,5,6]
+var numList = [3, 4, 5, 6]
 
 for (var i = 0; i < numList.length; i++) {
   console.log(numList[i]*2);
