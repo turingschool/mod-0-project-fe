@@ -8,7 +8,6 @@ any remaining prompt.
 Make sure to run the file with node in your command line.
 */
 
-
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
@@ -41,14 +40,13 @@ Log to the console the appropriate age range
 (puppy, adult, elderly).
 */
 
-var dogAge = 8;
+var dogAge = 10;
 // Write your conditional here
-
 if (dogAge <= 2) {
   console.log('puppy');
 } else if (dogAge <10) {
   console.log('adult');
-} else if (dogAge >= 10) {
+} else {
   console.log('elderly');
 }
 
@@ -80,7 +78,6 @@ if (numQuarters < 2) {
 }  else if (numQuarters >= 2) {
   console.log("I have enough money for a gumball");
 }
-
 */
 
 var numQuartersNew = 9;
@@ -107,30 +104,11 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 var cupsOfFlour = 1;
 var hasSauce = true
 
-// Not Working correctly. Logic error using && operator on my part & reassigning hasSauce = false
-/*
-if (cupsOfFlour < 2 && hasSauce = false) {
-  console.log('I cannot make pizza');
-} else {
-  console.log('I can make pizza');
-}
-*/
-
-/*
-// All conditions work with this code except conditon 2 (1,false) wont print anything in terminal?
-if (cupsOfFlour < 2 && hasSauce) {
-  console.log('I cannot make pizza');
-} else if (cupsOfFlour >=2 && hasSauce) {
-  console.log('I can make pizza');
-}
-*/
-
 if (cupsOfFlour < 2 || hasSauce === false) {
   console.log('I cannot make pizza');
 } else if (cupsOfFlour >=2 && hasSauce) {
   console.log('I can make pizza');
 }
-
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
