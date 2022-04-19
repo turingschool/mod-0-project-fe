@@ -27,10 +27,9 @@ console.log ("The " + [petAnimals[i]]+ " is awesome!")
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
-
 var foods= ["Noodles", "Fruit", "Vegeatables", "Tea"];
 
-for (i=0; i < foods.length; i++)
+for (i = 0; i < foods.length; i++)
 console.log("Add " + [foods[i]] + " to shopping list");
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double

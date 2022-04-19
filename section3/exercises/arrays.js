@@ -24,52 +24,54 @@ console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
-console.log(animals.length)
+console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 var animals = ["Zebra", "Giraffe", "Elephant"];
-animals.push('Gorilla')
-console.log(animals)
+animals.push("Gorilla");
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 animals = ["Zebra", "Giraffe", "Elephant"];
 animals[2] = ('Unicorn');
-console.log(animals)
+console.log(animals);
+
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 animals = ["Zebra", "Giraffe", "Elephant"];
-console.log(animals[2])
+console.log(animals[2]);
+
 //-------------------
 // PART 2: Foods: Array Methods
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
 var foods = ["Pizza", "Salad", "Pasta", "Cheesecake"];
-console.log(foods)
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
-console.log (foods.length)
+console.log (foods.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
 foods.push ("Broccoli");
-console.log (foods)
+console.log (foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
-
 console.log(foods.pop());
-console.log(foods)
+console.log(foods);
 
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
 foods.push("Tacos", "Burritos", "Enchiladas");
-console.log(foods)
+console.log(foods);
+
 // YOU DO: Remove the food that is in index position 0.
 foods.shift();
-console.log(foods)
+console.log(foods);
+
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
@@ -94,7 +96,7 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // 1: Reddit Home Page - Within Reddits "home" page is an array of subreddits the user has subscribed to.
 // 2: Bank app - Within a users bank app the spending section displays multiple arrays of transactions that month.
 //categorizing them into dining, bills, travel, etc.
-// 3: Twitch - Twitch uses multiple arrays to narrow down the users preferences these arrays can be
+// 3: Twitch - Twitch uses multiple arrays to narrow down the users preferences; these arrays can be
 //game types, streaming categories, following, and even language.
 
 
@@ -112,13 +114,14 @@ if the user has a charger at all, or what type.
 The can call an uber if they have a charger and it is a car charger.
 
 */
-var percentBatteryLeft =1;
+var percentBatteryLeft = 1;
 var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
+
 //Block of code execute if percentBatteryLeft variable has a value of 15 or higher
-if (percentBatteryLeft >=15){
+if (percentBatteryLeft >= 15){
 //Expected output:
 console.log("Congratulations! You can go home!");
 }
@@ -131,7 +134,7 @@ console.log("You need to charge your phone!");
 //Block of code executes if the first two conditions evaluate to false.
 else {
   //Expected output:
- console.log("🚨 🆘 🚨")
+ console.log("🚨 🆘 🚨");
 }
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
