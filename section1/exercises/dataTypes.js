@@ -24,11 +24,9 @@ console.log('Welcome to Turing!');
 
 console.log('99 bottles of pop on the wall...');
 
-
 // YOU DO: Write code below to log one line from your favorite song or movie:
 
 console.log('Would you believe me now. If I told you I got caught up in a wave?');
-
 
 //-------------------
 //NUMBERS
@@ -51,8 +49,6 @@ console.log(20 / 4);
 // YOU DO: log the result of the modulo of 10 into 54:
 
 console.log(10 % 54);
-
-
 
 //-------------------
 // BOOLEANS
