@@ -22,10 +22,11 @@ the error codes and problem solve on my own. In the end it reminded me what reso
 
   -   A conditional statement is a two part statement that questions a variable with only a true or false answer outcome. The second part is a result based on the outcome of the first question.
 
-    _Daily Life Example:_
+
+  *Daily Life Example:*
 IF I am feeling a little sleepy, THEN I will take a nap.
 
-    _Web Application Example:_
+  *Web Application Example:*
 If a user clicks on a "thumbs up" icon under a youtube video, then the next video to play will be something in relation.
 If a user clicks a "thumbs down" icon under a youtube video, then the web application will not show anything in relation.
 
