@@ -43,7 +43,7 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log("In a predictable result, the " + slowPoke + " beat the " + speedy+"!") //reassigned the values
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy+"!"); //reassigned the values
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -51,7 +51,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy+"
   // Then, log out ONE sentence that incorporates all THREE variables.
 var friend = "Dwight Schrute"; // best friend
 var inventory = 3333456; // amount of beets grown annually
-var vegetables = "beets🧅"; // produce harvested
+var vegetable = "beets🧅"; // produce harvested
 
 console.log('My best friend '+friend+ ' grows '+inventory+ ' heirloom ' +vegetables+ ' per year.');
 
