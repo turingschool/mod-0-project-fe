@@ -34,8 +34,6 @@ for (var i = 0; i < foodsToBuy.length; i++) {
   console.log('Add ' + foodsToBuy[i] + ' to shopping list');
 }
 
-
-
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
 
@@ -62,7 +60,6 @@ for (var i = 2; i < names.length; i++) {      // Begin loop at 2nd indexed eleme
 // want to tell the program to take. Think of all the concepts you've learned so far.
 
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
-
 
 // Steps (& Pseudo Code)
 
