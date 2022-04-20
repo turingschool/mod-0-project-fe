@@ -76,11 +76,16 @@ I really would like to know how to best make professional connections, as I've n
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+
 I come from a background, professionally, as a chef. I worked in that field for 10 years before realizing it wasn't what I wanted to do. I grew up around tech, and I always loved destroying and creating hardware and software. I have done some coding before and I fell in love with it.
+
 - What are your goals for this career?
+
 My goals are to eventually start my own business. Before that happens, I want to learn as much as I can from people and companies with far greater knowledge than I have currently.
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
-I want to know the best way to show my ambition for a job, and how to secure that job.
+
+I want to know the best way to show my ambition for a job, and how to secure that job at a salary I feel comfortable with.
 
 ### Materials
 
