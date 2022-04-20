@@ -25,10 +25,12 @@ for (var i = 0; i < 3; i++) {
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
 
-  // In example 2's for loop, the console is logging numbers 0-2.
-  // Rather than the console logging a string it is counting the indexed numbers in the loop.
-  // Since the condition was set yo terminate(false) at 2, that is when the loop ended.
-
+/*
+In example 2, the for loop is logging numbers 0-2.
+Rather than the console logging a string it is counting the indexed
+numbers in the loop. Since the condition was set to terminate(false)
+at 2, and exit the loop.
+*/
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 
@@ -43,13 +45,16 @@ for (var i = 0; i < 3; i++) {
    console.log("She sells seashells down by the seashore");
  }
 
-
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
+
+for (var i = 1; i < 5; i++) {
+  console.log("This is loop number: " + [i]);
+}
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 
