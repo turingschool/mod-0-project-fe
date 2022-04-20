@@ -44,9 +44,9 @@ console.log(firstName, isHungry, numberOfPets);
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "Randy";
-var isHungry = "true";
-var numberOfPets = "1";
+firstName = "Randy";
+isHungry = "true";
+numberOfPets = "1";
 console.log(firstName, isHungry, numberOfPets);
 
 // YOU DO:
