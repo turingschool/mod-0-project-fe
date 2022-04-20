@@ -49,13 +49,13 @@ You can find all information on the curriculum and job search support [on the Ca
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
 - First section: Choose adjectives to answer how you currently are
-    ✅ Done!
+    - ✅ Done!
 
 - Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes.
-    ✅ Done!
+    - ✅ Done!
 
 2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your survey submission.
-    - _I'm actually very surprised at how accurate my results are after reading them over. It makes sense to me that my `Personal` section I ranked the lowest on... 😅 Something I look forward to working on!_
+    - _I'm actually very surprised at how accurate my results are after reading them over. It makes sense to me that I ranked lowest on the `Personal` section... 😅 Something I look forward to working on!_
 
 
 _Optional: To build an understanding of your Pairin results, here are additional resources:_
@@ -85,7 +85,7 @@ Whatever your comfort level with interviewing, an effective interview comes down
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
     - _My name is Emily Miles, and I am born and raised is CT._
-    
+
 - What are your goals for this career?
 
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
