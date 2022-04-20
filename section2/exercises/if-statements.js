@@ -31,10 +31,10 @@ if (weather === 'sunny') {
   console.log('good to go!');
 }
 
-/* 
+/*
 YOU DO:
-Using the dogAge variable defined below, 
-determine if a dog is a puppy (2 or younger), 
+Using the dogAge variable defined below,
+determine if a dog is a puppy (2 or younger),
 an adult, or elderly (10 or older).
 
 Log to the console the appropriate age range
@@ -43,6 +43,14 @@ Log to the console the appropriate age range
 
 var dogAge = 3;
 // Write your conditional here
+
+if (dogAge <= 2){
+  console.log('puppy');
+} else if (dogAge >= 3 && dogAge <= 9){
+  console.log('adult');
+} else if (dogAge >= 10){
+  console.log('elderly');
+}
 
 
 /*
@@ -64,10 +72,13 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 
 var numQuarters = 0;
 
-// Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
 
+// Write your conditional here
+if (numQuarters >= 2){
+  console.log("I have enough money for a gumball")
+} else if (numQuarters < 2){
+  console.log("I dont have enough money for a gumball")
+}
 
 /*
 YOU DO:
@@ -86,10 +97,14 @@ var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
-
+if (cupsOfFlour >= 2 && hasSauce === true){
+  console.log("I can make pizza")
+} else if (cupsOfFlour <2 || hasSauce === false){
+  console.log("I cannot make pizza")
+}
 
 /*
-For the last exercise, an ideal solution probably uses a logical operator. 
+For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
