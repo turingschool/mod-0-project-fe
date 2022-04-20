@@ -23,7 +23,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-It will output to string (My zoo has 7 unicorns!)
+// It will output  "My zoo has 7 unicorns!", because it's calling numberOfCreatures and creatures.
 
 
 // YOU DO:
@@ -52,10 +52,10 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 
   var name = 'Connor';
-  var pet = 'cat';
-  var favoriteFood = 'thai';
+  var pet = 'Porcini';
+  var lovesToEat = 'love to eat';
 
-  console.log(`My name is ${name}! I have a pet ${pet}. My favorite food is ${favoriteFood}.`);
+  console.log(`My name is ${name} and my cats name is ${pet}. We both ${lovesToEat}.`);
 
 
 //-------------------

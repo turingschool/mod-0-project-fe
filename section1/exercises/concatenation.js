@@ -19,12 +19,11 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-It will log the string "My zoo has 7 unicorns!". This is due to concatenation of the string
-and number.
+// It will log the string "My zoo has 7 unicorns!". This is due to concatenation of the string and number.
 
 
 // YOU DO:
@@ -44,7 +43,7 @@ console.log('The ' + speedy + ' jumped over the ' + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log('In a predictable result, the ' + slowPoke + ' beat the ' + speedy '!');
+console.log('In a predictable result, the ' + slowPoke + ' beat the ' + speedy + '!');
 
 
 // YOU DO:
@@ -55,7 +54,7 @@ console.log('In a predictable result, the ' + slowPoke + ' beat the ' + speedy '
   var favoriteFood = 'thai';
   var height = '202cm';
 
-  console.log('My name is Connor! My pet is a ' + pet + '! My favorite food is ' + favoriteFood + '! I am ' + height + ' tall!')
+  console.log('My name is Connor! My pet is a ' + pet + '! My favorite food is ' + favoriteFood + '! I am ' + height + ' tall!');
 
 
 //-------------------
