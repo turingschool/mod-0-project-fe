@@ -15,7 +15,7 @@ file from your terminal with the command `node section1/exercises/dataTypes.js`
 //-------------------
 
 // EXAMPLE: Write code below to log the String "Alan Turing" in the console:
-console.log("Alan Turing");
+console.log('Alan Turing');
 
 // EXAMPLE: Write code below to log `Welcome to Turing!` in the console:
 console.log('Welcome to Turing!');
@@ -24,7 +24,7 @@ console.log('Welcome to Turing!');
 console.log('99 bottles of pop on the wall...');
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
-console.log("You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe.");
+console.log('You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe.');
 
 
 //-------------------
@@ -44,7 +44,7 @@ console.log(53 * 6);
 console.log(20 / 4);
 
 // YOU DO: log the result of the modulo of 10 into 54:
-console.log(10 mod 54);
+console.log(54 % 10);
 
 
 //-------------------
