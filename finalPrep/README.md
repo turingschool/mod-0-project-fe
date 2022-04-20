@@ -67,8 +67,8 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [✓] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [✓] Add a link to your gist here: https://gist.github.com/DrSLMac/9259b9f7efee96dccc559140e657b37d
 
 ## Mod 0 Project Submission
 
@@ -94,12 +94,19 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+  - I will work through the resources provided here, as well as coding in the playgrounds app
 - What days are you going to work?
+  - I will work for 1-2 hrs every weekday at least
 - What times on those days are you going to work?
+  - Mid to late mornings, or late in the evenings
 - Where you going to be sitting/standing as you do this?
+  - I have a workspace set up at my desk
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+  - Google calendar, and a paper planner
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+  - Yes, my children know this plan
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+  - I have time blocked out in my calendar for exercise, cleaning, budgeting and grocery shopping
 
 ### Extensions
 
