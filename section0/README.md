@@ -1,4 +1,4 @@
-# Section 0: PREPARING FOR THIS JOURNEY
+and# Section 0: PREPARING FOR THIS JOURNEY
 
 Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Coaches who will be supporting you, starting in Mod 1.
 
@@ -31,6 +31,8 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Resources section](https://careerdev.turing.edu/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
+    - ✅ Done with all of the above!
+
 1. Reflect on the following questions in the survey you’ll submit:
 - How do you feel about the expectations of the professional development curriculum?
     - _I feel excited but nervous about the professional development curriculum. The `Networking` and and `Negotiating` parts I am the most nervous about._
@@ -84,7 +86,7 @@ The first step for networking in your new career as a software developer is to a
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
-    - _My name is Emily Miles, and I am born and raised is CT._
+    - _My name is Emily Miles, and I am born and raised is CT. After spending the last 20 years in various customer and hospitality jobs, I decided it was time for a change. I enrolled part-time at my local community college in the Fall of 2019, and have been working toward a degree in Biology, in the hopes of bettering my career options. Since then, I have realized my_
 
 - What are your goals for this career?
 
