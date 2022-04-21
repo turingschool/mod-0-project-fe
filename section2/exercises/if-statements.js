@@ -110,5 +110,5 @@ if (cupsOfFlour >=2 && hasSauce === true) {
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
-Yes mine contained 2 logical operators, both (or and) I really liked this part!
+Yes mine contained 2 logical operators, both (or/and) I really liked this part!
 */

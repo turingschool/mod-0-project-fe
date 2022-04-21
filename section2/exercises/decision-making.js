@@ -41,8 +41,7 @@ Questions
 
 
  Lines 14 - 18 are about which article of clothing you see the bear putting on, based on which room you enter.
- If you enter door 1 the bear will be trying on the hat.
- This is represented by line 14 and 15.
+ If you enter door 1 the bear will be trying on the hat. This is represented by line 14 and 15.
  line 16 and 17 represent what happens if you pick door number 2, the bear will be putting on a scarf.
 
 

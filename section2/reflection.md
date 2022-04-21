@@ -26,7 +26,7 @@
 
   * To add multiple conditions you can use if statements. After the initial if statement you can us curly brackets '{}' to have the console log a response. Then you can add else if with the second condition and the curly brackets to log a response. You can also use the same process for the third condition. You can use else at the end to say if none of the first three conditions are met, this is the response.
 
-  * The computer reads the first condition and if it is met then the computer will stop there and log the response for  the first condition. If the condition is not met the computer moves on to the second condition. Again if this condition is met the computer will stop there and log the second conditional response. If the first two conditions are not met the computer will run the third condition. The final condition will be reached if all other conditions prove to be false.
+  * The computer reads the first condition and if it is met then the computer will stop there and log the response for the first condition. If the condition is not met the computer moves on to the second condition. Again if this condition is met the computer will stop there and log the second conditional response. If the first two conditions are not met the computer will run the third condition. The final condition will be reached if all other conditions prove to be false.
 
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
