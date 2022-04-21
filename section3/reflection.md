@@ -6,7 +6,7 @@
 2. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 - App - Pandora
 - use-case - Songs I've "thumbs up"
-- This helps the song algorithm for thumb print listening station. of my favorite songs I have "thumbs up."
+- This helps the song algorithm for the thumb print listening station. This array holds a string of elements that hold information of favorite songs I have "thumbs up."
 3. In your own words, explain what an Array method is.
 - An Array method is a list of string elements that hold information.
 4. What is the purpose of a loop? When we would use a loop in conjunction with array vs. without?

@@ -93,9 +93,11 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 //
 //** EX from: Pandora App below
 // 1: Songs I've liked
+var songs ['Interbeing', 'ETG', 'Dark Planet', 'Zhudio54', 'When I get there']
 // 2: Stations I've added
+var songStations ['Resonant Migration', 'Dom Dolla', 'Johnny Cash', 'WHIPPED CREAM']
 // 3: Songs I disliked
-
+var recentPlayedStations ['Resonant Migration', 'Thumb Print Radio', 'Thievery Corporation', 'Jurassic 5']
 
 //-------------------
 // Part 4: Don't let yourself forget everything from Section 2 of the project
