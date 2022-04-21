@@ -117,22 +117,11 @@ if(cupsOfFlour >= 2 && hasSauce){
   console.log("I cannot make pizza")
   }
 
-/*if (cupsOfFlour = 1 && hasSauce = true); {
-  console.log("I cannot make pizza");
-} else if (cupsOfFlour = 1 && hasSauce = false); {
-  console.log("I cannot make pizza");
-} else if (cupsOfFlour = 2 && hasSauce) = true;
-  console.log("I can make pizza");
-} else if (cupsOfFlour = 3 && hasSauce) = true;
-  console.log("I can make pizza");
-} else {
-  console.log("I can make pizza");/*
-}
 
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
-
+// ##The link in the Section 2 README.md had information about logical operators. I had to continue further reading. 
 */
