@@ -24,7 +24,8 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
 
-//It is number because you are My zoo has assigns a quantity. The string helps describe the quantity.
+//It is number and string because "My zoo has" assigns a quantity and then,
+//the string helps describe the quantity.
 
 // YOU DO:
 // Write code that combines the variables below into a string that

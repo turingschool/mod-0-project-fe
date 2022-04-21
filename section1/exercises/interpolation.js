@@ -50,10 +50,10 @@ console.log(`"In a predictable result, the ${slowPoke} beat the ${speedy}!"`);
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
   var runs = 4;
-  var location = "Beaver Creek";
-  var day = "Sunday";
+  var locations = "Beaver Creek";
+  var days = "Sunday";
 
-  console.log(`Last ${day} I went skiing at ${location}, and I made ${runs} runs.`);
+  console.log(`Last ${days} I went skiing at ${locations}, and I made ${runs} runs.`);
 
 //-------------------
 // FINAL CHECK

@@ -5,8 +5,7 @@
     * After reading the blog post from part A, I discovered that yes you may think your question is dumb but the best thing to do is ASK! For me I have noticed that I usually have the "I want to figure it out on my own" attitude, and I spend to much time going down the rabbit hole so to speak. I also am somewhat in between with what I do when I'm looking for help sometimes writing out the question does lead me to the answer, other times I have to reach out to others. I want to work on learning the reason why, instead of just searching for the answer.
 
 2. What are the data types you learned about in this section? In your own words, define each.
-    * The first data type I learned was String. String variables are any series of characters
-    between quotation marks. Ex. "hunter" is the string.
+    * The first data type I learned was String. String variables are any series of characters between quotation marks. Ex. "hunter" is the string.
 
   ```javascript
   var name = "Hunter"
@@ -24,11 +23,11 @@
 3. How would you log the string `"Hello World!"` to the console?
 
   ``` javascript
-  console.log("Hello World!");
+  console.log(`"Hello World!"`);
   ```
   or
   ``` javascript
-  var message = "Hello World!";
+  var message = `"Hello World!"`;
   console.log(message)
   ```
 

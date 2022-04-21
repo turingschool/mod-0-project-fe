@@ -23,8 +23,8 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var quote = ("Harry Potter must not return to Hogwarts!");
-console.log(quote);
+var quotes = ("Harry Potter must not return to Hogwarts!");
+console.log(quotes);
 
 // YOU DO:
 // Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
@@ -55,7 +55,7 @@ console.log(firstName, isHungry, numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-console.log(healthySnacks + junkFoodSnacks);
+console.log("The total number of snacks is", healthySnacks + junkFoodSnacks);
 
 
 //-------------------
