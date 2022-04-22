@@ -69,8 +69,7 @@ You already have had some exposure to the terminal in [Mod 0, Session 2: Termina
 
 Visit the [Turing Terminal](http://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
 
-👩‍💻 Complete all three Challenges.
-    - ✅ Done!
+👩‍💻 Complete all three Challenges. - ✅ Done!
 
 ### Making Things, Navigating
 
@@ -80,8 +79,7 @@ In the following section, you will get a little practice using `touch` and `mkdi
 
 #### Terminal Practice
 
-👩‍💻 Use `mkdir` and `touch` to create the directories/files in the structure illustrated below:
-    - ✅ Done!
+👩‍💻 Use `mkdir` and `touch` to create the directories/files in the structure illustrated below: - ✅ Done!
 
 ```sh
 |--secretLibraryProject
@@ -113,9 +111,8 @@ Your first command should be:
 ```bash
 mkdir secretLibraryProject
 ```
-    - ✅ Done!
 
-Note that in the command provided above, the dashes preceding the directory name were not used in the actual directory name. The dashes are just used as a diagram aide, and is a common pattern you will see in other documentation.
+Note that in the command provided above, the dashes preceding the directory name were not used in the actual directory name. The dashes are just used as a diagram aide, and is a common pattern you will see in other documentation. - ✅ Done!
 
 ### Deleting Things
 
@@ -138,9 +135,8 @@ Note that in the command provided above, the dashes preceding the directory name
 #### Terminal Practice
 
 👩‍💻 Use `rm` and `rm -rf` to delete each of the files and directories you created in the `Making Things` section above.
-    - ✅ Done!
 
-Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibraryProject`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future.
+Note that it would be possible to delete the entire directory that you created with just `rm -rf secretLibraryProject`. **Don't do this!** At this point it's better for you to delete each of the files and directories individually so that you get some practice with these commands, which will help you remember them better in the long run. The goal here (for this particular exercise) isn't to be efficient and creating and deleting files and directories, it's to *get practice* creating and deleting files and directories. Ultimately this practice will allow you to be more efficient in the future. - ✅ Done!
 
 ## Part C: JavaScript Foundations
 
@@ -150,8 +146,7 @@ At the end of the section, you will use several Git commands to save your work t
 
 ### Open your local copy of this repo in Atom
 
-Using the Terminal, open the local copy of this repository. To do this, enter these commands into the Terminal (this may vary depending on the names of your directories):
-    - ✅ Done!
+Using the Terminal, open the local copy of this repository. To do this, enter these commands into the Terminal (this may vary depending on the names of your directories): - ✅ Done!
 
 ```
 cd ~
@@ -171,8 +166,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ### Introduction to JavaScript
 
-📒 To give you more context for what JavaScript is and how we use it, please read Chapter 1 (pages 13 - 21) of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book.
-    - ✅ Done!
+📒 To give you more context for what JavaScript is and how we use it, please read Chapter 1 (pages 13 - 21) of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book. - ✅ Done!
 
 ### Comments in Code
 
@@ -184,8 +178,7 @@ This will open the `section1` directory in Atom. You should be able to see the d
 // will be ignored by the JavaScript interpreter.
 ```
 
-📒 For additional context about code comments, read page 57 of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book.
-    - ✅ Done!
+📒 For additional context about code comments, read page 57 of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book. - ✅ Done!
 
 ```JavaScript
 // Anything after the // is ignored by the JavaScript interpreter.
@@ -267,8 +260,7 @@ Read more about comparison operators [here](https://javascript.info/comparison)!
 
 ### Variables and Assignment
 
-📒 Read pages 58 - 61 of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book.
-    - ✅ Done!
+📒 Read pages 58 - 61 of the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book. - ✅ Done!
 
 In code, **variables** allow us to store a value and re-use that value in multiple places. This gives us the ability to store complex information and easily use it more than once in our codebase.
 
@@ -313,8 +305,7 @@ It is important to note that JavaScript has a particular set of conventions on w
 * Use names that describe the kind of information you plan to assign the variable
 * If your variable is made up of more than one word, then use [camelCase](https://en.wikipedia.org/wiki/Camel_case) i.e., `thisIsMyVariableName`
 
-> 👩‍💻 PAUSE here, and complete the exercises in `variables.js`
-    - ✅ Done!
+> 👩‍💻 PAUSE here, and complete the exercises in `variables.js` - ✅ Done!
 
 ### Concatenation
 
@@ -340,8 +331,7 @@ console.log(snackCount);
 
 Let's take a look at why that resulted in a string. We have a variable called `snackCount` and have assigned the value as our `quantity` and our `snacks`. Looking at `snackCount`, we’ll notice the value is "I have 12 doughnuts". The reason this works even though the first value is a number and the second is a string, is a result of _type coercion_. JavaScript is essentially trying to help us by converting the number into a string so we can combine the two together.
 
-> 👩‍💻 PAUSE here, and complete the exercises in `concatenation.js`
-    - ✅ Done!
+> 👩‍💻 PAUSE here, and complete the exercises in `concatenation.js` - ✅ Done!
 
 ### Interpolation
 
@@ -370,17 +360,15 @@ console.log(snackCountInterpolate);
 // this will log the string "I have 12 doughnuts!"
 ```
 
-> 👩‍💻 PAUSE here, and complete the exercises in `interpolation.js`
-    - ✅ Done!
+> 👩‍💻 PAUSE here, and complete the exercises in `interpolation.js` - ✅ Done!
 
 ## Exercises
 
-At this point, you should have worked through all three files in the `exercises` directory. ✅
+At this point, you should have worked through all three files in the `exercises` directory. - ✅ Done!
 
 ## Vocabulary
 
-Look back at that special spot in your notebook for vocabulary. Have you updated with with definitions, diagrams, and code samples? If not, do so now!
-    - ✅ Done!
+Look back at that special spot in your notebook for vocabulary. Have you updated with with definitions, diagrams, and code samples? If not, do so now! - ✅ Done!
 
 ## Reflections
 

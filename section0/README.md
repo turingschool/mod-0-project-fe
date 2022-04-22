@@ -1,4 +1,4 @@
-and# Section 0: PREPARING FOR THIS JOURNEY
+# Section 0: PREPARING FOR THIS JOURNEY
 
 Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Coaches who will be supporting you, starting in Mod 1.
 
@@ -31,7 +31,8 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Resources section](https://careerdev.turing.edu/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
-    - ✅ Done with all of the above!
+
+    - **✅ Done with all of the above!**
 
 1. Reflect on the following questions in the survey you’ll submit:
 - How do you feel about the expectations of the professional development curriculum?
@@ -50,11 +51,9 @@ You can find all information on the curriculum and job search support [on the Ca
 ### Action Items
 
 1. [Take the survey using this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
-- First section: Choose adjectives to answer how you currently are
-    - ✅ Done!
+- First section: Choose adjectives to answer how you currently are - ✅ Done!
 
-- Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes.
-    - ✅ Done!
+- Second section: Choose adjectives to answer how you would like to be. The second section is marked as “optional,” but it is highly recommended that you fill out this section in order to provide more data for you on how you’d like to grow. The survey should take you about 15-20 minutes. - ✅ Done!
 
 2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your survey submission.
     - _I'm actually very surprised at how accurate my results are after reading them over. It makes sense to me that I ranked lowest on the `Personal` section... 😅 Something I look forward to working on!_
@@ -120,7 +119,7 @@ Please prepare responses to these questions to submit in the survey:
 - Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 - When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
-**_NOTE: I had already done and submitted the survey, but after rereading the directions I wasn't sure if I was also supposed to fill everything in within my `repo`, so I opted to do both. That being said my answers may vary a bit in content and length._**
+# **_NOTE: I had already done and submitted the survey, but after rereading the directions I wasn't sure if I was also supposed to fill everything in within my `repo`, so I opted to do both. That being said my answers may vary a bit in content and length._**
 
 ## Deliverables
 
