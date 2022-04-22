@@ -44,9 +44,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- <img width="1440" alt="Screen Shot 2022-04-22 at 10 34 01 AM" src="https://user-images.githubusercontent.com/102934145/164762490-e918c43d-00f2-4bb4-9361-73a194625d9d.png">
+- <img width="1440" alt="Screen Shot 2022-04-22 at 10 33 06 AM" src="https://user-images.githubusercontent.com/102934145/164757647-9c8db81d-51aa-438c-850d-640f8536d101.png">
+- <img width="1440" alt="Screen Shot 2022-04-22 at 10 34 59 AM" src="https://user-images.githubusercontent.com/102934145/164762324-17eae36c-a3bc-4e1c-9560-f0da10c3682e.png">
 
 ## Mentorship Prep
 
@@ -60,15 +60,15 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ameseee/f5f6796ee012dfe074bef992e9a5054e) gist
-  - [ ] Add a link to your gist here:
+- [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ameseee/f5f6796ee012dfe074bef992e9a5054e) gist
+  - [x] Add a link to your gist here: https://gist.github.com/Mlberry0205/0d50bf0b2c65f89083a2afdfad557175
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: https://gist.github.com/Mlberry0205/59d9a507f826ac5915c2c5b14ef03868
 
 ## Mod 0 Project Submission
 
