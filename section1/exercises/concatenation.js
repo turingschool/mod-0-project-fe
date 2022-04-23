@@ -24,7 +24,8 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
     // The log to the console as a result of line 22 will be, "My zoo has 7 unicorns!"
-    // The concatenation is joining together "My zoo has" with the variable numberOfCreatures (which is 7), the variable creatures (which is unicorns), and "!".
+    // The concatenation is joining together the string "My zoo has" with the variable numberOfCreatures
+    // (which is 7), the variable creatures (which is unicorns), and "!".
 
 // YOU DO:
 // Write code that combines the variables below into a string that

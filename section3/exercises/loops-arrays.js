@@ -59,9 +59,7 @@ for (var i = 2; i < 7; i++) {
 // want to tell the program to take. Think of all the concepts you've learned so far.
 
 // Remember, stuck for 15-20 minutes? Reach out to your Mod 0 cohort on Slack.
-// Step 1: For each age we want to console.log the appropriate message.
-      // If age is < 18, then log should be "Oh no, you can't vote quite yet."
-      // if age is >= 18 then log should be "Make sure you get out and vote!"
+      
 var ages = [17, 20, 34, 18, 16, 65, 49, 10, 22, 18];
 
 for (var i = 0; i < ages.length; i++) {

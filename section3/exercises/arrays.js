@@ -28,8 +28,7 @@ console.log(animals.length);
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
-animals.pop();
-animals.push('Gorilla')
+animals[2] = "Gorilla"
 console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
@@ -93,9 +92,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1:
-// 2:
-// 3:
+// 1: IMDB uses lists. Examples: "Most Popular Movies", "TV Shows by Gerne", "Best Picture Winners" etc.
+// 2: Spotify uses lists. Examples: "Podcasts", "Charts", "New Releases", etc.
+// 3: Doordash uses lists. Examples: "Restaurants", "Pets", "Grocery", etc.
 
 
 //-------------------
@@ -118,6 +117,15 @@ var chargerType = "car";
 
 // Write your conditional here
 
+  // If user's percentBatteryLeft is equal to 15% or greater OR if user's percentBatteryLeft is less than 15 % AND hasCharger equals true AND chargerType equals car,
+if (percentBatteryLeft >= 15 || percentBatteryLeft < 15 && hasCharger && chargerType) {
+  // then the log will show as 'User can call an Uber'.
+  console.log("User can call an Uber.");
+  // If user's percentBatteryLeft and/or hasCharger and/or chargerType equals anything other than the conditional above,
+} else {
+  // then log will show 'User cannot call an Uber'.
+  console.log("User cannot call an Uber.");
+}
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,

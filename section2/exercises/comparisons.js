@@ -81,21 +81,26 @@ console.log(numberStudents <= 21);
 
 console.log(4 < 9);
 //YOU DO: Explain.
+    // This is logging the comparion: is 4 less than 9? This will log true.
 
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
+    // This is logging the comparison: is 4 less than books? Since books equals 3, this will log false.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+    // This is logging the comparison: is friends greater than siblings? Since friends equals 6 and
+    // siblings equals 2, this will log true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+    // This is logging the comparison: attendees is not equal to meals. Since attendees equals 9 and
+    // meals equals 8, this will log as true.
 
 //-------------------
 // PART 3: Logical Operators
@@ -126,10 +131,13 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && "is a puppy, " + age + " year old.")
+console.log(lovesToPlay && age < 3);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+    // Dogs and cats are considered to be puppies and kittens for the first 2 years of their lives.
+    // In order to log that the dog is a puppy I used a comparison. This logged that the dog loves to play
+    // and the comparison: is age less than 3? Since the dogs age is 1, this evaluated to true.
 
 //-------------------
 // FINAL CHECK

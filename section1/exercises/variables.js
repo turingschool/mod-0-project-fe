@@ -31,22 +31,24 @@ console.log(dobbyDemand);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Emily";
-var isHungry = "false";
-var numberOfPets = "2";
+var isHungry = false;
+var numberOfPets = 2;
 console.log(firstName, isHungry, numberOfPets);
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+      // I chose a string for firstName because that cannot be a true or false statement, nor an integer.
+      // I chose a boolean for isHungry because that can most easily be expressed as a true or false statement.
+      // I chose a number for numberOfPets because that was most easily expressed as an integer.
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
 firstName = "Randy";
-isHungry = "true";
-numberOfPets = "1";
+isHungry = true;
+numberOfPets = 1;
 console.log(firstName, isHungry, numberOfPets);
 
 // YOU DO:
