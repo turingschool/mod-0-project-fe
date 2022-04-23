@@ -4,17 +4,17 @@
 
 At the start of the program, I was *way* too quick to ask for help before exploring solutions myself, but now I think I've struck a decent balance. My usual workflow when encountering an error is:
 
--Check for typos
+- Check for typos
 
--Read the terminal messages
+- Read the terminal messages
 
--Attempt to work around the issue myself (the more I understand, the more likely this is to pay off)
+- Attempt to work around the issue myself (the more I understand, the more likely this is to pay off)
 
--search the Turing Slack for similar roadblocks other people faced
+- search the Turing Slack for similar roadblocks other people faced
 
--Google it
+- Google it
 
--Make my own thread in the Slack asking for help with the issue
+- Make my own thread in the Slack asking for help with the issue
 
 
 2. What are the data types you learned about in this section? In your own words, define each.
@@ -42,12 +42,12 @@ At the start of the program, I was *way* too quick to ask for help before explor
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
 - Spotify:
--
-..-timesListened: number  
 
-..-albums: string
+..* timesListened: number  
 
-..-genre: string
+..* albums: string
+
+..* genre: string
 
 
 7. In your own words, explain what concatenation is.
