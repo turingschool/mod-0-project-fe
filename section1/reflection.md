@@ -43,11 +43,11 @@ At the start of the program, I was *way* too quick to ask for help before explor
 
 - Spotify:
 
-..* timesListened: number  
+  * timesListened: number  
 
-..* albums: string
+  * albums: string
 
-..* genre: string
+  * genre: string
 
 
 7. In your own words, explain what concatenation is.
