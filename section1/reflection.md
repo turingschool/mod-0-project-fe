@@ -6,7 +6,7 @@ At the start of the program, I was *way* too quick to ask for help before explor
 
 - Check for typos
 
-### - Read the terminal messages
+- Read the terminal messages
 
 - Attempt to work around the issue myself (the more I understand, the more likely this is to pay off)
 
