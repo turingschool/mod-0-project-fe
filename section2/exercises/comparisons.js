@@ -74,21 +74,21 @@ console.log("is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 //YOU DO: Explain.
-//this logs true in the console because four is less than 9
+//This evaluates as true because four is less than 9
 var books = 3;
 console.log(4 < books);
 // YOU DO: Explain.
-//this would log false in the console since books is equal to three and four is greater than three.
+//This evaluates as false since books is equal to three and four is greater than three.
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
-//this would log as true in the console since there are more friends than siblings
+//This evaluates as true since there are more friends than siblings
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-//this would log as true in the console because there is not an equal number of attendees and meals
+//This evaluates as true in because there is not an equal number of attendees and meals
 
 //-------------------
 // PART 3: Logical Operators
@@ -119,10 +119,10 @@ console.log(lovesToPlay && lovesDogPark);
 console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age <=1);
+console.log(lovesToPlay && age <=2);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
-//it evaluated to true because the lovesToPlay is true and age is less than or equal to 1 (i determined that was the criteria for "is a puppy")
+//it evaluated to true because the lovesToPlay is true and age is less than or equal to 2 (defined as puppy in the if-statements.js document)
 //-------------------
 // FINAL CHECK
 //-------------------

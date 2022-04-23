@@ -39,14 +39,14 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 -This is an if/else structure that prints "hat" if the condition of the variable doorChoice being strictly equal to 1 is evaluated as true.
--If the user selects door choice 1 it will change the value of the variable bearClothing to "hat", if not then it changes the value to "scarf".
+-If the user sets the value of the variable doorChoice to 1 it will change the value of the variable bearClothing to "hat", if not then it changes the value to "scarf".
 2. What variable has a new value assigned to it after the first if statement executes?
 -bearClothing has a new value assigned to it after the first if statement executes.
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 -the bearClothing value would be "scarf"
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 -Between lines 27 and 35 is an if/else if statement.
--The proceeding console.log statements give the user 3 choices, user changes "bearChoice" depending on which statement is chosen.
+-The proceeding console.log statements give the user 3 choices, user changes he value of the variable "bearChoice" which determines which concatenation is printed.
 -lines 27-35 contain concatenations of the value of bearClothing in separate strings that print different statements depending on the users choice.
 -The console continues processing else if statements until one of them returns a value of "true", at which point that specific concatenation is printed
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
