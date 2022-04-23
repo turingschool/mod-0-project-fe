@@ -18,7 +18,7 @@
 
   * A conditional is code that uses `if,` `else if` and `else` to evaluate a (or multiple) condition(s). If one of the conditions is met, the code associated with it is executed and none of the subsequent conditions are executed.   
 
-**Example:** If the forecast calls for rain, bring an umbrella. If not rain but snow, bring a coat. In all other cases, bring sunglasses.
+  * **Example:** If the forecast calls for rain, bring an umbrella. If not rain but snow, bring a coat. In all other cases, bring sunglasses.
 
   * A conditional is likely used by the YouTube algorithm to determine when to show videos. If a channel you subscribe to has uploaded a video today, display it on the front page. If you have already watched that video, do not display it.     
 
