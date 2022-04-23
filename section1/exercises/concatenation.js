@@ -46,7 +46,8 @@ console.log("In a predictable result, " + "the " + slowPoke + " beat the " + spe
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 var transphobe = "JK Rowling";
-var netWorth  = "One Billion Dollars";
+var netWorth  = "one billion dollars";
+//I meant to make this a number but it was too big to be stored as such!
 var activism = "go on transphobic twitter rants";
 
 console.log(transphobe + " who has a net worth of " + netWorth + " utilizes her massive influence and platform to " + activism);
