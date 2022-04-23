@@ -2,7 +2,7 @@
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
-    * After reading the blog post from part A, I discovered that yes you may think your question is dumb but the best thing to do is ASK! For me I have noticed that I usually have the "I want to figure it out on my own" attitude, and I spend to much time going down the rabbit hole so to speak. I also am somewhat in between with what I do when I'm looking for help sometimes writing out the question does lead me to the answer, other times I have to reach out to others. I want to work on learning the reason why, instead of just searching for the answer.
+    * After reading the blog post from part A, I discovered that yes you may think your question is dumb but the best thing to do is ASK! I have noticed that I usually have the "I want to figure it out on my own" attitude, and I spend to much time going down the rabbit hole so to speak. I also am somewhat in-between with what I do when I'm looking for help sometimes writing out the question does lead me to the answer, other times I have to reach out to others. I want to work on learning the reason why, instead of just searching for the answer.
 
 2. What are the data types you learned about in this section? In your own words, define each.
     * The first data type I learned was String. String variables are any series of characters between quotation marks. Ex. "hunter" is the string.
@@ -27,7 +27,7 @@
   ```
   or
   ``` javascript
-  var message = `"Hello World!"`;
+  var message = (`"Hello World!"`);
   console.log(message)
   ```
 
@@ -41,7 +41,7 @@
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 
-  * Trello; specifically the log on screen. When you type in your email, this data could be stored as a string. The password could be a Boolean, because it is either correct or not. A data number could be used as a two-factor authentication, that needs to be used to log on.
+  * Trello; specifically the logon screen. When you type in your email, this data could be stored as a string. The password could be a Boolean, because it is either correct or not. A data number could be used as a two-factor authentication, that needs to be used to log on.
 
 7. In your own words, explain what concatenation is.
 
