@@ -8,7 +8,7 @@
     * The first data type I learned was String. String variables are any series of characters between quotation marks. Ex. "hunter" is the string.
 
   ```javascript
-  var name = "Hunter"
+  var name = "Hunter" 
   ```
   * The second data type I learned was number. This would include any positive or negative numbers, as well as any simple math problems. Ex. 21 would be the number data.
 
