@@ -118,20 +118,20 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
-//this is establishes the conditional as an if statement if the battery is 15% it will print the statment below
+//This is establishes the conditional as an if statement if the battery is 15% it will print the statment below
 if (percentBatteryLeft >= 15) {
-  //if the abve conditional is evaluated as true then "You can call an Uber" is printed
+  //If the abve conditional is evaluated as true then "You can call an Uber" is printed
   console.log("You can call an Uber!");
-  //if the above conditional isn't evaluated as true then this conditional is evaluated
-  //if the variable hasCharger is exactly true AND the variable chargerType is saved as the string "car" then it will print teh statment below
+  //If the above conditional isn't evaluated as true then this conditional is evaluated
+  //If the variable hasCharger is exactly true AND the variable chargerType is saved as the string "car" then it will print teh statment below
 } else if (hasCharger === true && chargerType === "car"){
-  //if the above conditional is evaluated as true then "You can call an Uber!" is printed
+  //If the above conditional is evaluated as true then "You can call an Uber!" is printed
   console.log("You can call an Uber!");
-  //if neither of the above conditinals evaluate as true, then this below statement will be printed
+  //If neither of the above conditinals evaluate as true, then this below statement will be printed
 } else {
 //"You cannotcall an Uber." is printed if neither the if or else if statements are evaluated as true
   console.log("You cannot call an Uber.");
-}
+}ßß
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,

@@ -24,7 +24,7 @@ for (var i = 0; i < 3; i++) {
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
-// A counter from 0 to 2.  The variable "i" is created which acts as the counter. The condition 1 < 3 makes it so this counter repeats 3 times, starting at 0. Every time the statements inside the {} are run, the i++ adds one to the counter. the statement console.log(i) just means it is printing the value of i. Therefore by printing the value of i three times it prints 0, 1, and then 2 consecutively.
+// A counter from 0 to 2 is created and each step is logged.  The variable "i" is created which acts as the counter. The condition 1 < 3 makes it so this counter repeats 3 times, starting at 0. Every time the statements inside the {} are run, the i++ adds one to the counter. the statement console.log(i) just means it is printing the value of i. Therefore by printing the value of i three times it prints 0, 1, and then 2 consecutively.
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 for (var i = 0; i < 7; i++) {
