@@ -10,6 +10,7 @@ Make sure to run the file with node in your command line.
 
 // EXAMPLE: Write code below that iterates through a list of animals and print
 // each animal.
+
 var animals = ["Zebra", "Giraffe", "Elephant"];
 
 for (var i = 0; i < animals.length; i++) {
@@ -18,6 +19,7 @@ for (var i = 0; i < animals.length; i++) {
 
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
+
 var animals = ["Zebra", "Giraffe", "Elephant" , "Opossum" , "Turkey"];
 for (var i = 0; i < animals.length; i++) {
   console.log("The " + animals[i] + " is awesome!")
