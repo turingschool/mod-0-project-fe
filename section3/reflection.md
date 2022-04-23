@@ -18,7 +18,7 @@
 
   * A loop is an incredibly powerful tool that allows us to automate all sorts of processes. For example, `for (var i = 0; i < 10 ; i++)` counts to 10; we would have to type 0-9 manually without something like this, and the efficiency becomes way more staggering as you scale it up. `i < 1000000` is _not_ something you want to have to do by hand. A loop is used in conjunction with an array when there are multiple elements that you want to feed through the loop sequentially.
 
-  * If you had to teach a 5 year old about loops, how would you explain it?
+5. If you had to teach a 5 year old about loops, how would you explain it?
 
   * Imagine you brought 5 of your favorite stuffed animals into your backyard for a picnic. It looks like it's about to rain! They're very big stuffed animals, so you can only carry one at a time. You bring them into the house one by one, and you stop going outside when you've brought in all 5. Loops are very similar to this. If you tell your computer to count up to 5 using a loop, it will count one number ("One..."), then it checks to see if there are any numbers left to count ("Two..."), and it keeps going until there are no numbers left to count ("Five!).
 
