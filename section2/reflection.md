@@ -2,7 +2,7 @@
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 
-..1. I'm familiar with the concept of a growth mindset from my participation in competitive fighting games and trying to improve efficiently at them; that particular community is full of Growth Mindset gurus and it's a common topic of conversation. What I was less familiar with is the concept of a fixed mindset, the growth mindset's evil twin. Being extremely risk-averse and petrified of failure, I am susceptible to fixed mindset decision making. Replacing fixed mindset habits with growth mindset equivalents is one of my biggest goals this year and it's going to be essential to climb above mediocrity in all of my areas of interest.  
+  1. I'm familiar with the concept of a growth mindset from my participation in competitive fighting games and trying to improve efficiently at them; that particular community is full of Growth Mindset gurus and it's a common topic of conversation. What I was less familiar with is the concept of a fixed mindset, the growth mindset's evil twin. Being extremely risk-averse and petrified of failure, I am susceptible to fixed mindset decision making. Replacing fixed mindset habits with growth mindset equivalents is one of my biggest goals this year and it's going to be essential to climb above mediocrity in all of my areas of interest.  
 
 ..2. I haven't heard the term "S.M.A.R.T. Goals" in years. I was never taught this method directly but I've heard people reference it before. Specific, Measurable, Achievable, Relevant, and Time-Bound are all great metrics for ensuring a goal is likely to be met and I plan to incorporate this framework into my decision making.
 
