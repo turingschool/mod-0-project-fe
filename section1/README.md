@@ -53,7 +53,7 @@ Read the three blog posts that follow:
 * [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
 
 Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth?
-    - **FILL IN HERE**
+    - _I feel confident in asking questions, but also confident in trying to troubleshoot them myself first. Since I've been in school for a couple of years now, I've found it easier to ask questions even if I think they are dumb. Sometimes, just verbalizing what I'm having difficulty with helps me realize I already know the answer, or that I needed a little prompt or push to get out of my own way because I was hyper fixating on a small detail and not looking at the whole picture. That being said, asking questions is still uncomfortable and I probably do spend too much time trying to 'figure things out myself.' I really like the 'Rubber Ducky Debugging' idea. A lot of times when I'm struggling with something I will start writing about it to kind of work through my feelings and ideas, that way I can figure out the root of why my brain is stuck. I definitely will need to work on using technical jargon to properly relay my questions going forward._
 
 It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
 
@@ -456,7 +456,8 @@ To github.com:your-username/mod-0-project-fe.git
 
 You should now be able to log in to GitHub, navigate to your remote project repository and see all the work you did in this section!
 
-    **_NOTE: I have be committing and pushing my work as I go because I was afraid of forgetting or losing things._**
 ***
+
+# **_NOTE: I have be committing and pushing my work as I go because I was afraid of forgetting or losing things._**
 
 🚀 [Go to Section 2](../section2)

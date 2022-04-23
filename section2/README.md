@@ -38,13 +38,23 @@ Using the Terminal, open the local copy of the repository that you created durin
 Read/watch one or both of the following:
 
 - This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
-- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
+- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Mindset begins.)
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+    - Things that resonated with me:
+        1. _You can improve your skills in coding (or any field really), by knowing that it takes effort and practice to grow. You will only get as much out of any situation as you are willing to put into it._
+        2. _Don't be afraid to ask for help! Taking the opportunity to learn by asking people in your field clarifying questions on areas you may be struggling with, or just engaging them in discussions about projects, will help you grow and progress within you occupation._
+    - Things that were brand new to me or I need to work on:
+        1. _S.M.A.R.T. Goals are something new to me and that I very much so plan on utilizing. I've used similar way of completing tasks in my current college classes, but nothing this specific._
+        2. _I tend to run more toward the 'if it's not perfect then it's absolute garbage' side of things, and have been diligently working towards improving that, but it's still a struggle. So, trying not to push myself for every little mistake and knowing that mistakes help me learn and grow, is something I will be working on continuously through my career and personal life._
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+    - _I guess I kind of answered this question above 😅 but I think I demonstrate a Growth Mindset by practicing and asking questions. I think I am not good at accepting that I am human and make mistakes and that mistakes help me grow and learn, so I do not think I demonstrate a good Growth Mindset in that regard._
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+    - _I've been working in Veterinary Medicine for the last 6 years and had no idea what anything medical meant when I started. From asking my coworkers questions, observing how and why we did specific things, and taking biology classes at college. Because of my thirst to understand the field I was working in, the doctors and veterinary nurses fully trusted me to be able to assist in medical care and relaying medical information to clients. I am leaving with a wealth of knowledge about animal medical conditions and diseases and how to treat them. I think the only difficult part about learning any of it was the unrealistic expectations and pressure I put on myself to never make any mistakes. Again, that part is a work in progress._
 
 ## Part B: Conditionals
 
