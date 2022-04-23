@@ -6,7 +6,7 @@ At the start of the program, I was *way* too quick to ask for help before explor
 
 - Check for typos
 
-- Read the terminal messages
+### - Read the terminal messages
 
 - Attempt to work around the issue myself (the more I understand, the more likely this is to pay off)
 
@@ -17,7 +17,7 @@ At the start of the program, I was *way* too quick to ask for help before explor
 - Make my own thread in the Slack asking for help with the issue
 
 
-2. What are the data types you learned about in this section? In your own words, define each.
+ 2. What are the data types you learned about in this section? In your own words, define each.
 
 - strings: letters and other characters
 
