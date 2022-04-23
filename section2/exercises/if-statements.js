@@ -73,6 +73,7 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
+
 if (numQuarters <=1) {
   console.log("I don't have enough money for a gumball");
 } else if (numQuarters >= 2){
