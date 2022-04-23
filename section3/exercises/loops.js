@@ -28,11 +28,12 @@ for (var i = 0; i < 3; i++) {
 // the first loop sets "i = 0", this evaluates to true becasue 0 is less than 3, so the console will log 0.
 // the second loop sets "i = 1", because our increment is set to +1, this will also evaluate to true so the console will log 1.
 // the third loop sets "i = 2", because out increment is set to +1 , this is less than 3 and will evaluate to true so the console will log 2.
-// the fourth loop sets "i = 3", since this evaluates to false the console stops logging. 
+// the fourth loop sets "i = 3", since this evaluates to false the console stops logging.
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-for (var i = 0; i < 7; i++) {
-  console.log(2+2);
+var sum= 2+2;
+for (var i = 0; i < 7; i++){
+  console.log(sum) 
 }
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
@@ -48,7 +49,7 @@ for (var i = 0; i < 10; i++) {
 // YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 for (var i = 0; i < 5; i++) {
-  console.log("This is loop number:",i);
+  console.log("This is loop number:" +" " + i);
 }
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 for (var i = 10; i >= 1; i--){
