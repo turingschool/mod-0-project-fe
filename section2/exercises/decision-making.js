@@ -39,35 +39,35 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
-//An if else statement is used to determine which article of clothing the bear is
-//wearing based on which door is chosen. It references the value assigned to the variable doorChoice,
+An if else statement is used to determine which article of clothing the bear is
+wearing based on which door is chosen. It references the value assigned to the variable doorChoice,
 if doorChoice is 1 it assigns the first option, otherwise it goes with the second.
 
 2. What variable has a new value assigned to it after the first if statement executes?
 
-//bearClothing
+bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
-//"scarf"
+"scarf"
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
-//An else if chain contingent on the number assigned to the variable "bearChoice"
-//It checks for 1, then it executes the first option, if not that, it checks for 2, if not that, it checks for 3,
-//if the value is literally anything other than 1, 2 or 3, it selects the fourth option.
+An else if chain contingent on the number assigned to the variable "bearChoice"
+It checks for 1, then it executes the first option, if not that, it checks for 2, if not that, it checks for 3,
+if the value is literally anything other than 1, 2 or 3, it selects the fourth option.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
-//"You run as fast as you can into the next room. It's full of snakes!"
+"You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
-//"You tell the bear the hat is too small and it starts to cry!"
+"You tell the bear the hat is too small and it starts to cry!"
 
 7. What is your favorite ending?
 
-//The one I added when I was messing around with the variables and such:
-//"You run as fast as you can into the next room. It's full of even more bears!"
+The one I added when I was messing around with the variables and such:
+"You run as fast as you can into the next room. It's full of even more bears!"
 
 */
