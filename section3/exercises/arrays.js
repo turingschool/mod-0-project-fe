@@ -114,15 +114,18 @@ var hasCharger = false;
 var chargerType = "car";
 
 // Write your conditional here
-  // applies condition if percentBatteryLeft is greater than 15 condition will be met. Expected return "You can call an Uber!"
+  // applies condition if percentBatteryLeft is greater than 15 condition will be met.
+  //Expected return "You can call an Uber!"
 if(percentBatteryLeft >= 15){
     console.log("You can call an Uber!!");
 
-  // applies condition if hasCharger is true and chargerType is "car" condition will be met. Expected return "You can call an Uber"
+  // applies condition if hasCharger is true and chargerType is "car" condition will be met.
+  //Expected return "You can call an Uber"
 } else if(hasCharger === true && chargerType === "car"){
   console.log("You can call an Uber!");
 
-  // applies conditon if none of conditions are met. Expected return "You cannot call an Uber"
+  // applies conditon if none of conditions are met.
+  //Expected return "You cannot call an Uber"
 } else {
   console.log("You cannot call an Uber");
 }

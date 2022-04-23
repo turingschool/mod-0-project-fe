@@ -28,7 +28,7 @@ for (var i = 0; i < animals.length; i++){
 var foods = ["Cheese", "Tomatatos", "Flour", "Yeast", "Salt", "Pepper"];
 
 for (var i = 0; i < foods.length; i++){
-  console.log("Add", foods[i], "to the shopping list");
+  console.log("Add" + " " + foods[i] + " " + "to the shopping list");
 }
 
 
@@ -51,7 +51,7 @@ var double = [];
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
 for (var i = 0; i < names.length; i++){
-  console.log("Happy Birthday", names[i]);
+  console.log("Happy Birthday"+ " " + names[i]);
 }
 
 // THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
