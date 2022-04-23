@@ -15,28 +15,34 @@ Make sure to run the file with node in your command line.
 
 // EXAMPLE: write code below that will log an array of animals.
 // Store the array in a variable.
+
 var animals = ["Zebra", "Giraffe", "Elephant"];
 console.log(animals);
 
 // EXAMPLE: Write code below that will log "Zebra" from the animals array
 // YOUR CODE HERE
+
 console.log(animals[0]);
 
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
+
 animals.length
 console.log(animals.length)
 
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
+
 animals[2] = "Gorilla"
 console.log(animals)
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
+
 animals[3] = "Aardvark"
 console.log(animals)
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
+
 animals.push("Elephant")
 console.log(animals)
 
@@ -45,23 +51,28 @@ console.log(animals)
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
+
 var foods = ["Caviar" , "Haggis" , "Pate" , "Guinea Pig"]
 console.log(foods)
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
+
 foods.length
 console.log(foods.length)
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
+
 foods.push("Broccoli")
 console.log(foods)
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
 // log the changed array to verify that item has been removed
+
 foods.pop()
 console.log(foods)
+
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
@@ -70,8 +81,10 @@ foods.push("Macaroni" , "Ramen" , "Dried Seaweed")
 console.log(foods)
 
 // YOU DO: Remove the food that is in index position 0.
+
 foods.shift()
 console.log(foods)
+
 //-------------------
 // PART 3: Where are Arrays used?
 //-------------------
@@ -96,7 +109,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // I see them used in Pokemon Showdown, an online competitive battling simulator.
 
 // 1: attack names
+
 // 2: users online
+
 // 3: live battles available to spectate
 
 
@@ -119,20 +134,28 @@ var hasCharger = true;
 var chargerType = "car";
 
 // Write your conditional here
+
 //checking the required battery fullness with an `if`
 if (percentBatteryLeft >= 15) {
+  
   //displays a message if the battery condition has failed
   console.log("Hope you brought a map. No battery, no Uber.")
+  
   //an `else if` checks the next condition, this one is the charger
 } else if (hasCharger === false) {
+  
   //displays a message if the charger condition has failed
   console.log("Maybe you can borrow a charger. No Charger, no Uber.")
+  
   //another `else if` for another charger condition
 } else if (chargerType !== "car") {
+  
   //a message for failure of the other charger condition
   console.log("A regular non-car charger? LOL. LMAO. No Uber for you!")
+  
   //an `else` to display a message if all conditions are met
 } else {
+  
   //said message
   console.log("You'd better hurry up and call your Uber before anything bad happens.")
 }
