@@ -44,11 +44,11 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-![FEE Mod 1 - Week 1](https://user-images.githubusercontent.com/103063934/164954304-f5361ae3-bee0-45ae-bfbf-076082d39f5e.png)
+![FEE Mod 1 - Week 1](https://user-images.githubusercontent.com/103063934/164996337-ba728385-4b4d-4f0a-b98f-ab3fe85b3e50.png)
 
-![FEE Mod 1 - Week 2](https://user-images.githubusercontent.com/103063934/164954338-9c613b06-5f13-44de-add5-a0c5aadde1de.png)
+![FEE Mod 1 - Week 2](https://user-images.githubusercontent.com/103063934/164996354-cecf1b7c-b2f6-479d-be37-c47a65a6de07.png)
 
-![FEE Mod 1 - Week 3](https://user-images.githubusercontent.com/103063934/164954369-e1f1f217-32dc-4afb-9286-a45274b3107d.png)
+![FEE Mod 1 - Week 3](https://user-images.githubusercontent.com/103063934/164996365-ea50e434-ca8c-40ce-977d-0914a6f22fef.png)
 
 ## Mentorship Prep
 
@@ -56,7 +56,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - ✅ [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here:
 
 ## Lesson Prep
 
