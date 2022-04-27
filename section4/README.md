@@ -1,9 +1,8 @@
-# Final Prep
+# Section 4 - FINAL DELIVERABLES AND SUBMISSION
 
 Congrats on making it to the Final Prep section of your Mod 0 Project! The work done in this section will directly support your readiness for the first day and weeks of Mod 1! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work.
 
 - [Refactor Previous Work](#refactor-previous-work)
-- [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
 - [Time Management Prep](#time-management-prep)
 - [Mentorship Prep](#mentorship-prep)
 - [Lesson Prep](#lesson-prep)
@@ -26,13 +25,6 @@ Take your time as you go back and refactor your exercises from each section. We'
 - [ ] I have refactored my `section1` exercises to the best of my ability
 - [ ] I have refactored my `section2` exercises to the best of my ability
 - [ ] I have refactored my `section3` exercises to the best of my ability
-
-## Gearing Up for Gear Ups
-
-Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
-
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
 
 ## Time Management Prep
 

@@ -10,7 +10,7 @@ Each section has a folder containing a `README.md` file with instructions and de
 * [Section 1 - ASKING QUESTIONS, Terminal and JavaScript Foundations](section1)
 * [Section 2 - GROWTH MINDSET, Conditionals and Functions](section2)
 * [Section 3 - HOW TO SPEND YOUR TIME, Arrays and Iteration](section3)
-* [Final Prep - Final Deliverables and Submission](finalPrep)
+* [Section 4 - Final Deliverables and Submission](section4)
 
 ## Materials
 
