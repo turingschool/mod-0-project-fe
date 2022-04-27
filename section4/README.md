@@ -4,8 +4,8 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 - [Refactor Previous Work](#refactor-previous-work)
 - [Time Management Prep](#time-management-prep)
+- [Letter to Instructors](#letter-to-instructors)
 - [Mentorship Prep](#mentorship-prep)
-- [Lesson Prep](#lesson-prep)
 - [Group Work Prep](#group-work-prep)
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
@@ -34,11 +34,28 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Study/Project work time (usually about 25 hours/week outside of class time)
 - [ ] Personal, Health + Wellness
 
+>Before you make your calendar - stop and think about how you are going to feel on Firday at 6pm. Are you really going to work all Friday evening? -> _Be realistic!_
+
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
+
+## Letter to Instructors
+
+Your instructors are essential facilitators of your learning and journey into software development. They are a group of passionate folks with diverse backgrounds who will all work to get to know each student, and support them through each Module.
+
+Create a new Gist. In it, write a letter introducing yourself to your future instructors (this isn’t just an exercise; they will _actually_ read these and use what they learn about you to start conversations, get to know you, and support you! Although, this is a great opportunity to reflect on these questions for your own benefit, as well).
+
+- Introduce yourself and share your “why” for taking this step to change your career.
+- What are your strengths? What commitments can you make as far as what/how you will contribute to the cohort and classroom?
+- What do your instructors need to know about you (consider including your workoing styles, your values, how you like to receive feedback, anything else)?
+- What did you learn about yourself, as a person and a student, during Mod 0?
+
+Make sure to include your full name and pronouns.
+
+- `Add Link to Gist that contains your letter - here`
 
 ## Mentorship Prep
 
@@ -47,13 +64,6 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
   - [ ] Add link to your gist here: 
-
-## Lesson Prep
-
-You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
-
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ameseee/f5f6796ee012dfe074bef992e9a5054e) gist
-  - [ ] Add a link to your gist here:
 
 ## Group Work Prep
 
