@@ -19,10 +19,15 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
+// Your answer and explanation here:
+/* I expect "My zoo has 7 unicorns!"  will be logged to the console since
+the string "My zoo has " (including the space!) is being added to the
+variable numberOfCreatures, which equals 7, and another string that is simply
+a space, and the variable creatures, which equals unicorn, and a final string
+that is an exclamation point. */
 
 
 // YOU DO:
@@ -30,6 +35,8 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+
+console.log("The " + speedy + " jumped over the " + slowPoke);
 
 
 // YOU DO:
@@ -40,16 +47,26 @@ var slowPoke = "lazy brown dog";
 slowPoke = "tortoise";
 speedy = "hare";
 
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
+
+
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
+
+var name = "Tori"
+var location = "New Mexico"
+var husband = "Keith"
+
+console.log("Hi, I'm " + name + ", and I just moved to " + location + " with my husband, " + husband + "!")
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
+  // yes!
