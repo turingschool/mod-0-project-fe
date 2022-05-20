@@ -64,8 +64,8 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 - [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 
 **I already have a mentor, so I did not check the boxes for “Need a mentor” and “Mentorship for current students” in the "Seeking Help" section, but I absolutely can change those settings if that is what is appropriate!**
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [x] Add link to your gist here: [my gist](https://gist.github.com/vfields/218762dc551b79a706d4039a65532055)
 
 ## Group Work Prep
 
