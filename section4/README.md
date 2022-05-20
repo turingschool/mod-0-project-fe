@@ -55,7 +55,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 Make sure to include your full name and pronouns.
 
-- `Add Link to Gist that contains your letter - here`
+- [My letter](https://gist.github.com/vfields/b9bcb0425fa4f37043c43a38c17b7a00) 
 
 ## Mentorship Prep
 
