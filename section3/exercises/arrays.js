@@ -113,6 +113,7 @@ var percentBatteryLeft = 12;
 var hasCharger = true;
 var chargerType = "car";
 
+
 //This line declares a condition that if the user's percentBatteryLeft < 15,
 //hasCharger and the chargerType is "car", then the user can execute the code (call an uber).
 if (percentBatteryLeft < 15 && hasCharger && chargerType === "car") {
