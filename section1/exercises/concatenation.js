@@ -31,6 +31,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
+
 console.log("The " + speedy + " jumped over the " + slowPoke);
 
 // YOU DO:
@@ -40,6 +41,7 @@ console.log("The " + speedy + " jumped over the " + slowPoke);
 
 slowPoke = "tortoise";
 speedy = "hare";
+
 console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
 
 // YOU DO:
@@ -49,6 +51,7 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy);
 var pet = "dog";
 var numberOfToys = 3;
 var location = "under the fence";
+
 console.log("The " + pet + " lost all " + numberOfToys + " balls " + location);
 
 //-------------------

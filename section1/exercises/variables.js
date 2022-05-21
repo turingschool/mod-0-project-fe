@@ -31,10 +31,11 @@ console.log(dobbyLine);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Cole";
-console.log(firstName);
 var isHungry = "Bean";
-console.log(isHungry);
 var numberOfPets = 1;
+
+console.log(firstName);
+console.log(isHungry);
 console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
@@ -48,10 +49,11 @@ console.log(numberOfPets);
   // values (but same data type).
 // log all three variables to the console.
 var firstName = "Melody"; //change variable 'firstName'
-console.log(firstName);
 var isHungry = "Cole"; //change variable 'isHungry'
-console.log(isHungry);
 var numberOfPets = 2; //change variable "numberOfPets'
+
+console.log(firstName);
+console.log(isHungry);
 console.log(numberOfPets);
 
 
@@ -60,6 +62,7 @@ console.log(numberOfPets);
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
+
 console.log(healthySnacks + junkFoodSnacks);
 
 
@@ -70,3 +73,4 @@ console.log(healthySnacks + junkFoodSnacks);
 
 // Did you run this file in your terminal to make sure everything printed out to the console
 // as you would expect?
+// Yes
