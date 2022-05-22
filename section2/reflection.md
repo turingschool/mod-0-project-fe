@@ -18,17 +18,17 @@
 
 4. What is a conditional statement? Give one example of a daily life conditional. Give one example of where a conditional is probably used in a web application you use.
 
-+ A statement which determines which code will run based on the outcome
++ A statement which determines which code will run based on the outcome.
 
 + Ex: "I am hungry," if True: eat, if False: don't eat.
 
-+ "Add Guacamole," if True: add $2 to total, if False: keep total the same
++ "Add Guacamole," if True: add $2 to total, if False: keep total the same.
 
 5. How do you add multiple conditions to an `if` statement? In your own words, explain how to program reads them and determines what to do.
 
 + By using "if / else" conditions.  
 
-+ `if` condition 1 is met, then first function runs; `if else` condition 2 is met, then a second function runs; `if else` condition 3 is met, then a third function runs; `else` no conditions are met, then an additional function runs.
++ `if` condition 1 is met, then the first function runs; if the `if else` condition 2 is met, then a second function runs; if the next `if else` condition 3 is met, then a third function runs; if none are met, then an  then an additional `else `function runs.
 
 6. What tools are available to you, as a developer, if you want to check that TWO conditions are met? Or, if you want to check that 1 of 2 conditions are met, before running a block of code?
 
