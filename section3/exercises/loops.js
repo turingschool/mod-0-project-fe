@@ -24,7 +24,10 @@ for (var i = 0; i < 3; i++) {
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
-
+// 1
+// 2
+// 3
+// the index is told to be logged to the console each time it is looped. Because 
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 
@@ -37,7 +40,7 @@ for (var i = 0; i < 3; i++) {
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
-// YOU DO: Write code below that logs to the console a String of "This is loop number: " 
+// YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
@@ -53,6 +56,6 @@ for (var i = 0; i < 3; i++) {
 // 2
 // 1
 
-// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend 
+// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
 // progress, that means it's time to reach out to your Mod 0 group on Slack!
