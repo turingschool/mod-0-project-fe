@@ -22,9 +22,9 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Time Management Prep
 
@@ -38,9 +38,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Week 1](https://user-images.githubusercontent.com/103966650/169724850-5a7c29d1-da91-4edf-a367-3544b5fb593e.png)
+- ![Week 2](https://user-images.githubusercontent.com/103966650/169724878-845931b2-8897-455d-86eb-b54af1ae777e.png)
+- ![Week 3](https://user-images.githubusercontent.com/103966650/169724898-23ddf294-334f-427f-99a6-69949b7d1a6d.png)
 
 ## Letter to Instructors
 
