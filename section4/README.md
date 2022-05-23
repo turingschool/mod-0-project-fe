@@ -55,7 +55,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 Make sure to include your full name and pronouns.
 
-- (https://gist.github.com/scottdgaines/bcf43d62588f710db5c3169ad3204891)
+- [scott_gaines_letter_to_instructors](https://gist.github.com/scottdgaines/bcf43d62588f710db5c3169ad3204891)
 
 ## Mentorship Prep
 
