@@ -47,10 +47,10 @@ console.log("In a predictable result, the " + slowPoke + " beat the " + speedy +
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-var movie = "Batman"
-var genre = "Action"
-var rating = 7.5
-console.log(movie + " is a " + genre + " movie that recieved a " + rating + " out of 10 rating by critics ")
+var movie = "Batman";
+var genre = "Action";
+var rating = 7.5;
+console.log(movie + " is a " + genre + " movie that recieved a " + rating + " out of 10 rating by critics ");
 //-------------------
 // FINAL CHECK
 //-------------------

@@ -28,7 +28,7 @@ for (var i = 0; i < 3; i++) {
 /* 0,1,2 is logged to the console because 'i' is defined as 0, which is the inital expression. When 'i' is logged to
 the console it returns the indexs of the condition we defined. In this case it is 0,1,2 because
 the condition is met when code is looped 3 times.
-*/ 
+*/
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 

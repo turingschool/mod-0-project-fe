@@ -40,7 +40,7 @@ for (var i = 0; i < food.length; i++) {
 var num = [20, 40, 60, 120] ;
 
 for (var i = 0; i < num.length; i++) {
-  console.log(num[i] * 2)
+  console.log(num[i] * 2);
 }
 
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
@@ -48,7 +48,7 @@ for (var i = 0; i < num.length; i++) {
 var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"];
 
 for (var i = 2; i < names.length; i++) {
-  console.log('Happy birthday', names[i])
+  console.log('Happy birthday', names[i]);
 }
 
 // THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
@@ -67,5 +67,5 @@ for (var i = 0; i < ages.length; i++) {
   if (ages[i] <= 17) {
     console.log("Oh no, you can't vote quite yet.");
   } else {
-    console.log("Make sure you get out and vote!")
+    console.log("Make sure you get out and vote!");
   }}

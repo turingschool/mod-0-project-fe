@@ -25,7 +25,7 @@ console.log(animals[0]);
 // YOU DO: Write code below that will log the number of elements in array of
 // animals from above.
 
-var animalNum = animals.length
+var animalNum = animals.length;
 console.log(animalNum);
 
 // YOU DO: Write code that will reassign the last item in the animals
@@ -105,7 +105,7 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1: reddit: var subreddits = ['r/travel', 'r/relationshi_advice', 'r/hiking'];
+// 1: reddit: var subreddits = ['r/travel', 'r/relationship_advice', 'r/hiking'];
 // 2: reddit again: var rTravelPosts = ['best restauraunts', 'greece photos', 'what was youre worst vacation?'];
 // 3: reddit AGAIN: var users = ['Universal_Patios', 'ranDomGuy', 'Sen.Anon'];
 
