@@ -22,9 +22,9 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [. ] I have refactored my `section1` exercises to the best of my ability
+- [. ] I have refactored my `section2` exercises to the best of my ability
+- [. ] I have refactored my `section3` exercises to the best of my ability
 
 ## Time Management Prep
 
@@ -38,9 +38,12 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- `Add Week 1 Screenshot Here`![Screen Shot 2022-05-24 at 5 15 55 PM](https://user-images.githubusercontent.com/91920371/170325841-31ef7bb0-b965-4467-a11b-4f16bdfa859a.png)
+
+- `Add Week 2 Screenshot Here`![Screen Shot 2022-05-24 at 5 16 13 PM](https://user-images.githubusercontent.com/91920371/170326032-ba27d3f2-9b7c-4690-818e-f4dbfcd41bcd.png)
+
+- `Add Week 3 Screenshot Here`![Screen Shot 2022-05-24 at 5 16 02 PM](https://user-images.githubusercontent.com/91920371/170326061-efb25f5b-4d31-4cae-bc78-3666692df983.png)
+
 
 ## Letter to Instructors
 
@@ -56,6 +59,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 Make sure to include your full name and pronouns.
 
 - `Add Link to Gist that contains your letter - here`
+- https://gist.github.com/Universal-Patios/7b5fc8c8d16a6331cbb63e0dac08ec05
 
 ## Mentorship Prep
 
@@ -63,14 +67,14 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: https://gist.github.com/Universal-Patios/86fddfccb1362a9805ce3ba22be7a3c8
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: https://gist.github.com/Universal-Patios/02966c20b39f5cb9cbea3cfaf627fdb2
 
 ## Mod 0 Project Submission
 
