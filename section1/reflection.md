@@ -28,5 +28,5 @@
     I learned to use concatenation to join strings and variables together with the plus sign to form a complete string.
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
     When I use Indeed to search for jobs, the developers could've used concatenation to filter and narrow down my searches. For example: when I search surgery scheduler, the webpage search engine would browse for positions with  "surgery" + "scheduler".
-9. What questions do you still have about the work we've done so far? (not having a question is not an option)
-    None at this time.
+9. What questions do you still have about the work we've done so far? 
+    Where would you use interpolation in an app or site? When would you use null or undefined in your code? 
