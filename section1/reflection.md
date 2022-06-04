@@ -18,7 +18,8 @@
     3. Comment out lines of code: Command + /
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
     A variable is like a box and it can only hold one item. We can have multiple boxes. The first box is called Story Time. We put your favorite book in that box and save it for later. There is a second box called Sleepy Time and we'll put 'Good Night Moon' in there so we can read it tonight. We will read your favorite book when you ask for the Story Time box. 
-![Spongebob holds up a rainbow for Story Time](https://www.memecreator.org/static/images/memes/5284356.jpg)
+    
+    ![Spongebob holds up a rainbow for Story Time](https://www.memecreator.org/static/images/memes/5284356.jpg)
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
     Facebook asks for these variables when logging in: username, password, rememberLogIn. 
       * The username and password are string types. 
