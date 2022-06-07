@@ -49,7 +49,9 @@ Netflix will typically stream a video for as long as this application is open on
 ![Logical Operators Table](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
 
 7. *What questions do you still have about `if` statements and/or functions?*
+
 ![Minion saying Whaat?](https://c.tenor.com/QZ_Y6lgscxIAAAAM/what-minion.gif)
+
 - What limitations do if/else statements have?
 - When do I use the if/else versus switch statement?
 - When would you want to use non-boolean values in logical operators?
