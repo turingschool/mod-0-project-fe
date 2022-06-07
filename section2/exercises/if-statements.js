@@ -12,10 +12,10 @@ Make sure to run the file with node in your command line.
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
-var weather = 'snowy';
+// var weather = 'snowy';
 // var weather = 'icy';
 // var weather = 'rainy';
-// var weather = 'sunny';
+var weather = 'sunny';
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
 
@@ -43,7 +43,26 @@ Log to the console the appropriate age range
 
 var dogAge = 3;
 // Write your conditional here
+var puppyMsg = "You're just a baby!";
+var adultMsg = "You're all grown up!";
+var elderlyMsg = "You're a senior dog!";
 
+function checkDogAge(dogAge) {
+  if (dogAge <= 2) {
+    return puppyMsg;
+  } else if (dogAge > 2 && dogAge < 10) {
+    return adultMsg;
+  } else if (dogAge >= 10) {
+    return elderlyMsg;
+  }
+};
+
+//tests:
+console.log(checkDogAge(dogAge));
+// console.log(checkDogAge(1.5))
+// console.log(checkDogAge(5));
+// console.log(checkDogAge(10));
+// console.log(checkDogAge(12));
 
 /*
 YOU DO:
@@ -63,10 +82,36 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 */
 
 var numQuarters = 0;
+var message;
 
 // Write your conditional here
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
+function checkMoney(numQuarters) {
+  switch (numQuarters) {
+    case 0:
+      message = "I don't have enough money for a gumball";
+      break;
+    case 1:
+      message = "I don't have enough money for a gumball";
+      break;
+    case 2:
+      message = "I have enough money for a gumball";
+      break;
+    case 3:
+      message = "I have enough money for a gumball" 
+      break;
+    default:
+      message = "I can get more than one gumball"
+      break;
+  }
+  return message
+}
+
+//tests:
+console.log(checkMoney(numQuarters));
+// console.log(checkMoney(1));
+// console.log(checkMoney(2));
+// console.log(checkMoney(3));
+// console.log(checkMoney(4));
 
 
 /*
@@ -86,11 +131,31 @@ var cupsOfFlour = 1;
 var hasSauce = true;
 
 // Write your conditional here
+function checkPizzaIngredients(cupsOfFlour, hasSauce){
+  if (cupsOfFlour >= 2 && hasSauce) {
+    return "I can make pizza";
+  } else {
+    return "I cannot make pizza";
+  }
+}
 
+//tests:
+console.log(checkPizzaIngredients(cupsOfFlour, hasSauce));//false
+// console.log(checkPizzaIngredients(cupsOfFlour, false));//false
+// console.log(checkPizzaIngredients(2, hasSauce));//true
+// console.log(checkPizzaIngredients(2, false));//false
+// console.log(checkPizzaIngredients(3, hasSauce));//true
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator. 
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
+Yes, using the logical AND operator kept my code concise. 
+It required that both conditions be met in order to evaluate true, 
+therefore returning the first message. 
+
+Logical operators allow developers to compare two or more expressions. 
+In Javascript, we use the logical AND (&&) and OR (||) and NOT (!) operators. 
+They are typically used with Boolean values.
 */
