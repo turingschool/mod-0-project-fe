@@ -23,33 +23,55 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var dobbysWarning = 'Harry Potter must not return to Hogwarts!';
+console.log(dobbysWarning);
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName;
+var isHungry;
+var numberOfPets;
+
+firstName = "Alycia";
+isHungry = false;
+numberOfPets = 1;
+
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
+console.log("It made sense that my first name would be a string, because my name is made of letters. Being hungry or not is a y/n (or t/f) condition, so bool made sense there. And the number of pets I have is a number that could be added to or subtracted from, so a number type made sense there.");
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
 
+firstName = "Kate";
+isHungry = true;
+numberOfPets = 2;
 
+console.log(firstName, isHungry, numberOfPets);
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
+
+var totalSnacks = (Number(healthySnacks) + Number(junkFoodSnacks));
+console.log(totalSnacks)
+
 
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
+console.log("Yes, I tried this and it worked!")
