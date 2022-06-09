@@ -35,3 +35,4 @@ console.log(pets); // logs out ["cat", "frog"]
 pets.unshift("ferret"); //adds "ferret" to pets
 
 console.log(pets); // logs out ["ferret","cat","frog"]
+```
