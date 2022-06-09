@@ -23,15 +23,20 @@ for (var i = 0; i < 3; i++) {
 }
 
 // What is logged to the console for this second example? Why?
-// EXPLAIN:
-
+// EXPLAIN: This is logging out the variable called i, which has a set value of 0. 
+// Therefore, the first loop logs out 0, second loop logs out 1, and the third loop logs out 2. 
+// The loop stops after running 3 times because of the condition. 
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
-
+for (var i = 0; i < 7; i++) {
+  console.log(2+2);
+}
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
-
+for (var i = 0; i < 10; i++) {
+  console.log('She sells seashells down by the seashore')
+}
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
@@ -39,9 +44,13 @@ for (var i = 0; i < 3; i++) {
 
 // YOU DO: Write code below that logs to the console a String of "This is loop number: " 
 //that concatenates with `i`.
-
+for (var i = 0; i < 3; i++) {
+  console.log('This is loop number: ' + i)
+}
 // YOU DO: Using a for loop, how could you get an output that looks like this:
-
+for (var i = 10; i > 0; i--) {
+  console.log(i)
+}
 // 10
 // 9
 // 8
