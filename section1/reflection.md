@@ -5,7 +5,7 @@ I tend to wait too long. Asking questions causes me a *lot* of anxiety, for all 
 
 2. What are the data types you learned about in this section? In your own words, define each.
 ## Primitive data types:
-* string: consists of letters and other symbols, enclosed in ' ' or " ".
+* string: consists of letters, numbers, other symbols, enclosed in ' ' or " ". Is protected in that it won't be changed by any equations. 
 * number: consists of numbers only, but can be positive, negative, or floating integers (0.00)
 * Booleans: consists only of true or false
 
