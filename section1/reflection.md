@@ -7,11 +7,11 @@
 2. What are the data types you learned about in this section? In your own words, define each.
 
 The three __data types__ that I learned about are:
-+ ###number
++ Number
  * any positive and negative number and doesn't have quotations.
-+ ###string
++ String
  * is any series of characters that are between quotation marks.
-+ ###boolean
++ Boolean
  * is defining where a value is true or false
 
 3. How would you log the string `"Hello World!"` to the console?
