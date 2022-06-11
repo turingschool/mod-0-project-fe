@@ -56,6 +56,8 @@ var youngerKidName = "Maggie";
 var youngerKidAge = 5;
 
 console.log(`My husband's name is ${husbandsName}, and we have 2 kids: ${olderKidName}, who is ${olderKidAge}, and ${youngerKidName}, who is ${youngerKidAge}.`);
+
+
 //-------------------
 // FINAL CHECK
 //-------------------
