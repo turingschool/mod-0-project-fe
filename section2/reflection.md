@@ -1,7 +1,11 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-
+I liked the phrase the speaker used: "the myth of the brilliant developer", because I'd never heard this before and it's 100% how I thought of successful software devs. I realize now how unhelpful and negative that framing is. I was familiar with growth mindset but liked the tips she listed:
+  a. You can always learn new things
+  b. Track your __own__ progress, not others'
+  c. Don't compare yourself to others
+  d. Tomorrow will be better
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 I already demonstrate a growth mindset with my kids. I am careful to encourage them to keep trying, and praise the effort not the result. I'm horrible at using a growth mindset with myself (this exact sentence, for example! Maybe I should say "I'm still working on using a growth mindset with myself"). I am proud of how far I've come and I have real evidence that I **can** learn- I need to remember that when things get hard.
