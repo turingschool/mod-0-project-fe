@@ -2,7 +2,11 @@
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 
+  **Striving to improve with my ZPD and focusing on the process are two points that resonated the most with me.  I feel like I learn and retain things more when I am challenged.  Learning how to get over the hurdle really reassures my trust in the process.  Mistakes are going to be apart of it and Ishould embrace those emotions that come with it, but also to continue to keep trying and trust in the process that I will improve and be better.
+
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+
+  **I think demonstrate an understanding that mistakes are apart of the learning process but I do have a hard time in asking for help.  It's not because I am afraid to ask for help.  I think I feel like I might be missing an opportunity to learn something a certain if I dont ask for help and spend a little more time in trying to get it myself.
 
 3. In this section, we removed some of the supports that you had in Section 1. We didn't give the directions for how to run a file in node and made some directions a bit more vague, intentionally. How did that feel? What was uncomfortable about it? How did it support your learning?
 
