@@ -13,6 +13,7 @@ Make sure to run the file with node in your command line.
 //-------------------
 
 // EXAMPLE: Write code that logs to the console "I love hedgehogs!" 9 times:
+
 for (var i = 0; i < 9; i++) {
   console.log("I love hedgehogs!");
 }
@@ -29,14 +30,16 @@ for (var i = 0; i < 3; i++) {
 // as i is less than 3. So it stops when i = 2.
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
+
 for (var i = 0; i <= 7; i++) {
   console.log(2 + 2);
 }
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
+
 for (var reps = 0; reps < 11; reps+= 1) {
-  console.log("She sells seashells down by the seashore")
+  console.log("She sells seashells down by the seashore");
 }
 
 //-------------------
@@ -47,7 +50,7 @@ for (var reps = 0; reps < 11; reps+= 1) {
 //that concatenates with `i`.
 
 for (i = 0; i < 5; i++) {
-  console.log(`This is loop number: ${i}`)
+  console.log(`This is loop number: ${i}`);
 }
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
@@ -64,5 +67,5 @@ for (i = 0; i < 5; i++) {
 // 1
 
 for (i = 10; i > 0; i--) {
-  console.log(i)
+  console.log(i);
 }

@@ -20,14 +20,14 @@ for (var i = 0; i < animals.length; i++) {
 // <animal> is awesome!" for each animal.
 
 for (var i = 0; i < animals.length; i++) {
-  console.log(`The ${animals[i]} is awesome!`);
+  console.log(`The ${animals[i]} is awesome!`)
 }
 
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
 
-var foods = ['celery', 'lasagne noodles', 'peanut butter', 'eggs', 'yogurt', 'broccoli', 'bread']
+var foods = ['celery', 'lasagne noodles', 'peanut butter', 'eggs', 'yogurt', 'broccoli', 'bread'];
 for (var i = 0; i < foods.length; i ++) {
   console.log(`Add ${foods[i]} to shopping list.`)
 }
@@ -35,7 +35,7 @@ for (var i = 0; i < foods.length; i ++) {
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
 
-var nums = [1, 2, 3, 4, 5]
+var nums = [1, 2, 3, 4, 5];
 for (var i = 0; i < nums.length; i++) {
   console.log((nums[i]*2))
 }
