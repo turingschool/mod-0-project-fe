@@ -49,7 +49,7 @@ console.log(foods.length)
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-foods.unshift('broccoli');
+foods.unshift('broccoli'); //this method should add broccoli to the beginning of the array
 console.log(foods);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
@@ -59,7 +59,7 @@ console.log(foods)
 // YOU DO: Write code to add 3 new foods to the array. 
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-foods.push('hot dog', 'apple', 'banana');
+foods.push('hot dog', 'apple', 'banana'); //this method adds these elements to the end of the array
 console.log(foods);
 // YOU DO: Remove the food that is in index position 0.
 foods.shift();
