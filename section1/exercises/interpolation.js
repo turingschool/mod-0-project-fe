@@ -10,7 +10,7 @@ file from your terminal with the command `node section1/exercises/interpolation.
 */
 
 // EXAMPLE: Write code that combines the variables below into another string:
-var firstName = "Ron";
+var firstName = "Ron"; //I changed the variable to be more descriptive
 var team = "Chudley Cannons";
 
 console.log(`The ${team} are ${firstName}'s favorite Quidditch team.`);
@@ -19,7 +19,7 @@ console.log(`The ${team} are ${firstName}'s favorite Quidditch team.`);
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
+console.log( `My zoo has ${numberOfCreatures} ${creatures}!`); //this uses interpolation
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here: This will result in a string because the values are being injected
