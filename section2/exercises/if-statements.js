@@ -15,9 +15,11 @@ Make sure to run the file with node in your command line.
 // var weather = 'snowy';
 // var weather = 'icy';
 // var weather = 'rainy';
-var weather = 'sunny';
+var weather = 'sunny'; 
+
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
+    //toggling between each variable is a little time consuming
 
 if (weather === 'sunny') {
   console.log('sunscreen');
@@ -42,10 +44,10 @@ Log to the console the appropriate age range
 */
 
 var dogAge = 3;
-// Write your conditional here
+// Write your conditional below
 var puppyMsg = "You're just a baby!";
 var adultMsg = "You're all grown up!";
-var elderlyMsg = "You're a senior dog!";
+var elderlyMsg = "You're a senior dog!"; 
 
 function checkDogAge(dogAge) {
   if (dogAge <= 2) {
@@ -57,7 +59,8 @@ function checkDogAge(dogAge) {
   }
 };
 
-//tests:
+//tests: This is one test to check my code and log out other possible solutions. 
+  //Another step would to get it to return an Error message when something goes wrong.
 console.log(checkDogAge(dogAge));
 // console.log(checkDogAge(1.5))
 // console.log(checkDogAge(5));
@@ -99,7 +102,7 @@ function checkMoney(numQuarters) {
     case 3:
       message = "I have enough money for a gumball" 
       break;
-    default:
+    default: //I set a default message in case I log out more than the other cases.
       message = "I can get more than one gumball"
       break;
   }
@@ -111,7 +114,7 @@ console.log(checkMoney(numQuarters));
 // console.log(checkMoney(1));
 // console.log(checkMoney(2));
 // console.log(checkMoney(3));
-// console.log(checkMoney(4));
+// console.log(checkMoney(9));
 
 
 /*
