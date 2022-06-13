@@ -21,7 +21,7 @@ for (var i = 0; i < animals.length; i++) {
 for (var i = 0; i < animals.length; i++) {
   console.log(`The ${animals[i]} is awesome!`)
 }
-
+//I prefer to use interpolation. 
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
