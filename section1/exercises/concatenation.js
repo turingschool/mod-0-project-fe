@@ -10,16 +10,17 @@ file from your terminal with the command `node section1/exercises/concatenation.
 */
 
 // EXAMPLE: Write code that combines the variables below into another string:
-var firstName = "Ron";
+var firstName = "Ron";// I changed this variable to be more descriptive
 var team = "Chudley Cannons";
 
 console.log("The " + team + " are " + firstName + "'s favorite Quidditch team");
+//a change to the variable name needs to update everywhere else it is used
 
 // YOU DO: Read the next few lines of code...
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!"); //this uses concatenation
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here: String, because this is a combination of letters,
@@ -31,7 +32,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The " + speedy + " wanted to play with the " + slowPoke);
+console.log("The " + speedy + " jumped over the " + slowPoke); //I needed to add space before and after the strings
 
 // YOU DO:
 // Write code that combines the variables below into a string that
