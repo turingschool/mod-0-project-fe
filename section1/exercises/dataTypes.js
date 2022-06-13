@@ -32,16 +32,16 @@ console.log("Don't stop believing. Listen to that feeling...YEAH")
 //-------------------
 
 // EXAMPLE: log the result of the sum of 2 and 2 to the console:
-console.log(2 + 2);
+console.log(2 + 2); //result: 4
 
 // EXAMPLE: log the result of 7 subtracted from 83 to the console:
-console.log(83 - 7); 
+console.log(83 - 7); //result: 76
 
 // YOU DO: log the result of 6 multiplied by 53 to the console:
-console.log(6 * 53); 
+console.log(6 * 53); //result: 318
 
 // YOU DO: log the result of 20 divided by 4 to console:
-console.log(20 / 4); 
+console.log(20 / 4); //result: 5
 
 // YOU DO: log the result of the modulo of 10 into 54:
 console.log(54 % 10); //modulo returns the remainder of after (integer) division. 10 can be subtracted from 54 five times, and 4 remains.
@@ -61,8 +61,8 @@ console.log('hello' === 'Hello'); //false
 console.log('hello' == 'Hello') //false
 
 // YOU DO: log to the console the result of 3 is not equal to 4:
-console.log(3 !== 4); //true
-console.log(3 != 4); //true
+console.log(3 !== 4); //true, checks data type and value
+console.log(3 != 4); //true, check value only
 
 // YOU DO: log to the console the result of 4 is less than or equal to 5:
 console.log(4 <= 5); //true
