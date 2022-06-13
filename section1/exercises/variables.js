@@ -12,19 +12,19 @@ file from your terminal with the command `node section1/exercises/variables.js`
 
 // EXAMPLE: Write code below to assign Harry Potter's name to a variable and
 // log that variable to the console:
-var characterName = "Harry Potter";
+var characterName = "Harry Potter";//I changed the variable to be more descriptive
 console.log(characterName);
 
 // EXAMPLE: Write code below to add 2 to the variable `students` and
 // log the result:
-var totalStudents = 22;
+var totalStudents = 22; //this allows the original total number of students to be changeable
 var enrolledStudents = totalStudents + 2;
 console.log(enrolledStudents);
 
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-var message = 'Harry Potter must not return to Hogwarts!';
+var message = 'Harry Potter must not return to Hogwarts!'; //storing this in a variable is a nice shortcut
 console.log(message)
 
 // YOU DO:
@@ -33,11 +33,11 @@ console.log(message)
 // log all three variables to the console.
 var firstName, isHungry, numberOfPets;
 firstName = 'Hannah';
-isHungry = true;
+isHungry = true; //this variable sounds like a question that you can answer with a boolean
 numberOfPets = 2;
 var answer;
 
-if (isHungry === true) {
+if (isHungry === true) { //I chose to write a conditional statement so the response can changed depending on the isHungry value.
   answer = 'Yes';
 } else {
   answer = 'No';
@@ -74,7 +74,7 @@ console.log(`${firstName} asked the ${numberOfPets} ferrets if they are hungry. 
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
-console.log(healthySnacks + junkFoodSnacks); 
+console.log(healthySnacks + junkFoodSnacks); //this recognized that we are adding the values inside the variables, which are stored as number data types
 //-------------------
 // FINAL CHECK
 //-------------------
