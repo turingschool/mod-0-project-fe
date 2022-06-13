@@ -38,21 +38,12 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
+
+<img width="919" alt="Screen Shot 2022-06-11 at 11 57 28 AM" src="https://user-images.githubusercontent.com/105533317/173273632-b9f31895-a630-4329-b890-fb2d32f3702f.png">
+<img width="1072" alt="Screen Shot 2022-06-11 at 11 57 39 AM" src="https://user-images.githubusercontent.com/105533317/173273600-3645b4a8-a5fb-4937-92e6-de70ea361153.png">
 <img width="1088" alt="Screen Shot 2022-06-11 at 11 57 47 AM" src="https://user-images.githubusercontent.com/105533317/173270252-5d1e1d56-7c37-4f9b-a403-470ee64c792c.png">
 ## Letter to Instructors
 
-Your instructors are essential facilitators of your learning and journey into software development. They are a group of passionate folks with diverse backgrounds who will all work to get to know each student, and support them through each Module.
-
-Create a new Gist. In it, write a letter introducing yourself to your future instructors (this isn’t just an exercise; they will _actually_ read these and use what they learn about you to start conversations, get to know you, and support you! Although, this is a great opportunity to reflect on these questions for your own benefit, as well).
-
-- Introduce yourself and share your “why” for taking this step to change your career.
-- What are your strengths? What commitments can you make as far as what/how you will contribute to the cohort and classroom?
-- What do your instructors need to know about you (consider including your working styles, your values, how you like to receive feedback, anything else)?
-- What did you learn about yourself, as a person and a student, during Mod 0?
-
-Make sure to include your full name and pronouns.
 
 - [https://gist.github.com/alyciacan/2e0718f05e941fc4de7108079a187d7f.js](My Letter 'Link to my letter here')
 
