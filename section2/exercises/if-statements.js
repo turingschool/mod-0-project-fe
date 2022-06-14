@@ -94,13 +94,12 @@ When cupsOfFlour = 3 and hasSauce = true, your program should log "I can make pi
 var cupsOfFlour = 0;
 var hasSauce = true;
 
+// Write your conditional here
 if (cupsOfFlour < 2){
   console.log('I cannot make pizza');
 } else if (cupsOfFlour >= 2){
   console.log('I can make pizza');
 }
-
-// Write your conditional here
 
 
 /*
@@ -108,5 +107,5 @@ For the last exercise, an ideal solution probably uses a logical operator.
 Did yours? Do you know what a logical operator in JavaScript is? Google it to answer
 for yourself!
 
- __Mine does not.  A logical operator in Javascript are used with Boolean values.  
+ __Mine does not.  A logical operator in Javascript are used with Boolean values.
 */
