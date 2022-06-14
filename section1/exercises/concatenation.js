@@ -48,8 +48,8 @@ console.log("In a predictable result, the " + slowPoke + "beat the " +speedy);
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
 
-var softdrink ="sprite";
-var numberOfCans =12;
+var softdrink = "sprite";
+var numberOfCans = 12;
 
 console.log("Danny drank " + numberOfCans + " " + "cans of " + softdrink);
 

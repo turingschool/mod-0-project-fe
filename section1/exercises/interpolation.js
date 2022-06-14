@@ -52,7 +52,7 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`);
 var nameOfWeapon = "Scorpio";
 var damageAmount = "1.7M";
 
-console.log( `The legendary weapon, ${nameOfWeapon} does ${damageAmount} damage.`);
+console.log(`The legendary weapon, ${nameOfWeapon} does ${damageAmount} damage.`);
 
 //-------------------
 // FINAL CHECK
