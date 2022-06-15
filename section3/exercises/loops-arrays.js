@@ -47,6 +47,9 @@ var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"
 for (var i = 2; i < names.length; i++){
   console.log("Happy Birthday to " + names[i]);
 }
+for (var i = 0; i <= 1; i++){
+  console.log(names[i] + ", you can kick rocks!");
+}
 
 // THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
 // The age should determine which message is printed out:
@@ -69,6 +72,6 @@ for (var i = 0; i < ages.length; i++){
   }
 }
 
-// //reorder the ages
+// reorder the ages
 // log age. if age is <18 "nope"
 // || >18 "yes"

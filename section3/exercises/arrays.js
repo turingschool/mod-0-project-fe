@@ -30,16 +30,17 @@ console.log(animals.length);
 // YOU DO: Write code that will reassign the last item in the animals
 // array to "Gorilla"
 console.log(animals.splice(2, 1, "Gorilla"));
-
+console.log(animals);
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 console.log(animals.push("Koala Bear"));
-
+console.log(animals);
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 
 //first i would need to reassign elephant since it was kicked off the list by gorilla.
 animals.splice(2,1,"Elephant");
+console.log(animals)
 console.log(animals[2]);
 
 
@@ -68,7 +69,7 @@ console.log(foods);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-foods.push("bagels","mac 'n' cheese","sanwiches");
+foods.push("bagels", "mac n cheese", "sandwiches");
 console.log(foods);
 
 // YOU DO: Remove the food that is in index position 0.

@@ -24,7 +24,7 @@ for (var i = 0; i < 3; i++) {
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
-/*i is logged for as long as i is less than three. at the end of each log, variable i is added to by 1.
+/* "i" is logged for as long as i is less than three. at the end of each log, variable i is added to by 1.
 
 i=0 which is less than 3, logged.
 i+1=1 which is less than 3, logged.
