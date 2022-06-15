@@ -55,7 +55,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 Make sure to include your full name and pronouns.
 
-- `Add Link to Gist that contains your letter - [here](https://github.com/Catalyst4Change/mod-0-project-fe2207/commit/da1b405b03f02d6f18f2ebf2969c3d404d3a487a)`
+- Add Link to Gist that contains your letter - [here](https://github.com/Catalyst4Change/mod-0-project-fe2207/commit/da1b405b03f02d6f18f2ebf2969c3d404d3a487a)
 
 ## Mentorship Prep
 
