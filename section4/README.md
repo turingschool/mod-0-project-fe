@@ -38,9 +38,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![IMG_0124](https://user-images.githubusercontent.com/103901063/173937875-d3291412-9ca5-49f0-a1d2-b3cc51883f1c.PNG)
+- ![IMG_0125](https://user-images.githubusercontent.com/103901063/173938093-4dc49946-34e0-404f-9343-9ceda2ede044.PNG)
+- ![IMG_0126](https://user-images.githubusercontent.com/103901063/173938231-8e3cd229-d181-4163-8ce6-2d2661d7d18a.PNG)
 
 ## Letter to Instructors
 
