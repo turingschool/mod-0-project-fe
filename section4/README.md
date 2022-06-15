@@ -30,17 +30,17 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
 >Before you make your calendar - stop and think about how you are going to feel on Firday at 6pm. Are you really going to work all Friday evening? -> _Be realistic!_
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Screen Shot 2022-06-15 at 8 54 23 AM](https://user-images.githubusercontent.com/106535343/173845048-cdfb3624-bd88-4999-9ba3-2bb91fede522.png)
+- ![Screen Shot 2022-06-15 at 8 54 31 AM](https://user-images.githubusercontent.com/106535343/173845038-370b1c84-24f5-4cbd-a927-ddd2c04e804e.png)
+- ![Screen Shot 2022-06-15 at 8 55 04 AM](https://user-images.githubusercontent.com/106535343/173845029-144124a5-b295-472a-a1db-72a78f132d8f.png)
 
 ## Letter to Instructors
 
