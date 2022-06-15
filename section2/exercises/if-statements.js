@@ -12,10 +12,10 @@ Make sure to run the file with node in your command line.
 // EXAMPLE:Manipulate the variable 'weather' to see if you can print something other
   // than 'coat'.
 
-var weather = 'snowy';
+// var weather = 'snowy';
 // var weather = 'icy';
 // var weather = 'rainy';
-// var weather = 'sunny';
+var weather = 'sunny';
 // While working through this example, I would toggle which variable declaration is
   // commented in/out and run the program in node several times to observe the output.
 
@@ -47,13 +47,16 @@ if (dogAge <= 2) {
   console.log("Who's a good pupper?");
 } else if (dogAge >= 3 && dogAge <= 9) {
   console.log("Who's a good doggo?");
-} else if (dogAge > 10) {
+} else if (dogAge >= 10) {
   console.log("Good evening, sir. No, today *I* will fetch the ball *for you*.")
 
 }
 
-//Holy shit look at this 18,000 year old puppy. https://www.smithsonianmag.com/smart-news/frozen-siberian-puppy-could-be-ancestor-wolves-and-dogs-180973673/
-
+/*this code creates several age ranges wherein the age of the dog returns seperate answers.
+less than or equal to two: puppy
+greater than or equal to 3, and less than or equal to 9: doggo
+greather than or equal to 10: an animal who deserves our reverance
+*/
 
 /*
 YOU DO:
@@ -75,11 +78,15 @@ When numQuarters = 3, program should log "I have enough money for a gumball"
 var numQuarters = 0;
 
 // Write your conditional here
-if (numQuarters > 2) {
+if (numQuarters <= 1) {
   console.log("I have enough money for a gumball");
-} else if (numQuarters < 2) {
+} else if (numQuarters >= 2) {
   console.log("I don't have enough money for a gumball");
 }
+
+/*if the number of quartes is less than or equal to 1, no gumball
+if the number of quarters is greater than or equal to 2, yes gumball.
+*/
 
 /*
 YOU DO:
@@ -98,12 +105,17 @@ var cupsOfFlour = 3;
 var hasSauce = true;
 
 // Write your conditional here
-if (cupsOfFlour > 1 && hasSauce) {
+if (cupsOfFlour >= 2 && hasSauce) {
   console.log("I could make a pizza.");
 } else if (cupsOfFlour < 2 || hasSauce == false) {
   console.log("I will order a pizza instead.");
 
 }
+
+/*
+if you have BOTH 2 or more cups of flour AND sauce, you can have pizza.
+if you have less than 2 cups flour OR don't have sauce, no pizza for you.
+*/
 
 /*
 For the last exercise, an ideal solution probably uses a logical operator.
