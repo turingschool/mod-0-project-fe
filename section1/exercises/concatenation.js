@@ -49,13 +49,13 @@ var animal = "Leopards";
 var verb = "Eat";
 var bodyPart = "Face";
 
-console.log("'I never thought the " + animal + " would " + verb + " MY " + bodyPart + "', Said woman who voted for " + animal + " " + verb + " Your " + bodyPart + " party.");
+console.log("'I never thought " + animal + " would " + verb + " MY " + bodyPart + "', Said woman who voted for the " + animal + " " + verb + "ing People's " + bodyPart + "s party.");
 
-//oh man that could get weird
+//oh man that could get weird switching the variables D:
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console
+// Did you run this file in your terminal to make sure everything printed out to the console -- Yes i did.
   // as you would expect? You should be doing this by now, and getting into the habit of it.

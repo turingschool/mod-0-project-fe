@@ -52,10 +52,10 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}!`)
   var verb = "Eat";
   var bodyPart = "Face";
 
-  console.log(`'I never thought the ${animal} would ${verb} MY ${bodyPart}!' said woman who voted for the ${animal} ${verb} Your ${bodyPart} Party.`)
+  console.log(`'I never thought ${animal} would ${verb} MY ${bodyPart}!' said woman who voted for the ${animal} ${verb}ing People's ${bodyPart}s Party.`)
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console
+// Did you run this file in your terminal to make sure everything printed out to the console -- indeed
   // as you would expect? You should be doing this by now, and getting into the habit of it.

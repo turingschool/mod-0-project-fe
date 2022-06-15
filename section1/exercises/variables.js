@@ -43,13 +43,13 @@ console.log(numberOfPets);
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
 
-/* firstName is currently a static variable so i put it as a string; my name is Cat so i put that. isHungry can be either true or false, but as a general rule I am always hungry so it is true. number of pets can change but at the moment we have 2; Ginger the chihuahua and Maurice the stripey cat.*/
+/* firstName is currently a static variable so i put it as a string; my name is Cat so i put that. isHungry can be either true or false so is a boolean, but as a general rule I am always hungry so it is true. number of pets can change but at the moment we have a positive integer: 2; Ginger the chihuahua and Maurice the stripey cat.*/
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-var firstName = "Scroobius Pip"
+var firstName = "Scroobius"
 console.log(firstName);
 
 var isHungry = false;
@@ -71,4 +71,4 @@ console.log(totalSnacks);
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect?
+// as you would expect? yes and yes

@@ -22,10 +22,10 @@ console.log('Welcome to Turing!');
 
 // YOU DO: Write code below to log `99 bottles of pop on the wall...`:
 console.log("99 bottles of soda on the wall...");
+// we don't say 'pop' where i'm from ;p
 
 // YOU DO: Write code below to log one line from your favorite song or movie:
 console.log("We were somewhere around Barstow when the drugs began to take hold...");
-
 
 //-------------------
 //NUMBERS
@@ -59,6 +59,7 @@ console.log(7 > 2);
 
 // YOU DO: log to the console the result of "hello" is equal to "Hello":
 console.log("hello" == "Hello")
+// they are "the same" but they are not "identical"
 
 // YOU DO: log to the console the result of 3 is not equal to 4:
 console.log(3 != 4);
@@ -66,10 +67,9 @@ console.log(3 != 4);
 // YOU DO: log to the console the result of 4 is less than or equal to 5:
 console.log(4 <= 5);
 
-
 //-------------------
 // FINAL CHECK
 //-------------------
 
 // Did you run this file in your terminal to make sure everything printed out to the console
-// as you would expect? 
+// as you would expect? yes 
