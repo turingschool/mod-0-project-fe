@@ -12,7 +12,7 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 ## Refactor Previous Work
 
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 
@@ -22,25 +22,25 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
 
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Front End curriculum site](https://frontend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
->Before you make your calendar - stop and think about how you are going to feel on Firday at 6pm. Are you really going to work all Friday evening? -> _Be realistic!_
+>Before you make your calendar - stop and think about how you are going to feel on Friday at 6pm. Are you really going to work all Friday evening? -> _Be realistic!_
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- [url=https://postimg.cc/670ZQKHd][img]https://i.postimg.cc/670ZQKHd/Screen-Shot-2022-06-15-at-6-53-21-AM.png[/img][/url
+- [url=https://postimg.cc/bG8b8rRy][img]https://i.postimg.cc/bG8b8rRy/Screen-Shot-2022-06-15-at-6-53-09-AM.png[/img][/url]
+- [url=https://postimg.cc/CBxqB2t9][img]https://i.postimg.cc/CBxqB2t9/Screen-Shot-2022-06-15-at-6-53-30-AM.png[/img][/url]
 
 ## Letter to Instructors
 
@@ -50,27 +50,27 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 - Introduce yourself and share your “why” for taking this step to change your career.
 - What are your strengths? What commitments can you make as far as what/how you will contribute to the cohort and classroom?
-- What do your instructors need to know about you (consider including your workoing styles, your values, how you like to receive feedback, anything else)?
+- What do your instructors need to know about you (consider including your working styles, your values, how you like to receive feedback, anything else)?
 - What did you learn about yourself, as a person and a student, during Mod 0?
 
 Make sure to include your full name and pronouns.
 
-- `Add Link to Gist that contains your letter - here`
+- https://gist.github.com/awirth224/2a9c1254843b93252833009991b65e22
 
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [x] Add link to your gist here: https://gist.github.com/awirth224/2f6f2a4f73a75da73c2b189b3d635b86
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: https://gist.github.com/awirth224/3b4f693f506583a800d0b4ca79854f26
 
 ## Mod 0 Project Submission
 
